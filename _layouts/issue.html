@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<a href="/">Titulka</a>
+
+<h1>Drakkar #{{ page.dir | replace: '/', '' }}</h1>
+
+{% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' %}
+{% for article in articles %}
+    <h2>{{ article.title }}</h2>
+    <a href="{{ article.url }}">{{ article.url }}</a>
+    <div>
+        {% if article.summary %}
+            {{ article.summary | markdownify }}
+        {% else %}
+            {{ article.content | truncatewords: 40 }}
+        {% endif %}
+    </div>
+{% endfor %}
