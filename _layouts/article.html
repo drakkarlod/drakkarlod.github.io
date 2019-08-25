@@ -2,8 +2,13 @@
 layout: default
 ---
 
-<a href="/">Titulka</a> |
-<a href="{{ page.dir }}">Číslo</a>
+<div class="articleinfo">
+    {% assign authors = page.authors | split: ', ' %}
+    {% for author in authors %}
+        <a href="/authors.html#{{ author | slugify: 'latin' }}">{{ author }}</a>
+    {% endfor %}
+    pro <a href="{{ page.dir }}">Drakkar #{{ page.dir | replace: '/', '' }}</a>
+</div>
 
 <h1>{{ page.title }}</h1>
 

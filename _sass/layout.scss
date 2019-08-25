@@ -1,16 +1,91 @@
 body {
-    margin: 40px 100px 300px 250px;
+    margin: 0 10px;
+    display: flex;
+    overflow-y: scroll;
+}
+
+.leftspace {
+    flex: 1;
+}
+
+.rightspace {
+    flex: 2.5;
+}
+
+.menu {
+    position: absolute;
+    margin-left: 510px;
+    margin-top: -25px;
+    border-left: solid 4px #ddd;
+    padding: 0 0 150px 15px;
+
+    .sitename {
+        font-size: 80px;
+        font-family: 'Alegreya SC', serif;
+        font-weight: 700;
+        line-height: 1;
+        a { text-decoration: inherit; color: inherit; border: none; }
+        a:hover { text-decoration: underline; }
+    }
 }
 
 .mainframe {
     width: 467px;
-    line-height: 19pt;
-    margin-bottom: 30pt;
+    line-height: 25px;
+    margin: 60px 0;
+    // background-color: #faa;
 }
 
 .mainframe img {
+    // TODO maybe .content or something would be more specific / better
+    box-sizing: border-box;
+    max-width: 467px;
     position: absolute;
     display: block;
     margin-left: 510px;
     border: solid 4px #cccccc;
+    @media (max-width: 1200px) {
+        position: initial;
+        margin: 1em 0;
+        max-width: 100%;
+    }
+}
+
+.mainframe li {
+    text-align: justify;
+}
+
+.maincolumn > h1:first-child {
+    margin-top: 0;
+}
+
+.articlepreview_articlelink:hover {
+    text-decoration: underline;
+}
+
+.articlepreview_tag {
+    margin-right: 10px;
+}
+
+.articlepreview_tags {
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.articlepreview_more {
+    margin-top: 7px;
+}
+
+.articleinfo {
+    font-style: italic;
+    color: #888;
+    opacity: 0.8; // TODO alter color eventually
+}
+
+.perex {
+    font-style: italic;
+    margin-bottom: 19pt;
+    border-top: 1pt solid #808080;
+    border-bottom: 1pt solid #808080;
+    padding: 2pt 0;
 }

@@ -2,19 +2,57 @@
 layout: default
 ---
 
-<a href="/">Titulka</a>
+{% assign issue_num = page.dir | replace: '/', '' %}
 
-<h1>Drakkar #{{ page.dir | replace: '/', '' }}</h1>
+<h1>Drakkar #{{ issue_num }}</h1><!-- TODO určit, jestli používat mřížku, číslo, nebo jinak -->
+
+{% comment %} search for pdf (no output) {% endcomment %}
+{% for file in site.static_files %}
+    {% assign file_dir = file.path | replace: file.name, '' %}
+    {% if file_dir == page.dir and file.extname == '.pdf' %}
+        {% assign pdf = file %}
+    {% endif %}
+{% endfor %}
+
+{% if pdf %}
+    Kompletní číslo ke stažení:&ensp;<a href="{{ pdf.path }}">Drakkar #{{ issue_num }} jako PDF</a>
+{% endif %}
 
 {% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' %}
 {% for article in articles %}
-    <h2>{{ article.title }}</h2>
-    <a href="{{ article.url }}">{{ article.url }}</a>
-    <div>
-        {% if article.summary %}
-            {{ article.summary | markdownify }}
-        {% else %}
-            {{ article.content | truncatewords: 40 }}
+    {% assign article_authors = article.authors | split: ', ' %}
+    {% assign article_tags = article.tags | split: ', ' %}
+    {% assign article_length = article.content | size %}
+    {% assign article_isfull = false %}
+    {% if article_length > 1000 or article.fulltext %}
+        {% assign article_isfull = true %}
+    {% endif %}
+
+    <div class="articlepreview">
+        <h2>{{ article.title }}</h2>
+
+        <div class="articlepreview_tags">
+            {% for author in article_authors %}
+                <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
+            {% endfor %}
+            {% for tag in article_tags %}
+                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag }}</a>
+            {% endfor %}
+        </div>
+
+        <div class="hyphenate articlepreview_summary">
+            {% if article.summary %}
+                {{ article.summary | markdownify }}
+            {% else %}
+                <p>{{ article.content | strip_html | truncatewords: 40 }}</p>
+            {% endif %}
+            <!-- TODO zde by se hodilo tlačítko "více", ale komplikace je v potřebě ho vložit dovnitř <p> elementu -->
+        </div>
+
+        {% if article_isfull %}
+            <div class="articlepreview_more"><a href="{{ article.url }}">Celý článek</a></div>
+        {%else %}
+            <div class="articlepreview_more"><em>zatím pouze v pdf</em></div>
         {% endif %}
     </div>
 {% endfor %}

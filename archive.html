@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Všechna čísla</h1>
+
+{% assign issues = site.pages | where: 'layout', 'issue' | sort: 'number' | reverse %}
+{% for issue in issues %}
+    <h2>Drakkar #{{ issue.number }}</h2>
+
+    <a href="{{ issue.url }}">Obsah čísla</a>
+
+    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
+    {% for article in articles %}
+        {% assign length = article.content | size %}
+        {% if length > 1000 %}
+            | <a href="{{ article.url }}">{{ article.title }}</a>
+        {% else %}
+            | {{ article.title }}
+        {% endif %}
+    {% endfor %}
+{% endfor %}

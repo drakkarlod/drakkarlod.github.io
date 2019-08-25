@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>Autoři</h1>
+
+{% assign authors = '' | split: '' %}
+{% for page in site.pages %}
+    {% if page.authors %}
+        {% assign page_authors = page.authors | split: ', ' %}
+        {% assign authors = authors | push: page_authors | uniq %}
+    {% endif %}
+{% endfor %}
+{% assign authors = authors | sort %}
+
+{% for author in authors %}
+    <h2 id="{{ author | slugify: 'latin' }}">{{ author }}</h2>
+    {% assign exp = 'page.authors contains "' | append: author | append: '"'  %}
+    {% assign articles = site.pages | where_exp: 'page', exp  %}
+    {% for article in articles %}
+        <a href="{{ article.url }}">{{ article.title }}</a><br>
+    {% endfor %}
+{% endfor %}
+
+<!-- TODO highlightovat autora vybraného přes kotvu? -->

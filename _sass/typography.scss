@@ -27,20 +27,13 @@ blockquote {
     margin: 1em 0;
 }
 
-.perex {
-    font-style: italic;
-    margin-bottom: 19pt;
-    border-top: 1pt solid #808080;
-    border-bottom: 1pt solid #808080;
-    padding: 2pt 0;
-}
-
 h1 {
     font-family: 'Alegreya SC', serif;
     font-weight: 700;
-    text-align: left;
+    text-align: left; // TODO možná zkusit center
     margin: 19pt 0 19pt;
     letter-spacing: 0.3pt;
+    line-height: 0.85;
 }
 
 h2 {
@@ -62,4 +55,3 @@ h3 {
 strong {
     font-weight: 600;
 }
-

@@ -2,16 +2,8 @@
 layout: default
 ---
 
-<h1><span style="font-size: 2em">Drakkar</span></h1>
-
-{% assign issues = site.pages | where: 'layout', 'issue' | sort: 'number' | reverse %}
-{% for issue in issues %}
-        <h2>Číslo {{ issue.number }}</h2>
-
-        <a href="{{ issue.url }}">Stránka čísla</a>
-
-        {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
-        {% for article in articles %}
-            | <a href="{{ article.url }}">{{ article.title }}</a>
-        {% endfor %}
+{% assign articles = site.pages | where: 'layout', 'article' | sort: 'dir' | reverse | slice: 0, 5  %}
+{% for article in articles %}
+    {{ article.title }}<br>
 {% endfor %}
+TODO
