@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Dobývacie stroje pre DrDII
+authors: Ján „Crowen“ Rosa
 summary: V tomto článku popíšem niekoľko bojových strojov a ako ich môžete využiť vo vašej hre. Tak isto v stručnosti naznačím niekoľko najpoužívanejších typov opevnení, proti ktorým sa bojové stroje používajú.
 ---
 

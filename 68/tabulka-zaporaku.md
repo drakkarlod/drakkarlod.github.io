@@ -1,11 +1,10 @@
 ---
 layout: article
-title: Tabulka záporáků
+title: 'Tabulka záporáků'
+summary: 'Dvanáct různorodých nepřátel postav sídlících napříč fantasy světy. Kdykoli budete potřebovat nějakého (mini)bosse, hoďte si dvanáctistěnkou, podívejte se do tabulky a nechte na kraj vyvalit se pohromu, kterou si budou místní a postavy ještě dlouho pamatovat. A nezapomínejte, že nikdo není sám a každý někoho (nebo něco má) a bytosti temnoty a zla se sdružují...'
+authors: Paul
+tags: 'doplňky do hry, tabulky'
 ---
-
-Dvanáct různorodých nepřátel postav sídlících napříč fantasy světy. Kdykoli budete potřebovat nějakého (mini)bosse, hoďte si dvanáctistěnkou, podívejte se do tabulky a nechte na kraj vyvalit se pohromu, kterou si budou místní a postavy ještě dlouho pamatovat. A nezapomínejte, že nikdo není sám a každý někoho (nebo něco má) a bytosti temnoty a zla se sdružují...
-
-_Toto je ukázka článku, který nemá zadané summary (tedy perex), ale místo toho ho má přímo v textu._
 
 1\. Čaroděj
 -----------
