@@ -18,6 +18,8 @@ layout: default
     Kompletní číslo ke stažení:&ensp;<a href="{{ pdf.path }}">Drakkar #{{ issue_num }} jako PDF</a>
 {% endif %}
 
+<div style="height: 35px"></div>
+
 {% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' %}
 {% for article in articles %}
     {% assign article_authors = article.authors | split: ', ' %}
@@ -36,7 +38,7 @@ layout: default
                 <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
             {% endfor %}
             {% for tag in article_tags %}
-                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag }}</a>
+                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag | capitalize }}</a>
             {% endfor %}
         </div>
 

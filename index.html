@@ -2,8 +2,46 @@
 layout: default
 ---
 
-{% assign articles = site.pages | where: 'layout', 'article' | sort: 'dir' | reverse | slice: 0, 5  %}
+{% comment %} Double sorting is to keep same article order as in issue page {% endcomment %}
+{% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse | slice: 0, 10  %}
 {% for article in articles %}
-    {{ article.title }}<br>
+    {% assign article_authors = article.authors | split: ', ' %}
+    {% assign article_tags = article.tags | split: ', ' %}
+    {% assign article_length = article.content | size %}
+    {% assign article_isfull = false %}
+    {% if article_length > 1000 or article.fulltext %}
+        {% assign article_isfull = true %}
+    {% endif %}
+
+    {% if article_isfull != true %}
+        {% continue %}
+    {% endif %}
+
+    <div class="articlepreview">
+        <h2>{{ article.title }}</h2>
+
+        <div class="articlepreview_tags">
+            {% for author in article_authors %}
+                <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
+            {% endfor %}
+            {% for tag in article_tags %}
+                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag }}</a>
+            {% endfor %}
+            <a href="{{ article.dir }}" class="articlepreview_tag">Drakkar #{{ article.dir | replace: '/', '' }}</a>
+        </div>
+
+        <div class="hyphenate articlepreview_summary">
+            {% if article.summary %}
+                {{ article.summary | markdownify }}
+            {% else %}
+                <p>{{ article.content | strip_html | truncatewords: 40 }}</p>
+            {% endif %}
+        </div>
+
+        {% if article_isfull %}
+            <div class="articlepreview_more"><a href="{{ article.url }}">Celý článek</a></div>
+        {%else %}
+            <div class="articlepreview_more"><em>zatím pouze v pdf</em></div>
+        {% endif %}
+    </div>
 {% endfor %}
-TODO

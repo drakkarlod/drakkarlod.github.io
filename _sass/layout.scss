@@ -14,7 +14,7 @@ body {
 
 .menu {
     position: absolute;
-    margin-left: 510px;
+    margin-left: 555px;
     margin-top: -25px;
     border-left: solid 4px #ddd;
     padding: 0 0 150px 15px;
@@ -25,14 +25,13 @@ body {
         font-weight: 700;
         line-height: 1;
         a { text-decoration: inherit; color: inherit; border: none; }
-        a:hover { text-decoration: underline; }
     }
 }
 
 .mainframe {
     width: 467px;
     line-height: 25px;
-    margin: 60px 0;
+    margin: 90px 0 120px;
     // background-color: #faa;
 }
 
@@ -55,8 +54,20 @@ body {
     text-align: justify;
 }
 
-.maincolumn > h1:first-child {
+.mainframe code {
+    font-family: inherit;
+    font-variant: small-caps;
+}
+
+.maincolumn > h1:first-child, .maincolumn > .articlepreview:first-child h2 {
     margin-top: 0;
+}
+
+.articlepreview {
+    margin-bottom: 70px;
+    @media (max-width: 800px) {
+        margin-bottom: 50px;
+    }
 }
 
 .articlepreview_articlelink:hover {
