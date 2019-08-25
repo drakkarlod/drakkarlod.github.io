@@ -13,15 +13,15 @@ Začal bych ale jménem článku, přece jen vám dlužím vysvětlení. Nevybra
 
 Nebudu se ale věnovat jen jim – bylo by to nespravedlivé vůči ostatním, kteří opouštěli své domovy a vydávali se na moře, kde se živili ohněm a mečem. Pomořané tak organizovali největší z nájezdů, ze kterého dodnes mrazí, Luticové zase pomohli udržet jednomu normanskému vévodovi korunu Anglosasů a Obodrité s nájezdy začali. Sami sebe nazývali chasnici, mezi Dány pak byli známi jako Vindové nebo prostě vikingové – piráti.
 
-# Lodě pohanů
+## Lodě pohanů
 
-## Historie plaveb
+### Historie plaveb
 
 Slované začali vyrábět lodě hned, když se dostali na mořská pobřeží, ačkoli to byly z počátku jen dlabanice z jednoho kmenu. Později se konstrukce stávala složitější a na moře vypluly první plnohodnotné koráby.
 
 Nejprve sloužily neválečným účelům: vyplouvali na nich rybáři a obchodníci, později se začaly měnit na nástroj války, když na nich muži odplouvali společně s Dány a Nory bojovat na západ do vzdálené Anglie. Poslední období v historii slovanské mořeplavby byly nájezdy na pobřeží Jutského a Skandinávského poloostrova. Tehdy i obávaní Dánové, před nimiž se třásla celá Evropa, poznali na vlastní půdě strach.
 
-## Konstrukce lodí
+### Konstrukce lodí
 
 Slovanské lodě se vzdáleně podobaly lodím Skandinávců, při nájezdu na Konungahelu si je dokonce místní spletli s loděmi vlastních lidí. Mohlo by se tedy zdát, že se jednalo o kopii starší severské konstrukce, jenže zdání klame. Lodě Slovanů byly samostatnou skupinou lodí, seveřany zvanou vindaskip, mající nad svými protějšky ze Skandinávie řadu výhod.
 
@@ -33,9 +33,9 @@ Co se možnosti přepravy týče, uvezly vindaskipy až pět tun nákladu (a st�
 
 Z experimentů s replikami lodí se dá usuzovat, že za den urazily až 77 mil s použitím plachty a vesel, do významného obchodního centra v Dánsku, Haithabu (také Hedeby, dnes již nestojí, v blízkosti Šlesviku) trvala cesta čtyři dny a do vzdáleného Novgorodu dobří plavci dopluli za týden.
 
-# Námořníci
+## Námořníci
 
-## Důvody námořních cest
+### Důvody námořních cest
 
 Jak jsem již psal, zprvu se pobaltští Slované vydávali na cestu za obchodem a teprve později za kořistí. Obchod ani v té době ale neustal a Adam Brémský ještě v druhé polovině jedenáctého století píše o Wolinu jako o místu, kde se dá najít vše, co je pokládáno _„za příjemné či vzácné“._
 
@@ -45,7 +45,7 @@ Válka se ale do kronik vryla většími písmeny. Obodritská knížata se vyd�
 
 Tady je hlavní rozdíl mezi piráty z řad seveřanů a Slovanů: první jmenovaní se na moře vydávali mimo jiné proto, že jejich země je nebyla schopna uživit všechny. Zakládali tedy kolonie v nových zemích, jako Danelaw ve východní Anglii, nebo severské državy na pobřeží Irska. Kvůli tomu si nemohli dovolit naprosté zničení dané země. Slované novou zemi nepotřebovali. Snad i proto se kronikáři zmiňují o zemích zničených Venedy a po deset let neobývaných. Dnes někteří historici soudí, že v polovině dvanáctého století padla třetina dánské populace pod meči slovanských nájezdníků.
 
-## Sídla pirátů
+### Sídla pirátů
 
 Pobřeží od polského Kolobřehu po holštýnský Oldenburg muselo být poseto desítkami menších osad, samot o pár zemnicích a větších hradišť, ze kterých vyplouvali Slované na své nájezdy. Já se zde zaměřím jen na dvě nejvýznamnější střediska pirátů.
 
@@ -67,7 +67,7 @@ Ve Štětíně, po kterém je záliv pojmenován, ctili boha Triglava a odehráv
 
 Ve Wolinu a Volgastu byl ctěn Jarovít. Ve Wolinu měli jeho kopí, ve Volgostu pak jeho štít. Byly to relikvie vytahované jen v čase války a popis štítu nám může přiblížit, jak vypadaly štíty Slovanů. Ale o tom až za chvíli.
 
-## Výzbroj pirátů
+### Výzbroj pirátů
 
 Snad nejpočetnější zbraní ve slovanském vojsku byla sekera, jednoduchá na výrobu a efektivní v boji. Dnes se zažil trend, že na rekonstrukcích ustupuje před meči, které jsou hojnější. Tento jev však nezobrazuje historii úplně věrně: meč byl znakem bohatství bojovníka a vládce, proto jej drželi v rukou slovanští bohové, jako byl třeba Rujevít. Kopí byla rovněž hojná.
 
@@ -85,11 +85,11 @@ Většina zbrojí byly ty kroužkové, ovšem rozhodně nebyly výsadou všech. 
 
 Obyčejní bojovníci byli odkázáni na kožené pancíře a košile s našitými kusy kůže. Helmy se nosily kuželovitého tvaru, méně majetní bojovníci měli helmy jednoduchého tvaru, zevnitř vystlané slámou, bohatší, jako družiníci knížat, je měli z kvalitnějšího kovu, s nánosníkem a zesílené kříži. Mohli je nakoupit od Skandinávců, nebo je sebrat mrtvým. Podobnou helmu máme i u nás: je jí helma svatého Václava, prokazatelně severského původu.
 
-# Umění mořeplavců
+## Umění mořeplavců
 
 V této části článku se budu věnovat některým pozoruhodným plavbám, velké části české veřejnosti zela neznámým. A dovolím si trochu zpřeházet vžité role v raném středověku.
 
-## Slované na Islandu
+### Slované na Islandu
 
 Samotný nadpis hovoří za vše, a ač se to zdá skoro nemožné, je zde velká šance, že se tak opravdu stalo a Slovanské lodě přistály u islandských břehů. Má ale pravdu? Posuďte sami.
 
@@ -99,7 +99,7 @@ Dobře, jednoho bychom měli. Ale máme ještě nějaký další důkaz? Možná
 
 ![obrazek](sam-4154-opt.jpg)
 
-## Slované v Anglii
+### Slované v Anglii
 
 Zanechme tedy spekulací o slovanských výpravách na Island a přejděme k jiným, které máme doložené písemně.
 
@@ -113,7 +113,7 @@ Ale je tady ještě jedna zpráva. V první polovině 12. století píše angli
 
 Jejich přítomnost svědčí o tom, že věděli, kam plují a nějak se museli o blížící se válce dozvědět. Rovněž museli mít nějakou motivaci, aby na moře vůbec vypluli. Mohly jí být peníze … nebo snaha ochránit své příbuzné za Severním mořem.
 
-## Konungahela 1136
+### Konungahela 1136
 
 Konungahela byla sídlo dánského krále Erika II. Pamětihodného a jedno z nejbohatších měst ve Skandinávii. Ležela přibližně 10 km od ústí řeky Göte, spojující jej s mořem. Ačkoli to tehdy bylo hlavní město Dánska, dnes je na území Švédska, nedaleko dnešního Göteborgu.
 
@@ -137,6 +137,6 @@ Ale vyrabování města by nebylo tak velkým úspěchem, kdyby nepadl i hrad ch
 
 Brána pevnosti byla prolomena následujícího dne. Obránci odmítli knížecí nabídku vzdát se, o nějaké milosrdnosti ze strany dobyvatelů nebylo proto ani řeči. Všechny, které nemohli vzít do zajetí zabili na místě a vše, co nemohli vzít s sebou nebo nemělo cenu, spálili. Konungahela se nikdy ze slovanského nájezdu plně nevzpamatovala.
 
-# Konec chasniků na Baltu
+## Konec chasniků na Baltu
 
 Od poloviny dvanáctého věku začínají slovanská knížata přijímat křesťanskou víru a zavrhují staré bohy. Roku 1168 padá Arkona, poslední velká a mocná svatyně starých bohů a ránské loďstvo se dostává mimo hru. Přibyslav, syn slavného Niklota, končí svůj boj proti Říši o patnáct let později a do země Obodritů a Luticů se hromadně stěhují němečtí osadníci, jejichž způsobem obživy již nejsou nájezdy. Pomoří si podrobil polský král a z místních si udělal poddané připoutané k půdě. Počátkem třináctého století už není nikdo, kdo by vyplouval na moře, aby se živil nájezdy. Jedna kapitola slovanské historie se uzavřela.

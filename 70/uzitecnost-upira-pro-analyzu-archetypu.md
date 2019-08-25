@@ -7,7 +7,7 @@ tags: Literatura
 
 Fantastická literatura je od počátku prokleta opakováním. Mrtvá hraběnka znovu ožije a hrdina zjistí, že má nadpřirozené schopnosti. Posmívala se tomu už Jane Austenová na počátku 19. století a stvořila parodii. A podobné odmítání trvá; nejenže jsou ty fantastické historky nereálné, ale navíc jsou také stejné. Nečtěte to a vraťte se k Dostojevskému. Jak se tomuto problému vyhnout? A máme se mu vůbec vyhýbat?
 
-# I.
+## I.
 
 [Klišé](https://cs.wikipedia.org/wiki/Klišé) je obávaným nepřítelem vypravěče. Vymyslíte dějový obrat, třeba tu nečekaně obživlou hraběnku; a v dalším ději vyjde najevo, že hraběnka ostatním postavám nenápadně vysává krev. Pak si nevyhnutelně uvědomíte, že _tohle už tu párkrát bylo._
 
@@ -33,7 +33,7 @@ Vysvětlení upířího úspěchu se samo nabízí; nade všechno ostatní je to
 
 A ze kterých si vy sami můžete směle vybírat, při psaní nebo při hře, neb je to veřejný majetek.
 
-# II.
+## II.
 
 Takže vzhůru do toho.
 
@@ -69,7 +69,7 @@ Později, když už Lucy přece jen něco tuší, vede s Van Helsingem tuto deb
 
 Je to a__rchetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
 
-# III.
+## III.
 
 Ve střední části románu se potom odehraje souboj Van Helsinga s Draculou o Lucy Westenrovou. Je to vzor mnohem pozdějšího veleslavného hororu _Exorcista_. Bojuje kněz a ďábel, oběť je naprosto pasivní a je jen objekt pokusů o ovládnutí z obou stran. Všechny další postavy jsou odsunuty do rolí bezmocných statistů. A je v tom další __archetyp, strach o pacienta a boj o jeho život i duši__, neb se s ním děje něco nepochopitelně strašného. Zaručeně to zažil v nějaké podobě každý, a proto to funguje také, i když je to nedějové a nehrdinské. Horor totiž může být klidně statický a nehrdinský.
 
@@ -87,7 +87,7 @@ V důsledku toho nám detektivka na chvíli úplně sežrala horor. Je to také
 
 Technické překlápění detektivky v horor a zpátky je poučná záležitost. Z hlediska podstaty vyprávění jde o něco jiného – _v hororu se bojíme a v detektivce pátráme_ – ale přesto tu je příbuznost a v případě potřeby můžeme vyprávění posunout k té formě, kterou zrovna potřebujeme.
 
-# IV.
+## IV.
 
 __Archetypální podstata hororu Dracula je křesťanská.__ Vylézá to najevo zvláště v té střední části; Van Helsing a jeho parta mávají kříži a lepí spáry dveří hostiemi. A ještě patrnější to je v rozhodujícím střetnutí ve 23. kapitole, kdy upíra zaženou na ústup vlastně jen pomocí křížů. Což je pro mnoho dnešních čtenářů tak trochu zklamání.
 
@@ -97,7 +97,7 @@ Obávám se dokonce, že by s tím mohl mít problém i leckterý dnešní kře
 
 Nemělo by ale být přehlédnuto, že i po setření toho trochu podezřelého pámbíčkářského nátěru celé historky najdeme uvnitř všeho daleko solidnější starý __archetyp; boj o lidskou duši__. Můžeme ignorovat definice a dumání, jak to s nesmrtelnou duší vlastně je, a zda je to monopol křesťanů, budhistů nebo nějaké další víry. Jádro nápadu je srozumitelné i pohanům; _jsou horší věci než smrt._ Například ta představa, že i po smrti budu vraždit další oběti, je hodně nepříjemná. Barkerovo _Věčné zatracení_, jdoucí přesně po téže trase, ukazuje, že i dnes je to zajímavá cesta.
 
-# V.
+## V.
 
 Potom je tu ještě __archetypální rovina čiré erotiky__.
 
@@ -111,7 +111,7 @@ Ve výsledku je z toho třeba takováto scéna:
 
 Je jasné, že tohle viktoriánský čtenář mohl vnímat jako pornografii. Věřím, že zejména díky takovýmto scénám získal román pověst čehosi skandálního a neslýchaného.
 
-# VI.
+## VI.
 
 Vraťme se k Draculovým proměnám. Poprvé padne slovo _upír_ vedle slova _vlkodlak_, což je kupodivu pokládáno za synonymum. Dnešního čtenáře to jistě zaskočí. Dracula je popisován jako román o upírovi, ale on by to stejně tak bez problémů mohl být román o vlkodlakovi. Neb jeho příchod se děje v podobě psa, a jedno z úplně prvních nadpřirozených kouzel je přivolání smečky vlků, což se vícekrát opakuje. Draculovi je vytí vlků nejmilejší hudbou; a ti vlci ho všichni poslouchají na slovo. V jednom místě Dracula použije běžného vlka jako beranidlo k rozbití okna; postup hodný RPG hry.
 
@@ -129,7 +129,7 @@ Z hlediska dnešního upírského dogmatu byla tato pohádková rovina poněkud 
 
 Úzce příbuzný je __archetyp pronásledovatele, kterého nelze zničit__. Velmi známá příšera ze snů, dětských i pozdějších. Dost přesně je to ten _Terminátor_. A je to mnohonásobně děsivější, než to, co předvedl originální _Dracula_, kníže všech upírů, který se trapně rozpadl po dvou zásazích obyčejnou zbraní. Stejně tak je určitým zklamáním poněkud prozaická metoda ničení upírových rakví, kterou van Helsing užívá po velkou část zápasu. Člověk má pocit, že proti biblickému archetypálnímu strašidlu by bylo vhodné nasadit stejně osudové metody boje. Autor tu nebyl důsledný ve vlastních nápadech a zdá se, že sám moc netušil, jak se nezničitelného upíra vlastně zbavit.
 
-# VII.
+## VII.
 
 Jako z jiného románu působí linie zápisků doktora Sewarda. Lze v tom vidět Frankensteinovský __archetyp vědce, který objevil něco, co neměl__. Doktor Seward pozoruje blázna Renfielda, který trpí divnou mánií, že chce pozřít co nejvíce životů. Takže loví mouchy, těmi krmí pavouky, těmi krmí ptáky, a nakonec je sní. Celkově lze říci, že tahle linie je především podivná a k románu místy skoro nepatří. Hodně adaptací ji také úspěšně vynechalo, třeba hodně povedený český Hrabě Drákula, [model 1970](https://www.csfd.cz/film/208119-hrabe-drakula/prehled/).
 
@@ -143,7 +143,7 @@ Podobnou ohlašovací funkci má v románu i starý námořník Swales, posedl�
 
 Jen tak mimochodem za starým námořníkem následuje další __archetypální strašidelná loď, kterou řídí mrtví__. Kdo nevěří, že to může fungovat ještě dnes, nechť zhlédne _Piráty z Karibiku_, kde je to podstatný a vlastně jediný zdroj energie celého vyprávění. Nic víc v tom za ty kolosální stamiliony dolarů vlastně není, než tato jednoduchá klasika. A poznamenám ještě, že v drtivé většině adaptací Draculy celá pozoruhodná odbočka se Swalesem a s lodí zmizela, případně je jen letmo zmíněna.
 
-# VIII.
+## VIII.
 
 První čtyři kapitoly románu Dracula lze chápat jako skvělou samostatnou povídku, která nemá zcela záměrně konec. Její funkcí je expozice příběhu i nálady; představuje nám Draculu osobně. Jakýsi prequel Draculy, propojený postavou vypravěče Jonathana Harkera. Je asi ze všeho nejznámější a scény odtud se nejlépe pamatují. Kdyby z toho udělal autor samostatný jednoduchý příběh tím, že by to nějak zakončil, i tak by udělal pro svět dost.
 
@@ -157,7 +157,7 @@ To podstatné, čím se „gotický“ román liší od opravdového středověk
 
 Svět zná málo tak úspěšných a konstruktivních omylů. Literatura byla takto obohacena o úplně nové pocity a dojmy, které nejenže náramně fungovaly na Walpoleho současníky, ale báječně fungují dodnes. Stačí si uvědomit, že je tu vlastně řeč o podstatě _dungeonu_, mnohem později vylepšeném panem Howardem v _Šarlatové citadele_ o strašidelné fantastické prvky. A i zdánlivě kosmické strašení ve _Vetřelcích_, kde se hrdinové plíží dlouhými chodbami, je stále jen obměnou tohoto geniálního vynálezu.
 
-# IX.
+## IX.
 
 Nyní další prastarý __archetyp, zvaný v anglosaské literatuře Damsel in distress__, česky nejspíše Dáma v nesnázích. Jde o to, že původní dokonale pasivní princezna, kterou je třeba zachraňovat, stojí skromně někde v koutku, případně je dokonce přivázaná řetězem, aby nerušila (_Andromeda_), a veškerý děj a vše zajímavé nám obstará akční hrdina – rytíř.
 
@@ -167,7 +167,7 @@ Dnes už by se zdálo, že jde o dávno vyřešenou věc, po zjevení hrdinek ja
 
 Řekl bych, že to je všeobecně na ústupu, a od dnešních hrdinek se očekává zatraceně víc. Například mohou nabídnout to, co už zvládla Mina Harkerová, __archetyp duchovního propojení s nepřítelem__. Nějak prostě ví, co se právě děje v hlavě nejstrašidelnějšího strašidla. Samozřejmě ne neustále, ale občas; jsou to malá okénka, kterými lze do plánů nahlédnout. Může za to věštba, prokletí, kouzlo; v tomto případě je to důsledek jejího nakažení upíří nemocí. Něco podobného zvládl také _Harry Potter_ a byla to jedna z podstatných rovin celého příběhu. Vůbec to není nezajímavá možnost.
 
-# X.
+## X.
 
 Archetypů lze objevit ve starých vyprávěních spoustu dalších. I mimo působení upírů.
 

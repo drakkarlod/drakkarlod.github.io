@@ -13,21 +13,21 @@ Svou kariéru začínal jako člen posádky v rámci západoafrické eskadry, k
 
 Zatímco HMS Ajax je po dlouhém nasazení na téměř rok umístěn do londýnských doků ke generální opravě, kapitán Galaway je na velením nařízené dovolence (první od doby, kdy se stal námořníkem), aby si odpočinul a byl připraven vyplout, až bude jeho loď hotova zvednout kotvu. Bydlí tak v Londýně u přítele své rodiny spolu se svým čínským sluhou Žengem. Každý den v docích kontroluje, jak pokračují opravy jeho lodi a také je častým návštěvníkem čínské čtvrti v Londýně. Zvěstem, že jej fanatičtí vrahové Rudého lotosu následovali až do Londýna, se jen ušklíbá.
 
-# Aspekty
+## Aspekty
 
-## HMS Ajax
+### HMS Ajax
 
 Ta loď je víc součástí kapitána Galawaye, než si on sám připouští. Zná každý její kout a dokáže ji vést vstříc vlnám, větru i bouři. Přestože je teď v opravě, byla by stále teoreticky schopna vyplutí. Její posádka je na polovičním platu, a přestože mnozí odjeli domů za rodinami, hodně jich je v Londýně a okolí … a pokud jejich kapitán zavolá, jsou hotovi následovat ho do pekla a zpět.
 
-## Ženg
+### Ženg
 
 Byl původně jedním z pirátů Čuj A-pooa, ale Galaway ho po zajetí zachránil před oprátkou, takže se stal jeho sluhou a od té doby jej následuje jako věrný pes. Vypadá jako nenápadný málomluvný Číňan s dlouhým copem a jinak vyholenou hlavou, ale zdání může klamat. Ovládá mistrně bojová umění a dokáže přehodit přes hlavu hromotluka dvakrát většího než je sám. Pro svého pána vyřizuje různé pochůzky, ale je připraven zmařit všechny pokusy o jeho život.
 
-## Opiové vize
+### Opiové vize
 
 Na Dálném východě vyzkoušel tak jako mnozí jiní opium. Zjistil, že jeho požití u něj nevyvolává euforické stavy jako u ostatních, ale podivné sny a vize, které mají tendence se často naplnit. Naučil se naslouchat varování, která takto dostává a naučil se respektovat věci běžným zrakům skryté. Často se vyhnul ráně, která by jej jinak připravila o hlavu, protože ji ve vizi už viděl padnout.
 
-# Dovednosti
+## Dovednosti
 
 __◆◆◆__ __Přirozená autorita__
 
