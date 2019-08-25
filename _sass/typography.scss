@@ -16,6 +16,11 @@ p {
     margin: 0;
 }
 
+.hyphenfailed p {
+    // bugfix for old browsers
+    text-align: left;
+}
+
 .mainframe p + p {
     text-indent: 2em;
 }

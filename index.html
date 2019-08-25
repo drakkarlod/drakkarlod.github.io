@@ -3,7 +3,8 @@ layout: default
 ---
 
 {% comment %} Double sorting is to keep same article order as in issue page {% endcomment %}
-{% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse | slice: 0, 10  %}
+{% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse %}
+{% assign printed = 0 %}
 {% for article in articles %}
     {% assign article_authors = article.authors | split: ', ' %}
     {% assign article_tags = article.tags | split: ', ' %}
@@ -44,4 +45,7 @@ layout: default
             <div class="articlepreview_more"><em>zatím pouze v pdf</em></div>
         {% endif %}
     </div>
+
+    {% assign printed = printed | plus: 1 %}
+    {% if printed >= 7 %}{% break %}{% endif %}
 {% endfor %}
