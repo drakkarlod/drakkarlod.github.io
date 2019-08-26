@@ -22,12 +22,18 @@ body {
     border-left: solid 4px #ddd;
     padding: 0 0 150px 15px;
 
-    .sitename {
+    &_sitename {
         font-size: 80px;
         font-family: 'Alegreya SC', serif;
         font-weight: 700;
         line-height: 1;
         a { text-decoration: inherit; color: inherit; border: none; }
+    }
+
+    &_subtitle {
+        margin-top: -2px;
+        margin-bottom: 22px;
+        font-style: italic;
     }
 
     @media (max-width: 1000px) {
@@ -76,7 +82,9 @@ body {
     font-variant: small-caps;
 }
 
-.maincolumn > h1:first-child, .maincolumn > .articlepreview:first-child h2 {
+.maincolumn > h1:first-child,
+.maincolumn > .articlepreview:first-child h2,
+.page > h1:first-child {
     margin-top: 0;
 }
 

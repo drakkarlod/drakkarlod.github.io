@@ -48,7 +48,6 @@ layout: default
             {% else %}
                 <p>{{ article.content | strip_html | truncatewords: 40 }}</p>
             {% endif %}
-            <!-- TODO zde by se hodilo tlačítko "více", ale komplikace je v potřebě ho vložit dovnitř <p> elementu -->
         </div>
 
         {% if article_isfull %}
