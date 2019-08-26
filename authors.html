@@ -15,7 +15,8 @@ layout: default
 
 {% for author in authors %}
     <h2 id="{{ author | slugify: 'latin' }}">{{ author }}</h2>
-    {% assign exp = 'page.authors contains "' | append: author | append: '"'  %}
+    {% assign author_esc = author | replace: '"', '' %}
+    {% assign exp = 'page.authors contains "' | append: author_esc | append: '"'  %}
     {% assign articles = site.pages | where_exp: 'page', exp  %}
     {% for article in articles %}
         {% assign article_length = article.content | size %}

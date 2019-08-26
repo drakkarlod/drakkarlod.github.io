@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="cs">{% comment %} jazyk musí být nastaven kvůli hypenaci {% endcomment %}
 <head>
-    <title>Drakkar</title>
+    {% if page.layout == 'article' %}
+        <title>{{ page.title }} :: Drakkar {{ page.dir | replace: '/', '' }}</title>
+    {% elsif page.layout == 'issue' %}
+        <title>Drakkar {{ page.dir | replace: '/', '' }}</title>
+    {% else %}
+        <title>Drakkar</title>
+    {% endif %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

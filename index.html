@@ -6,6 +6,12 @@ layout: default
 {% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse %}
 {% assign printed = 0 %}
 {% for article in articles %}
+    {% comment %} Skip missorted issues 1 - 9 {% endcomment %}
+    {% assign article_dirlength = article.dir | size %}
+    {% if article_dirlength <= 3 %}
+        {% continue %}
+    {% endif %}
+
     {% assign article_authors = article.authors | split: ', ' %}
     {% assign article_tags = article.tags | split: ', ' %}
     {% assign article_length = article.content | size %}
