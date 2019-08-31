@@ -24,11 +24,11 @@ layout: page
 *	**Povídkou**
 *	**čímkoli jiným** (rádi se s vámi domluvíme na emailové adrese **drakkarlod(zavináč)centrum(tečka)cz**)
 
-Váš článek s nadšením uvítáme. V první řadě dostanete na svůj článek zpětnou vazbu (dva jiní autoři jej projdou v rámci procesu, kterému říkáme *peer review*) a můžete svůj článek vylepšit *ještě před* jeho zveřejněním.  Poté projde článek korekturami, zasadíme ho do slušivého kabátku a vy se s ním shledáte v nejbližším čísle Drakkaru .
+Váš článek s nadšením uvítáme. V první řadě dostanete na svůj článek zpětnou vazbu (dva jiní autoři jej projdou v rámci procesu, kterému říkáme *peer review*) a můžete svůj článek vylepšit *ještě před* jeho zveřejněním.  Poté projde článek korekturami, zasadíme ho do slušivého kabátku a vy se s ním shledáte v nejbližším čísle Drakkaru.
 
-Články posílejte v libovolném textovém formátu (například *.doc, *.rtf, *.txt, nebo *.odt) jako přílohu emailu na adresu **drakkarlod(zavináč)centrum(tečka)cz**
+Články posílejte v libovolném textovém formátu (například *.doc, *.rtf, *.txt, nebo *.odt) jako přílohu emailu na adresu **drakkarlod(zavináč)centrum(tečka)cz**.
 
-příspěvky (pokud možno) opatřete perexem- napište krátký úvodní odstavec, který stručně představí obsah článku a snaží se navnadit čtenáře (perex nemusíte psát u povídek ani novinek). Bude použit v obsahu pro představení vašeho textu.
+Příspěvky (pokud možno) opatřete perexem -- napište krátký úvodní odstavec, který stručně představí obsah článku a snaží se navnadit čtenáře (perex nemusíte psát u povídek ani novinek). Bude použit v obsahu pro představení vašeho textu.
 
 ## Délka příspěvků
 
@@ -46,7 +46,7 @@ Nemusí. Publikujeme články, recenze, povídky (...), které se týkají před
 
 Vydáváme i tematicky zaměřené speciály, nic vám však nebrání zaslat kdykoli jakýkoli váš článek - pokud bude zrovna vycházet speciál, zařadíme článek do následujícího čísla Drakkaru.
 
-### Musím předem oznámit, že pracuji na článku?</span>
+### Musím předem oznámit, že pracuji na článku?
 
 Budeme velmi rádi, když do [přípravných diskuzí](http://rpgforum.cz/forum/viewforum.php?f=204) oznámíte, že pracujete na článku, protože nám to poté umožní lépe připravit následující číslo. Ale rozhodně to není povinné - když nám článek pošlete bez oznámení, svět se nezboří. Přinejhorším se stane, že už jej nestihneme zařadit do chystaného čísla a přesuneme ho až do toho dalšího.
 
@@ -62,4 +62,4 @@ Pište, jak vám to vyhovuje, naši sazeči si poradí prakticky se vším. Chce
 *	Snažte se delší bloky textu rozbít pomocí nadpisů, podnadpisů či odrážek. Čtenářům to pomáhá v orientaci.
 *	K článku můžete připravit i pár postranních rámečků s doplňujícími texty. Budou graficky odděleny od zbytku textu.
 *	Pokud trváte na rámečku s použitou nebo doporučenou literaturou, držte se platné normy pro zápis bibliografických údajů!
-*	Vyhýbejte se poznámkám pod čarou
+*	Vyhýbejte se poznámkám pod čarou.
