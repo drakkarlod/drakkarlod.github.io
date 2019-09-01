@@ -26,6 +26,6 @@ function vlna(selector) {
         })
     }
 
-    replaceText(selector, / ([KkSsVvZzOoUuAI]) /g, ' $1\u00a0')
+    replaceText(selector, / ([KkSsVvZzOoUuAIi]) /g, ' $1\u00a0')
 
 }

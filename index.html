@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1>Nejnovější články</h1>
+
 {% comment %} Double sorting is to keep same article order as in issue page {% endcomment %}
 {% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse %}
 {% assign printed = 0 %}
@@ -32,7 +34,7 @@ layout: default
                 <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
             {% endfor %}
             {% for tag in article_tags %}
-                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag }}</a>
+                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag | capitalize }}</a>
             {% endfor %}
             <a href="{{ article.dir }}" class="articlepreview_tag">Drakkar #{{ article.dir | replace: '/', '' }}</a>
         </div>

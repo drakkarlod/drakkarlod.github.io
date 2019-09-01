@@ -4,10 +4,14 @@ layout: default
 
 <div class="articleinfo">
     {% assign authors = page.authors | split: ', ' %}
+    {% assign article_tags = page.tags | split: ', ' %}
     {% for author in authors %}
         <a href="/authors.html#{{ author | slugify: 'latin' }}">{{ author }}</a>
     {% endfor %}
-    pro <a href="{{ page.dir }}">Drakkar #{{ page.dir | replace: '/', '' }}</a>
+    {% for tag in article_tags %}
+        &ensp;<a href="/tags.html#{{ tag | slugify: 'latin' }}">{{ tag | capitalize }}</a>
+    {% endfor %}
+    &ensp;<a href="{{ page.dir }}">Drakkar #{{ page.dir | replace: '/', '' }}</a>
 </div>
 
 <h1>{{ page.title }}</h1>
