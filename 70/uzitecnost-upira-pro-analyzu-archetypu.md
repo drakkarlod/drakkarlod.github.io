@@ -26,7 +26,7 @@ Toto vyjádření mi připadá velice výstižné. Odkaz na pohádky je důleži
 
 Druhý znak, kterým poznáme archetyp, je to, že vede obvykle do mytologického dávnověku. Není to něco, co napadlo někoho poměrně nedávno, ale něco, o čem si vyprávěli už ve starém Řecku, nebo alespoň ve středověku. Vypráví se to stovky let, a stále existuje důvod, proč to vyprávět znovu. Módní klišé boj s časem nakonec vždy prohraje. Archetyp drží dál.
 
-<h4 style="text-align: center;"><br />◆ ◆ ◆<br /><br /></h4>
+<h4 style="text-align: center;">◆ ◆ ◆<br /><br /></h4>
 
 Naším dnešním průvodcem světem archetypů bude hrabě [Dracula](https://cs.wikipedia.org/wiki/Drákula_(kniha)). Poprvé spatřil světlo světa v roce 1897. O upírech se už vědělo dávno před ním, v literatuře se zjevili díky Polidoriho lordu Ruthvenovi skoro o sto let dříve. Ze starších upírů stojí snad ještě za zmínku Le Fanuova lesbická upírka _Carmilla_ (1871). _Dracula_ mezi nimi na první pohled nevynikal; byl to několikátý román nevýznamného [irského spisovatele](https://cs.wikipedia.org/wiki/Bram_Stoker), nijak zvlášť dobře napsaný. Původní náklad 3000 kusů nesvědčí o tom, že by vydání byla epochální událost. Lze předpokládat, že řada současníků to vůbec nezaznamenala. Kult upíra všech upírů se začal rodit až dodatečně, díky filmu. Za což mohl hlavně ten první [z roku 1922](https://cs.wikipedia.org/wiki/Upír_Nosferatu_(film,_1922)), který dokonce neměl autorovo svolení a vznikl tak trochu pirátsky. Potom se móda upírů periodicky vracela, aby někdy ke konci 20. století přerostla v upíří lavinu. Připomenu jen nejznámější opusy paní Meyerové _Stmívání_, _Interview s upírem_ Ann Riceové, sérii her _World of Darkness_ a upírobijce jménem _Blade_.
 
