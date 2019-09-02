@@ -21,5 +21,12 @@ layout: default
         <div class="perex">{{ page.summary | markdownify }}</div>
     {% endif %}
 
-    {{ content }}
+    <div class="articlecontent">
+        {{ content }}
+    </div>
 </div>
+
+<script src="/assets/wrapImages.js"></script>
+<script>
+    wrapImages();
+</script>

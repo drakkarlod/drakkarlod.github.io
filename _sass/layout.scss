@@ -58,19 +58,51 @@ body {
     // background-color: #faa;
 }
 
-.mainframe img {
-    // TODO maybe .content or something would be more specific / better
-    box-sizing: border-box;
-    max-width: 467px;
-    position: absolute;
+.articlecontent img {
     display: block;
+    box-sizing: border-box;
+    max-width: 100%;
+    border: solid 4px #ccc;
+}
+
+.articlecontent > p > img {
+    // initial state (ie with failed wrapping)
+    position: absolute;
+    max-width: 467px;
     margin-left: 510px;
-    border: solid 4px #cccccc;
     @media (max-width: 1200px) {
+        // prevent flicker on mobile
+        max-width: 100%;
+        position: initial;
+        margin-left: 0;
+    }
+}
+
+.imagewrapper {
+    position: absolute;
+    max-width: 467px;
+    margin-left: 510px;
+    text-indent: 0;
+}
+
+@media (max-width: 1200px) {
+    .imagewrapper {
         position: initial;
         margin: 1em 0;
         max-width: 100%;
     }
+    p.imageparagraph + p {
+        // do not indent following paragraph on mobile
+        text-indent: 0;
+    }
+}
+
+.imagewrapper_caption {
+    margin: 5px 10%;
+    text-align: center;
+    font-size: 15px;
+    line-height: 19px;
+    font-style: italic;
 }
 
 .mainframe li {
