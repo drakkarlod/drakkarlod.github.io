@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Užitečnost upíra pro analýzu archetypů'
+title: Užitečnost upíra pro analýzu archetypů
 authors: Argonantus
 tags: Literatura
+published: true
 ---
 
 Fantastická literatura je od počátku prokleta opakováním. Mrtvá hraběnka znovu ožije a hrdina zjistí, že má nadpřirozené schopnosti. Posmívala se tomu už Jane Austenová na počátku 19. století a stvořila parodii. A podobné odmítání trvá; nejenže jsou ty fantastické historky nereálné, ale navíc jsou také stejné. Nečtěte to a vraťte se k Dostojevskému. Jak se tomuto problému vyhnout? A máme se mu vůbec vyhýbat?
@@ -25,7 +26,7 @@ Toto vyjádření mi připadá velice výstižné. Odkaz na pohádky je důleži
 
 Druhý znak, kterým poznáme archetyp, je to, že vede obvykle do mytologického dávnověku. Není to něco, co napadlo někoho poměrně nedávno, ale něco, o čem si vyprávěli už ve starém Řecku, nebo alespoň ve středověku. Vypráví se to stovky let, a stále existuje důvod, proč to vyprávět znovu. Módní klišé boj s časem nakonec vždy prohraje. Archetyp drží dál.
 
-◆ ◆ ◆
+<p style="text-align: center;"><br />◆ ◆ ◆<br /></p>
 
 Naším dnešním průvodcem světem archetypů bude hrabě [Dracula](https://cs.wikipedia.org/wiki/Drákula_(kniha)). Poprvé spatřil světlo světa v roce 1897. O upírech se už vědělo dávno před ním, v literatuře se zjevili díky Polidoriho lordu Ruthvenovi skoro o sto let dříve. Ze starších upírů stojí snad ještě za zmínku Le Fanuova lesbická upírka _Carmilla_ (1871). _Dracula_ mezi nimi na první pohled nevynikal; byl to několikátý román nevýznamného [irského spisovatele](https://cs.wikipedia.org/wiki/Bram_Stoker), nijak zvlášť dobře napsaný. Původní náklad 3000 kusů nesvědčí o tom, že by vydání byla epochální událost. Lze předpokládat, že řada současníků to vůbec nezaznamenala. Kult upíra všech upírů se začal rodit až dodatečně, díky filmu. Za což mohl hlavně ten první [z roku 1922](https://cs.wikipedia.org/wiki/Upír_Nosferatu_(film,_1922)), který dokonce neměl autorovo svolení a vznikl tak trochu pirátsky. Potom se móda upírů periodicky vracela, aby někdy ke konci 20. století přerostla v upíří lavinu. Připomenu jen nejznámější opusy paní Meyerové _Stmívání_, _Interview s upírem_ Ann Riceové, sérii her _World of Darkness_ a upírobijce jménem _Blade_.
 
@@ -67,7 +68,7 @@ Později, když už Lucy přece jen něco tuší, vede s Van Helsingem tuto deb
 
 <p class="sample">„Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“</p>
 
-Je to a__rchetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
+Je to __archetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
 
 ## III.
 
