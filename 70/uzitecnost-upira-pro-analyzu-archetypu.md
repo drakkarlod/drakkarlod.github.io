@@ -56,17 +56,17 @@ Je možné, že to celé byl jen sen a šálení zraku. A ty dvě dírky na Lucy
 
 Později, když už Lucy přece jen něco tuší, vede s Van Helsingem tuto debatu:
 
-<p class="sample">„Vy nechcete usnout?“</p>
-
-<p class="sample">„Ne, bojím se.“</p>
-
-<p class="sample">„Bojíte se usnout? Proč? Vždyť je to dobrodiní, po němž všichni touží!“</p>
-
-<p class="sample">„Ach, kdybyste na tom byl jako já, tak ne! Kdyby pro vás byl spánek předzvěstí hrůzy!“</p>
-
-<p class="sample">„Předzvěstí hrůzy? Co tím probůh chcete říci?“</p>
-
-<p class="sample">„Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“</p>
+>„Vy nechcete usnout?“
+>
+>„Ne, bojím se.“
+>
+>„Bojíte se usnout? Proč? Vždyť je to dobrodiní, po němž všichni touží!“
+>
+>„Ach, kdybyste na tom byl jako já, tak ne! Kdyby pro vás byl spánek předzvěstí hrůzy!“
+>
+>„Předzvěstí hrůzy? Co tím probůh chcete říci?“
+>
+>„Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“
 
 Je to __archetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
 
