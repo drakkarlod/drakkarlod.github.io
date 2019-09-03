@@ -11,7 +11,7 @@ layout: default
         {% assign tags = tags | push: page_tags | uniq %}
     {% endif %}
 {% endfor %}
-{% assign tags = tags | sort %}
+{% assign tags = tags | sort_natural %}
 
 {% for tag in tags %}
     <h2 id="{{ tag | slugify: 'latin' }}">{{ tag | capitalize }}</h2>
