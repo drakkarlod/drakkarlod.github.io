@@ -68,6 +68,25 @@
     - nakonec nezapomenout uložit :)
     - __pozor:__ při následné editaci se položky ze záhlaví (layout a title) nezobrazují a mění se pomocí změny nadpisu (úplně nahoře, kde bylo dřív jméno souboru) případně přes nové tlačítko vpravo "metadata" (vše ostatní kromě napisu)
 
+## Speciality pro sazbu
+
+Obrázky se vkládají pomocí tlačítka v editoru. __Titulky k obrázkům__ se potom nastaví úpravou textu v hranatých závorkách:
+
+    ![Popisek obrázku včetně <a href="...">odkazu</a>](nazev-obrazku.jpg)
+
+Texty v rámečcích po stranách textu (__sidebar__) se vkládají buď (samostatný odstavec):
+
+    {:.sidebar}
+    Text rámečku. Je možné i _vyznačování_.
+
+Nebo (v případě více odstavců):
+
+    <div class="sidebar" markdown="1">
+    První odstavec.
+
+    Druhý odstavec. I zde je možné _vyznačování_ díky atributu `markdown="1"`.
+    </div>
+
 ## Otázky
 
 - Zarovnání sloupce s textem (fixně ?px od levého okraje, příp % obrazovky?)
