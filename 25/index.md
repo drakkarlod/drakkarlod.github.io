@@ -1,6 +1,6 @@
 ---
 layout: issue
-number: 1
-year: 2007
+number: 25
+year: 2011
 month: duben
 ---

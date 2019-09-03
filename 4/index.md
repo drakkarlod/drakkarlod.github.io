@@ -1,6 +1,6 @@
 ---
 layout: issue
-number: 1
+number: 4
 year: 2007
-month: duben
+month: říjen
 ---
