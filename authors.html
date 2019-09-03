@@ -17,7 +17,8 @@ layout: default
     <h2 id="{{ author | slugify: 'latin' }}">{{ author }}</h2>
     {% assign author_esc = author | replace: '"', '' %}
     {% assign exp = 'page.authors contains "' | append: author_esc | append: '"'  %}
-    {% assign articles = site.pages | where_exp: 'page', exp  %}
+    {% assign articles = site.pages | where_exp: 'page', exp %}
+
     {% for article in articles %}
         {% assign article_length = article.content | size %}
         {% if article_length > 1000 or article.fulltext %}

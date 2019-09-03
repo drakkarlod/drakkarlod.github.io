@@ -50,3 +50,10 @@ Nebo (v případě více odstavců):
 
     Druhý odstavec. I zde je možné _vyznačování_ díky atributu `markdown="1"`.
     </div>
+
+## TODO
+
+- [x] stránka tagů
+- [ ] favicon.ico (nebo tag v hlavičce linkující na jiný soubor ikony)
+- [ ] zmigrovat staré články
+- [ ] vyřešit TODOs v kódu

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<h1>Štítky</h1>
+
+{% assign tags = '' | split: '' %}
+{% for page in site.pages %}
+    {% if page.tags %}
+        {% assign page_tags = page.tags | split: ', ' %}
+        {% assign tags = tags | push: page_tags | uniq %}
+    {% endif %}
+{% endfor %}
+{% assign tags = tags | sort %}
+
+{% for tag in tags %}
+    <h2 id="{{ tag | slugify: 'latin' }}">{{ tag | capitalize }}</h2>
+    {% assign tag_esc = tag | replace: '"', '' %}
+    {% assign exp = 'page.tags contains "' | append: tag_esc | append: '"' %}
+    {% assign articles = site.pages | where_exp: 'page', exp %}
+
+    {% for article in articles %}
+        {% assign article_length = article.content | size %}
+        {% if article_length > 1000 or article.fulltext %}
+            <a href="{{ article.url }}">{{ article.title }}</a><br>
+        {% else %}
+            {{ article.title }}<br>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
