@@ -44,12 +44,12 @@
     - _číslo 99 v následujících krocích je potřeba nahradit číslem konkrétního vydání_
     - nastavit název (kliknutím na šedý text nahoře) na `99/index.md`
     - obsah nahradit těmito čtyřmi řádky:
-
+        ```
         ---
         layout: issue
         number: 99
         ---
-
+        ```
     - uložit (disketa vpravo a následně tlačítko "commit")
 - vytvoření článku
     - vrátit se do kořenové složky drakkaru (navigací nahoře)
@@ -57,12 +57,12 @@
     - tlačítko new file
     - nastavit název podobně jako u vydání (tj. číslo/nazev-clanku.md), např. `99/tabulka-zaporaku.md`
     - do obsahu vložit na začátek
-
+        ```
         ---
         layout: article
         title: Tabulka záporáků
         ---
-
+        ```
     - pod to je možné začít psát normálně markdown text (nápověda viz otazník v menu nahoře)
     - nadpisy začínat ideálně úrovní 2 (tj. prefix ##)
     - nakonec nezapomenout uložit :)
