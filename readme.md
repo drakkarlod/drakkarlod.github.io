@@ -70,7 +70,7 @@
 
 ## Speciality pro sazbu
 
-Obrázky se vkládají pomocí tlačítka v editoru. __Titulky k obrázkům__ se potom nastaví úpravou textu v hranatých závorkách:
+Obrázky se vkládají pomocí tlačítka v editoru. __Titulky k obrázkům__ se potom nastaví úpravou textu v __hranatých__ závorkách:
 
     ![Popisek obrázku včetně <a href="...">odkazu</a>](nazev-obrazku.jpg)
 
