@@ -4,7 +4,7 @@ layout: default
 
 {% assign issue_num = page.dir | replace: '/', '' %}
 
-<h1>Drakkar #{{ issue_num }}</h1><!-- TODO určit, jestli používat mřížku, číslo, nebo jinak -->
+<h1>Drakkar #{{ issue_num }}</h1>{% comment %} TODO určit, jestli používat mřížku, číslo, nebo jinak {% endcomment %}
 
 {% comment %} search for pdf (no output) {% endcomment %}
 {% for file in site.static_files %}

@@ -6,14 +6,14 @@ authors: Kostřivec
 tags: 'doplňky, hrdinové'
 ---
 
-## Trocha toho koření
+### Trocha toho koření
 > Vystup se svým dobrodruhem z řady.
 
 Chtěli jsme odlišnosti pro své dobrodruhy a to takové, které opravdu *ustřelují* od běžného občana a přitom jsou v rovnováze, když už něco vezmou, tak ať také dají.
 
 A takhle se nám to povedlo:
 
-# Tlusťoch
+## Tlusťoch
 
 *Zadíval se láskyplně na svůj břich a pravil zasněně, “Až budeme umírat hlady, tak umřete na přežrání”, a plesknul se do pupku, až mu tuková vlna přeběhla třikrát kolem pasu.*
 
@@ -22,7 +22,7 @@ Jsi tlustý, vždycky si byl a i kdybys měl pojít hlady, tak budeš, no a co? 
 - (DrDO) +1 život navíc za každou *Úroveň*, *Obratnost* -1
 - (DrD+) *Odolnost* (Tělo) +1 a *Hmotnost* +1, *Obratnost* -1
 
-# Těžká ruka
+## Těžká ruka
 
 *Vítězoslavně zařval, oči rozzářené, jehlu držíc v napřažené ruce, sice ohnutou jak sosna v hurikánu, ale s nasazenou nití. Dnes nebylo na světě šťastnějšího tvora.*
 
@@ -31,7 +31,7 @@ Tvoje ruce jsou spíše dva kyje, kterými se dokážeš ohnat jako málokdo, je
 - (DrDO) +1 ke způsobenému zranění na blízko, -1 k *Obranosti*
 - (DrD+) +1 k *[Síle zranění](https://pph.drdplus.info/?version=1.0#vypocet_sily_zraneni)* na blízko, -2 ke *Zručnosti*
 
-# Flegmatik
+## Flegmatik
 
 *Pomalými, jistými pohyby ohmatával mokvavou ránu, citlivě a zvolna stlačoval okraje rozervané kůže, až nakonec přiložil na vybrané místo dlahu a celou ránu si poctivě obvázal. “Tak”, pravil následně, “teď už můžu konečně omdlít.” A jak řekl, tak udělal.*
 
@@ -39,7 +39,7 @@ Jen tak něco tě nerozhází. Někteří o tobě říkají, že máš nervy z o
 
 - (DrD+) +1 k *Vůli*, -2 k *Boji*
 
-# Horkokrevný
+## Horkokrevný
 
 *“Já na ně vlítnu! Já na ně prostě vlítnu!” Hulákal a myslel to naprosto vážně. Na čele mu naběhly žilky a tělo mu roztřásl vztek, zatímco hostinský jen nechápavě couval do nejvzdálenějšího rohu, zmatený z tak prudké reakce na hrudky v krupicové kaši.*
 
@@ -47,7 +47,7 @@ Jsi vzteklý, jsi zuřivý, ji vášnivý, jsi boží, jsi prokletý, jsi všech
 
 - (DrD+) +1 k *Boji*, -1 k *Vůli*
 
-# Hezoun
+## Hezoun
 
 *Někdo má hezké tělo, někdo tvář, někdo šat a někdo zkrátka všechno. Ať už se roky válíš na kanapi, měsíc ses neholil a nekoupal a zrovna se umolousaný belháš navlečený ve lněném pytli, stále z tebe vyzařuje sebevědomí o vlastní kráse a když už se dáš trochu do pucu, tak i narcisy vadnou závistí. Ano, trochu ti to leze do hlavy a je pro tebe těžké se ubránit jednoduššímu životu, když ti okolí tak rádo skládá hold a dělá věci za tebe, jen aby se ta krása nepomuchlala. Blondýny by mohly vyprávět.*
 
@@ -56,7 +56,7 @@ Máš to v životě snazší a to ti dělá život těžším. Pořád trochu vy
 - (DrDO) +1 k *Charisma*, -1 k *Inteligenci*
 - (DrD+) +1 k *Charisma*, další +1 ke *Kráse* ([Charisma ji také ovlivní](https://pph.drdplus.info/?version=1.0#vypocet_krasy)), -1 k *Inteligenci*
 
-# Puntičkář
+## Puntičkář
 
 *Jo jo jo, to je ono, to je ono, už to jenom lehce přelízneme a bude to naprosto… naprosto… naprosto k ničemu! Co to je?! Kdo sem dal tu prasklinu? Vždyť je to úplně zničený, docela zlikvidovaný, dočista zbytečný…*
 
@@ -65,7 +65,7 @@ Cokoli děláš, musí být dokonalé, perfektní, skvostné, z jiného světa. 
 - (DrDO) pokud házíš znovu, jelikož jsi právě na 1k6 hodil šestku, tak při **dalším** hodu už házíš znovu nejen při šestce, ale také při pětce (5+, 6+), ovšem pokud jsi při prvním hodu hodil jedničku, je to nula
 - (DrD+) na 2k6+ házíš bonusovou kostkou nejen při dvou šestkách, ale také při jedné pětce a jedné šestce, ovšem postihovou kostkou házíš nejen při dvou jedničkách, ale také při jedné jedničce a jedné dvojce a dokonce i při dvou dvojkách
 
-# Střelec
+## Střelec
 
 *“Moc se s tím babráš” pravil hlučně chlapík a bez okolků popadl dvě nejbližší baňky. “Kouknu a vidím ne? Chci zelenou, tak smíchám žlutou a modrou.” A dřív než jeho společník stihl ze staženého hrdla vydat hlásku, obsah obou nádob chrstnul do mísy. Zasyčelo to, zabublalo, zasmrdělo a zatímco společník s tichým chroptěním mizel pod stolem, hlučný chlapík si se zájmem prohlížel vzniklý rosol. “Vypadá to jako aspik v aspiku” pravil nakonec znalecky a mrknul na kolegu pod stolem. Ten jen hlesnul, “mělo to bouchnout, tohle prostě mělo bouchnout” a neuklidnilo ho ani ujištění chlapíka “Tak to jsem měl asi štěstí, v tý míse byl nějakej bordel na dně, tak to snad znegova...” Ohlušující ránu vystřídalo tiché posmrkávání a ještě tišší kapání slizu ze stropu. “Promiň”, hlesl chlapík, ”zejtra ti tu vymaluju”. A s nově získaným elánem dodal, “Hmm, ale nechutná to vůbec špatně.”*
 
@@ -74,7 +74,7 @@ S některými problémy si hlavu prostě nelámeš a ten zbytek problémů jaksi
 - (DrDO) -1 *Inteligence*, +1 *Obratnost*
 - (DrD+) -1 *Smysly*, -1 *Inteligence*, +1 *Obratnost*, +1 *Charisma*
 
-# Citlivka
+## Citlivka
 
 *“Auu!” zařval zákazník a cuknul sebou. “Pane”, pravil kadeřník ostře, “zatím jsem se vás ani nedotkl, ale jestli mi tady budete takhle vyvádět, tak nasadím narkózu a věřte mi, že její aplikace si řev už zaslouží.”*
 
@@ -82,7 +82,7 @@ Celý svět se ti snaží ublížit, ne moc, ale tak, abys byl ve věčném nepo
 
 - (DrD+) +1 *Smysly*, -1 *Odolnost*
 
-# Čuně
+## Čuně
 
 *Úředník opatrně nasál vzduch, pak se nenápadně sklonil ke svým onucím a kontrolu zopakoval, ale zápach byl příliš cizí a všudypřítomný, než aby z něj obvinil sám sebe. V tom se rozrazily dveře jeho kanceláře, následovány stejně prudce jakýmsi pobudou. Úředník se lehce nadzdvihl vzepřen v loktech a s neotřesenou státní důležitostí pravil “Hospic u Milosrdných sester je o dvě ulice dále, hned u kašny”, načež rozcuchaný, umolousaný muž jen pokrčil rameny, zahuhňal “a co já s tim?” a hodil na stůl jakési lejstro, k čemuž dodal, “mi to podškrábni a zas du.” A s tím se svalil do křesla pro hosty.*
 *Úředníkovi se splašily pojistky úcty k hostu a důstojnosti obecně, vyskočil jako na pérkách a zavřískl, “Spletl jste si dveře vy… vy… pane!”, zakončil rozbouřené emoce diplomaticky a s funěním plemenného býka máchl rukou k východu. Otrapa si jenom přehodil nohu přes nohu, nevšímajíc si koláče bláta, který tím i s botou pozdvihl, a pravil žoviálně, “každej mi potvrdil, že plešatej tlustoprd je v těhle dveřích, takže nemelduj a konej svou světskou povinnost, nenecháme přece starostu na ten chlast čekat, že jo”.*
@@ -90,7 +90,7 @@ Celý svět se ti snaží ublížit, ne moc, ale tak, abys byl ve věčném nepo
 Občas ti naznačují, že bys snesl lehkou koupel, že krkání se hodí spíše do putyky nižší třídy, o dalších zvucích nemluvě a že tvůj styl vyjadřování je jaksi na pováženou, ne-li rovnou na souboj za urážku na cti, ale pro tebe jsou to jen muší prdy. Jsi jaký jsi, vymydlení hejskové jsou pro tebe zaškatulkovaní eunuchové a opatrná mluva prostá faleš. Pořádnej chlap má smrdět i z obrazu, no ne?
 
 - (DrD+) -1 *Smysly*, -1 *Krása*, +1 *Odolnost*
-# Lenoch
+## Lenoch
 
 *Stál pod hrušní, hlavu div že ne vyvrácenou vzad a upřeně sledoval překrásnou máslovku, která žlutě zářila v tlumeném světle zapadajícího slunce. Kdosi mu poklepal na rameno a s tutlaným smíchem se ho optal, “čekáš na něco?”. Čekatel se nenechal vyvést z míry, dál visel očima na své vytoužené hrušce a ledabyle odvětil, “jo, na hlad”.*
 
@@ -98,7 +98,7 @@ Už dlouhá léta praktikuješ přísloví, že “kdo si počká, ten se dočk�
 Nikam se nehrneš, všude jsi raději až druhý a klidně i poslední, jakmile je něco krapet hotové, tak od toho dáváš ruce pryč, ať už si to dodělají jiní, když jim to přijde důležité. Pro tebe je smysluplnější se neuhnat, neudřít, nejlépe nepracovat vůbec. Však oni to ostatní časem také pochopí, někdo v důchodu, někdo *in memoriam*.
 
 - (DrD+) Když hodíš na 2k6+ dvě šestky (týká se hodů, kde něco děláš, nikoli hody na štěstí a podobně), tak končíš, žádné bonusové házení, ovšem když se počítají body únavy, tak ze všech bodů únavy, co dostaneš za jednu hodinu, dostaneš o jeden méně
-# Kachní žaludek
+## Kachní žaludek
 
 *Číšník nevěřícně přebíral zářivě čistý talíř, po něm vyleštěný příbor a na závěr prázdnou mísu. To už jeho škrabošku netečnosti přemohly pochybnosti a pro opětovné získání klidu se hosta optal, “Vy jste vypil i tu vodu na ruce?” A host, zatímco se snažil povolit řemen u kalhot, mu vysvětlil “Chlapče, až přežiješ to co já, tak budeš preventivně chroupat obden svoje škorně, jenom abys v sobě něco měl.”*
 
@@ -106,7 +106,7 @@ Sníš všechno. Ať už je to připálené, přesolené, nedovařené nebo to j
 
 - (DrD+) pokud jíš [jídlo s kvalitou 11 a méně](https://pph.drdplus.info/?version=1.0#tabulka_ulovku) ([hojení](https://pph.drdplus.info/?version=1.0#hojeni_zraneni) a [odpočinek](https://pph.drdplus.info/?version=1.0#odpocinek) -2), tak má pro tebe kvalitu o dva větší, tedy postih na hojení a odpočinek je o jedna menší (místo -2 jen -1, místo -3 jen -2 a tak dále), ale kvalitní jídlo bude tvoje tělo trávit stejně zhurta, jako to nekvalitní, takže jakékoli kvalitnější jídlo má pro tebe hodnotu [nanejvýš 13 (hojení a odpočinek nanejvýš -1)](https://pph.drdplus.info/?version=1.0#tabulka_ulovku)
 
-# Soumar
+## Soumar
 
 *“Mno”, pravil sporý mužík a ohmatával vepřovici, jak hledal nějaké držadlo, “jednu bych snad vzít moh’”, načež cihlu potěžkal, udělal zkusmý krok a zas se k hromadě vrátil se slovy, “mno, možná i dvě, ať nepajdám”, opět zkusil pár kroků, zas se vrátil a druhou cihlu jemně a s mírným odporem položil zpět na hromadu, “mno, budu si tu jednu přehazovat z ruky do ruky, však jsme na výletě a ne na galejích, no ni?” a s vítězoslavným úsměvem se podíval na svého rozložitého přítele, čímž mu úsměv zase zmizel a zahudroval, “mno, jsme na galejích” a raději vyrazil po stezce vzhůru. Další pohled už příteli nevěnoval, beztak mu přes hromadu cihel v náručí neviděl ani šošolku hlavy.*
 
@@ -121,7 +121,7 @@ Občas máš ovšem dojem, že padneš hlady, protože ty dětské porce, co vš
 
 - (DrD+) [Nosnost](https://pph.drdplus.info/?version=1.0#vypocet_chybejici_sily_pro_naklad) +1 (síla pro nošení, podobně jako [Atletika I](https://pph.drdplus.info/?version=1.0#atletika)), jídla potřebuje o půlku více než je obvyklé, pokud dostane jen běžnou denní porci, tak pro něj klesá [kvalita jídla](https://pph.drdplus.info/?version=1.0#tabulka_ulovku) o -2 (tedy k [hojení](https://pph.drdplus.info/?version=1.0#hojeni_zraneni) a [odpočinku](https://pph.drdplus.info/?version=1.0#odpocinek) má postih -1)
 
-# Závěr
+## Závěr
 
 Všechny výše uvedené marky jsme tvořili s myšlenkou, že nám obzvláštní naše hrdiny a *ještě* k tomu nám posunou hru v číslech, ovšem vyváženě, **samozřejmě**.
 
@@ -135,7 +135,7 @@ Ta samozřejmost se nám začala sypat, když jsme marky ukázali více hráčů
   
 > Pozoruj lidi kolem sebe, postavy ve filmech, sebe samého ve vypjatých situacích, však ona ti nějaká ta marka cvrnkne do nosu. Nebo do gatí.
 
-## Další zdroje
+### Další zdroje
 
 Pořád nemáš dost? Cheš další marky, více odchylek, jiné nározy? Pokračovat můžeš tady:
 

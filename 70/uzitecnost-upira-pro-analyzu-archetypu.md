@@ -1,9 +1,8 @@
 ---
 layout: article
-title: Užitečnost upíra pro analýzu archetypů
+title: 'Užitečnost upíra pro analýzu archetypů'
 authors: Argonantus
 tags: Literatura
-published: true
 ---
 
 Fantastická literatura je od počátku prokleta opakováním. Mrtvá hraběnka znovu ožije a hrdina zjistí, že má nadpřirozené schopnosti. Posmívala se tomu už Jane Austenová na počátku 19. století a stvořila parodii. A podobné odmítání trvá; nejenže jsou ty fantastické historky nereálné, ale navíc jsou také stejné. Nečtěte to a vraťte se k Dostojevskému. Jak se tomuto problému vyhnout? A máme se mu vůbec vyhýbat?
@@ -18,15 +17,15 @@ Odlišit tyto jevy je nesnadné, protože na první pohled jde o úplně to sam�
 
 Podstatný rozdíl vězí v tom, že klišé je povrchní a krátkodeché; něco, co se vám zalíbí díky efektnímu vzhledu, ale také vás stejně rychle omrzí. Archetyp naproti tomu stále vyvolává efekt, i když ho znáte. Nějakým divem funguje. I po desáté.
 
->[Wikipedie](https://cs.wikipedia.org/wiki/Archetyp) praví, že archetyp v literatuře je symbolický model, soustava myšlenek a představ, které se během historie neustále vrací nebo jsou trvale přítomny a působí se stejnou emocionální intenzitou. Archetyp se jako vzorec reality nemění, mění se však jeho ztvárnění, které akcentuje jiné významové vrstvy vzhledem k době a prostředí, ve kterých dílo vzniká.
+> [Wikipedie](https://cs.wikipedia.org/wiki/Archetyp) praví, že archetyp v literatuře je symbolický model, soustava myšlenek a představ, které se během historie neustále vrací nebo jsou trvale přítomny a působí se stejnou emocionální intenzitou. Archetyp se jako vzorec reality nemění, mění se však jeho ztvárnění, které akcentuje jiné významové vrstvy vzhledem k době a prostředí, ve kterých dílo vzniká.
 >
->Nevyčerpatelným zdrojem archetypů jsou lidové pohádky, které je možno odkrývat a rozkládat na jakési hlubší sdělení a významy, nicméně vždy opředené tajemstvím, neboť každý archetyp je v podstatě nedefinovatelný a nevyjádřitelný. Právě proto je potřeba narace, příběhů a mýtů, abychom se skrze ně dostali k archetypům do osobní blízkosti. Nepůsobí totiž na racionální složky osobnosti, ale spíše na její nevědomou, archaickou složku, kde vyvolávají určitou rezonanci, neboť jsou v nás již určitým způsobem přítomny. Skrze naraci dochází k jejich oživení. (kráceno)
+> Nevyčerpatelným zdrojem archetypů jsou lidové pohádky, které je možno odkrývat a rozkládat na jakési hlubší sdělení a významy, nicméně vždy opředené tajemstvím, neboť každý archetyp je v podstatě nedefinovatelný a nevyjádřitelný. Právě proto je potřeba narace, příběhů a mýtů, abychom se skrze ně dostali k archetypům do osobní blízkosti. Nepůsobí totiž na racionální složky osobnosti, ale spíše na její nevědomou, archaickou složku, kde vyvolávají určitou rezonanci, neboť jsou v nás již určitým způsobem přítomny. Skrze naraci dochází k jejich oživení. (kráceno)
 
 Toto vyjádření mi připadá velice výstižné. Odkaz na pohádky je důležitý; archetyp souvisí zjevně s dětskou myslí, s prvními silnými zážitky, které na tomto světě získáte. Při koupání v rybníce jste se zamotali to rákosí a prožili jste panický strach, že se už nikdy nevymotáte. Nesmysl, řekne si rozum dospělého. Jenže to někde v dolních šuplících vaší mysli stále leží, a pak na vás nečekaně zafunguje obměna situace se spoustou chapadel, které stahují hrdinu do hlubin. Je to notoricky známé a opakované, ale stále se najde někdo, na koho to platí. Potom z toho má _takové to mrazení v zádech._ A pokud toho dosáhnete, pak vězte, že to je přesně to slavné umění, o které všichni usilují.
 
 Druhý znak, kterým poznáme archetyp, je to, že vede obvykle do mytologického dávnověku. Není to něco, co napadlo někoho poměrně nedávno, ale něco, o čem si vyprávěli už ve starém Řecku, nebo alespoň ve středověku. Vypráví se to stovky let, a stále existuje důvod, proč to vyprávět znovu. Módní klišé boj s časem nakonec vždy prohraje. Archetyp drží dál.
 
-<h4 style="text-align: center;">◆ ◆ ◆<br /><br /></h4>
+◆ ◆ ◆
 
 Naším dnešním průvodcem světem archetypů bude hrabě [Dracula](https://cs.wikipedia.org/wiki/Drákula_(kniha)). Poprvé spatřil světlo světa v roce 1897. O upírech se už vědělo dávno před ním, v literatuře se zjevili díky Polidoriho lordu Ruthvenovi skoro o sto let dříve. Ze starších upírů stojí snad ještě za zmínku Le Fanuova lesbická upírka _Carmilla_ (1871). _Dracula_ mezi nimi na první pohled nevynikal; byl to několikátý román nevýznamného [irského spisovatele](https://cs.wikipedia.org/wiki/Bram_Stoker), nijak zvlášť dobře napsaný. Původní náklad 3000 kusů nesvědčí o tom, že by vydání byla epochální událost. Lze předpokládat, že řada současníků to vůbec nezaznamenala. Kult upíra všech upírů se začal rodit až dodatečně, díky filmu. Za což mohl hlavně ten první [z roku 1922](https://cs.wikipedia.org/wiki/Upír_Nosferatu_(film,_1922)), který dokonce neměl autorovo svolení a vznikl tak trochu pirátsky. Potom se móda upírů periodicky vracela, aby někdy ke konci 20. století přerostla v upíří lavinu. Připomenu jen nejznámější opusy paní Meyerové _Stmívání_, _Interview s upírem_ Ann Riceové, sérii her _World of Darkness_ a upírobijce jménem _Blade_.
 
@@ -40,7 +39,7 @@ Takže vzhůru do toho.
 
 Upírská mytologie byla kanonizována v románu _Dracula_, nicméně __archetyp návratu nemrtvých__ je mnohem starší. A to i s tím podstatným vysáváním krve, které vlastně udržuje nemrtvého při životě. Protože krev byla v dávných dobách synonymem života. Třeba v _Neplachově kronice_, 14. století, se praví:
 
-<p class="sample">Když byla probita třemi olšovými kůly, krev z ní tak velmi tekla jako z hovada nějakého. Předtím spolkla svůj šlojíř až do polovice, a když se z úst vytáhl, byl všecek krvavý. Byvši probita, vždy ještě z hrobu vstávala a lidi hubila. Měla tedy být spálena, ale hranici nemohli nikterak zanítit, až jim staré ženy poradily, aby užili k zážehu šindele ze střechy kostelní. Jakmile shořela, přestala lidi trápit.</p>
+> Když byla probita třemi olšovými kůly, krev z ní tak velmi tekla jako z hovada nějakého. Předtím spolkla svůj šlojíř až do polovice, a když se z úst vytáhl, byl všecek krvavý. Byvši probita, vždy ještě z hrobu vstávala a lidi hubila. Měla tedy být spálena, ale hranici nemohli nikterak zanítit, až jim staré ženy poradily, aby užili k zážehu šindele ze střechy kostelní. Jakmile shořela, přestala lidi trápit.
 
 Archetyp lze tedy pojmout jako krvavou řezničinu na způsob toho Neplacha. Touto cestou jde třeba jedna z nejlepších epizod _Písně ledu a ohně_ jménem _Hardhome_.
 
@@ -50,25 +49,25 @@ Bram Stoker na to ale šel úplně jinak a podle mne zajímavěji. Dracula vysá
 
 Mina Harkerová vypráví, že:
 
-<p class="sample">Když jsem došla téměř až na konec schodů, byla jsem už tak blízko, že jsem i v mihotavých stínech mohla rozeznat lavici s bílou postavou. Nad dozadu zakloněnou Lucy se opravdu sklánělo něco dlouhého a černého. Vyděšeně jsem zvolala: „Lucy! Lucy!“ a ta postava zdvihla hlavu a z místa, kde jsem byla, jsem zahlédla bledou tvář a rudé žhnoucí oči. Lucy neodpověděla a já jsem běžela dál k vchodu na hřbitov. Když jsem tam vběhla, octl se mezi mnou a lavicí kostel a asi na minutu jsem ztratila Lucy z očí. Jakmile jsem byla za kostelem, mrak již přešel a měsíc svítil tak jasně, že jsem ji uviděla, jak sedí s hlavou spočívající na opěradle lavice. Byla zcela sama, široko daleko ani stopa po něčem živém. Sklonila jsem se nad ni a zjistila, že dosud spí.</p>
+> Když jsem došla téměř až na konec schodů, byla jsem už tak blízko, že jsem i v mihotavých stínech mohla rozeznat lavici s bílou postavou. Nad dozadu zakloněnou Lucy se opravdu sklánělo něco dlouhého a černého. Vyděšeně jsem zvolala: „Lucy! Lucy!“ a ta postava zdvihla hlavu a z místa, kde jsem byla, jsem zahlédla bledou tvář a rudé žhnoucí oči. Lucy neodpověděla a já jsem běžela dál k vchodu na hřbitov. Když jsem tam vběhla, octl se mezi mnou a lavicí kostel a asi na minutu jsem ztratila Lucy z očí. Jakmile jsem byla za kostelem, mrak již přešel a měsíc svítil tak jasně, že jsem ji uviděla, jak sedí s hlavou spočívající na opěradle lavice. Byla zcela sama, široko daleko ani stopa po něčem živém. Sklonila jsem se nad ni a zjistila, že dosud spí.
 
 Je možné, že to celé byl jen sen a šálení zraku. A ty dvě dírky na Lucyině krku, hmotný důkaz, možná způsobila Mina svojí neobratnou manipulací se špendlíkem, jak sama vysvětluje.
 
 Později, když už Lucy přece jen něco tuší, vede s Van Helsingem tuto debatu:
 
->„Vy nechcete usnout?“
+> „Vy nechcete usnout?“
 >
->„Ne, bojím se.“
+> „Ne, bojím se.“
 >
->„Bojíte se usnout? Proč? Vždyť je to dobrodiní, po němž všichni touží!“
+> „Bojíte se usnout? Proč? Vždyť je to dobrodiní, po němž všichni touží!“
 >
->„Ach, kdybyste na tom byl jako já, tak ne! Kdyby pro vás byl spánek předzvěstí hrůzy!“
+> „Ach, kdybyste na tom byl jako já, tak ne! Kdyby pro vás byl spánek předzvěstí hrůzy!“
 >
->„Předzvěstí hrůzy? Co tím probůh chcete říci?“
+> „Předzvěstí hrůzy? Co tím probůh chcete říci?“
 >
->„Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“
+> „Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“
 
-Je to __archetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
+Je to a__rchetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
 
 ## III.
 
@@ -84,7 +83,7 @@ Bizarním vrcholem této detektivní formy vyprávění je situace v samotném 
 
 V důsledku toho nám detektivka na chvíli úplně sežrala horor. Je to také naprosto mimo dosavadní charakter Miny Harkerové, do té chvíle trochu ufňukané viktoriánské ženy. Mám podezření, že je to kouzlo nechtěného, a že autor, který zjevně moc neznal pokračování, sem v jakémsi hnutí mysli vrazil vlastní úvahy. Výsledek dává tušit, jak mohl vypadat Dracula úplně jinak, kdyby se potenciál tohoto stylu domyslel někde na začátku. Už by to asi nebyl horor plný pocitů, ale racionální studená temná detektivka, připomínající Thomase Harrise.
 
-![obrazek](nosferatushadow-opt.jpg)
+![](nosferatushadow-opt.jpg)
 
 Technické překlápění detektivky v horor a zpátky je poučná záležitost. Z hlediska podstaty vyprávění jde o něco jiného – _v hororu se bojíme a v detektivce pátráme_ – ale přesto tu je příbuznost a v případě potřeby můžeme vyprávění posunout k té formě, kterou zrovna potřebujeme.
 
@@ -108,7 +107,7 @@ Pozdější věky mají technicky jasno, co upíři přesně dělají; prostě s
 
 Ve výsledku je z toho třeba takováto scéna:
 
-<p class="sample">Plavá dívka klesla na kolena a upřeně na mě hledíc sklonila se nade mnou. Čišela z ní uvážená smyslnost, současně vzrušující a odpudivá, a jak dívka natáhla krk, dokonce si olizovala rty jako zvíře, až jsem v měsíčním světle viděl odlesk slin na šarlatových rtech a rudém jazyku, povystrčeném mezi bílými ostrými zuby. Níž a níž se skláněla její hlava, až mi její rty sklouzly pod ústa a bradu, jako by mi chtěly utkvět na hrdle. Vtom se zarazila a já slyšel, jak si jazykem mlaskavě olizuje rty a zuby, a na krku jsem ucítil její horký dech. Pak mě začala svědit kůže na hrdle asi tak, jako začíná svědit pokožka, když se víc a víc blíží ruka, která ji bude hladit. A už jsem cítil měkký, chvějivý dotek jejích rtů na neobyčejně citlivé kůži hrdla. Současně se mě dotkly tvrdé špičky dvou ostrých zubů a zarazily se. V mdlém vytržení jsem zavřel oči a čekal — čekal s bušícím srdcem.</p>
+> Plavá dívka klesla na kolena a upřeně na mě hledíc sklonila se nade mnou. Čišela z ní uvážená smyslnost, současně vzrušující a odpudivá, a jak dívka natáhla krk, dokonce si olizovala rty jako zvíře, až jsem v měsíčním světle viděl odlesk slin na šarlatových rtech a rudém jazyku, povystrčeném mezi bílými ostrými zuby. Níž a níž se skláněla její hlava, až mi její rty sklouzly pod ústa a bradu, jako by mi chtěly utkvět na hrdle. Vtom se zarazila a já slyšel, jak si jazykem mlaskavě olizuje rty a zuby, a na krku jsem ucítil její horký dech. Pak mě začala svědit kůže na hrdle asi tak, jako začíná svědit pokožka, když se víc a víc blíží ruka, která ji bude hladit. A už jsem cítil měkký, chvějivý dotek jejích rtů na neobyčejně citlivé kůži hrdla. Současně se mě dotkly tvrdé špičky dvou ostrých zubů a zarazily se. V mdlém vytržení jsem zavřel oči a čekal — čekal s bušícím srdcem.
 
 Je jasné, že tohle viktoriánský čtenář mohl vnímat jako pornografii. Věřím, že zejména díky takovýmto scénám získal román pověst čehosi skandálního a neslýchaného.
 
@@ -122,7 +121,7 @@ Autorovi šlo evidentně o něco jiného, než o nějaké konkrétně stanoven�
 
 Přesně jako Lucy Westenrová, která podlehla Draculovi, jak jsme viděli v deníku Miny Murrayové. Lucyiny další pokusy o únik jsou tím marnější. Je jeho, všechno je ztraceno, a další děj tento hrůzný osud už jen potvrzuje. Viktoriánova noční můra.
 
-![obrazek](arnold-schwarzenegger--opt.jpg)
+![](arnold-schwarzenegger--opt.jpg)
 
 I když necháme plavat tu mileneckou rovinu archetypálního mýtu, má tahle __pohádková archetypální neodvratnost__ zvláštní sílu i v jiných směrech, a pokud na ní natrefíte, nebudete toho litovat. Za užitečný pokládám opět způsob vyprávění, jakým je to podáno; to nejdůležitější se vlastně už stalo na samém začátku, kdy čtenář moc nedával pozor a ještě to úplně nechápe, a další děj jen pomalu potvrzuje a rozšiřuje čtenářovu povědomost o tom, o co šlo. Pointa byla na začátku, a na konci se k ní ještě rádi s překvapením vrátíte.
 
@@ -138,7 +137,7 @@ Skutečná funkce Renfielda v příběhu je, že je __archetypálním heroldem 
 
 Renfield také je zodpovědný za nejpřekvapivější místo v celém románu, které zřejmě neuhádnete, takže vám o něm schválně nic neřeknu.
 
-![obrazek](h-p-lovecraft-june-opt.jpg)
+![](h-p-lovecraft-june-opt.jpg)
 
 Podobnou ohlašovací funkci má v románu i starý námořník Swales, posedlý hroby a pohřbíváním. __Archetyp zdánlivě nepodstatného tlachání starého blázna__ je od té doby další oblíbený vyprávěcí manévr, vlastně doslova okopírovaný třeba v Lovecraftových _Stínech nad Innsmouthem_.
 
@@ -154,7 +153,7 @@ Odpověď, proč tohle tak pěkně funguje, je další __archetypální téma go
 
 To podstatné, čím se „gotický“ román liší od opravdového středověkého rytířského románu je založeno na omylu; jsou to ty tísnivé chodby a interiéry, které jsou dlouhé, temné a za rohem na vás může něco číhat. Tohle všechno se totiž ve středověké architektuře prakticky nevyskytovalo. Středověké hrady byly naprosto přehledné jednoduché stavby, často s jedinou místností, do které jste mohli vejít a zase vyjít; a k dopravě se používaly dřevěné vnější pavlače, ochozy na hradbách a schodiště, případně nádvoří. Řetěz mnoha propojených sálů je naopak pozdější architektura zámecká, nejméně renesanční, ale spíš barokní a klasicistní. Taktéž dlouhé kryté chodby na hradbách nebo v nich jsou důsledkem vynálezu střelného prachu, kdy vznikla potřeba, aby na střelce nepršelo. Pan Walpole si zkrátka kdysi na začátku neuvědomil, že _Zámek Otranto_ vypadal ve středověku v době křižáků podstatně jinak, než v době, kdy o něm psal a viděl ho.
 
-![obrazek](castleotranto-opt.jpg)
+![](castleotranto-opt.jpg)
 
 Svět zná málo tak úspěšných a konstruktivních omylů. Literatura byla takto obohacena o úplně nové pocity a dojmy, které nejenže náramně fungovaly na Walpoleho současníky, ale báječně fungují dodnes. Stačí si uvědomit, že je tu vlastně řeč o podstatě _dungeonu_, mnohem později vylepšeném panem Howardem v _Šarlatové citadele_ o strašidelné fantastické prvky. A i zdánlivě kosmické strašení ve _Vetřelcích_, kde se hrdinové plíží dlouhými chodbami, je stále jen obměnou tohoto geniálního vynálezu.
 
@@ -182,7 +181,7 @@ To je právě to, co se od nás jakožto vypravěče požaduje. Chytili jsme zla
 
 Dokonalý příklad je _Terminátor_. Nezničitelné strašidlo je ve skutečnosti robot z budoucnosti. Je nezničitelný, protože je prostě z kvalitní oceli. Když to takto jednoduše odhalíte, vypadá to až dětinsky naivně. Je to všeobecně známý a vyzkoušený přístup science fiction; racionalizace nápadu, a to klidně ad absurdum, nebo dokonce těsně za hranice možností reálné vědy a techniky. Pokud ale budete přesní, výsledek se dostaví.
 
-![obrazek](stoker-bram-first-b200-opt.jpg)
+![](stoker-bram-first-b200-opt.jpg)
 
 Mohli byste na to také jít metodami fantazy. Postavíte to na starobylosti, nadsmyslové zkušenosti, mytologii. Nic moc nevysvětlujete, na rozdíl od scifi; naopak, čím neurčitější, tím lepší. Vylezla by vám z toho jiná potvora, stejně zajímavá. Třeba Velký Cthulhu, pokud budete maximalisti. Nebo Balrog, pokud budete skromnější.
 

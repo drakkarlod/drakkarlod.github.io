@@ -9,7 +9,7 @@ Ostřílený námořní vlk a veterán tuctu námořních střetnutí, který se
 
 Svou kariéru začínal jako člen posádky v rámci západoafrické eskadry, která měla za úkol lapat otrokářské lodě, které se pokoušely propašovat svůj opovrženíhodný náklad do amerických přístavů. Vyznamenal se zde, když při jedné z šarvátek zachránil svého kapitána, když palašem sťal ruku s pistolí muži, který chtěl vystřelit na velícího důstojníka. Během nasazení na Dálném východě už byl zástupcem velitele HMS Ajax a účastnil se tažení proti jihočínským pirátům. Jeho loď byla v eskadře, která rozprášila pirátskou flotilu Šap-ng-tsaje, a Galaway byl vždy první v čele výsadků, které obsadily a pak potopily nepřátelské džunky. Následujících deset let byl Ajax umístěn v rámci eskadry v Hong Kongu a udělal si nepřátele mezi tajuplnou čínskou organizací Rudého lotosu, když zmařil několik jejich zlověstných plánů v kantonech. Během druhé opiové války už byl kapitánem Ajaxu a vedl ho do bitev proti čínskému námořnictvu i dělostřeleckých duelů s přístavními pevnostmi.
 
-![obrazek](ship-3191808-960-720-opt.jpg)
+![](ship-3191808-960-720-opt.jpg)
 
 Zatímco HMS Ajax je po dlouhém nasazení na téměř rok umístěn do londýnských doků ke generální opravě, kapitán Galaway je na velením nařízené dovolence (první od doby, kdy se stal námořníkem), aby si odpočinul a byl připraven vyplout, až bude jeho loď hotova zvednout kotvu. Bydlí tak v Londýně u přítele své rodiny spolu se svým čínským sluhou Žengem. Každý den v docích kontroluje, jak pokračují opravy jeho lodi a také je častým návštěvníkem čínské čtvrti v Londýně. Zvěstem, že jej fanatičtí vrahové Rudého lotosu následovali až do Londýna, se jen ušklíbá.
 
@@ -31,27 +31,27 @@ Na Dálném východě vyzkoušel tak jako mnozí jiní opium. Zjistil, že jeho 
 
 __◆◆◆__ __Přirozená autorita__
 
-<p class="sample">Kapitán Galaway je zvyklý vydávat rozkazy o kterých se nedebatuje. Jeho slovo je zákon a jeho autorita absolutní.</p>
+> Kapitán Galaway je zvyklý vydávat rozkazy o kterých se nedebatuje. Jeho slovo je zákon a jeho autorita absolutní.
 
 __◆◆__ __Palaš__
 
-<p class="sample">Ohání se jím už dlouhé roky a držel ho v nejedné šarvátce na palubě i na zemi.</p>
+> Ohání se jím už dlouhé roky a držel ho v nejedné šarvátce na palubě i na zemi.
 
 __◆◆__ __Námořnictví__
 
-<p class="sample">Vedení lodi v bitvě i na mořích, stejně jako znalosti, které získal za léta služby.</p>
+> Vedení lodi v bitvě i na mořích, stejně jako znalosti, které získal za léta služby.
 
 __◆◆__ __Sny a vize__
 
-<p class="sample">Opium v něm probouzí schopnost vidět cesty a možnosti, které mu nejednou pomohly.</p>
+> Opium v něm probouzí schopnost vidět cesty a možnosti, které mu nejednou pomohly.
 
 __◆__ __Orientační smysl__
 
-<p class="sample">Dokud vidí hvězdy nebo má po ruce kompas, Galaway se jen málokdy ztratí.</p>
+> Dokud vidí hvězdy nebo má po ruce kompas, Galaway se jen málokdy ztratí.
 
 __◆__ __Znalost Dálného východu__
 
-<p class="sample">Byl tam umístěn přes dvacet let, takže se dokáže domluvit v několika zdejších jazycích a zná tamější kulturu i zvyky.</p>
+> Byl tam umístěn přes dvacet let, takže se dokáže domluvit v několika zdejších jazycích a zná tamější kulturu i zvyky.
 
 __◆__ __Vyjednávání__
 

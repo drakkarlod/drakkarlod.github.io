@@ -77,7 +77,7 @@ následky než ty zjevně vyplývající ze situace.
 ### 3.\ Chodba napravo
 
 > Chodba pokračuje čtyři sáhy a prudce klesá.
-
+>
 > Dál chodba nepokračuje a na jejím konci ze stropu visí kožnatá věc
 tvarem připomínající šišku.
 

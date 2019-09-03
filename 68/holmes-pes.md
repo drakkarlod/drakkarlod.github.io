@@ -236,7 +236,7 @@ nedochází k tolika strašlivým zločinům jako na úsměvném půvabném
 venkově.
 
 > --- Vy mě děsíte, Holmesi!
-
+>
 > --- Vždyť to má i docela zřejmý důvod. Nátlak veřejného mínění zmůže ve
 městě víc, než stačí dokázat zákon. Jistě se nenajde tak zpustlá ulice,
 aby tu nářek týraného dítěte anebo rány surového opilce nevzbudily

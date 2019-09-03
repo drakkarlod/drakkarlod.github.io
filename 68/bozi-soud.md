@@ -20,14 +20,14 @@ shromážděných pronárodů; to Hospodin zástupů vojsko k boji sbírá.
 zbrojí hrozného hněvu, aby pohubil celou zemi.
 
 >Kvilte, blízko je den Hospodinův, přijde od Všemocného jako zhouba.
-
+>
 >Každá ruka ochabne a každý člověk odvahu ztratí.
-
+>
 >Budou plni hrůzy, zachvátí je bolesti a křeče, jako rodička se svíjet
 budou.
 
 >Strnule bude zírat jeden na druhého, ve tváři plamenem vzplanou.
-
+>
 >Hle, přichází den Hospodinův, nelítostný, s prchlivostí a planoucím
 hněvem, aby zemi změnil v poušť a vymýtil z ní hříchy její."
 

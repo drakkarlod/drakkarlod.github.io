@@ -9,7 +9,7 @@ Za poněkud podivným nadpisem se skrývá článek o slovanských pirátech pla
 
 Začal bych ale jménem článku, přece jen vám dlužím vysvětlení. Nevybral jsem jej náhodou, vztahuje se k bohovi Ránů Rujevítovi, jehož jméno znamená totéž, co pán Rujány. A právě Ránové se do historie zapsali jako největší ze slovanských nájezdníků.
 
-![obrazek](vindaskip-ii-opt.jpg)
+![](vindaskip-ii-opt.jpg)
 
 Nebudu se ale věnovat jen jim – bylo by to nespravedlivé vůči ostatním, kteří opouštěli své domovy a vydávali se na moře, kde se živili ohněm a mečem. Pomořané tak organizovali největší z nájezdů, ze kterého dodnes mrazí, Luticové zase pomohli udržet jednomu normanskému vévodovi korunu Anglosasů a Obodrité s nájezdy začali. Sami sebe nazývali chasnici, mezi Dány pak byli známi jako Vindové nebo prostě vikingové – piráti.
 
@@ -41,7 +41,7 @@ Jak jsem již psal, zprvu se pobaltští Slované vydávali na cestu za obchodem
 
 Válka se ale do kronik vryla většími písmeny. Obodritská knížata se vydávala na moře, aby získala peníze na zaplacení daní, vybíraných od nich velmoži z Říše. Biskupu Geroldovi si tak postěžoval obodritský kníže Přibyslav, což zaslechl i mnich Helmold, který celý rozhovor zapsal do své kroniky.
 
-![obrazek](cervenec2006-047-opt.jpg)
+![](cervenec2006-047-opt.jpg)
 
 Tady je hlavní rozdíl mezi piráty z řad seveřanů a Slovanů: první jmenovaní se na moře vydávali mimo jiné proto, že jejich země je nebyla schopna uživit všechny. Zakládali tedy kolonie v nových zemích, jako Danelaw ve východní Anglii, nebo severské državy na pobřeží Irska. Kvůli tomu si nemohli dovolit naprosté zničení dané země. Slované novou zemi nepotřebovali. Snad i proto se kronikáři zmiňují o zemích zničených Venedy a po deset let neobývaných. Dnes někteří historici soudí, že v polovině dvanáctého století padla třetina dánské populace pod meči slovanských nájezdníků.
 
@@ -51,7 +51,7 @@ Pobřeží od polského Kolobřehu po holštýnský Oldenburg muselo být poseto
 
 Rujána ve svém středu ukrývá vesnici Ralswik skrytou za na konci dvojitého zálivu fungující jako dokonalý skrýš. Zde nejspíš kotvila flotila Ránů, která je tak proslavila a právě tady se našly trupy lodí, díky nimž o lodích Slovanů víme praktické věci o jejich konstrukci. O významu Ralswiku svědčí mimo jiné i nalezená pohřební loď skandinávského vikinga a mince z mnoha zemí tehdejšího světa.
 
-![obrazek](img-20170603-112221-opt.jpg)
+![](img-20170603-112221-opt.jpg)
 
 Dále na severozápad, na poloostrově Wittov ležela na skalním ostrohu nad mořem slavná Arkona. I dnes budí pozůstatky jejího valu úžas, jen rozloha se zmenšila oproti časům Svantovítových kněží asi na třetinu, když se kus křídového útesu zřítil do Baltského moře. Mys je mnohému našinci známý díky majestátnímu plátnu Alfonse Muchy, které, bohužel nezobrazuje realitu tak, jak by mělo.
 
@@ -73,7 +73,7 @@ Snad nejpočetnější zbraní ve slovanském vojsku byla sekera, jednoduchá na
 
 V druhé ruce měl slovanský pirát většinou štít. Z několika zpráv co máme o tvarech štítů, se dá usuzovat, že měly tzv. jízdní držení, tedy na zední straně byly dva řemeny, kterými se provlékala ruka. Další řemen sloužil k přehození štítu přes rameno.
 
-![obrazek](shieldwall-opt.jpg)
+![](shieldwall-opt.jpg)
 
 Prameny se zmiňují o tom, jak Pomořané dokázali udělat ze štítů zeď tak pevnou, že dokázala vydržet i jízdní útok. Existence této formace nám ukazuje vojenský um, disciplínu a organizaci pomořanských vojsk.
 
@@ -97,7 +97,7 @@ V islandské Knize osídlení se píše o muži zvaném Natfarri, jehož přezd
 
 Dobře, jednoho bychom měli. Ale máme ještě nějaký další důkaz? Možná. Na Islandu se totiž našly základy budov z vikinského věku. Ovšem ani jeden z nich nevypadá jako základy typických severských budov. Tyto byly zahloubené z části do země a byly velice malé. Nikdo nedokázal spolehlivě vysvětlit, k čemu sloužily, až výše zmiňovaný profesor přišel s tím, že to jsou domy slovanských kolonistů.
 
-![obrazek](sam-4154-opt.jpg)
+![](sam-4154-opt.jpg)
 
 ### Slované v Anglii
 
@@ -123,7 +123,7 @@ Roku 1136 se město stalo cílem největšího nájezdu západních Slovanů. V�
 
 Jen Pomořané by takto náročný úkol nezvládli. Dobýt pevnost, o které se mluvilo jako o nedobytné a zasáhnout krále Erika tam, kde to nejvíc bolí, byl úkol nad jejich síly. Proto se spojili s Rány (kteří mimochodem byli později terčem odvetného úderu) a ostatními slovanskými knížaty. Dohromady dali mezi 650 a 700 loděmi. Podle moderních historiků to znamená sílu 29 000 mužů, já však soudím, že je toto číslo přehnané, neboť některé lodě musely být prázdné kvůli kořisti a jiné zase musely vézt alespoň nějaké zásoby na desetidenní cestu.
 
-![obrazek](dsc00744-opt.jpg)
+![](dsc00744-opt.jpg)
 
 V průběhu dlouhé plavby se slovanskému loďstvu postavilo to dánské, nápor spojených kmenů ale neudrželo a pohanští bojovníci si připsali první vítězství. Následovalo plenění pobřeží až po cíl jejich cesty – chloubu Dánska.
 

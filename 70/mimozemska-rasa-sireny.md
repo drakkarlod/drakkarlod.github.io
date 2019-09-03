@@ -43,7 +43,7 @@ Každý tvor sníva a sirény nie sú výnimkou. Väčšina tvorov sa však zo s
 
 Snílkovia sú opakom cestovateľov. V rámci kultúry sirén ide o subkultúru zbabelcov. Snílkovia sa boja cestovať a miesto toho si vo svojich predstavách fabulujú falošné spomienky a sny. O tie sa potom delia medzi sebou a spoločne prežívajú zážitky, ktoré sa nikdy nestali. Táto subkultúra je pre sirény veľmi malígna a väčšina sirén sa preto snílkov stráni. Ich spomienky môžu zabíjať.
 
-![obrazek](planet-3215808-1920-opt.jpg)
+![](planet-3215808-1920-opt.jpg)
 
 ## Orákuly
 
