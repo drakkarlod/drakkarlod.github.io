@@ -54,6 +54,7 @@ Nebo (v případě více odstavců):
 ## TODO
 
 - [x] stránka tagů
-- [ ] favicon.ico (nebo tag v hlavičce linkující na jiný soubor ikony)
-- [ ] zmigrovat staré články
-- [ ] vyřešit TODOs v kódu
+- [x] favicon.ico (nebo tag v hlavičce linkující na jiný soubor ikony)
+- [x] zmigrovat staré články
+- [x] vyřešit TODOs v kódu
+- [ ] skrýt testovací články (čísla >= 100)
