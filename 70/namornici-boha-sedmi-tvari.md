@@ -1,15 +1,18 @@
 ---
 layout: article
-title: 'Námořníci boha sedmi tváří'
+title: Námořníci boha sedmi tváří
 authors: „Paul“
-tags: 'Historie a realita'
+tags: Historie a realita
+published: true
+summary: >-
+  Za poněkud podivným nadpisem se skrývá článek o slovanských pirátech plavících
+  se na chladných vodách Baltu, kteří jsou dnes poněkud přehlíženi a ve známosti
+  ustupují před těmi skandinávskými. Ovšem z historického střetu vítězně vyšli
+  právě Ránové, Pomořané, Obodrité a Lutici, tedy plavci z pobřeží dnešního
+  Polska a Německa. A já vám nyní ukážu, jak k tomu došlo.
 ---
 
-Za poněkud podivným nadpisem se skrývá článek o slovanských pirátech plavících se na chladných vodách Baltu, kteří jsou dnes poněkud přehlíženi a ve známosti ustupují před těmi skandinávskými. Ovšem z historického střetu vítězně vyšli právě Ránové, Pomořané, Obodrité a Lutici, tedy plavci z pobřeží dnešního Polska a Německa. A já vám nyní ukážu, jak k tomu došlo.
-
 Začal bych ale jménem článku, přece jen vám dlužím vysvětlení. Nevybral jsem jej náhodou, vztahuje se k bohovi Ránů Rujevítovi, jehož jméno znamená totéž, co pán Rujány. A právě Ránové se do historie zapsali jako největší ze slovanských nájezdníků.
-
-![](vindaskip-ii-opt.jpg)
 
 Nebudu se ale věnovat jen jim – bylo by to nespravedlivé vůči ostatním, kteří opouštěli své domovy a vydávali se na moře, kde se živili ohněm a mečem. Pomořané tak organizovali největší z nájezdů, ze kterého dodnes mrazí, Luticové zase pomohli udržet jednomu normanskému vévodovi korunu Anglosasů a Obodrité s nájezdy začali. Sami sebe nazývali chasnici, mezi Dány pak byli známi jako Vindové nebo prostě vikingové – piráti.
 
@@ -18,6 +21,8 @@ Nebudu se ale věnovat jen jim – bylo by to nespravedlivé vůči ostatním, k
 ### Historie plaveb
 
 Slované začali vyrábět lodě hned, když se dostali na mořská pobřeží, ačkoli to byly z počátku jen dlabanice z jednoho kmenu. Později se konstrukce stávala složitější a na moře vypluly první plnohodnotné koráby.
+
+![](vindaskip-ii-opt.jpg)
 
 Nejprve sloužily neválečným účelům: vyplouvali na nich rybáři a obchodníci, později se začaly měnit na nástroj války, když na nich muži odplouvali společně s Dány a Nory bojovat na západ do vzdálené Anglie. Poslední období v historii slovanské mořeplavby byly nájezdy na pobřeží Jutského a Skandinávského poloostrova. Tehdy i obávaní Dánové, před nimiž se třásla celá Evropa, poznali na vlastní půdě strach.
 
