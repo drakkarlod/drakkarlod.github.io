@@ -1,11 +1,17 @@
 ---
 layout: article
-title: 'Užitečnost upíra pro analýzu archetypů'
+title: Užitečnost upíra pro analýzu archetypů
 authors: Argonantus
 tags: Literatura
+published: true
+summary: >-
+  Fantastická literatura je od počátku prokleta opakováním. Mrtvá hraběnka znovu
+  ožije a hrdina zjistí, že má nadpřirozené schopnosti. Posmívala se tomu už
+  Jane Austenová na počátku 19. století a stvořila parodii. A podobné odmítání
+  trvá; nejenže jsou ty fantastické historky nereálné, ale navíc jsou také
+  stejné. Nečtěte to a vraťte se k Dostojevskému. Jak se tomuto problému
+  vyhnout? A máme se mu vůbec vyhýbat?
 ---
-
-Fantastická literatura je od počátku prokleta opakováním. Mrtvá hraběnka znovu ožije a hrdina zjistí, že má nadpřirozené schopnosti. Posmívala se tomu už Jane Austenová na počátku 19. století a stvořila parodii. A podobné odmítání trvá; nejenže jsou ty fantastické historky nereálné, ale navíc jsou také stejné. Nečtěte to a vraťte se k Dostojevskému. Jak se tomuto problému vyhnout? A máme se mu vůbec vyhýbat?
 
 ## I.
 
@@ -25,7 +31,7 @@ Toto vyjádření mi připadá velice výstižné. Odkaz na pohádky je důleži
 
 Druhý znak, kterým poznáme archetyp, je to, že vede obvykle do mytologického dávnověku. Není to něco, co napadlo někoho poměrně nedávno, ale něco, o čem si vyprávěli už ve starém Řecku, nebo alespoň ve středověku. Vypráví se to stovky let, a stále existuje důvod, proč to vyprávět znovu. Módní klišé boj s časem nakonec vždy prohraje. Archetyp drží dál.
 
-◆ ◆ ◆
+<center>◆ ◆ ◆</center>
 
 Naším dnešním průvodcem světem archetypů bude hrabě [Dracula](https://cs.wikipedia.org/wiki/Drákula_(kniha)). Poprvé spatřil světlo světa v roce 1897. O upírech se už vědělo dávno před ním, v literatuře se zjevili díky Polidoriho lordu Ruthvenovi skoro o sto let dříve. Ze starších upírů stojí snad ještě za zmínku Le Fanuova lesbická upírka _Carmilla_ (1871). _Dracula_ mezi nimi na první pohled nevynikal; byl to několikátý román nevýznamného [irského spisovatele](https://cs.wikipedia.org/wiki/Bram_Stoker), nijak zvlášť dobře napsaný. Původní náklad 3000 kusů nesvědčí o tom, že by vydání byla epochální událost. Lze předpokládat, že řada současníků to vůbec nezaznamenala. Kult upíra všech upírů se začal rodit až dodatečně, díky filmu. Za což mohl hlavně ten první [z roku 1922](https://cs.wikipedia.org/wiki/Upír_Nosferatu_(film,_1922)), který dokonce neměl autorovo svolení a vznikl tak trochu pirátsky. Potom se móda upírů periodicky vracela, aby někdy ke konci 20. století přerostla v upíří lavinu. Připomenu jen nejznámější opusy paní Meyerové _Stmívání_, _Interview s upírem_ Ann Riceové, sérii her _World of Darkness_ a upírobijce jménem _Blade_.
 
@@ -43,7 +49,7 @@ Upírská mytologie byla kanonizována v románu _Dracula_, nicméně __archety
 
 Archetyp lze tedy pojmout jako krvavou řezničinu na způsob toho Neplacha. Touto cestou jde třeba jedna z nejlepších epizod _Písně ledu a ohně_ jménem _Hardhome_.
 
-◆ ◆ ◆
+<center>◆ ◆ ◆</center>
 
 Bram Stoker na to ale šel úplně jinak a podle mne zajímavěji. Dracula vysával svoje oběti tiše a nenápadně, takže si často ani dlouho nevšimly, že je něco v nepořádku.
 
@@ -67,7 +73,7 @@ Později, když už Lucy přece jen něco tuší, vede s Van Helsingem tuto deb
 >
 > „Nevím, ach nevím. A to je právě to strašné. Všechna ta slabost mě zmáhá ve spánku a já už se děsím pouhého pomyšlení na spaní!“
 
-Je to a__rchetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
+Je to __archetypální strach z bezmoci ve spánku__; z toho, že v noci se s námi děje něco a my nevíme co. Napadne to kdejaké dítě, a proto se také děti někdy bojí usnout. _Noční můra v Elm Street_, to je cvičení na tohle téma, kupodivu také vlastně Draculovské. Úplně nejstarší mně známý upír se nachází v _Izaijášově proroctví_ a bývá překládán _Kralickou Biblí_ také jako _noční přeluda_, a v některých verzích jako _lamia_, což je starořecké strašidlo, které bere matkám děti a pije jim krev. Ostatně přesně takto končí Lucy Westenrová v tom _Draculovi_. Za povšimnutí stojí také řada výtvarných zpracování nočních můr, jak nám je předvádějí obrázky, odkázané [wikipedií](https://en.wikipedia.org/wiki/The_Nightmare). V těchto kalných vodách s oblibou lovil nejen Lovecraft, ale opravdu kdejaký autor hororů. Zapomenuté to není ani náhodou a funguje to skvěle.
 
 ## III.
 
@@ -113,7 +119,7 @@ Je jasné, že tohle viktoriánský čtenář mohl vnímat jako pornografii. Vě
 
 ## VI.
 
-Vraťme se k Draculovým proměnám. Poprvé padne slovo _upír_ vedle slova _vlkodlak_, což je kupodivu pokládáno za synonymum. Dnešního čtenáře to jistě zaskočí. Dracula je popisován jako román o upírovi, ale on by to stejně tak bez problémů mohl být román o vlkodlakovi. Neb jeho příchod se děje v podobě psa, a jedno z úplně prvních nadpřirozených kouzel je přivolání smečky vlků, což se vícekrát opakuje. Draculovi je vytí vlků nejmilejší hudbou; a ti vlci ho všichni poslouchají na slovo. V jednom místě Dracula použije běžného vlka jako beranidlo k rozbití okna; postup hodný RPG hry.
+Vraťme se k Draculovým proměnám. Poprvé padne slovo _upír_ vedle slova _vlkodlak_, což je kupodivu pokládáno za synonymum. Dnešního čtenáře to jistě zaskočí. Dracula je popisován jako román o upírovi, ale on by to stejně tak bez problémů mohl být román o vlkodlakovi. Neb jeho příchod se děje v podobě psa, a&nbsp;jedno z úplně prvních nadpřirozených kouzel je přivolání smečky vlků, což se vícekrát opakuje. Draculovi je vytí vlků nejmilejší hudbou; a ti vlci ho všichni poslouchají na slovo. V jednom místě Dracula použije běžného vlka jako beranidlo k rozbití okna; postup hodný RPG hry.
 
 Jenomže kromě této vlkodlačí roviny může být Dracula i netopýr. A později se ukáže, že _v dosahu své moci ovládá živly: bouři, mlhu, hrom; také poroučí menším živočichům — krysám, sovám, netopýrům, můrám, liškám a vlkům. Dokáže se zvětšiti nebo zmenšiti a mizí i nepozorovaně přichází podle svých potřeb._
 
@@ -189,7 +195,7 @@ Nebo na to půjdete přes dětské školní vzpomínky. Ten topič, kterého jst
 
 Potíž je, že všechno tohle už nové není, ježto to někdo použil, jak je právě citováno. Takže to musíte vzít a pojmout malinko jinak, nějak, jak to ještě užito nebylo. Nebo jak to obvykle užito sice již bylo, ale použil to někdo v obskurním zapomenutém díle v roce 1867. Nebo to užito bylo i častěji, ale vlastně malinko jinak. Ostatně, kolik běhá po světě napodobených _Draculů_ a _Terminátorů_, to asi nikdo nespočítá. A některé varianty jsou tak vzdálené a nečekané, že zase začínají mít svoji vlastní cenu.
 
-◆ ◆ ◆
+<center>◆ ◆ ◆</center>
 
 Druhá varianta je __puristické provedení__. Vychází z toho, že nové může být také to, co se dokonale zapomnělo. Čehož skvělý příklad jsou ty variace na plížení v gotickém románu. Samozřejmě že to každý zná. Od chvíle, kdy byla podobná architektura stavěna, tedy zřejmě někdy v renesanci, tak se lidé z nejrůznějších důvodů plíží chodbami nebo nepřehlednými místnostmi. Kde někdo nebo něco může číhat za rohem. I kdyby se jednalo jen o dětskou hru, stejně je to napínavé. Protože topologický tvar interiéru je daný, nemůžete vyrazit, kam byste chtěli; a protože za ten zatracený roh prostě nevidíte.
 
