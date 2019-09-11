@@ -2,10 +2,13 @@
 layout: article
 title: 'Mimozemská rasa: Sirény'
 authors: „Antharon“
-tags: 'Materiály a doplňky'
+tags: Materiály a doplňky
+published: true
+summary: >-
+  Sirény sú tajomné stvorenia z hlbokých morí, ktoré žijú smutným životom,
+  snívajúc o ďalekých svetoch. Postupne sa rozšírili do všetkých kútov galaxie,
+  najmä vďaka podnetom získaným od iných rás.
 ---
-
-Sirény sú tajomné stvorenia z hlbokých morí, ktoré žijú smutným životom, snívajúc o ďalekých svetoch. Postupne sa rozšírili do všetkých kútov galaxie, najmä vďaka podnetom získaným od iných rás.
 
 ## Fyziológia
 
