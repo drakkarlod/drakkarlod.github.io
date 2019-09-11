@@ -39,26 +39,26 @@ Na Dálném východě vyzkoušel tak jako mnozí jiní opium. Zjistil, že jeho 
 
 Kapitán Galaway je zvyklý vydávat rozkazy o kterých se nedebatuje. Jeho slovo je zákon a jeho autorita absolutní.
 
-__◆◆__ __Palaš__
+#### ◆◆ Palaš
 
-> Ohání se jím už dlouhé roky a držel ho v nejedné šarvátce na palubě i na zemi.
+Ohání se jím už dlouhé roky a držel ho v nejedné šarvátce na palubě i na zemi.
 
-__◆◆__ __Námořnictví__
+#### ◆◆ Námořnictví
 
-> Vedení lodi v bitvě i na mořích, stejně jako znalosti, které získal za léta služby.
+Vedení lodi v bitvě i na mořích, stejně jako znalosti, které získal za léta služby.
 
-__◆◆__ __Sny a vize__
+#### ◆◆ Sny a vize
 
-> Opium v něm probouzí schopnost vidět cesty a možnosti, které mu nejednou pomohly.
+Opium v něm probouzí schopnost vidět cesty a možnosti, které mu nejednou pomohly.
 
-__◆__ __Orientační smysl__
+#### ◆ Orientační smysl
 
-> Dokud vidí hvězdy nebo má po ruce kompas, Galaway se jen málokdy ztratí.
+Dokud vidí hvězdy nebo má po ruce kompas, Galaway se jen málokdy ztratí.
 
-__◆__ __Znalost Dálného východu__
+#### ◆ Znalost Dálného východu
 
-> Byl tam umístěn přes dvacet let, takže se dokáže domluvit v několika zdejších jazycích a zná tamější kulturu i zvyky.
+Byl tam umístěn přes dvacet let, takže se dokáže domluvit v několika zdejších jazycích a zná tamější kulturu i zvyky.
 
-__◆__ __Vyjednávání__
+#### ◆ Vyjednávání
 
-<p class="sample">Málokdy se mu chce, ale když se mu zlíbí, umí starý mořský vlk být více než ucházejícím diplomatem.</p>
+Málokdy se mu chce, ale když se mu zlíbí, umí starý mořský vlk být více než ucházejícím diplomatem.
