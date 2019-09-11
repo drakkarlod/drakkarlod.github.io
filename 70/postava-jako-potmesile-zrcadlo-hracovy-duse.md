@@ -1,13 +1,19 @@
 ---
 layout: article
-title: 'Postava jako potměšilé zrcadlo hráčovy duše'
+title: Postava jako potměšilé zrcadlo hráčovy duše
 authors: „Sadako“
-tags: 'O hraní obecně'
+tags: O hraní obecně
+published: true
+summary: >-
+  Když jsem byla před časem dotázána, jaké články o RPG bych ráda četla v
+  Drakkaru (a jestli nechci takový napsat), dlouze jsem se zamyslela. Nejdřív
+  jsem to chtěla odmávnout, že teoretické články o RPG stejně téměř nečtu, a
+  tedy bych je neměla ani psát, ale pak jsem se zamyslela nad tím, co jedna z
+  veledůležitých složek mé zábavy při hraní – tvorba a následné hraní snad až
+  maniakálně komplexních postav.
 ---
 
-Když jsem byla před časem dotázána, jaké články o RPG bych ráda četla v Drakkaru (a jestli nechci takový napsat), dlouze jsem se zamyslela. Nejdřív jsem to chtěla odmávnout, že teoretické články o RPG stejně téměř nečtu, a tedy bych je neměla ani psát, ale pak jsem se zamyslela nad tím, co jedna z veledůležitých složek mé zábavy při hraní – tvorba a následné hraní snad až maniakálně komplexních postav. Protože postava je přesně to křeslo v pokoji tvořeném prostředím, DM a ostatními hráči, skrz které hráč prožívá příběh. A já jsem na svoje křesla poměrně náročná; musí být pohodlná, musí se mi líbit a musí přežít moje občas velmi brutální zacházení. Aby bylo lépe vidět, co se vlastně snažím sdělit, rozhodla jsem se jít formou příkladu – jednotlivé části rozeberu na jedné ze svých dlouho hraných postav. A malé upozornění: vůbec se nebudu věnovat číselným statistikám, užitečnosti ve hře a tak dále, zabývám se postavou z čistě narativního hlediska.
-
-◆ ◆ ◆
+Protože postava je přesně to křeslo v pokoji tvořeném prostředím, DM a ostatními hráči, skrz které hráč prožívá příběh. A já jsem na svoje křesla poměrně náročná; musí být pohodlná, musí se mi líbit a musí přežít moje občas velmi brutální zacházení. Aby bylo lépe vidět, co se vlastně snažím sdělit, rozhodla jsem se jít formou příkladu – jednotlivé části rozeberu na jedné ze svých dlouho hraných postav. A malé upozornění: vůbec se nebudu věnovat číselným statistikám, užitečnosti ve hře a tak dále, zabývám se postavou z čistě narativního hlediska.
 
 ## Kým chci být?
 
