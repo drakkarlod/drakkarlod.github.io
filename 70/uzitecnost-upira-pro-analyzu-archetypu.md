@@ -31,7 +31,7 @@ Toto vyjádření mi připadá velice výstižné. Odkaz na pohádky je důleži
 
 Druhý znak, kterým poznáme archetyp, je to, že vede obvykle do mytologického dávnověku. Není to něco, co napadlo někoho poměrně nedávno, ale něco, o čem si vyprávěli už ve starém Řecku, nebo alespoň ve středověku. Vypráví se to stovky let, a stále existuje důvod, proč to vyprávět znovu. Módní klišé boj s časem nakonec vždy prohraje. Archetyp drží dál.
 
-<div style="text-align:center;">◆ ◆ ◆</div>
+<div style="text-align:center; margin-top: 0.5em; margin-bottom: 0.5em;">◆ ◆ ◆</div>
 
 Naším dnešním průvodcem světem archetypů bude hrabě [Dracula](https://cs.wikipedia.org/wiki/Drákula_(kniha)). Poprvé spatřil světlo světa v roce 1897. O upírech se už vědělo dávno před ním, v literatuře se zjevili díky Polidoriho lordu Ruthvenovi skoro o sto let dříve. Ze starších upírů stojí snad ještě za zmínku Le Fanuova lesbická upírka _Carmilla_ (1871). _Dracula_ mezi nimi na první pohled nevynikal; byl to několikátý román nevýznamného [irského spisovatele](https://cs.wikipedia.org/wiki/Bram_Stoker), nijak zvlášť dobře napsaný. Původní náklad 3000 kusů nesvědčí o tom, že by vydání byla epochální událost. Lze předpokládat, že řada současníků to vůbec nezaznamenala. Kult upíra všech upírů se začal rodit až dodatečně, díky filmu. Za což mohl hlavně ten první [z roku 1922](https://cs.wikipedia.org/wiki/Upír_Nosferatu_(film,_1922)), který dokonce neměl autorovo svolení a vznikl tak trochu pirátsky. Potom se móda upírů periodicky vracela, aby někdy ke konci 20. století přerostla v upíří lavinu. Připomenu jen nejznámější opusy paní Meyerové _Stmívání_, _Interview s upírem_ Ann Riceové, sérii her _World of Darkness_ a upírobijce jménem _Blade_.
 
@@ -49,7 +49,7 @@ Upírská mytologie byla kanonizována v románu _Dracula_, nicméně __archety
 
 Archetyp lze tedy pojmout jako krvavou řezničinu na způsob toho Neplacha. Touto cestou jde třeba jedna z nejlepších epizod _Písně ledu a ohně_ jménem _Hardhome_.
 
-<div style="text-align:center;">◆ ◆ ◆</div>
+<div style="text-align:center; margin-top: 0.5em; margin-bottom: 0.5em;">◆ ◆ ◆</div>
 
 Bram Stoker na to ale šel úplně jinak a podle mne zajímavěji. Dracula vysával svoje oběti tiše a nenápadně, takže si často ani dlouho nevšimly, že je něco v nepořádku.
 
@@ -195,7 +195,7 @@ Nebo na to půjdete přes dětské školní vzpomínky. Ten topič, kterého jst
 
 Potíž je, že všechno tohle už nové není, ježto to někdo použil, jak je právě citováno. Takže to musíte vzít a pojmout malinko jinak, nějak, jak to ještě užito nebylo. Nebo jak to obvykle užito sice již bylo, ale použil to někdo v obskurním zapomenutém díle v roce 1867. Nebo to užito bylo i častěji, ale vlastně malinko jinak. Ostatně, kolik běhá po světě napodobených _Draculů_ a _Terminátorů_, to asi nikdo nespočítá. A některé varianty jsou tak vzdálené a nečekané, že zase začínají mít svoji vlastní cenu.
 
-<div style="text-align:center;">◆ ◆ ◆</div>
+<div style="text-align:center; margin-top: 0.5em; margin-bottom: 0.5em;">◆ ◆ ◆</div>
 
 Druhá varianta je __puristické provedení__. Vychází z toho, že nové může být také to, co se dokonale zapomnělo. Čehož skvělý příklad jsou ty variace na plížení v gotickém románu. Samozřejmě že to každý zná. Od chvíle, kdy byla podobná architektura stavěna, tedy zřejmě někdy v renesanci, tak se lidé z nejrůznějších důvodů plíží chodbami nebo nepřehlednými místnostmi. Kde někdo nebo něco může číhat za rohem. I kdyby se jednalo jen o dětskou hru, stejně je to napínavé. Protože topologický tvar interiéru je daný, nemůžete vyrazit, kam byste chtěli; a protože za ten zatracený roh prostě nevidíte.
 
