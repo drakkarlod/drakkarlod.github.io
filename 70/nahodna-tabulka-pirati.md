@@ -2,10 +2,9 @@
 layout: article
 title: 'Náhodná tabulka: Piráti!'
 authors: „Quentin“
-tags: 'Materiály a doplňky'
+tags: Materiály a doplňky
+published: true
 ---
-
-Zadání tabulky od redakce bylo Piráti. Kdykoli tedy při hře někdo zařve: „Piráti na obzoru!“, hoďte 1k12. Případná nehodící se jména vyměňte za vlastní.
 
 ## 1. Černý rytíř
 
