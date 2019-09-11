@@ -1,11 +1,17 @@
 ---
 layout: article
-title: 'Kapitán Algernon Galaway'
+title: Kapitán Algernon Galaway
 authors: Ecthelion²
-tags: 'Materiály a doplňky'
+tags: Materiály a doplňky
+published: true
+summary: >-
+  Ostřílený námořní vlk a veterán tuctu námořních střetnutí, který se cítí
+  nejjistěji na palubě lodi na rozbouřeném moři, zatímco na suché zemi se
+  pohybuje nejistým krokem. Jeho silné paže a hruď zdobí tetování orientálních
+  draků a jeho zachmuřený pohled budí respekt. Na rozdíl od důstojnické šavle
+  nosí u pasu jako ostatní členové posádky nebezpečně vyhlížející palaš, se
+  kterým se oháněl už jako poddůstojník.
 ---
-
-Ostřílený námořní vlk a veterán tuctu námořních střetnutí, který se cítí nejjistěji na palubě lodi na rozbouřeném moři, zatímco na suché zemi se pohybuje nejistým krokem. Jeho silné paže a hruď zdobí tetování orientálních draků a jeho zachmuřený pohled budí respekt. Na rozdíl od důstojnické šavle nosí u pasu jako ostatní členové posádky nebezpečně vyhlížející palaš, se kterým se oháněl už jako poddůstojník.
 
 Svou kariéru začínal jako člen posádky v rámci západoafrické eskadry, která měla za úkol lapat otrokářské lodě, které se pokoušely propašovat svůj opovrženíhodný náklad do amerických přístavů. Vyznamenal se zde, když při jedné z šarvátek zachránil svého kapitána, když palašem sťal ruku s pistolí muži, který chtěl vystřelit na velícího důstojníka. Během nasazení na Dálném východě už byl zástupcem velitele HMS Ajax a účastnil se tažení proti jihočínským pirátům. Jeho loď byla v eskadře, která rozprášila pirátskou flotilu Šap-ng-tsaje, a Galaway byl vždy první v čele výsadků, které obsadily a pak potopily nepřátelské džunky. Následujících deset let byl Ajax umístěn v rámci eskadry v Hong Kongu a udělal si nepřátele mezi tajuplnou čínskou organizací Rudého lotosu, když zmařil několik jejich zlověstných plánů v kantonech. Během druhé opiové války už byl kapitánem Ajaxu a vedl ho do bitev proti čínskému námořnictvu i dělostřeleckých duelů s přístavními pevnostmi.
 
@@ -29,9 +35,9 @@ Na Dálném východě vyzkoušel tak jako mnozí jiní opium. Zjistil, že jeho 
 
 ## Dovednosti
 
-__◆◆◆__ __Přirozená autorita__
+#### ◆◆◆ Přirozená autorita
 
-> Kapitán Galaway je zvyklý vydávat rozkazy o kterých se nedebatuje. Jeho slovo je zákon a jeho autorita absolutní.
+Kapitán Galaway je zvyklý vydávat rozkazy o kterých se nedebatuje. Jeho slovo je zákon a jeho autorita absolutní.
 
 __◆◆__ __Palaš__
 
