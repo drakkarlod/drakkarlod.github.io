@@ -479,7 +479,7 @@ utkvělým výrazem a též rty Holmesovy otevřely se úžasem. V tomtéž
 okamžiku Lestrade vzkřikl hrůzou a mrštil sebou tváří na zem. Vyskočil
 jsem na nohy, moje ztrnulá ruka svírala zbraň, leč mysl moje ohromena
 byla strašlivou postavou, jež vyrazila na nás ze stínův mlhy.
-
+>
 > Byl to pes, obrovský pes, černý jak uhel, avšak oči žádného smrtelníka
 neviděly nikdy psa takového. Oheň šlehal z otevřené tlamy jeho, oči jeho
 plály jako řeřavé, čenich jeho i lalok svítily, jakoby plamének blikal
