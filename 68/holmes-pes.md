@@ -1,9 +1,10 @@
 ---
 layout: article
-title: 'Holmes a Pes'
+title: Holmes a pes
 summary: "Minule jsem předvedl nedokonalý Holmesův příběh, který v\_sobě ale skrýval hned několik lákavých variant, jak by ho bylo možno dopracovat a vytvořit něco podstatně lepšího. Že si to uvědomil sám autor lze dokázat tím, že přesně to nakonec udělal; dopracoval to, vzniklo něco jiného a lepšího. Pro gamemastery a spisovatele je ta první fáze rozvíjení prvotních nápadů daleko důležitější. Ale myslím, že bez zajímavosti není ani ta druhá – jak jednu konkrétní linii dobrousit do perfektního tvaru."
 authors: Argonantus
 tags: 'literatura, detektivka, Sherlock Holmes'
+published: true
 ---
 
 Sherlock Holmes je mrtev
@@ -100,7 +101,7 @@ A.C. Doyle byl sice stále na Holmese naštvaný, ale nechal se zlákat a
 sepsal svoji vlastní dramatizaci Holmesových případů. Chvíli s tím
 neúspěšně obcházel, a pak objevil herce a dramatika Williama Gilletta,
 který chtěl hru realizovat. A ten dostal od Conana Doyla opravdu hodně
-volnou ruku k úpravám: [„Ožeňte si ho, zabijte ho, jak se vám zlíbí.“]{.smallcaps}
+volnou ruku k úpravám: _„Ožeňte si ho, zabijte ho, jak se vám zlíbí.“_
 
 Netušíme, jak původně Doylova hra vypadala, protože se nedochovala;
 vlastně by se jednalo o originální součást kánonu. Ve výsledku Gillette
@@ -114,7 +115,7 @@ Adlerová, James Moriarty nebo Mycroft Holmes. Událost je zajímavá tím,
 seriál BBC jménem `Sherlock`, nebo Guy Ritchie se svými adaptacemi.
 Akorát to Gilette provedl již v roce 1899. Hra byla náramně úspěšná
 v Americe i v Británii, a obohatila svět o proslulou frázi
-[„Oh, this is elementary, my dear fellow.“]{.smallcaps} Ano, je to překvapivé, ale tohle
+_„Oh, this is elementary, my dear fellow.“_ Ano, je to překvapivé, ale tohle
 originální Doylův Holmes nikdy neřekl – je to až výsledek fanfiction
 pana Gilletta!
 
@@ -229,12 +230,12 @@ buků`:
 
 > --- Pro boha živého! --- zvolal jsem. --- Kdo by pomyslel na zločin, když vidí
 takové krásné staré chaloupky?“
-
+>
 > --- Vždycky mě naplňují jistou hrůzou. Věřím, Watsone, a vím to i ze
 zkušenosti, že v nejchudších a nejzpustlejších uličkách Londýna
 nedochází k tolika strašlivým zločinům jako na úsměvném půvabném
 venkově.
-
+>
 > --- Vy mě děsíte, Holmesi!
 >
 > --- Vždyť to má i docela zřejmý důvod. Nátlak veřejného mínění zmůže ve
@@ -292,7 +293,7 @@ Druhý nápad je ještě zásadnější. Scénu lze provést prostě dvakrát;
 jednou jako dávnou báji, kterak někoho kdysi zahubil pekelný pes, a
 podruhé jako realitu. Ke které se budeme postupně blížit.
 
-[Dál už se to napsalo vlastně samo]{.smallcaps}, pravil by mistr Bradbury.
+_Dál už se to napsalo vlastně samo_, pravil by mistr Bradbury.
 
 ## IV. Realizace - jádro
 
@@ -320,8 +321,8 @@ Ale zpět k románu. Zpočátku si čtenáři Strandu nemuseli všimnout, co se
 na ně chystá. Mohli se domnívat, že čtou veselou recyklaci
 `Studie v šarlatové`. Zase je tu deduktivní scéna, pro změnu s holí. Další
 veselé honičky po Londýně v drožkách. Vyprávění o dávné minulosti
-Baskervillů. A pak náhle, na konci druhé kapitoly … [byly to stopy
-ohromného psa, pane Holmesi]{.smallcaps}.
+Baskervillů. A pak náhle, na konci druhé kapitoly … _byly to stopy
+ohromného psa, pane Holmesi_.
 
 Vynález mezipointy na konci kapitoly je samozřejmě daleko starší.
 Nicméně si nevzpomínám na detektivní příběh, který by měl do té chvíle
