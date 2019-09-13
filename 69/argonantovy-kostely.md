@@ -149,6 +149,7 @@ chrámů, které by mohly mít iroskotský původ a
 pocházet z 8. či 9. století. Ty totiž přesně takto
 vypadaly, jak dosvědčuje nepříliš dávno rekonstruovaný
 chrám v Modré u Uherského hradiště.
+
 U Klimenta to moc pravděpodobné není, protože
 jsou jiné důvody, které nám ho umožňují
 datovat někam mezi vládu Vratislava II. a Vladislava
@@ -169,7 +170,8 @@ zaklenutým chórem. To ho prozradí i přes zásadní
 barokní přestavbu. A také jsou tu písemné
 prameny, které ho zmiňují dle některých verzí
 už v zakládací listině Litoměřického biskupství
-k roku 1057.
+k&nbsp;roku 1057.
+
 Zařazuji ho sem hlavně kvůli místu, kde
 stojí. Ve `Vězních času` se praví:
 
@@ -243,6 +245,7 @@ Používali dřevo, a pokud to chtěli udělat
 pevné a nespalitelné, pak z hlíny a z kamene nasucho.
 K převzetí složité římské techniky s maltou
 dlouho neměli důvod.
+
 Křesťanský kostel právě v tomhle představoval
 dramatickou změnu. Zpočátku stál v krajině
 úplně osamocený. Ten, o kterém je řeč, je
@@ -308,6 +311,7 @@ Je to způsobeno tím, že jde skoro vždy o soukromá
 založení; chrámy už nezakládá jenom kníže,
 ale jednotliví feudálové, jako symbol nově nabyté
 moci nad částí světa.
+
 Chór kostela je podobný tomu, který jsme
 zkoumali u svatého Havla v Kostelci, ale zde je
 ve výtečném pořádku a vypadá tak, jako kdyby
@@ -319,6 +323,7 @@ je tento chór zaklenutý typickou klenbou,
 kterou jsme viděli už v Bílém Kostelci. Jedná se
 vlastně o polovinu kupole, a technicky pochází
 tento tvar také od Římanů.
+
 Třetí částí kostela je **věž**. Z minulých příkladů
 je jasné, že to není původně samozřejmá
 ani povinná součást kostela. Ve 12. století se ale
@@ -335,6 +340,7 @@ pojmenován. Jakýsi balkon na západní straně
 zevnitř, kam se v pozdějších dobách dávaly varhany. Za Argonanta měla empora zcela zásadní
 funkci – stál na ní totiž feudál s rodinou, výrazně
 oddělený od obyčejných poddaných dole.
+
 V chrámu v Poříčí se s nimi při mši vůbec nemusel
 setkat, protože přišel po dřevěném mostu
 dnes zazděným vchodem těsně u věže přímo ze
@@ -367,6 +373,7 @@ měl. Občas to máme i doloženo, zde ještě nikoli.
 Jinak co se týče sdružených oken, častá jsou
 i trojokna se dvěma sloupky, čtyřokna, a rekordní
 je zřejmě šesterečné okno z Postoloprt.
+
 V Poříčí najdeme také přímo učebnicovou
 skladbu celého osídlení, kde je na jižním svahu
 kopce na nejvyšším místě kostel, kolem něho
@@ -448,6 +455,7 @@ cizích křesťanských návštěvníků. Zvyklosti se
 začaly měnit. A my také od 12. století můžeme
 z velikosti chrámu usuzovat na význam místa a
 počet obyvatel.
+
 Co znamená **trojlodní bazilika** je vysvětleno
 ve `Vězních času`:
 
@@ -504,6 +512,7 @@ empora pro řádové sestry, oddělené od běžného
 lidu dole v lodi. V obou případech pak byli
 věřící co nejblíže ke knězi a slyšeli ho, případně
 na něho dokonce viděli.
+
 V chrámu je opět **výrazně oddělený chór**.
 Je rovnou trojitý, protože každá loď končí samostatných
 chórem. Hlavní vchod byl z jižního
@@ -522,6 +531,7 @@ do nejrůznějších koutů. Najdeme v nich
 nahoře opět sdružená okna, v tomto případě
 trojitá, a věže jsou úměrně vyšší, než u venkovského
 kostelíka.
+
 Nakonec to nejzajímavější – řešení středního
 chóru. V místě vítězného oblouku, v interiéru
 velmi výrazného, vedou dvoje schody,
@@ -567,6 +577,7 @@ V románské střední Evropě si ale na žádný
 příklad nevzpomínám; nejvíce se asi nabízí
 po nich pátrat v antickém Římě, nebo naopak
 v dobách daleko novějších, třeba v baroku.
+
 **Krypta** je naproti tomu podzemní patro
 kostela, nic víc a nic méně. Lze tam normálně
 sloužit mše a provozovat to jako kostel. Žádné
