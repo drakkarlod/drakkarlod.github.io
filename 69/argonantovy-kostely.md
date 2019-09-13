@@ -1,19 +1,17 @@
 ---
 layout: article
-title: 'Argonantovy kostely'
+title: Argonantovy kostely
 authors: Argonantus
 tags: 'historie, kostely'
+published: true
+summary: >-
+  Už dlouho jsem vyzýván k tomu, abych napsal článek o středověkých kostelech.
+  Každý je sice zná, každý si je umí představit, ale možná ho nenapadnou některé
+  souvislosti, zakryté pozdějšími věky a zdánlivými samozřejmostmi. A také asi
+  napadne plno dalších otázek hráče RPG. Lze kostel bránit? Pohřbívalo se tam?
+  Vedou odtud tajné chodby? Co je to empora, tympanon, trojlodí, bazilika,
+  arkády nebo triforium?
 ---
-
-Už dlouho jsem vyzýván k tomu, abych napsal
-článek o středověkých kostelech. Každý je sice
-zná, každý si je umí představit, ale možná ho nenapadnou
-některé souvislosti, zakryté pozdějšími
-věky a zdánlivými samozřejmostmi. A také asi
-napadne plno dalších otázek hráče RPG. Lze kostel
-bránit? Pohřbívalo se tam? Vedou odtud tajné
-chodby? Co je to empora, tympanon, trojlodí, bazilika,
-arkády nebo triforium?
 
 Kolosální rozsah tématu mne vždycky
 děsil. Až nedávno jsem našel zajímavý
@@ -24,6 +22,7 @@ ve 12. století. Většinou u nás, ale občas i
 jinde. A zaměřím se hlavně na ty, které si
 v případě pochybností můžete prohlédnout
 i dnes.
+
 Článek by měl být zároveň i slovníkem
 obvyklé architektonické terminologie.
 Ta slova jste možná zapomněli, nebo
@@ -37,7 +36,7 @@ chci postupně dojít až ke katedrále.
 Začneme doslova pár kroků od Argonantova
 domu. Svatý Kliment je první kostel, o kterém
 kdy byla v souvislosti s Argonantem řeč; protože
-jsou v něm ty prvotní `Zavřené dveře`.
+jsou v něm ty prvotní *Zavřené dveře*.
 
 Pro nás bude ukázkou toho, jak může být
 středověk nenápadný a zároveň všudypřítomný.
@@ -90,7 +89,7 @@ závazné pravidlo, jak mají kostely přesně vypadat. Modlitba, přijímání 
 Božího slova – což jsou asi nejběžnější rituální
 úkony křesťanů – mohou klidně probíhat mimo
 kostel, a také tomu tak odedávna bylo, jak se
-dočteme třeba v Matoušovi, `Kázání na hoře`.
+dočteme třeba v Matoušovi, *Kázání na hoře*.
 
 Ten známý pravil lakonicky, že kostely
 jsou k tomu, aby na věřící nepršelo. Pokud má
@@ -302,9 +301,8 @@ středověku existoval pokrok, a to docela výrazný.
 Stačí si tento kostelík porovnat se svatým
 Klimentem na Letné. A ještě pozoruhodnější
 změnu zjistíme statisticky. Počet chrámů se
-v Argonantově době zmnohonásobil. Zatímco
-11. století u nás vystačilo s desítkami kostelů, ve
-12. století jsou jich najednou stovky. A hlavním
+v Argonantově době zmnohonásobil. Zatímco 11. století u nás vystačilo s desítkami kostelů, 
+ve 12. století jsou jich najednou stovky. A hlavním
 jádrem této laviny jsou právě emporové kostely.
 Je to způsobeno tím, že jde skoro vždy o soukromá
 založení; chrámy už nezakládá jenom kníže,
@@ -357,7 +355,7 @@ v lodi nebo v chóru nacházíme ten nejjednodušší
 typ s půlkruhovou klenbou nahoře, zde
 jsou k vidění **sdružená okna**, s typickým středním
 sloupkem. Přesně taková, jaká se vyskytují
-v Argonantově příběhu `Dračí hlava`. V Poříčí jsou
+v Argonantově příběhu *Dračí hlava*. V Poříčí jsou
 dokonce ještě zdvojená a ve dvou řadách nad
 sebou. Takové bohaté provětrání vršku věží je
 u emporových kostelů dost časté. Kromě estetické
@@ -463,6 +461,7 @@ nesmírný význam, neboť bylo obrazem
 samotného Ducha Svatého, který na věřící
 sestupoval z nebes, aby v nich zažehl
 oheň.
+>
 > Argonantus ovšem věděl, že tento
 tvar stavby vynalezli kdysi dávno Římané
 k něčemu daleko přízemnějšímu; užívali
@@ -532,24 +531,28 @@ ten „hlavní“ je nahoře, a druhý je v podzemní
 **kryptě**. Takto zdvojený patrový závěr bývá dost
 častý u benediktinských klášterních chrámů.
 Zde se za řešením skrývají zřejmě i technické
-důvody, které vysvětlí v `Sedmi rybác`h dva stavitelé,
+důvody, které vysvětlí v `Sedmi rybách` dva stavitelé,
 přemýšlející nad stavbou právě tohoto
 kostela:
+
 > „Chrám je nenáležitě malý. Stavba by
 měla být protažena dál na západ a možná
 i na východ. Také by bylo možno přidat
 věže. Vůbec by měl být výstavnější; od dob
 svatého Václava se na něm vlastně mnoho
 nezměnilo.“
+>
 > „Na východ se země svažuje; to by
 se chór ocitl ve vzduchu.“
-
+>
 > „Bylo by to dobrý důvod ke stavbě
 krypty a dvou poschodí.“
 
 A přesně tak to bylo provedeno. Při pohledu
 z Jiřské ulice je to úplně jasné.
+
 ## V. Panna Maria v Doksanech
+
 U krypty se ještě chvíli zastavíme. V gotických románech
 nebo v RPG hrách je to velmi oblíbený
 prvek, protože to je vlastně pravý a nefalšovaný
@@ -624,9 +627,8 @@ vlastně jediné, co bylo z Argonantových věků
 uchráněno, protože vše nad zemí bylo radikálně
 přestavěno v baroku.
 
-Ač tu ve skutečnosti nepotkáte hordu kostlivců
-– ještě se mi to nepodařilo v žádné kryptě
-– lze si je velmi snadno představit. Pro nějaké
+Ač tu ve skutečnosti nepotkáte hordu kostlivců – ještě se mi to nepodařilo v žádné
+kryptě – lze si je velmi snadno představit. Pro nějaké
 bitevní scény je třeba pamatovat, že v kryptě nebývají
 okna, výjimečně jen hodně malá a nízko
 pod stropem, jako třeba u toho svatého Havla
