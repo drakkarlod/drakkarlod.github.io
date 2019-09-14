@@ -1,8 +1,21 @@
 ---
 layout: article
-title: 'Přístavní tabulky'
+title: Přístavní tabulky
 authors: „Vallun“
 tags: 'doplňky, materiály, přístavy, loďe'
+published: true
+summary: >-
+  Zavítala Vaše družinka na neznámé pobřeží, kde ani pán jeskyně neví, jaké
+  městečko se může vyskytnout? Jste už delší dobu v přístavu a chcete trochu
+  narušit klid? Nebo jen ozvláštnit pobyt u moře nějakou zajímavou tematickou
+  figurkou? Pak můžete využít následující tabulky, stačí hodit k100 a podívat
+  se, co se také může stát. Na závěr je přidaná ještě tabulka pro hry z moderní
+  doby a tabulka pro počasí na moři. K přípravě dobrodružství na mořském pobřeží
+  lze využít též článek [Přístavní
+  zápletky](http://drakkar.sk/42/pristavni-zapletky.html) z Drakkaru č. 42,
+  případně obecnější informace o přístavech jako takových z článku [Přístavy a
+  přístaviště](http://drakkar.sk/41/pristavy-a-pristaviste.html) (Drakkar č.
+  41).
 ---
 
 Zavítala Vaše družinka na neznámé pobřeží, kde ani pán jeskyně neví, jaké městečko se může vyskytnout? Jste už delší dobu v přístavu a chcete trochu narušit klid? Nebo jen ozvláštnit pobyt u moře nějakou zajímavou tematickou figurkou? Pak můžete využít následující tabulky, stačí hodit k100 a podívat se, co se také může stát. Na závěr je přidaná ještě tabulka pro hry z moderní doby a tabulka pro počasí na moři. K přípravě dobrodružství na mořském pobřeží lze využít též článek [Přístavní zápletky](http://drakkar.sk/42/pristavni-zapletky.html) z Drakkaru č. 42, případně obecnější informace o přístavech jako takových z článku [Přístavy a přístaviště](http://drakkar.sk/41/pristavy-a-pristaviste.html) (Drakkar č. 41).
@@ -168,26 +181,26 @@ Zavítala Vaše družinka na neznámé pobřeží, kde ani pán jeskyně neví, 
 
 ## A taky něco pro hry ze současnosti
 
-* 1	Dřevařský vor
-* 2	Replika obchodní kogy
-* 3	Velrybářská loď
-* 4	Tanker s LPG.
-* 5	Mořský kajak
-* 6	Regata klasických plachetnic
-* 7	Pašerácká ponorka
-* 8	Školní trojstěžník
-* 9	Drakkar
-* 10	Rybářský kutr
-* 11	Experimentální historické plavidlo
-* 12	Letadlová loď
-* 13	Cigaretový člun
-* 14	Výletní loď
-* 15	Supertanker
-* 16	Turistická jachta
-* 17	Raketová fregata
-* 18	Kolesový parník
-* 19	Trawler pro digiboj
-* 20	Závodní trimaran
+1.	Dřevařský vor
+2.	Replika obchodní kogy
+3.	Velrybářská loď
+4.	Tanker s LPG.
+5.	Mořský kajak
+6.	Regata klasických plachetnic
+7.	Pašerácká ponorka
+8.	Školní trojstěžník
+9.	Drakkar
+10.	Rybářský kutr
+11.	Experimentální historické plavidlo
+12.	Letadlová loď
+13.	Cigaretový člun
+14.	Výletní loď
+15.	Supertanker
+16.	Turistická jachta
+17.	Raketová fregata
+18.	Kolesový parník
+19.	Trawler pro digiboj
+20.	Závodní trimaran
 
 Dřevařský vor – pevně, ale ne zcela uspořádaně svázané klády určené k dalšímu zpracování. Obvykle se vyskytuje na řekách, ale co když nějaký uplaval až na moře? Dnes se vyskytuje spíš v rozvojových regionech, zato se ale často plaví velmi cenné dřevo (wenge, teak, mahagon).
 
@@ -219,42 +232,42 @@ Uvedené lodě mohou například: být ztroskotané na skalisku, mělčině, či
 
 ### Hladina moře
 
-* 1	Hladina je jako zrcadlo. (1)
-* 2	Malé šupinovité vlnky, bez pěny. (2–3)
-* 3	Větší vlny, sem tam trocha pěny. (4–7)
-* 4	Vlny mají většinou malé pěnové chocholy, do metru výšky. (8–11)
-* 5	Dosti velké a výrazně prodloužené vlny. Všude bílé pěnové vrcholy, ojedinělý výskyt vodní tříště.(12–13)
-* 6	Vlny kolem dvou metrů, zalamují se, spousta pěny, objevuje se vodní tříšť. (14–15)
-* 7	Ostré vlny se lámou, pěna vytváří souvislé pruhy. (16–17)
-* 8	Vlnové hory, spousta vodní tříště, moře hučí bouří. (18)
-* 9	Mocné valící se vlny, přes tři metry výšky. (19)
-* 10	Zalamující se vlnové hory, 5 a více metrů, všude vodní tříšť. (20)
+1.	Hladina je jako zrcadlo. (1)
+2.	Malé šupinovité vlnky, bez pěny. (2–3)
+3.	Větší vlny, sem tam trocha pěny. (4–7)
+4.	Vlny mají většinou malé pěnové chocholy, do metru výšky. (8–11)
+5.	Dosti velké a výrazně prodloužené vlny. Všude bílé pěnové vrcholy, ojedinělý výskyt vodní tříště.(12–13)
+6.	Vlny kolem dvou metrů, zalamují se, spousta pěny, objevuje se vodní tříšť. (14–15)
+7.	Ostré vlny se lámou, pěna vytváří souvislé pruhy. (16–17)
+8.	Vlnové hory, spousta vodní tříště, moře hučí bouří. (18)
+9.	Mocné valící se vlny, přes tři metry výšky. (19)
+10.	Zalamující se vlnové hory, 5 a více metrů, všude vodní tříšť. (20)
 
 ### Vítr
 
-* 1	Úplné bezvětří, plachty visí bez pohybu. (1–2)
-* 2	Vítr je slabě cítit, plachty občas chytají tvar. (3–4)
-* 3	Plachty drží tvar a vlajky se třepetají, loď pluje. (5–7)
-* 4	Ideální pro plavbu menších lodí, zvedá prach a hýbe větvičkami. (8–10)
-* 5	Ohýbá menší stromky, lodě s podélnou plachtou plují v náklonu. (11–13)
-* 6	Silný vítr, ohýbá silné větve, plavba se stává neklidnou. (14–15)
-* 7	Ohýbají se i silné stromy, nepřipraveným lodím hrozí velké riziko škod. (16–17)
-* 8	Láme větve, chůze proti větru nemožná, plavba vyžaduje silně zrefované oplachtění. (18)
-* 9	Poškozující vítr, plavba možná jen s bouřkovým oplachtěním. (19)
-* 10	Vyvrací stromy, devastuje domy, řízená plavba nemožná, lodě bez plachet driftují. (20)
+1.	Úplné bezvětří, plachty visí bez pohybu. (1–2)
+2.	Vítr je slabě cítit, plachty občas chytají tvar. (3–4)
+3.	Plachty drží tvar a vlajky se třepetají, loď pluje. (5–7)
+4.	Ideální pro plavbu menších lodí, zvedá prach a hýbe větvičkami. (8–10)
+5.	Ohýbá menší stromky, lodě s podélnou plachtou plují v náklonu. (11–13)
+6.	Silný vítr, ohýbá silné větve, plavba se stává neklidnou. (14–15)
+7.	Ohýbají se i silné stromy, nepřipraveným lodím hrozí velké riziko škod. (16–17)
+8.	Láme větve, chůze proti větru nemožná, plavba vyžaduje silně zrefované oplachtění. (18)
+9.	Poškozující vítr, plavba možná jen s bouřkovým oplachtěním. (19)
+10.	Vyvrací stromy, devastuje domy, řízená plavba nemožná, lodě bez plachet driftují. (20)
 
 ### Obloha
 
-* 1	Mléčná mlha přecházející v oblaka, dohled v metrech.
-* 2	Mlha šedavá, téměř souvislá, dohled do 40 m.
-* 3	Velké cáry mlhy všude kolem, tmavé mraky.
-* 4	Těžká mračna se hrozivě valí nízko nad mořem, není vidět ani kousek oblohy, dohled do 2 NM.
-* 5	Ocelově šedá obloha, slunce lze jen tušit, dohled do 5 NM.
-* 6	Obloha z více než tří čtvrtin pokryta mraky.
-* 7	Mraky zabírají o něco víc než polovinu oblohy.
-* 8	Čtvrtina oblohy je pokryta nadýchanými beránky.
-* 9	Prakticky jasno, sem tam stopa mraku, dohled neomezený.
-* 10	Jasno, azurovo, nebe bez jediného mráčku, u hladiny se tvoří opar.
+1.	Mléčná mlha přecházející v oblaka, dohled v metrech.
+2.	Mlha šedavá, téměř souvislá, dohled do 40 m.
+3.	Velké cáry mlhy všude kolem, tmavé mraky.
+4.	Těžká mračna se hrozivě valí nízko nad mořem, není vidět ani kousek oblohy, dohled do 2 NM.
+5.	Ocelově šedá obloha, slunce lze jen tušit, dohled do 5 NM.
+6.	Obloha z více než tří čtvrtin pokryta mraky.
+7.	Mraky zabírají o něco víc než polovinu oblohy.
+8.	Čtvrtina oblohy je pokryta nadýchanými beránky.
+9.	Prakticky jasno, sem tam stopa mraku, dohled neomezený.
+10.	Jasno, azurovo, nebe bez jediného mráčku, u hladiny se tvoří opar.
 
 Vychází to ze známé Beaufortovy stupnice, ta má sice dva další stupně, které ale nedoporučuji nasazovat na základě náhodné tabulky – plavba je prakticky nemožná. Doporučuji házet na každou z položek zvlášť, nejzajímavější (a nejnebezpečnější) jsou právě situace, kdy stav větru a hladiny je odlišný. Právě tato situace (mrtvé vlnění bez větru) darovala Nelsonovi vítězství u Trafalgaru. Taková situace netrvá dlouho (zejména přítomnost větru bez vln), ale přesto dost na odehrání drsné námořní scény.
 
