@@ -61,6 +61,6 @@ Nebo (v případě více odstavců):
 - [x] zmigrovat staré články
 - [x] vyřešit TODOs v kódu
 - [x] skrýt testovací články (čísla >= 100)
-- [ ] nahrát PDF
+- [x] nahrát PDF
 - [ ] zoom pro mapy
 - [ ] přesměrovat doménu
