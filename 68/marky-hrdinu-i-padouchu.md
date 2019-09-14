@@ -137,10 +137,14 @@ Všechny výše uvedené marky jsme tvořili s myšlenkou, že nám obzvláštn�
 Ta samozřejmost se nám začala sypat, když jsme marky ukázali více hráčům a chtěli jsme po nich nějaké **jejich** nápady. A zjistili jsme, že ty naše vyvážené marky jsou spíše výjimkou, než pravidlem, protože
 
 - vyvážené marky se často líbí, ale
-  - hráči hodně chtějí další marky jako “odměnu”, nebo výsledek dlouhodobého chování, třeba pokud někdo bude neustále vyvolávat rvačky, dostane **od ostatních hráčů** oficiální nálepku *Výtržník* a v pravidlech si pak může dočíst, do které že skupiny byl milostivě zařazen
-  - je poptávka po odchylkách, úchylkách a talentech, které jsou jednoznačně **jednostranné** (buďto je to jasné postižení, nebo jasná výhoda), ale klidně **bez čísel**, tedy bez bonusů a postihů, pouze se slovním popisem, který jim **pomůže sestavit jejich charakter**
-  - když už k nové marce chtějí i číselná vyjádření, či prostě úpravu pravidel, tak hodně volají po **dovednostech** (což je cítit napříč celým RPG fórem), kdy by kdejakou změnu řešili přes naučené dovednosti postavy
-    - například pokud někdo hodně vydrží, nemusí hned dostávat bonus k *Odolnosti*, ale prostě se naučil dovednost *Železný muž* (popřípadě *Ocelová lady*) a tato dovednost už pak “sama” řeší další úpravy pravidel
+
+- hráči hodně chtějí další marky jako “odměnu”, nebo výsledek dlouhodobého chování, třeba pokud někdo bude neustále vyvolávat rvačky, dostane **od ostatních hráčů** oficiální nálepku *Výtržník* a v pravidlech si pak může dočíst, do které že skupiny byl milostivě zařazen
+
+- je poptávka po odchylkách, úchylkách a talentech, které jsou jednoznačně **jednostranné** (buďto je to jasné postižení, nebo jasná výhoda), ale klidně **bez čísel**, tedy bez bonusů a postihů, pouze se slovním popisem, který jim **pomůže sestavit jejich charakter**
+
+- když už k nové marce chtějí i číselná vyjádření, či prostě úpravu pravidel, tak hodně volají po **dovednostech** (což je cítit napříč celým RPG fórem), kdy by kdejakou změnu řešili přes naučené dovednosti postavy
+
+  - například pokud někdo hodně vydrží, nemusí hned dostávat bonus k *Odolnosti*, ale prostě se naučil dovednost *Železný muž* (popřípadě *Ocelová lady*) a tato dovednost už pak “sama” řeší další úpravy pravidel
   
 > Pozoruj lidi kolem sebe, postavy ve filmech, sebe samého ve vypjatých situacích, však ona ti nějaká ta marka cvrnkne do nosu. Nebo do gatí.
 
