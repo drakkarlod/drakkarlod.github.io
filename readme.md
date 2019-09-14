@@ -62,4 +62,5 @@ Nebo (v případě více odstavců):
 - [x] vyřešit TODOs v kódu
 - [x] skrýt testovací články (čísla >= 100)
 - [ ] nahrát PDF
+- [ ] zoom pro mapy
 - [ ] přesměrovat doménu
