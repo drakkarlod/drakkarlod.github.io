@@ -1,9 +1,16 @@
 ---
 layout: article
-title: 'Marky hrdinů i padouchů'
-summary: 'Když se hrdina narodí, obvykle to moc slávy není. Bývá příliš odlišný, neposedný, šťouravý, s nezdravým zájmem o svět "tam venku" a vůbec je často od začátku odsouzen ke ztrátě domova a hledání smyslu života jinde, "tam venku". Během prvních pár let se ukáže, jestli má tvrdý oříšek, měkké srdce a jestli ho vůbec někdo chce. Tedy jestli ho chceš ty, hráč. A kdo by chtěl šedý průměr?'
+title: Marky hrdinů i padouchů
+summary: >-
+  Když se hrdina narodí, obvykle to moc slávy není. Bývá příliš odlišný,
+  neposedný, šťouravý, s nezdravým zájmem o svět "tam venku" a vůbec je často od
+  začátku odsouzen ke ztrátě domova a hledání smyslu života jinde, "tam venku".
+  Během prvních pár let se ukáže, jestli má tvrdý oříšek, měkké srdce a jestli
+  ho vůbec někdo chce. Tedy jestli ho chceš ty, hráč. A kdo by chtěl šedý
+  průměr?
 authors: Kostřivec
 tags: 'doplňky, hrdinové'
+published: true
 ---
 
 ### Trocha toho koření
@@ -90,6 +97,7 @@ Celý svět se ti snaží ublížit, ne moc, ale tak, abys byl ve věčném nepo
 Občas ti naznačují, že bys snesl lehkou koupel, že krkání se hodí spíše do putyky nižší třídy, o dalších zvucích nemluvě a že tvůj styl vyjadřování je jaksi na pováženou, ne-li rovnou na souboj za urážku na cti, ale pro tebe jsou to jen muší prdy. Jsi jaký jsi, vymydlení hejskové jsou pro tebe zaškatulkovaní eunuchové a opatrná mluva prostá faleš. Pořádnej chlap má smrdět i z obrazu, no ne?
 
 - (DrD+) -1 *Smysly*, -1 *Krása*, +1 *Odolnost*
+
 ## Lenoch
 
 *Stál pod hrušní, hlavu div že ne vyvrácenou vzad a upřeně sledoval překrásnou máslovku, která žlutě zářila v tlumeném světle zapadajícího slunce. Kdosi mu poklepal na rameno a s tutlaným smíchem se ho optal, “čekáš na něco?”. Čekatel se nenechal vyvést z míry, dál visel očima na své vytoužené hrušce a ledabyle odvětil, “jo, na hlad”.*
@@ -98,6 +106,7 @@ Už dlouhá léta praktikuješ přísloví, že “kdo si počká, ten se dočk�
 Nikam se nehrneš, všude jsi raději až druhý a klidně i poslední, jakmile je něco krapet hotové, tak od toho dáváš ruce pryč, ať už si to dodělají jiní, když jim to přijde důležité. Pro tebe je smysluplnější se neuhnat, neudřít, nejlépe nepracovat vůbec. Však oni to ostatní časem také pochopí, někdo v důchodu, někdo *in memoriam*.
 
 - (DrD+) Když hodíš na 2k6+ dvě šestky (týká se hodů, kde něco děláš, nikoli hody na štěstí a podobně), tak končíš, žádné bonusové házení, ovšem když se počítají body únavy, tak ze všech bodů únavy, co dostaneš za jednu hodinu, dostaneš o jeden méně
+
 ## Kachní žaludek
 
 *Číšník nevěřícně přebíral zářivě čistý talíř, po něm vyleštěný příbor a na závěr prázdnou mísu. To už jeho škrabošku netečnosti přemohly pochybnosti a pro opětovné získání klidu se hosta optal, “Vy jste vypil i tu vodu na ruce?” A host, zatímco se snažil povolit řemen u kalhot, mu vysvětlil “Chlapče, až přežiješ to co já, tak budeš preventivně chroupat obden svoje škorně, jenom abys v sobě něco měl.”*
