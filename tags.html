@@ -15,9 +15,7 @@ layout: default
 
 {% for tag in tags %}
     <h2 id="{{ tag | slugify: 'latin' }}">{{ tag | capitalize }}</h2>
-    {% assign tag_esc = tag | replace: '"', '' %}
-    {% assign exp = 'page.tags contains "' | append: tag_esc | append: '"' %}
-    {% assign articles = site.pages | where_exp: 'page', exp %}
+    {% assign articles = site.pages | where_exp: 'page', 'page.tags contains tag' %}
 
     {% for article in articles %}
         {% assign article_length = article.content | size %}

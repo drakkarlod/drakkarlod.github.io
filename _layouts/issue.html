@@ -2,20 +2,14 @@
 layout: default
 ---
 
-{% assign issue_num = page.dir | replace: '/', '' %}
+{% assign issue = page %}
+{% assign issue_num = issue.dir | replace: '/', '' %}
+{% assign issue_pdf = site.static_files | where: 'extname', '.pdf' | where_exp: 'file', "file.path contains issue.dir" | first %}
 
 <h1>Drakkar #{{ issue_num }}</h1>{% comment %} TODO určit, jestli používat mřížku, číslo, nebo jinak {% endcomment %}
 
-{% comment %} search for pdf (no output) {% endcomment %}
-{% for file in site.static_files %}
-    {% assign file_dir = file.path | replace: file.name, '' %}
-    {% if file_dir == page.dir and file.extname == '.pdf' %}
-        {% assign pdf = file %}
-    {% endif %}
-{% endfor %}
-
-{% if pdf %}
-    Kompletní číslo ke stažení:&ensp;<a href="{{ pdf.path }}">Drakkar #{{ issue_num }} jako PDF</a>
+{% if issue_pdf %}
+    Kompletní číslo ke stažení:&ensp;<a href="{{ issue_pdf.path }}">Drakkar #{{ issue_num }} jako PDF</a>
 {% endif %}
 
 <div style="height: 35px"></div>
