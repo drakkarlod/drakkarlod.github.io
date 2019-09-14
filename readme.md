@@ -60,6 +60,6 @@ Nebo (v případě více odstavců):
 - [x] favicon.ico (nebo tag v hlavičce linkující na jiný soubor ikony)
 - [x] zmigrovat staré články
 - [x] vyřešit TODOs v kódu
-- [ ] skrýt testovací články (čísla >= 100)
+- [x] skrýt testovací články (čísla >= 100)
 - [ ] nahrát PDF
 - [ ] přesměrovat doménu
