@@ -24,9 +24,12 @@
         ```
         ---
         layout: article
-        title: Tabulka záporáků
+        title: Název článku
+        authors: Jméno autora
+        tags: štítek, další štítek
         ---
         ```
+    - štítky (nejde-li o název) začínat malým písmenem, více autorů se oddělit čárkou
     - pod to je možné začít psát normálně markdown text (nápověda viz otazník v menu nahoře)
     - nadpisy začínat ideálně úrovní 2 (tj. prefix ##)
     - nakonec nezapomenout uložit :)
@@ -58,3 +61,5 @@ Nebo (v případě více odstavců):
 - [x] zmigrovat staré články
 - [x] vyřešit TODOs v kódu
 - [ ] skrýt testovací články (čísla >= 100)
+- [ ] nahrát PDF
+- [ ] přesměrovat doménu
