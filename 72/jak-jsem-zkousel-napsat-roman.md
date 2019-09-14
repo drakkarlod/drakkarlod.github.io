@@ -1,0 +1,8 @@
+---
+layout: article
+title: 'Jak jsem zkoušel napsat román'
+authors: Argonantus
+tags: 'literatura, román'
+---
+
+Toto pojednání je určeno všem, kdo cítí potřebu jednoho dne napsat román. Protože vážný román, to je disertační práce spisovatele a nad něj není. Pokud si s tou myšlenkou jen tak pohráváte, pak vězte, že vás realita brzy vyzkouší, jak moc to myslíte vážně.
