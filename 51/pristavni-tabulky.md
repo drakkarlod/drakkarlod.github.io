@@ -18,8 +18,6 @@ summary: >-
   41).
 ---
 
-Zavítala Vaše družinka na neznámé pobřeží, kde ani pán jeskyně neví, jaké městečko se může vyskytnout? Jste už delší dobu v přístavu a chcete trochu narušit klid? Nebo jen ozvláštnit pobyt u moře nějakou zajímavou tematickou figurkou? Pak můžete využít následující tabulky, stačí hodit k100 a podívat se, co se také může stát. Na závěr je přidaná ještě tabulka pro hry z moderní doby a tabulka pro počasí na moři. K přípravě dobrodružství na mořském pobřeží lze využít též článek [Přístavní zápletky](http://drakkar.sk/42/pristavni-zapletky.html) z Drakkaru č. 42, případně obecnější informace o přístavech jako takových z článku [Přístavy a přístaviště](http://drakkar.sk/41/pristavy-a-pristaviste.html) (Drakkar č. 41).
-
 ## Přístavy
 
 * 1/76	Má to být malý místní přístav, tak proč místní tolik dřou na stavbě obrovského mola?
