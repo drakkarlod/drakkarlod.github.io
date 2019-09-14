@@ -4,56 +4,78 @@ layout: default
 
 <h1>Nejnovější články</h1>
 
-{% comment %} Double sorting is to keep same article order as in issue page {% endcomment %}
-{% assign articles = site.pages | where: 'layout', 'article' | sort: 'title' | reverse | sort: 'dir' | reverse %}
-{% assign printed = 0 %}
-{% for article in articles %}
-    {% comment %} Skip missorted issues 1 - 9 {% endcomment %}
-    {% assign article_dirlength = article.dir | size %}
-    {% if article_dirlength <= 3 %}
-        {% continue %}
-    {% endif %}
+{% assign issues = site.pages | where: 'layout', 'issue' | sort: 'number' | reverse %}
+{% assign pdfs = site.static_files | where: 'extname', '.pdf' %}
+{% assign articles_to_print = 10 %}
+{% for issue in issues %}
 
-    {% assign article_authors = article.authors | split: ', ' %}
-    {% assign article_tags = article.tags | split: ', ' %}
-    {% assign article_length = article.content | size %}
-    {% assign article_isfull = false %}
-    {% if article_length > 1000 or article.fulltext %}
-        {% assign article_isfull = true %}
-    {% endif %}
+    {% assign issue_pdf = pdfs | where_exp: 'pdf', "pdf.path contains issue.dir" | first %}
 
-    {% if article_isfull != true %}
-        {% continue %}
-    {% endif %}
+    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
+    {% for article in articles %}
 
-    <div class="articlepreview">
-        <h2>{{ article.title }}</h2>
+        {% assign article_authors = article.authors | split: ', ' %}
+        {% assign article_tags = article.tags | split: ', ' %}
+        {% assign article_length = article.content | size %}
+        {% assign article_isfull = false %}
+        {% if article_length > 1000 or article.fulltext %}
+            {% assign article_isfull = true %}
+        {% endif %}
 
-        <div class="articlepreview_tags">
-            {% for author in article_authors %}
-                <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
-            {% endfor %}
-            {% for tag in article_tags %}
-                <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag | capitalize }}</a>
-            {% endfor %}
-            <a href="{{ article.dir }}" class="articlepreview_tag">Drakkar #{{ article.dir | replace: '/', '' }}</a>
-        </div>
+        {% if article_isfull != true %}
+            {% continue %}
+        {% endif %}
 
-        <div class="hyphenate articlepreview_summary">
-            {% if article.summary %}
-                {{ article.summary | markdownify }}
-            {% else %}
-                <p>{{ article.content | strip_html | truncatewords: 40 }}</p>
+        <div class="articlepreview">
+            <h2>{{ article.title }}</h2>
+
+            <div class="articlepreview_tags">
+                {% for author in article_authors %}
+                    <a href="/authors.html#{{ author | slugify: 'latin' }}" class="articlepreview_tag">{{ author }}</a>
+                {% endfor %}
+                {% for tag in article_tags %}
+                    <a href="/tags.html#{{ tag | slugify: 'latin' }}" class="articlepreview_tag">{{ tag | capitalize }}</a>
+                {% endfor %}
+                <a href="{{ article.dir }}" class="articlepreview_tag">Drakkar #{{ article.dir | replace: '/', '' }}</a>
+            </div>
+
+            <div class="hyphenate articlepreview_summary">
+                {% if article.summary %}
+                    {{ article.summary | markdownify }}
+                {% else %}
+                    <p>{{ article.content | strip_html | truncatewords: 40 }}</p>
+                {% endif %}
+            </div>
+
+            {% if article_isfull %}
+                <div class="articlepreview_more"><a href="{{ article.url }}">Celý článek</a></div>
+            {%else %}
+                <div class="articlepreview_more"><em>zatím pouze v pdf</em></div>
             {% endif %}
         </div>
 
-        {% if article_isfull %}
-            <div class="articlepreview_more"><a href="{{ article.url }}">Celý článek</a></div>
-        {%else %}
-            <div class="articlepreview_more"><em>zatím pouze v pdf</em></div>
-        {% endif %}
-    </div>
+        {% assign articles_to_print = articles_to_print | minus: 1 %}
+        {% if articles_to_print <= 0 %}{% break %}{% endif %}
 
-    {% assign printed = printed | plus: 1 %}
-    {% if printed >= 7 %}{% break %}{% endif %}
+    {% endfor %}
+    {% if articles_to_print <= 0 %}{% break %}{% endif %}{% comment %} workaround for missing 'break 2' statement {% endcomment %}
+
+    {% if issue_pdf %}
+
+        <div class="articlepreview">
+            <h2>Drakkar #{{ issue.number }} vydán!</h2>
+            <div class="articlepreview_tags">
+                <a href="{{ issue.dir }}" class="articlepreview_tag">Drakkar #{{ issue.number }}</a>
+            </div>
+            <div class="hyphenate articlepreview_summary">
+                <p>Obsah čísla: {{ articles | map: 'title' | join: ', ' }}.</p>
+            </div>
+            <div class="articlepreview_more"><a href="{{ issue_pdf.path }}" target="_blank">Stáhnout pdf</a></div>
+        </div>
+
+        {% assign articles_to_print = articles_to_print | minus: 1 %}
+        {% if articles_to_print <= 0 %}{% break %}{% endif %}
+
+    {% endif %}
+
 {% endfor %}
