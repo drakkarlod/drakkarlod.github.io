@@ -29,7 +29,7 @@
         tags: štítek, další štítek
         ---
         ```
-    - štítky (nejde-li o název) začínat malým písmenem, více autorů se oddělit čárkou
+    - štítky (nejde-li o název) psát s malým písmenem, více autorů oddělit čárkou
     - pod to je možné začít psát normálně markdown text (nápověda viz otazník v menu nahoře)
     - nadpisy začínat ideálně úrovní 2 (tj. prefix ##)
     - nakonec nezapomenout uložit :)
