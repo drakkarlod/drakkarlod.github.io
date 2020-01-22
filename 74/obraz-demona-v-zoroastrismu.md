@@ -1,8 +1,9 @@
 ---
 layout: article
-title: Obraz démona v zoroastrismu
+title: Obraz démona v\_zoroastrismu
 authors: Sadako
 tags: Historie a realita
+published: true
 ---
 
 
@@ -454,5 +455,3 @@ http://www.iranicaonline.org
 (Zejm. hesla: Ahura Mazda, Ahriman, Daiva,
 Dēw, Dīv, Mithra, Anahid, Indra, Gathas I, Aša,
 Druj, Bahman, Akoman, Aždaha, Jeh, Nasu)
-
-
