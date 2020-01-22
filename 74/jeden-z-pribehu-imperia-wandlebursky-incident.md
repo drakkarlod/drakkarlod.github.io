@@ -694,14 +694,15 @@ mrzutý, ale velkorysý a předá postavám svou
 >- 1–2 body osudu;
 >- aspekty: Černý rytíř, Čaroděj;
 >- dovednosti:
+>&nbsp;
 >
 >oooo Klání
 >
->ooonbsp;nbsp;thinsp; Meč
+>ooo&nbsp;&nbsp;&thinsp; Meč
 >
->ooonbsp;nbsp;thinsp; Vyjednávání
+>ooo&nbsp;&nbsp;&thinsp; Vyjednávání
 >
->oonbsp;nbsp;nbsp;nbsp;thinsp; Magické spoutání
+>oo&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Magické spoutání
 >
 >(lze vymyslet další dovednosti, i za běhu)
 
