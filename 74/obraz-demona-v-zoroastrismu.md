@@ -10,7 +10,7 @@ published: true
 ## Proč vlastně démoni?
 
 Vždycky mě zajímalo zlo. Co to vlastně je zlo a jak
-se liší od dobra – nebo spíše, jak se naše označení
+se liší od dobra&nbsp;– nebo spíše, jak se naše označení
 dobro/zlo manifestuje v realitě lidské řeči,
 obrazů a (nejen) náboženských a mýtických příběhů.
 Od toho byl k démonům jen krůček, neb
@@ -82,7 +82,7 @@ specialistky na náboženství pre-islámského
 Íránu. Jak napovídá název, nejde jen o překlad
 jednoho z nejdůležitějších zoroastrijských
 náboženských textů, ale je doplněn i odborným
-komentářem – a Vidévdát (Zákony proti dévům)
+komentářem&nbsp;– a Vidévdát (Zákony proti dévům)
 samotný je jedním z nejbohatších zdrojů informací
 o démonech.
 
@@ -407,6 +407,7 @@ pobyt na světě je provázen pekelným zápachem,
 jejich přítomnost poskvrňuje, libují si v hnusu a
 nedokážou tvořit, jenom ničit.
 
+
 ### Bibliografie:
 
 BOYCE, Mary. A History of Zoroastrianism. Volume
@@ -436,6 +437,7 @@ Mahnaz MOAZAMI. Wrestling with the demons of
 the Pahlavi Widewdad: transcription, translation,
 and commentary. Leiden, Netherlands: Brill, 2014.
 
+
 ### Online:
 
 ANKLESARIA, Behramgore Tehmuras. Zand-Akasih,
@@ -444,6 +446,7 @@ Iranian or Greater Bundahišn. Bombay, 1956. \[cit. 2019-09-05]
 Dostupné z:
 
 http://www.avesta.org/mp/grb.htm
+
 
 Encyclopaedia Iranica \[online]. © 2018-11-01.
 \[cit. 2019-09-05]
