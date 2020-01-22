@@ -116,11 +116,11 @@ oo&nbsp;&nbsp;&thinsp; Magie větru
 
 oo&nbsp;&nbsp;&thinsp; Legendy a příběhy
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Autorita šlechtičny
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Autorita šlechtičny
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intuice (předvídání)
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Intuice (předvídání)
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neúnavná
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Neúnavná
 
 ---
 
@@ -141,11 +141,11 @@ oo&nbsp;&nbsp;&thinsp; Šavle
 
 oo&nbsp;&nbsp;&thinsp; Fascinující příběhy
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Důvěryhodnost
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Důvěryhodnost
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Revolver
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Revolver
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Přežití v divočině
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Přežití v divočině
 
 ---
 
@@ -166,11 +166,11 @@ oo&nbsp;&nbsp;&thinsp; Magie rostlin
 
 oo&nbsp;&nbsp;&thinsp; Nenápadnost
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tanec
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Tanec
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Léčení
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Léčení
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stezky a zkratky
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Stezky a zkratky
 
 ---
 
@@ -191,8 +191,8 @@ oo&nbsp;&nbsp;&thinsp; Akrobatické kousky
 
 oo&nbsp;&nbsp;&thinsp; Vnuknutí myšlenky
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Odemykání zámků
+o&nbsp; &nbsp; &nbsp;&thinsp; Odemykání zámků
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Odvádění pozornosti
+o&nbsp; &nbsp; &nbsp;&thinsp; Odvádění pozornosti
 
-o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neodolatelný úsměv
+o&nbsp; &nbsp; &nbsp;&thinsp; Neodolatelný úsměv
