@@ -1,8 +1,9 @@
 ---
 layout: article
-title: "Jeden z příběhů Impéria: Wandleburský incident"
+title: 'Jeden z příběhů Impéria: Wandleburský incident'
 authors: boubaque
 tags: materiály a doplňky
+published: true
 ---
 
 Jednorázové dobrodružství na 2–4 hodiny hraní
@@ -694,6 +695,7 @@ mrzutý, ale velkorysý a předá postavám svou
 >- 1–2 body osudu;
 >- aspekty: Černý rytíř, Čaroděj;
 >- dovednosti:
+>
 >&nbsp;
 >
 >oooo Klání
