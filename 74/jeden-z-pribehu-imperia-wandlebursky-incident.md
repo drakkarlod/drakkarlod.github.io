@@ -688,15 +688,20 @@ brnění**. Rytíř touží získat brnění, aby mohl odložit
 rytířem. Pokud snad v souboji prohraje, bude
 mrzutý, ale velkorysý a předá postavám svou
 černou zbroj a koně.
-> Rytířovy atributy:
-> - 1–2 body osudu;
-> - aspekty: Černý rytíř, Čaroděj;
-> - dovednosti:
-oooo Klání
-ooonbsp;nbsp;thinsp; Meč
-ooonbsp;nbsp;thinsp; Vyjednávání
-oonbsp;nbsp;nbsp;nbsp;thinsp; Magické spoutání
-(lze vymyslet další dovednosti, i za běhu)
+>Rytířovy atributy:
+>- 1–2 body osudu;
+>- aspekty: Černý rytíř, Čaroděj;
+>- dovednosti:
+>
+>oooo Klání
+>
+>ooonbsp;nbsp;thinsp; Meč
+>
+>ooonbsp;nbsp;thinsp; Vyjednávání
+>
+>oonbsp;nbsp;nbsp;nbsp;thinsp; Magické spoutání
+>
+>(lze vymyslet další dovednosti, i za běhu)
 
 **sir Bedwyr** (rytířův komorník, „To je jiný Bedivere.“)
 – Stojí pod pódiem u stěny **hodovní
