@@ -6,7 +6,7 @@ tags: materiály a doplňky
 ---
 
 Jednorázové dobrodružství na 2–4 hodiny hraní
-pro Příběhy Impéria nebo jiný minimalistický
+pro ´Příběhy Impéria´ nebo jiný minimalistický
 systém ve viktoriánském prostředí propleteném
 nadpřirozenem, či rovnou prvky žánru fantasy.
 Studenti magické fakulty (2–5 hráčů) vyšetřují
