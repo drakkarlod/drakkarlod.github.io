@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Obraz démona v\_zoroastrismu
+title: Obraz démona v zoroastrismu
 authors: Sadako
 tags: Historie a realita
 published: true
