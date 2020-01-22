@@ -589,12 +589,14 @@ brnění a opřené dlouhé kopí, štít a meč.
 
 ## Důležité postavy
 
-Prof. Geraldina Eastwicková – Profesorka helénské
+**Prof. Geraldina Eastwicková** – Profesorka helénské
 magie. Teď nedobrovolně tančí na elfském
 bále ve vnitřním kole a sotva plete nohama.
 Při pokusu o kontakt vypadá, že moc nevnímá,
 a žádá: „Aspoň kapku vody!“
-Prof. Constantine Anthony Rufus – Faun, profesor
+
+
+**Prof. Constantine Anthony Rufus** – Faun, profesor
 iluzionismu. Při setkání s Černým rytířem
 přeskočil zídku a dal se na úprk příkopem, kde
 ho ovšem dohnali rytířovi panoši a odnesli do
@@ -602,19 +604,23 @@ Férie. Teď nedobrovolně tančí na elfském bále
 ve vnitřním kole a sotva plete nohama. Při pokusu
 o kontakt vypadá, že moc nevnímá, jen vykřikne:
 „Pít! Tolik mi vyschlo v hrdle!“
-Prof. Jacob F. Smith – Profesor lektvarů, slabý
+
+
+**Prof. Jacob F. Smith** – Profesor lektvarů, slabý
 a mírně obtloustlý, v opilosti vykřikl výzvu
 vyčtenou z knihy a tím přivolal Černého rytíře.
 Lekl se a pochopitelně odmítl bojovat, rytíř jeho
 a prof. Eastwickovou unesl do Férie. Teď sedí
-v přítmí na konci →kolbiště vedle zapůjčeného
+v přítmí na konci →**kolbiště** vedle zapůjčeného
 brnění, koně a kopí, trucuje a klepe se strachy.
 Rozhodně odmítá bojovat se slovy, že není blázen.
 (Mělo by ale být možné ho přesvědčit, přinejmenším
 s použitím vhodné magie.)
-„Skokan“ (Eoghan Domhnall, čti jako Owen Donal)
-– Zbabělý skřítek, který je u Černého rytíře
-v nemilosti, stejně jako Chřástal. Doufá, že tím,
+
+
+**„Skokan“** (**Eoghan Domhnall**, čti jako Owen Donal)
+– Zbabělý skřítek, který je u **Černého rytíře**
+v nemilosti, stejně jako **Chřástal**. Doufá, že tím,
 že mu přinese stříbrné brnění, si opět získá vážnost.
 S postavami bude jednat zbrkle – nejprve
 bude zticha a bude odmítat prozradit i svou
@@ -624,6 +630,128 @@ přistoupí (ale může chtít postavy podvést, nebo
 v nestřežené chvíli utéct), po výhrůžkách se zlomí.
 Pokud ho postavy donutí prozradit skutečné
 jméno, už se je podvést nepokusí.
-„Chřástal“ (Caoimhín Niall, čti jako Kevin Neal)
-– Skokanův kumpán, není vlastně moc důležitý
+
+
+**„Chřástal“** (**Caoimhín Niall**, čti jako Kevin Neal)
+– **Skokanův** kumpán, není vlastně moc důležitý
 a je se Skokanem případně zcela zaměnitelný.
+
+**„Kavka“** (své pravé jméno nemá důvod prozradit)
+– Sedí na větvi stromu u **cesty k tvrzi** a pobaveně,
+ale tiše, sleduje procházející postavy.
+Postavy si ho můžou všimnout, může je oslovit
+sám, ale můžou ho i úplně minout. Bude přátelský,
+a pokud postavy slíbí, že přinesou vzkaz na
+slavnost „elfské dívce s modrou stuhou okolo
+krku“ (může to být žena Černého rytíře, ale i někdo
+úplně jiný, nechávám to na tvém uvážení,
+Vypravěči), vysvětlí jim, že elfové hodně dají na
+pravidla a hierarchii a že na jednání k vládci se
+vždy chodí s darem – nejvíce si elfové cení dárků,
+které mají největší hodnotu pro samotného
+dárce. On nějaká pravidla porušil (byla v tom
+ona dívka), a proto nesmí být na slavnosti.
+
+Pokud budete mít pocit, že je ho ještě potřeba,
+může sedět ve stínu na střeše **hodovní síně**
+(přece se neúčastní slavnosti!) a mluvit s postavami,
+které za ním nepozorovaně vylezou.
+
+
+**sir Gawain** (strážce u brány, „To je jiný Gawain.“)
+– Stojí v břečťanové bráně na konci cesty k tvrzi.
+Nechá si postavy představit, ale jinak se nebude
+vybavovat. Je formální, k dámám úslužný. Budou-li
+chtít, ochotně dovede postavy skrz hájek
+u věže a probíhající slavnost k bráně do hodovní
+síně, kde je na prahu bez okolků a varování
+představí (Černý rytíř jako by ani neslyšel).
+
+**Černý rytíř** – Mocný elf, vládce tohoto férijského
+panství. Čeká, až se profesor Smith vzmuží a
+dostane své výzvě k souboji. Do té doby si neúspěšně
+spravuje náladu sledováním bálu. Je
+velmi formální, audienci je třeba domluvit přes
+komorníka, **sira Bedwyra**; jinak se bude chovat,
+jako by postavy ani neexistovaly. Bude také jednat
+pouze s někým urozeným nebo se zástupci
+důležité osoby (což může být i **děkan**). Při audienci
+zastaví tanec a nechá vytvořit špalír pro
+hosty, pokud nedostane nějaký dar, bude protivný
+a vybere si jednu z postav jako potenciálního
+zástupce **prof. Smitha** v souboji. Jinak chce
+pokud možno provést souboj, ale bude ochotný
+odvolat ho, pokud na klání nikdo nepřistoupí a
+postavy nabídnou více než jen samotné **stříbrné
+brnění**. Rytíř touží získat brnění, aby mohl odložit
+černou a být po staletích opět Stříbrným
+rytířem. Pokud snad v souboji prohraje, bude
+mrzutý, ale velkorysý a předá postavám svou
+černou zbroj a koně.
+> Rytířovy atributy:
+> - 1–2 body osudu;
+> - aspekty: Černý rytíř, Čaroděj;
+> - dovednosti:
+oooo Klání
+ooonbsp;nbsp;thinsp; Meč
+ooonbsp;nbsp;thinsp; Vyjednávání
+oonbsp;nbsp;nbsp;nbsp;thinsp; Magické spoutání
+(lze vymyslet další dovednosti, i za běhu)
+
+**sir Bedwyr** (rytířův komorník, „To je jiný Bedivere.“)
+– Stojí pod pódiem u stěny **hodovní
+síně**. Budou-li s ním postavy jednat formálně,
+bude i on velmi formální. Pokud se s ním postavy
+začnou bavit vřele, nebo mu dokonce lichotit,
+bude vcelku bodrý, usměvavý a vybere
+si nejvznešenější dámu ve skupině a provede ji
+znovu od břečťanové brány a při tom jí ukáže,
+jak se chovat, koho zdravit, kdo je tu důležitý,
+a kdo ne. V obou případech jednoduše domluví
+audienci, ale při formálním jednání se předem
+nezmíní o daru pro vládce.
+
+**rytíř z Jelení hory** – Vznešeně oblečený, silný
+elf s parohy statného čtrnácteráka. Vládne malému
+panství na severní straně. Na bál přichází
+chvíli po postavách, okamžitě se zapojí do tance
+a během prvního kola se pod trůnem v tanci
+**Černému rytíři** hluboce ukloní. Po prvním kole
+z tance vystoupí a půjde si pro občerstvení. Když
+mu postavy pochválí jeho parohy, bude jim velmi
+nakloněn a přehlédne všechny jejich případné
+přešlapy, případně jim něco málo vysvětlí
+o elfské hierarchii a formálnosti elfských domů.
+Vysvětlí jim, že je povinností hostů na bálu protančit
+alespoň jedno kolo v tanci a přitom se uklonit
+hostiteli. Nasměruje je také na **sira Bedwyra**,
+pokud budou chtít audienci u **Černého rytíře**.
+
+**děkan Ernest R. Malloy** – V příběhu nevystupuje,
+ale lze se odvolávat na jeho autoritu. V celé
+Británii byl koncem 60. let počet děkanů maximálně
+v nízkých desítkách (20–40), **Černý rytíř**
+bude tuto funkci pokládat za titul, a bude mu
+tedy přikládat poměrně velkou vážnost.
+
+
+## Důležité předměty
+
+**Podrobný soupis pověstí a legend Essexu,
+Cambridgeshire, Suffolku a Norfolku** _sebraný a srovnaný
+dle zeměpisného klíče Dr. Albertem
+Derbym, v Cambridži roku 1833, 512 s._&nbsp;–
+Obsahuje asi stránkový popis pověsti, která se
+váže k Wandlebury (anebo nedalekému Magog
+Down); podle ní, když člověk uvnitř původního
+hradiště vykřikne: „Předstup! Muž proti muži!“,
+objeví se rytíř v plné zbroji na koni, a pokud ho
+vyzyvatel porazí, získá velké jmění.
+
+**Stříbrné brnění se štítem** – Stojí v jídelně fakulty,
+štít se pokusili ukrást **Skokan** s **Chřástalem**.
+Je plně funkční a dobře zachovalé, i když stříbro
+už zašlo. Původně patřilo Stříbrnému rytíři, který
+ho kdysi v klání prohrál, a stal se proto **Černým
+rytířem**. Je to věc, kterou touží vyhrát v klání,
+aby mohl být opět Stříbrným rytířem.
