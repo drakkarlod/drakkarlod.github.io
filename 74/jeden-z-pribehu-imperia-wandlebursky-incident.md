@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Jeden z&nbsp;příběhů Impéria: Wandleburský incident
-authors: Jakub boubaque
+title: "Jeden z příběhů Impéria: Wandleburský incident"
+authors: boubaque
 tags: materiály a doplňky
 ---
 
@@ -97,6 +97,8 @@ s číselnými statistikami postav.*
 
 ## Předpřipravené postavy
 
+---
+
 ### Priscilla Eveningstar
 
 **Aspekty**
@@ -108,17 +110,17 @@ s číselnými statistikami postav.*
 
 ooo Pozorovací schopnosti
 
-oo&nbsp;&nbsp; Sečtělá
+oo&nbsp;&nbsp;&thinsp; Sečtělá
 
-oo&nbsp;&nbsp; Magie větru
+oo&nbsp;&nbsp;&thinsp; Magie větru
 
-oo&nbsp;&nbsp; Legendy a příběhy
+oo&nbsp;&nbsp;&thinsp; Legendy a příběhy
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Autorita šlechtičny
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Autorita šlechtičny
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Intuice (předvídání)
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intuice (předvídání)
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Neúnavná
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neúnavná
 
 ---
 
@@ -133,17 +135,17 @@ o&nbsp;&nbsp;&nbsp;&nbsp; Neúnavná
 
 ooo Hbitá jako lasička
 
-oo&nbsp;&nbsp; Přesvědčivá sebejistota
+oo&nbsp;&nbsp;&thinsp; Přesvědčivá sebejistota
 
-oo&nbsp;&nbsp; Šavle
+oo&nbsp;&nbsp;&thinsp; Šavle
 
-oo&nbsp;&nbsp; Fascinující příběhy
+oo&nbsp;&nbsp;&thinsp; Fascinující příběhy
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Důvěryhodnost
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Důvěryhodnost
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Revolver
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Revolver
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Přežití v divočině
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Přežití v divočině
 
 ---
 
@@ -158,17 +160,17 @@ o&nbsp;&nbsp;&nbsp;&nbsp; Přežití v divočině
 
 ooo Znalost Férie
 
-oo&nbsp;&nbsp; Omamné látky a jedy
+oo&nbsp;&nbsp;&thinsp; Omamné látky a jedy
 
-oo&nbsp;&nbsp; Magie rostlin
+oo&nbsp;&nbsp;&thinsp; Magie rostlin
 
-oo&nbsp;&nbsp; Nenápadnost
+oo&nbsp;&nbsp;&thinsp; Nenápadnost
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Tanec
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tanec
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Léčení
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Léčení
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Stezky a zkratky
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stezky a zkratky
 
 ---
 
@@ -183,16 +185,14 @@ o&nbsp;&nbsp;&nbsp;&nbsp; Stezky a zkratky
 
 ooo „Neškodná“
 
-oo&nbsp;&nbsp; Děvče se musí ubránit čímkoli
+oo&nbsp;&nbsp;&thinsp; Děvče se musí ubránit čímkoli
 
-oo&nbsp;&nbsp; Akrobatické kousky
+oo&nbsp;&nbsp;&thinsp; Akrobatické kousky
 
-oo&nbsp;&nbsp; Vnuknutí myšlenky
+oo&nbsp;&nbsp;&thinsp; Vnuknutí myšlenky
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Odemykání zámků
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Odemykání zámků
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Odvádění pozornosti
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Odvádění pozornosti
 
-o&nbsp;&nbsp;&nbsp;&nbsp; Neodolatelný úsměv
-
-
+o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neodolatelný úsměv
