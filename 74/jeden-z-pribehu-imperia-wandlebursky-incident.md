@@ -388,7 +388,7 @@ nefunkční kopie. Výdejní okénko do kuchyně,
 kde pomalu a se zjevným úslilím připravuje jídlo
 trollí kuchařka Wendy.
 
-<div></div>
+<div>&nbsp;</div>
 **Pokoje profesorů** – _Pokoj prof. Rufa_ je zcela čistý
 a uklizený, v měkkém rudém koberci jsou stopy
 od dveří k sekretáři, jehož dvířka jsou pootevřená
@@ -401,7 +401,7 @@ rozpité lahve whisky, sherry a absintu (lze přidat
 další) a několik skleniček, postel je trochu zválená,
 ale nejspíš pouze od sezení.
 
-<div></div>
+<div>&nbsp;</div>
 **Profesorský salónek** – Pohodlně zařízená místnost,
 ve které je pár dalších lahví (od portského
 či whisky) a skleničky. Válí se tu na koberci hromada
@@ -413,7 +413,7 @@ rytíře a získal jeho zbroj a koně (z historického
 hlediska je to hloupost, tehdy ještě neexistovala
 rytířská kultura turnajů).
 
-<div></div>
+<div>&nbsp;</div>
 **Zahrada** – V zahradě lze zprvu občas zahlédnout
 malé pohybující se postavy, které spíš občas
 vykouknou zpoza keře, stromu, kamene,
@@ -431,7 +431,7 @@ začínají v brance a náhle mizí asi o patnáct metrů
 dál v zahradě. Venku za zídkou lze najít stopy
 fauna, které ústí do příkopu (→**Příkop**).
 
-<div></div>
+<div>&nbsp;</div>
 **Příkop** – Válí se v něm mlha a je tu kvůli větvím
 stromů rostoucích na valu méně sněhu, ale v listí
 lze dohledat cestu, kterou někdo (**prof. Rufus**)
@@ -440,7 +440,7 @@ stopy končí v místě, kde zjevně proběhl nějaký
 zápas, v listí se válí jen několik čerstvých okvětních
 lístků tulipánů.
 
-<div></div>
+<div>&nbsp;</div>
 **Portál v hlohovém keři** – Na severní straně zahrady
 těsně za zídkou mají **Skokan** a **Chřástal**
 v keři otevřený průchod do Férie. Pokud je postavy
@@ -450,7 +450,7 @@ pak naoko spolupracovat, ale ať už po dobrém,
 nebo po zlém se v příhodnou chvíli pokusí projít
 portálem. (Portál vede do →**Hradiště**.)
 
-<div></div>
+<div>&nbsp;</div>
 **Hradiště (Férie)** – Když postavy vyjdou z portálu
 ve Férii, zjistí, že je noc. Hvězdy ovšem svítí tak
 silně, že se dá vcelku dobře orientovat i po tmě.
@@ -471,7 +471,7 @@ z toho místa, ale zde je stále nepřirozeně
 palisádu a příkop zahloubená **cesta**, je však zcela
 volná a nehlídaná.
 
-<div></div>
+<div>&nbsp;</div>
 **Cesta k tvrzi (Férie)** – Od příkopu vede cesta
 mezi záhony silně voňvých tulipánů (pokud postavy
 nějaký urhnou, můžete se jich zeptat, zda
@@ -503,7 +503,7 @@ si mohou sklenice bez nebezpečí vzít, ale
 Gawain je sám nenabídne. Pokud si ale víno nevezmou,
 bude všem hned zřejmé, že jsou cizinci.
 
-<div></div>
+<div>&nbsp;</div>
 **Hájek u věže (Férie)** – Nepříliš rozlehlý řídký remízek,
 v jehož středu stojí věž a **hodovní síň**. Celý
 prostor je naplněn vůní květin a příjemnou hudbou.
@@ -522,7 +522,7 @@ travnatý prostor, rozdělený podélně dřevěným
 zábradlím (→**kolbiště**), na jedné ze stran je dřevěná
 tribuna.
 
-<div></div>
+<div>&nbsp;</div>
 **Hodovní síň (Férie)** – Zvenku je to rozlehlá budova
 se stěnami tvořenými březovými kmeny
 a s doškovou střechou (k ní zprava, ze západní
@@ -576,7 +576,7 @@ Stůl s občerstvením se táhne podél celé
 protější (severní) stěny, pití roznášejí skříci v livrejích
 na tácech.
 
-<div></div>
+<div>&nbsp;</div>
 **Kolbiště (Férie)** – Dlouhý travnatý prostor podélně
 rozdělený dřevěným zábradlím, osvětlený
 lapiony a s tribunou na jedné straně. Na
@@ -596,7 +596,7 @@ bále ve vnitřním kole a sotva plete nohama.
 Při pokusu o kontakt vypadá, že moc nevnímá,
 a žádá: „Aspoň kapku vody!“
 
-<div></div>
+<div>&nbsp;</div>
 **Prof. Constantine Anthony Rufus** – Faun, profesor
 iluzionismu. Při setkání s Černým rytířem
 přeskočil zídku a dal se na úprk příkopem, kde
@@ -606,7 +606,7 @@ ve vnitřním kole a sotva plete nohama. Při pokusu
 o kontakt vypadá, že moc nevnímá, jen vykřikne:
 „Pít! Tolik mi vyschlo v hrdle!“
 
-<div></div>
+<div>&nbsp;</div>
 **Prof. Jacob F. Smith** – Profesor lektvarů, slabý
 a mírně obtloustlý, v opilosti vykřikl výzvu
 vyčtenou z knihy a tím přivolal Černého rytíře.
@@ -618,7 +618,7 @@ Rozhodně odmítá bojovat se slovy, že není blázen.
 (Mělo by ale být možné ho přesvědčit, přinejmenším
 s použitím vhodné magie.)
 
-<div></div>
+<div>&nbsp;</div>
 **„Skokan“** (**Eoghan Domhnall**, čti jako Owen Donal)
 – Zbabělý skřítek, který je u **Černého rytíře**
 v nemilosti, stejně jako **Chřástal**. Doufá, že tím,
@@ -632,12 +632,12 @@ v nestřežené chvíli utéct), po výhrůžkách se zlomí.
 Pokud ho postavy donutí prozradit skutečné
 jméno, už se je podvést nepokusí.
 
-<div></div>
+<div>&nbsp;</div>
 **„Chřástal“** (**Caoimhín Niall**, čti jako Kevin Neal)
 – **Skokanův** kumpán, není vlastně moc důležitý
 a je se Skokanem případně zcela zaměnitelný.
 
-<div></div>
+<div>&nbsp;</div>
 **„Kavka“** (své pravé jméno nemá důvod prozradit)
 – Sedí na větvi stromu u **cesty k tvrzi** a pobaveně,
 ale tiše, sleduje procházející postavy.
@@ -659,7 +659,7 @@ může sedět ve stínu na střeše **hodovní síně**
 (přece se neúčastní slavnosti!) a mluvit s postavami,
 které za ním nepozorovaně vylezou.
 
-<div></div>
+<div>&nbsp;</div>
 **sir Gawain** (strážce u brány, „To je jiný Gawain.“)
 – Stojí v břečťanové bráně na konci cesty k tvrzi.
 Nechá si postavy představit, ale jinak se nebude
@@ -669,7 +669,7 @@ u věže a probíhající slavnost k bráně do hodovní
 síně, kde je na prahu bez okolků a varování
 představí (Černý rytíř jako by ani neslyšel).
 
-<div></div>
+<div>&nbsp;</div>
 **Černý rytíř** – Mocný elf, vládce tohoto férijského
 panství. Čeká, až se profesor Smith vzmuží a
 dostane své výzvě k souboji. Do té doby si neúspěšně
@@ -708,7 +708,7 @@ mrzutý, ale velkorysý a předá postavám svou
 >
 >(lze vymyslet další dovednosti, i za běhu)
 
-<div></div>
+<div>&nbsp;</div>
 **sir Bedwyr** (rytířův komorník, „To je jiný Bedivere.“)
 – Stojí pod pódiem u stěny **hodovní
 síně**. Budou-li s ním postavy jednat formálně,
@@ -722,7 +722,7 @@ a kdo ne. V obou případech jednoduše domluví
 audienci, ale při formálním jednání se předem
 nezmíní o daru pro vládce.
 
-<div></div>
+<div>&nbsp;</div>
 **rytíř z Jelení hory** – Vznešeně oblečený, silný
 elf s parohy statného čtrnácteráka. Vládne malému
 panství na severní straně. Na bál přichází
@@ -739,7 +739,7 @@ alespoň jedno kolo v tanci a přitom se uklonit
 hostiteli. Nasměruje je také na **sira Bedwyra**,
 pokud budou chtít audienci u **Černého rytíře**.
 
-<div></div>
+<div>&nbsp;</div>
 **děkan Ernest R. Malloy** – V příběhu nevystupuje,
 ale lze se odvolávat na jeho autoritu. V celé
 Británii byl koncem 60. let počet děkanů maximálně
@@ -761,7 +761,7 @@ hradiště vykřikne: „Předstup! Muž proti muži!“,
 objeví se rytíř v plné zbroji na koni, a pokud ho
 vyzyvatel porazí, získá velké jmění.
 
-<div></div>
+<div>&nbsp;</div>
 **Stříbrné brnění se štítem** – Stojí v jídelně fakulty,
 štít se pokusili ukrást **Skokan** s **Chřástalem**.
 Je plně funkční a dobře zachovalé, i když stříbro
