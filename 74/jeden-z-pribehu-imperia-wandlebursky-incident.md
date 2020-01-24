@@ -60,6 +60,8 @@ Smitha v klání zastoupí, nebo třeba vyjednají
 s Černým rytířem podmínky zadostiučinění
 bez souboje.
 
+![wandlebury_mapa_m.jpg]({{site.baseurl}}/74/wandlebury_mapa_m.jpg)
+
 ## Anotace pro hráče
 
 Cambridgeská kolej magiků ve Wandlebury nestojí
@@ -536,6 +538,8 @@ stranou od síně je dlouhý, lampiony osvětlený
 travnatý prostor, rozdělený podélně dřevěným
 zábradlím (→**kolbiště**), na jedné ze stran je dřevěná
 tribuna.
+
+![wandlebury_hodovnisin_m.jpg]({{site.baseurl}}/74/wandlebury_hodovnisin_m.jpg)
 
 <div>&nbsp;</div>
 **Hodovní síň (Férie)** – Zvenku je to rozlehlá budova
