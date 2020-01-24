@@ -388,9 +388,9 @@ je později najdou i se štítem smutně sedět
 u cesty ve Férii. Černý rytíř se totiž rozzlobí, vyžene
 je ze slavnosti a nařídí jim štít vrátit.)
 
-## Lokace
-
 ![Tuto mapu raději hráčům neukazujte...]({{site.baseurl}}/74/wandlebury-popisky.jpg)
+
+## Lokace
 
 **Jídelna fakulty** – Sál s dlouhým stolem, lavicemi
 a několika menšími stolky a židlemi. Prosklené
