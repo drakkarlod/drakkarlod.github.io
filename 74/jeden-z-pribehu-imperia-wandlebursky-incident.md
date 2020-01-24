@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Jeden z příběhů Impéria: Wandleburský incident'
-authors: Jakub "boubaque" Maruš
+authors: Jakub „boubaque“ Maruš
 tags: materiály a doplňky
 published: true
 summary: >-
