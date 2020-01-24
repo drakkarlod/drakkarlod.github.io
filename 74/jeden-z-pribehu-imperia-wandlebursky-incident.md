@@ -99,7 +99,7 @@ s číselnými statistikami postav.*
 
 ### Priscilla Eveningstar
 
-![Priscilla%20Eveningstar.jpg]({{site.baseurl}}/74/Priscilla%Eveningstar.jpg)
+![]({{site.baseurl}}/74/Priscilla Eveningstar.jpg)
 
 **Aspekty**
 - Aristokratka
@@ -126,7 +126,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Neúnavná
 
 ### Evelyn Sharp
 
-![Evelyn%20Sharp.jpg]({{site.baseurl}}/74/Evelyn%20Sharp.jpg)
+![]({{site.baseurl}}/74/Evelyn Sharp.jpg)
 
 **Aspekty**
 - Chlapecká výchova
@@ -153,7 +153,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Přežití v divočině
 
 ### Fiona Flannagan
 
-![Fiona%20Flannagan.jpg]({{site.baseurl}}/74/Fiona%20Flannagan.jpg)
+![]({{site.baseurl}}/74/Fiona Flannagan.jpg)
 
 **Aspekty**
 - Kapka elfské krve
@@ -180,7 +180,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Stezky a zkratky
 
 ### Amandine Bellerose
 
-![Amandine%20Bellerose.jpg]({{site.baseurl}}/74/Amandine%20Bellerose.jpg)
+![]({{site.baseurl}}/74/Amandine Bellerose.jpg)
 
 **Aspekty**
 - Okouzlující
@@ -207,7 +207,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Neodolatelný úsměv
 
 ### Terrence Kelsey
 
-![Terrence%20Kelsey.jpg]({{site.baseurl}}/74/Terrence%20Kelsey.jpg)
+![]({{site.baseurl}}/74/Terrence Kelsey.jpg)
 
 **Aspekty**
 - Chladnokrevný
@@ -234,7 +234,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Historie
 
 ### Solomon Tinfield
 
-![Solomon%20Tinfield.jpg]({{site.baseurl}}/74/Solomon%20Tinfield.jpg)
+![]({{site.baseurl}}/74/Solomon Tinfield.jpg)
 
 **Aspekty**
 - Mládí na ulici
@@ -261,7 +261,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Ostražitost
 
 ### Alexander Westward
 
-![Alexander%20Westward.jpg]({{site.baseurl}}/74/Alexander%20Westward.jpg)
+![.jpg]({{site.baseurl}}/74/Alexander Westward.jpg)
 
 **Aspekty**
 - „Nehleďme na nebezpečí!“
