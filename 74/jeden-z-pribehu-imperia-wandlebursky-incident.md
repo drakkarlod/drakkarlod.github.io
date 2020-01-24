@@ -97,9 +97,9 @@ s číselnými statistikami postav.*
 
 ---
 
-### Priscilla Eveningstar
-
 ![]({{site.baseurl}}/74/Priscilla Eveningstar.jpg)
+
+### Priscilla Eveningstar
 
 **Aspekty**
 - Aristokratka
@@ -124,9 +124,9 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Neúnavná
 
 ---
 
-### Evelyn Sharp
-
 ![]({{site.baseurl}}/74/Evelyn Sharp.jpg)
+
+### Evelyn Sharp
 
 **Aspekty**
 - Chlapecká výchova
@@ -151,9 +151,9 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Přežití v divočině
 
 ---
 
-### Fiona Flannagan
-
 ![]({{site.baseurl}}/74/Fiona Flannagan.jpg)
+
+### Fiona Flannagan
 
 **Aspekty**
 - Kapka elfské krve
@@ -178,9 +178,9 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Stezky a zkratky
 
 ---
 
-### Amandine Bellerose
-
 ![]({{site.baseurl}}/74/Amandine Bellerose.jpg)
+
+### Amandine Bellerose
 
 **Aspekty**
 - Okouzlující
@@ -205,9 +205,9 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Neodolatelný úsměv
 
 ---
 
-### Terrence Kelsey
-
 ![]({{site.baseurl}}/74/Terrence Kelsey.jpg)
+
+### Terrence Kelsey
 
 **Aspekty**
 - Chladnokrevný
@@ -232,9 +232,9 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Historie
 
 ---
 
-### Solomon Tinfield
-
 ![]({{site.baseurl}}/74/Solomon Tinfield.jpg)
+
+### Solomon Tinfield
 
 **Aspekty**
 - Mládí na ulici
@@ -259,9 +259,9 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Ostražitost
 
 ---
 
-### Alexander Westward
-
 ![.jpg]({{site.baseurl}}/74/Alexander Westward.jpg)
+
+### Alexander Westward
 
 **Aspekty**
 - „Nehleďme na nebezpečí!“
@@ -286,9 +286,9 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Hrubá síla
 
 ---
 
-### Cedric
-
 ![Cedric.jpg]({{site.baseurl}}/74/Cedric.jpg)
+
+### Cedric
 
 **Aspekty**
 - Gobliní majordomus
