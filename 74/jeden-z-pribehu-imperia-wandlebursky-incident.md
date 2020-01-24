@@ -99,6 +99,8 @@ s číselnými statistikami postav.*
 
 ### Priscilla Eveningstar
 
+![Priscilla%20Eveningstar.jpg]({{site.baseurl}}/74/Priscilla%Eveningstar.jpg)
+
 **Aspekty**
 - Aristokratka
 - Divotvůrce
@@ -371,6 +373,8 @@ u cesty ve Férii. Černý rytíř se totiž rozzlobí, vyžene
 je ze slavnosti a nařídí jim štít vrátit.)
 
 ## Lokace
+
+![wandlebury-popisky.jpg]({{site.baseurl}}/74/wandlebury-popisky.jpg)
 
 **Jídelna fakulty** – Sál s dlouhým stolem, lavicemi
 a několika menšími stolky a židlemi. Prosklené
