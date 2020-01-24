@@ -5,23 +5,13 @@ authors: boubaque
 tags: materiály a doplňky
 published: true
 summary: >-
-  Jednorázové dobrodružství na 2–4 hodiny hraní pro Příběhy Impéria nebo jiný
+  Jednorázové dobrodružství na 2–4 hodiny hraní pro `Příběhy Impéria` nebo jiný
   minimalistický systém ve viktoriánském prostředí propleteném nadpřirozenem, či
   rovnou prvky žánru fantasy. Studenti magické fakulty (2–5 hráčů) vyšetřují
   náhlý výskyt nadpřirozených jevů a zmizení několika profesorů. Na postavy čeká
   trocha vyšetřování, magie, přechod do Férie, a snad i trocha akce či
   dobrodružství.
 ---
-
-Jednorázové dobrodružství na 2–4 hodiny hraní
-pro Příběhy Impéria nebo jiný minimalistický
-systém ve viktoriánském prostředí propleteném
-nadpřirozenem, či rovnou prvky žánru fantasy.
-Studenti magické fakulty (2–5 hráčů) vyšetřují
-náhlý výskyt nadpřirozených jevů a zmizení několika
-profesorů. Na postavy čeká trocha vyšetřování,
-magie, přechod do Férie, a snad i trocha
-akce či dobrodružství.
 
 ## O co jde a co se stalo? (spoiler!)
 
