@@ -261,7 +261,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Ostražitost
 
 ---
 
-![.jpg]({{site.baseurl}}/74/Alexander Westward.jpg)
+![]({{site.baseurl}}/74/Alexander Westward.jpg)
 
 ### Alexander Westward
 
