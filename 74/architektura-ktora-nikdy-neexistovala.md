@@ -2,7 +2,7 @@
 layout: article
 title: Architektúra, ktorá nikdy neexistovala
 authors: Martin Hatala
-tags: O hraní obecně
+tags: o hraní obecně
 summary: Architektúra v sci-fi a fantasy, či ich sub-žánroch, je väčšinou v pozícií kulisy – niekde medzi zhrnutím počasia a opisom elfskej slečny, ktorá posunie dej ďalej. Not judging, je to žánrová vec. Dobre stavaná elfka v bikinách, bude vždy zaujímavejšia ako dobre stavaná stavba v bikinách.
 ---
 

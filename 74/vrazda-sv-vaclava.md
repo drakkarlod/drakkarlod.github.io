@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Vražda sv. Václava
-authors: „Paul“
-tags: Historie a realita
+authors: Paul
+tags: historie a realita
 summary: Dnes je to již 1084 let, co Boleslav, druhorozený syn knížete Vratislava, zabil svého bratra Václava, právoplatného knížete české země. Mnoho věcí toho dne začalo a na konci dlouhého řetězu událostí stojíme dnes my a náš stát tak, jak jej známe.
 ---
 
