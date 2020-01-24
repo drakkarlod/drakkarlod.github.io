@@ -1,9 +1,14 @@
 ---
 layout: article
-title: Architektúra, ktorá nikdy neexistovala
+title: 'Architektúra, ktorá nikdy neexistovala'
 authors: Martin Hatala
 tags: o hraní obecně
-summary: Architektúra v sci-fi a fantasy, či ich sub-žánroch, je väčšinou v pozícií kulisy – niekde medzi zhrnutím počasia a opisom elfskej slečny, ktorá posunie dej ďalej. Not judging, je to žánrová vec. Dobre stavaná elfka v bikinách, bude vždy zaujímavejšia ako dobre stavaná stavba v bikinách.
+summary: >-
+  Architektúra v sci-fi a fantasy, či ich sub-žánroch, je väčšinou v pozícií
+  kulisy – niekde medzi zhrnutím počasia a opisom elfskej slečny, ktorá posunie
+  dej ďalej. Not judging, je to žánrová vec. Dobre stavaná elfka v bikinách,
+  bude vždy zaujímavejšia ako dobre stavaná stavba v bikinách.
+published: true
 ---
 
 Odhliadnuc od klišé, architektúra ponúka samostatnú výpovednú hodnotu, ktorá je v rámci žánru a aj RPG málo rozvinutá. Samozrejme, elfovia bývajú na stromoch, trpaslíci pod zemou a rovnako ako každý aspekt tejto sub-kultúry má už nejaké jasné stereotypy, ktoré fungujú.
@@ -11,6 +16,8 @@ Odhliadnuc od klišé, architektúra ponúka samostatnú výpovednú hodnotu, kt
 Architektúra však vie priniesť veľmi veľa do celkovej atmosféry príbehu. Ak sa prenesieme cez architektúru v zmysle „akej farby je múr a odkiaľ sa do toho lezie?“ a zameriame sa na architektúru ako priestor, či skôr priestor poznačený stavebným zásahom.
 
 Tým myslím to, že architektúra nemusí byť len magická veža zo slonoviny, ale aj most vydlabaný do kmeňa padnutého stromu. Oba tieto priestory ponúkajú úplne inú atmosféru a emóciu, pretože vytvárajú iný priestor.
+
+![columns-801715_640.jpg]({{site.baseurl}}/74/columns-801715_640.jpg)
 
 Samotný priestor prezentuje výpovednú hodnotu, ktorá zďaleka nemusí byť iba kulisou, ale môže vytvoriť atmosféru, ktorá sa hráčov dotkne a ostane s nimi. Samozrejme, je jednoduchšie pustiť melancholickú hudbu, ako vytvoriť fiktívny architektonický sloh, odprezentovať ho hráčom a potom im z neho dať skúšku.
 
