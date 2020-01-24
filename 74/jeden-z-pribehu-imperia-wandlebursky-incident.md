@@ -60,7 +60,7 @@ Smitha v klání zastoupí, nebo třeba vyjednají
 s Černým rytířem podmínky zadostiučinění
 bez souboje.
 
-![wandlebury_mapa_m.jpg]({{site.baseurl}}/74/wandlebury_mapa_m.jpg)
+![Mapa (nejen) pro hráče]({{site.baseurl}}/74/wandlebury_mapa_m.jpg)
 
 ## Anotace pro hráče
 
@@ -390,7 +390,7 @@ je ze slavnosti a nařídí jim štít vrátit.)
 
 ## Lokace
 
-![wandlebury-popisky.jpg]({{site.baseurl}}/74/wandlebury-popisky.jpg)
+![Tuto mapu raději hráčům neukazujte...]({{site.baseurl}}/74/wandlebury-popisky.jpg)
 
 **Jídelna fakulty** – Sál s dlouhým stolem, lavicemi
 a několika menšími stolky a židlemi. Prosklené
@@ -539,7 +539,7 @@ travnatý prostor, rozdělený podélně dřevěným
 zábradlím (→**kolbiště**), na jedné ze stran je dřevěná
 tribuna.
 
-![wandlebury_hodovnisin_m.jpg]({{site.baseurl}}/74/wandlebury_hodovnisin_m.jpg)
+![]({{site.baseurl}}/74/wandlebury_hodovnisin_m.jpg)
 
 <div>&nbsp;</div>
 **Hodovní síň (Férie)** – Zvenku je to rozlehlá budova
