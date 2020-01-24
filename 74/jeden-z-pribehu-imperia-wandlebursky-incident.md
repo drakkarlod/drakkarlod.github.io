@@ -288,7 +288,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Hrubá síla
 
 ---
 
-![Cedric.jpg]({{site.baseurl}}/74/Cedric.jpg)
+![]({{site.baseurl}}/74/Cedric.jpg)
 
 ### Cedric
 
