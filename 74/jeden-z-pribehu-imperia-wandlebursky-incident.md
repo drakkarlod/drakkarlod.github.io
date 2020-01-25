@@ -234,7 +234,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Historie
 
 ---
 
-<p><img src="Solomon Tinfield" style="max-width: 200px"></p>
+<p><img src="Solomon Tinfield.jpg" style="max-width: 200px"></p>
 
 ### Solomon Tinfield
 
