@@ -126,7 +126,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Neúnavná
 
 ---
 
-![]({{site.baseurl}}/74/Evelyn Sharp.jpg)
+<p><img src="Evelyn Sharp.jpg" style="max-width: 200px"></p>
 
 ### Evelyn Sharp
 
@@ -153,7 +153,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Přežití v divočině
 
 ---
 
-![]({{site.baseurl}}/74/Fiona Flannagan.jpg)
+<p><img src="Fiona Flannagan.jpg" style="max-width: 200px"></p>
 
 ### Fiona Flannagan
 
@@ -180,7 +180,7 @@ o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp; Stezky a zkratky
 
 ---
 
-![]({{site.baseurl}}/74/Amandine Bellerose.jpg)
+<p><img src="Amandine Bellerose.jpg" style="max-width: 200px"></p>
 
 ### Amandine Bellerose
 
@@ -207,7 +207,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Neodolatelný úsměv
 
 ---
 
-![]({{site.baseurl}}/74/Terrence Kelsey.jpg)
+<p><img src="Terrence Kelsey.jpg" style="max-width: 200px"></p>
 
 ### Terrence Kelsey
 
@@ -234,7 +234,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Historie
 
 ---
 
-![]({{site.baseurl}}/74/Solomon Tinfield.jpg)
+<p><img src="Solomon Tinfield" style="max-width: 200px"></p>
 
 ### Solomon Tinfield
 
@@ -261,7 +261,7 @@ o&nbsp; &nbsp; &nbsp;&thinsp; Ostražitost
 
 ---
 
-![]({{site.baseurl}}/74/Alexander Westward.jpg)
+<p><img src="Alexander Westward.jpg" style="max-width: 200px"></p>
 
 ### Alexander Westward
 
