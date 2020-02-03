@@ -13,7 +13,7 @@ layout: default
     {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
     {% for article in articles %}
         {% assign length = article.content | size %}
-        {% if length > 1000 %}
+        {% if length > 1000 or article.fulltext %}
             | <a href="{{ article.url }}">{{ article.title }}</a>
         {% else %}
             | {{ article.title }}
