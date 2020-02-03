@@ -171,3 +171,12 @@ p.sidebar { text-indent: 0 !important; }
     border-bottom: 1pt solid #808080;
     padding: 2pt 0;
 }
+
+.hrdina {
+    position: absolute;
+    z-index: 10;
+    margin-top: 1.4em;
+    img {
+        border-color: #000;
+    }
+}
