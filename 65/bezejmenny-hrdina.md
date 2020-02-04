@@ -1,8 +1,11 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
-authors: 'Jakub „boubaque“ Maruš'
-tags: 'bezejmenný hrdina, komiks'
+title: Bezejmenný hrdina
+authors: boubaque
+tags: comics
+fulltext: true
 ---
 
 Díl XXXI. Záskok
+
+<div class="hrdina"><img src="hrdina31.jpg"></div>
