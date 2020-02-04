@@ -1,9 +1,11 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
-summary: článek
+title: Bezejmenný hrdina
 authors: boubaque
-tags: 'bezejmenný hrdina, komiks'
+tags: comics
+fulltext: true
 ---
 
 Slovenský špeciál (díl XXVIII.)
+
+<div class="hrdina"><img src="special4-fmt.jpg"></div>
