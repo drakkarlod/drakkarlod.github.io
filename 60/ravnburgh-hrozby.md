@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Ravnburgh: Město Ravnburgh: Hrozby'
+title: 'Ravnburgh: Hrozby'
 authors: Ecthelion²
 tags: 'doplňky a materiály'
 summary: Trojice hrozeb, které ohrožují stávající stav ve městě nebo jeho existenci jako takovou. Jsou inspirovány „fronts“ z Apocalypse World a fungují podobně. Jejich hlavní funkcí je tak vytváření zápletek pro postavy a zajímavého obsahu pro hráče.
