@@ -3,7 +3,8 @@ layout: article
 title: 'Úvodní haiku'
 summary: 'Úvodní haiku'
 authors: redakce
-tags: článek
+tags: úvodní haiku, úvodník
+fulltext: true
 ---
 
 Ledy praskají
