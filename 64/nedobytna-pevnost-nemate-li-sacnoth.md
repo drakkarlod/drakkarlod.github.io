@@ -1,11 +1,10 @@
 ---
 layout: article
 title: Nedobytná pevnost, nemáte-li Sacnoth
-authors: Lord Dunsany, Josef „Faskal“ Novák, 2017
+authors: Lord Dunsany, Josef „Faskal“ Novák
 tags: povídka, překlad
+summary: Z originálu _The Fortress Unvanquishable, Save for Sacnoth_ přeložil Josef „Faskal“ Novák.
 ---
-
-The Fortress Unvanquishable,Save for Sacnoth
 
 V lese starším než pověsti, nevlastním bratru hor, leží vesnice Allathurion. Zde panoval mír mezi vesničany a každým, kdo procházel ponurými lesními cestami, ať už to byli lidé, nebo někdo z kmene oblud, z rasy víl, elfů či posvátných duchů stromů a pramenů. Co víc, mír panoval i mezi vesničany a mezi nimi a jejich pánem Lorendiacem. Před vesnicí se rozprostírala široká travnatá louka a za ní zase nezměrný les, ale za vesnicí se stromy přibližovaly až k domům, které pro své ohromné trámy, dřevěnou konstrukci a doškové střechy, celé zelené mechem, vypadaly bezmála jako součást lesa.
 
@@ -181,7 +180,7 @@ Postupně začal celou širou zemi zalévat úsvit rostoucí za svého příchod
 
 Poté se rozšvitořili ptáci a Leothric vyrazil k domovu, opustil bažiny a vešel do temného lesa, kde světlo rostoucího úsvitu osvětlovalo jeho cestu. Do Allathurionu dorazil již před polednem a s sebou přinesl zlou seschlou hlavu a lidé se radovali a jejich noční starosti ustaly.
 
-***
+## ***
 
 Toto je příběh dobytí Pevnosti, která je nedobytná, nemáte-li Sacnoth, a jejího zániku, jak je vyprávěn a pamatován těmi, kteří milují prastaré mystické časy.
 
