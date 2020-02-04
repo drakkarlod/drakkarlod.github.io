@@ -3,9 +3,8 @@ layout: article
 title: Banshee
 authors: Quentin
 tags: 'doplňky, materiály'
+summary: Kdykoli vystrašené komunity vybírají peníze k najmutí lovce netvorů, aby je zbavil banshee, mají pravděpodobně problém s jedním z následujících monster. Kdyby na sebe poštvali pravou Banshee, nestihli by ani modlitbu.
 ---
-
-Kdykoli vystrašené komunity vybírají peníze k najmutí lovce netvorů, aby je zbavil banshee, mají pravděpodobně problém s jedním z následujících monster. Kdyby na sebe poštvali pravou Banshee, nestihli by ani modlitbu.
 
 ## Křikloun
 

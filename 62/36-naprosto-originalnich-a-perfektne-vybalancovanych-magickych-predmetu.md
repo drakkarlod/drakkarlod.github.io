@@ -3,17 +3,16 @@ layout: article
 title: "36 naprosto originálních a\_perfektně vybalancovaných magických předmětů"
 authors: „Quentin“
 tags: 'Doplňky a materiály'
+summary: Hoďte 2k6 a přečtěte čísla vedle sebe jako jednu cifru. Směna je přibližně jedna scéna nebo deset minut.
 ---
-
-Hoďte 2k6 a přečtěte čísla vedle sebe jako jednu cifru. Směna je přibližně jedna scéna nebo deset minut.
-
-![](rune-stones-1608031-12-opt.jpg)
 
 __11	Abrahámův prsten__ – Kdokoli tento stříbrný prsten s drobným rubínem nosí, má místo krve černý jed. Původně využíváno k lovení upírů.
 
 __12	Balistický kámen__ – Jednoduchý oblázek s jedinou drobnou runou. Při roztáčení v praku jasně září a hlasitě sviští. Automaticky zasáhne, způsobí kritické zranění a roztříští se ve vílí prach.
 
 __13	Barlumův mozek__ – Nezničitelný mozek mága Barluma. Dotkni se jej holou rukou a můžeš se zeptat na libovolnou otázku z historie, zeměpisu, kosmologie nebo arkány. S každým použitím se do tebe dostane část Barlumova charakteru a vypravěč za tebe v budoucnu může udělat jednu akci. Účinky dlouhodobého využívání nechávám na vypravěči.
+
+![](rune-stones-1608031-12-opt.jpg)
 
 __14	Batát sytosti__ – Velká fialovooranžová sladká brambora. Neustále dorůstá a denně pohodlně nasytí jednoho člověka. Při dlouhodobé konzumaci se strávníku obarví pleť do ruda.
 
@@ -76,6 +75,8 @@ __54	Skokanův kompas__ – Nositel musí myslet na konkrétní lokaci, kterou u
 
 __55	Slídičův knoflík__ – Po spolknutí z těla vypudí duši v podobě rychle se pohybujícího embrya se šmoulím hlasem. Když vleze zpět do útrob, lze tělo oživit a knoflík vyplivnout.
 
+![](sword-650183-960-720-opt.jpg)
+
 __56	Sluneční kyrys__ – Pro lidi zbroj blyštivá jako vyleštěné zrcadlo, pro nemrtvé zdroj bolestivě oslňující záře.
 
 __61	Stopařský plamen__ – Olejová lampa, která hoří růžovým plamenem a rudě rozzáří všechny stopy v dosahu svého světla. Stopy tam ani nemusí fyzicky být, ukáže otisky všech průchozích i na dlážděném povrchu. Čím starší stopa, tím slabší záře.
@@ -83,8 +84,6 @@ __61	Stopařský plamen__ – Olejová lampa, která hoří růžovým plamenem 
 __62	Spojená zrcadla__ – Šest stop vysoká stříbrem dekorovaná oválná zrcadla. Neodráží zpět své okolí, ale fungují jako okna od jednoho k druhému a zpět. Nejsou to plně funkční portály, nelze jimi prolézt nebo podat předmět. Propouští pouze smyslové vjemy jako obraz, zvuk, vůni, dojem tepla nebo průvanu apod.
 
 __63	Svíce smíru__ – Po zapálení nelze sfouknout. Dokud nedohoří, nikdo v její přítomnosti nedokáže zaútočit nebo jinak kohokoli fyzicky napadnout.
-
-![](sword-650183-960-720-opt.jpg)
 
 __64	Větrný meč__ – Tenká lesknoucí se čepel, která při máchnutí zvedne mocný poryv větru. Lze použít k rozhození rovnováhy protivníka, odklonění nepřátelských šípů, dopomoct si k vysokému skoku atd. Funguje, jen dokud je nositel lehký jako vítr; zranění, přetížení, stres, strach či hněv schopnosti meče oslabují.
 

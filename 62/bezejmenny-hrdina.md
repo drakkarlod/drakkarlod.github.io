@@ -8,4 +8,4 @@ tags: článek
 
 ## Díl XXIX. Děs
 
-![](hrdina29.jpg)
+<div class="hrdina"><img src="hrdina29.jpg"></div>

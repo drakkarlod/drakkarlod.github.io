@@ -3,9 +3,8 @@ layout: article
 title: 'Věda ve službách SF: Až do konce času'
 authors: 'Julie Nováková'
 tags: Literatura
+summary: Říkali jste si někdy, co nastane dlouho poté, co naše sluneční soustava bude dávnou vzpomínkou z hlubin času a naše galaxie bude k nepoznání? Jak skončí vesmír? Kam až můžete vyslat své příběhové hrdiny a co „tam“ spatří?
 ---
-
-Říkali jste si někdy, co nastane dlouho poté, co naše sluneční soustava bude dávnou vzpomínkou z hlubin času a naše galaxie bude k nepoznání? Jak skončí vesmír? Kam až můžete vyslat své příběhové hrdiny a co „tam“ spatří?
 
 Eschatologie provázela lidstvo odjakživa, i když výraz samotný je samozřejmě mladší. Jde o „nauku o věcech posledních“. Až v poslední době ale vznikla „vědecká eschatologie“ – posuzování „zániku světa“ na základě našich poznatků o něm. Podívejme se napřed na naši sluneční soustavu. Slunce je momentálně zhruba v polovině své existence na hlavní posloupnosti, kde hvězdy spalují ve svém jádře vodík na helium. Až se tyto zásoby za asi pět miliard let vyčerpají, stane se rudým obrem spalujícím vodík ve své vnější obálce. Projde ještě dalšími stadii, kdy začne spalovat helium v jádře na těžší prvky. Pak, už relativně nedlouho po jasném zážehu helia v obálce, mu dojde palivo. Odhodí svou vnější obálku a stane se velmi pomalu chladnoucím bílým trpaslíkem. Z odhozeného materiálu vznikne kolem soustavy planetární mlhovina, která přetrvá tisíce až desetitisíce let – ani ne mrknutí oka v kosmickém měřítku.
 

@@ -3,9 +3,8 @@ layout: article
 title: 'Mimozemská rasa: Dharnakové'
 authors: Ecthelion²
 tags: 'doplňky a materiály, sci-fi, mimozemská rasa'
+summary: Článek představuje mimozemskou rasu Dharnaků, která má sloužit jako inspirace pro vaše hry z prostředí sci-fi nebo space opery. Zasadil jsem ji do svého vlastního světa v rámci Perseova ramena Mléčné dráhy, ale tyto reálie můžete samozřejmě změnit a použít je pro své hraní, jak potřebujete.
 ---
-
-Článek představuje mimozemskou rasu Dharnaků, která má sloužit jako inspirace pro vaše hry z prostředí sci-fi nebo space opery. Zasadil jsem ji do svého vlastního světa v rámci Perseova ramena Mléčné dráhy, ale tyto reálie můžete samozřejmě změnit a použít je pro své hraní, jak potřebujete.
 
 ## Historie
 
@@ -43,11 +42,11 @@ Jejich společnost byla vzhledem k nehostinnosti jejich planety historicky koč
 
 V jejich historii se málokdy vytvořily větší svazky klanů nebo státy a ty byly vždy podřízeny jen osobě vojevůdkyně a po její smrti se opět rozpadaly. Dharnacká technologie byla poměrně primitivní a kromě válečnictví se vyvíjela jen pomalu. Po pádu irrijské lodi se jim ale podařilo postavit vlastní vesmírná plavidla schopná dosáhnout irrijského prostoru, kde jednotlivé klany začaly provádět občasné nájezdy a plenit odlehlé irrijské stanice. Přestože byli Dharnakové zkušenými válečníky, jejich útoky byly nekoordinované a roztříštěné. Říši Irri-vaë po několik desetiletí jejich nájezdy nijak výrazně neohrožovaly.
 
+![](science-fiction-197815-opt.jpg)
+
 Pak se ale mezi Dharnaky objevila vojevůdkyně, která se rozhodla sjednotit Dharnaky. Jmenovala se Gwar a její klan si začal postupně podrobovat ostatní menší klany, které se k ní buď připojily, nebo byly vyhlazeny z povrchu planety. _Dharny_ a klany se sbíhaly k jejímu praporu a Gwar po zuřivé válce porazila své protivníky a sjednotila sílu celé rasy pod své velení. Zreformovala dharnackou společnost a rozdělila klany mezi devět _armád_ (každá s vlastní barvou a symbolem, kterým velí _nawar_), v nichž _dharny_ představují bojové jednotky a klany větší vojenské oddíly, schopné společného nasazení.
 
 Gwar pak celou sílu rasy vrhla proti Irrijům a po strašlivé válce vyvrátila jejich říši a porazila je. Irrijové byli na vyšší společenské a technologické úrovni, Dharnakové ale pocházeli z nehostinné a drsné planety, byli otužilí, uvyklí válce a vojenské disciplíně. Byli to veteráni tuctů šarvátek a bitev mezi klany a v rámci _dharnu_ byli sehranou bojovou jednotkou. Kromě mláďat jsou navíc všichni členové rasy válečníci a vojáci, které je možné nasadit do války, zatímco jen malé procento Irrijů sloužilo ve vojsku a bylo schopné se invazi postavit. Válka byla krvavá a dlouhá, ale civilizovanější Irrijové v ní podlehli primitivnějším, ale dravým a zuřivým Dharnakům.
-
-![](science-fiction-197815-opt.jpg)
 
 Na troskách Irri-vaë pak Gwar vybudovala vlastní říši, kde Dharnakové (tvořící v současnosti asi 10–15 % obyvatel) jsou nyní vládnoucí rasou a Irrijové jsou podřízenou rasou, která pracuje a vyrábí vše, co říše potřebuje. Dharnakové v průběhu let přijali irrijský jazyk a kulturu, kterým nyní vládnou. Jsou považováni za válečníky a je jim zapovězeno podnikat nebo se věnovat řemeslům – namísto toho se od nich očekává, že budou spravovat své poddané, cvičit se pro válku a v případě potřeby nastoupí pod prapory vlastní armády. Všichni dospělí Dharnakové jsou vojáci říše, zařazeni do některé z barevných armád, přičemž tvoří vládnoucí válečnickou vrstvu podobnou naší šlechtě.
 

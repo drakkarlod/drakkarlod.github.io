@@ -3,9 +3,8 @@ layout: article
 title: 'Čtyři setkání s medvědem'
 authors: 'Petr „ilgir“ Chval'
 tags: inspirace
+summary: Čtyři krátké povídkové texty, čtyři rozličné pohledy na největší šelmu evropského středověku, čtyři inspirativní náměty ke hře.
 ---
-
-Čtyři krátké povídkové texty, čtyři rozličné pohledy na největší šelmu evropského středověku, čtyři inspirativní náměty ke hře.
 
 ## Setkání první: Bůh
 
