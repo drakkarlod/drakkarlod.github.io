@@ -87,6 +87,11 @@ body {
     text-indent: 0;
 }
 
+:not(p) + p.imageparagraph + p {
+    // do not indent text if it's only preceded by image and not another text
+    text-indent: 0;
+}
+
 @media (max-width: 1200px) {
     .imagewrapper {
         position: initial;
