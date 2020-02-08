@@ -1,11 +1,15 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina VII a VIII'
-fulltext: true
+title: Bezejmenný hrdina
 authors: redakce
-tags: 'bezejmenný hrdina, comics'
+tags: comics
+fulltext: true
 ---
 
-Bezejmenný hrdina: díly *Mlha* a *Bolestné vzpomínky*.
+Díl VII. Mlha
 
-![Bezejmenný hrdina](bezejmenny-hrdina.png)
+<div class="hrdina"><img src="hrdina7.jpg"></div>
+
+Díl VIII. Bolestné vzpomínky
+
+<div class="hrdina"><img src="hrdina8.jpg"></div>
