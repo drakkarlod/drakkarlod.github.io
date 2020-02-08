@@ -1,8 +1,15 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
+title: Bezejmenný hrdina
 authors: redakce
-tags: 'komiks, bezejmenný hrdina'
+tags: comics
+fulltext: true
 ---
 
-V. a VI. díl
+Díl V. Po práci
+
+<div class="hrdina"><img src="hrdina5.jpg"></div>
+
+Díl VI. Tma
+
+<div class="hrdina"><img src="hrdina6.jpg"></div>
