@@ -1,8 +1,15 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
+title: Bezejmenný hrdina
 authors: redakce
-tags: 'comics, bezejmenný hrdina'
+tags: comics
+fulltext: true
 ---
 
-XIII. a XV. díl comicsu
+Díl XIII. Neúnavný
+
+<div class="hrdina"><img src="hrdina13.jpg"></div>
+
+Díl XV. Dovolená
+
+<div class="hrdina"><img src="hrdina15.jpg"></div>

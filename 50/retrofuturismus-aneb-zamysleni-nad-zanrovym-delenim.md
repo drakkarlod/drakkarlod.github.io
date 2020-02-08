@@ -1,10 +1,71 @@
 ---
 layout: article
-title: 'Retrofuturismus aneb zamyšlení nad žánrovým dělením'
-authors: 'Petra Slováková'
-tags: 'literatura, retrofuturizmus, žánry, styly'
+title: Retrofuturismus aneb zamyšlení nad žánrovým dělením
+authors: Petra Slováková
+tags: literatura
+summary: Co znamená ono tajemné slovo, které se v poslední době často skloňuje, ale většina lidí ani neví, co vlastně označuje? Stále se setkávám s tím, že fanoušci fantastiky tento pojem mystifikují, a to ať v recenzích, módě, tak i ve článcích a zaměňují jej s jinými subžárovými označeními. Problematika retrofuturismu je poměrně složitá. Tím spíše, že se jí v našich končinách nikdo nevěnuje. Vzhledem k tomu, že i zábavní média nemají v této škatulce docela jasno a na internetu najdete spíše směsici dojmů než odborný odkaz, rozhodla jsem se napsat následující článek, který by měl alespoň částečně poskytnout informace a vysvětlit, co se za tímto nadužívaným označením skrývá.
 ---
 
-Co znamená ono tajemné slovo, které se
-v poslední době často skloňuje, ale většina
-lidí ani neví, co vlastně označuje?
+__Retrofuturismus__ je celý umělecký směr, který se projevuje nejen v literatuře, ale také v jiných formách umění. Může být inspirací pro design, fotografie, architekturu, oblékání atd.
+
+Označení _retrofuturism_ použil poprvé mediální umělec Lloyd Dunn v roce 1983.
+
+Samotné slovo retrofuturismus vyjadřuje dva protiklady: Slovo _retro_ je předpona pocházející z latiny a označující _zpět_. _Retro_ je tedy krok do minulosti – vracíme se do minulosti, kde nacházíme užité, třeba už dávno zapomenuté či nepoužívané prvky. Navracíme se k tehdejší módě, k černobílé kinematografii. To, co nosily před padesáti lety naše babičky, dnes nazýváme _retro_. Staré filmy vracející se tematicky do 20. a 30. let 20. století nazýváme _retro_. _Retro_ je „zastaralý styl“, může jít i o módu, nábytek nebo trend, případně i o technickou zastaralost (uveďme alespoň pro orientaci ruční psací stroje, šlapací šicí stroje atd. – jsem si jistá, že si dokážete něco představit sami) a k těmto starým věcem se vracíme a zasazujeme je do současného kontextu. Většina těchto věcí se do módy či umění zpětně vrací a je znovu funkční (např. pro nové kolekce sahají inspirace módních návrhářů do různých etap 20. stol.).
+
+Slovo _futurum_ je přesný opak retra. _Futurum_ je budoucnost, budoucí čas. Jestliže _retro_ nám přináší něco z minulosti, futurismus nám představuje vize budoucnosti. Futurismus bylo také označení avantgardního uměleckého směru ve dvacátých a třicátých letech dvacátého století. Toto však s našim retrofuturismem nijak nesouvisí. U onoho hnutí šlo o propagaci vítězství člověka nad přírodou skrze techniku a pokrok. Charakteristické pro něj bylo odmítání dosavadních kulturních a uměleckých hodnot. Tedy odvržení tradice. Cílem umělců, malířů, básníků, architektů, bylo ukázat moderní uspěchanou a rušnou dobu, kterou nekritizovali, ale která jim imponovala.
+
+Retrofuturismus naproti tomu vychází z alternativních představ o budoucnosti, které vznikaly v minulosti, tj. v době, kdy se rozvíjelo určité odvětví či technologie v oblasti vědy či techniky. Pod tímto pojmem se tak ukrývají naše úvahy o tom, jak si asi mohli lidé minulosti představovat život v budoucnosti. Jak asi viděli viktoriánští gentlemani lidstvo v roce 2060? Kudy by se společnost ubírala, kdyby někdo vymyslel benzínový motor o padesát let dřív? Čím by se dnes svítilo, kdyby se zakázalo používat elektřinu? Toto jsou jen namátkové příklady, které by měly sloužit pro hrubou představu.
+
+Jedná se tedy o představy toho, co mohlo být, ale není. Autoři si pokládají zásadní otázku: Co kdyby…?
+
+Retrofuturismus by laikovi nejspíše v této chvíli připadal asi jako jiné pojmenování sci-fi literatury. __Vědeckofantastický žánr__ je vymezený výskytem spekulativních technologií a přírodních jevů, dosud neznámých forem života v díle atd. Je zřejmé, že i literární retrofuturismus je určitý způsob nahlížení na vědeckofantastickou literaturu. Je to subžánr (chcete-li „škatulka“) sdružující na základě podobnosti různé formy v rámci fantastiky, které mohou zasahovat jak do sci-fi, tak i do žánru fantasy nebo hororu, či tyto žánry nějakým způsobem propojovat. To se specifikuje dle určitého díla, či objektu. Retrofuturismus tedy patří pod fantastiku a její žánry, ne naopak. Mapuje jistou část fantastiky, která se zabývá určitou problematikou. Má své významné rysy a prvky, které se v něm objevují, a sám se pak dělí na další subžánry.
+
+Retrofuturismus barvitě vyobrazuje budoucnost v retro stylu. Využívá prolínání starých zásad, tehdejšího myšlení, etikety, vynálezů a chování společnosti a kombinuje je s futuristickými technologiemi, postupy a novinkami, o kterých si lidé v dávné době mohli opravdu nechat jen zdát. Může tedy pracovat i s historií na reálných základech nebo si může vytvořit alternativní světy, alternativní minulost i budoucnost. Umělecké výtvory jsou modifikovány moderními nebo nadčasovými technologiemi. Staré se snoubí s novým… Je důležité si uvědomit, že retrofuturismus nemá pevně stanovené hranice a že v sobě propojuje a slučuje mnoho vlivů i dalších okolností. Vzniká tak pestrá paleta možností, kterou mnozí autoři hojně využívají.
+
+## Retrofuturismus a futuristické retro aneb dělení žánru
+
+Problém pro českého čtenáře tvoří i zahraniční rozdělení na __retrofuturismus__ a __futuristické retro__. Označení futuristické retro se u nás vůbec nepoužívá, retrofuturismus zahrnuje obě tyto škatulky. V zahraničí se často můžete setkat s tímto rozdělením: retrofuturismus je něco, co existovalo v myslích spisovatelů, umělců a tvůrců před rokem 1960, kteří se pokusili nějakým způsobem předpovědět budoucnost. Tyto futuristické vize byly renovovány pro svou dobu a nabízí obraz toho, co by budoucnost mohla být, ale není. Tady jasně vidíme vliv sci-fi žánru. Sem bychom jistě zařadili postapokalyptický __dieselpunk__ či __atompunk__.
+
+__Futuristické retro__ je propojení prvků minulé doby, např. inspirace nějakou dobou (třeba viktoriánskou), v níž se objevují moderní technologie. Může to být alternativní viktoriánská, edwardiánská nebo jiná éra. Sem bychom si zaškatulkovali __steampunk__ či __teslapunk__.
+
+Vzhledem k tomu, že pochopení retrofuturismu je poměrně složité, budeme brát toto rozdělení spíše jako informativní. A retrofuturismus (retrofuturismus i futuristické retro) jako jednu škatulku.
+
+## Kategorie retrofuturismu
+
+Konečně se dostáváme k tomu, jak se retrofuturismus vlastně dělí. Většina lidí se mylně domnívá, že retrofuturismus a steampunk jsou jedno a to samé. Vzhledem k tomu, že je to právě steampunk, který mezi méně známými literárními subžánry v poslední době konečně proniká i do našich končin, je zaměňování pochopitelné, nicméně je to pořád pomýlení pojmu.
+
+__Steampunk__ není záležitostí, která by se objevila před týdnem. V České republice je znám už mnoho let, ovšem vesměs pouze v odborných kruzích či v subkulturách. Podrobněji se mu dlouhodobě věnují stránky _Nebe plné vzducholodí_ a _Steamzine_. Dnes už se mu však dostává více pozornosti i v literatuře a fantastických komunitách a přechází z méně známých a experimentálních subžánrů do propagovaného okruhu nových směrů. Netroufám si říct, že by byl steampunk někdy součástí mainstreamu. Zatím tedy určitě ne, ačkoliv mnohé většinou povrchní estetické prvky pronikají do širšího povědomí pomocí módy či kinematografie. U nás, kde je vypěstována (porevoluční) tradice převážně v high fantasy, si myslím, že bude i nadále žánrem okrajovým.
+
+Slovo „steam“ nemusí nutně ukazovat jen na použití páry v daném díle, ale odkazuje na „století páry“ čili inspiraci 19. stoletím. Steampunk dokáže vzkřísit ducha doby a využívá rozličných možností včetně alternativní civilizace i jejího rozvoje. Stylem se inspiroval různými prvky z období romantismu, dobrodružnou a tehdy rodící se vědeckofantastickou literaturou, zájmem o okultní vědy a nadpřirozeno, gotickým románem, intelektuálním Dickensovým humorem či fraškou.
+
+Velice rozšířené dějiště příběhu je období viktoriánské Anglie, jako kulisy se ovšem občas používají i předcházející či nastávající období.
+
+Tento subžánr se pak sám dále dělí na různé další škatulky, např. clockpunk, historický steampunk/timepunk, který se ještě dělí dále podle doby, v níž se odehrává atd.
+
+__Gaslamp fantasy__ je speciální a poměrně nový retrofuturistický subžánr. Autory názvu jsou manželé Fogliovi, resp. Kaja Foglio, která nebyla spokojená s tím, že je jejich společné dílo, komiksová série _Girl Genius_, zařazováno pod steampunk. Gaslamp obsahuje spíše fantasy než sci-fi prvky. Těží z kořenů gotického románu a viktoriánské či romantické, detektivní a dobrodružné literatury. Občasně se gaslamp fantasy označuje také jako pokus o modernizaci tehdejší literatury. Tento subžánr se neměl zaměřovat na obsesi technologiemi, ale spíše na dobrodružnou tématiku. Jako dílo patřící do tohoto žánru bývaly označovány knihy A. C. Doyla o Sherlocku Holmesovi, což je ale vzhledem k angloamerické literární terminologii dost nepřesné a problematické (a ano, už existuje i tzv. _holmesian fantasy_). Dle mého je ale výrazným literárním dílem, pokud tedy připustíme existenci této škatulky, román Susanny Clarkové _Jonathan Strange & pan Norrell_ (ačkoliv se odehrává v předviktoriánské době).
+
+Mezi další podžánry retrofuturismu patří __teslapunk__ (fantazie inspirované Teslovými vynálezy). Koncepční výtvory, které nebyly uskutečněny, zde fungují. Elektřina nahradila zastaralou páru. Elektrifikace vládne pokroku. Teslapunk je poměrně malý subžánr, ale jeho prvky jsou hojně kombinovány s prvky steampunku.
+
+Podobné zaměňování probíhá u stylu s ná­zvem __sailpunk__. Tento subžánr je, stejně jako teslapunk, velice okrajový, a ačkoliv oficiálně mapuje 17. až 18. století, inspiruje se hojně dobrodružnými romány a prvky ze století devatenáctého. Sailpunk je plný pirátů, bukanýrů, dobrodruhů, námořníků a zámořských plaveb a také královských společností, královských armád a vědců, kteří vědí, že všude kolem je jedna velká neznámá, kterou je třeba prozkoumat. Nechybí samozřejmě ani nadčasové vynálezy a hračky, které je třeba vyzkoušet. Mnohdy se steampunk kombinuje se sailpunkem a vznikají tak díla s pirátskými vzducholoděmi, vytvořenými z lodí, což samozřejmě také slibuje impozantní bitvy.
+
+__Dieselpunk__ je také často zaměňován za steampunk a ještě častěji jsou z něho lidé rozpačití, protože neví, kam tyhle věci zařadit. Většina autorů se totiž nedrží striktně jednoho z těchto subžánrů, ale označuje svá díla jako retrofuturistická. Tedy taková, která mohou obsahovat různé ze zde uvedených subžánrů. Problém pak vzniká, když si čtenář řekne, že ten steampunk, kde mají letadlo s dieselovým motorem je asi nějaký hodně divný steampunk… Ale raději zpátky k __dieselpunku__. Tento styl by si zasloužil vlastní článek. Alespoň ve zkratce tedy vysvětlení: název dieselpunk se objevil v roce 1980 a dle dostupných zdrojů reprezentuje časové období následující po době edwardiánské až do období kolem roku 1950. Toto vysvětlení se liší dle různých autorů, kteří se problematikou zabývají, takže se můžete setkat i s podobnými či odlišnými výklady. Také mnohé přístupy autorů k tomuto žánru se mohou lišit.
+
+Hlavní technologií jsou spalovací motory a pokrok, který přinášejí. Tento styl se dá velice dobře popsat filmy jako _The Rockeeter_ (_Rakeťák_), _Sky Captain and the World of Tomorrow_, _Dark City_ (u nás překládáno jako _Smrtihlav_) nebo např. _Indiana Jones_. Je to doba dámských lodiček a křiklavě namalovaných rtů. Thompsonova samopalu a art deca. Temná a bezútěšná, která inspirovala tvůrce noirových filmů a komiksů. Setkala jsem se i s variantou toho, že je dieselpunk přiřazován pod steampunk jako jeho další varianta. Toto označení se mi ale jeví jako mylné.
+
+Lewis Pollak, tvůrce dieselpunkových počítačových her, který je autorem názvu dieselpunk, říká, že _dieselpunk je temnější a špinavější stranou steampunku_. Dieselpunk však nemá s 19. stoletím ani podobnými prvky, které steampunk formovaly, nic společného. Je to žánr pro zcela jinou dobu s odlišnými myšlenkami a tématy, než používá steampunk. V zahraničí je dieselpunk mnohdy řazen pod retrofuturistické deriváty (odvozené od) kyberpunku, jako ostatně i steampunk, což se mi zdá jako poněkud zavádějící a matoucí. Vzhledem k tomu, že se tyto žánry vyvíjely téměř paralelně, na sobě nezávisle, úplně bych s takovouto klasifikací nesouhlasila. Pod retrofuturismus však dieselpunk zcela bez debat patří. Mimochodem pro zajímavost, subžánr dieselpunku, který je zaměřený na období 1920 až 1950 a jsou v něm znatelné inspirace stylem art deco, se nazývá __decopunk__. Není tak dystopický jako samotný dieselpunk.
+
+__Atomicpunk__ neboli __atompunk__: zde použiji citaci:
+
+> Atompunk nebo rocketpunk, pokud bychom tyto termíny mohli kvůli jejich jisté synchronicitě považovat za synonyma, bychom asi v základní poloze mohli pokládat za technooptimistickou moderní estetiku, těžící hlavně z nadšení jadernou energií, kybernetikou a z tušení brzkého zahájení nebo expanze kosmických letů, zejména v 50. letech.“ ([Pavel Vachtl](http://www.contejner.cz/steampunk-sailpunk-dieselpunk-a-atompunk-zdroje-a-souvislosti-5/))
+
+Atompunk se týká zhruba období 1945–1965 (časové údaje se mění dle jednotlivých interpretací), včetně období modernismu, atomového věku a vesmírného věku. Atompunk tíhne k technice, vědě a vynálezům, měl být ztělesněním veličin jako modernizace či pokrok lidstva.
+
+Svět, se snažil doufat, že přijde něco lepšího. Že ho pokrok vyvede z nastalé poválečné krize. Vzhledem k tomu, že s využitím jaderné energie přišly i problémy, budoucnost přestala vypadat tak růžově. Hrozba jaderných útoků stupňující se až k paranoie, hrůza z vybombardované Hirošimy a Nagasaki nebo havárie Černobylu – to vše způsobilo, že se jaderný sen časem odsunul z výsluní společenského podvědomí. Atompunk může vykazovat retrofuturistické i postapocalyptické prvky, dokáže pracovat s alternativními světy a událostmi, atributy jaderné vědy i se zakomponováním jiných žánrů či různorodostí formy, stylu a příběhu.
+
+Velkou část čtenářů je však atompunk přijímán spíše negativně a často tedy dávají přednost jiným retrofuturistickým subžánrům. S atompunkovými tématy a světy se setkáte mimo jiné v dílech R. A. Heinleina, A. C. Clarka nebo ve hře _Fallout_.
+
+***
+
+Všechny tyto subžánry, patřící pod retrofuturismus, se dnes stále častěji a výrazněji projevují v subkulturách, popkultuřr, umění i architektuře. Každý styl je osobitý. Stejně jako k nám pronikla steampunková kultura, pomalu si lidé začínají všímat i dieselpunku. Tento seznam samozřejmě není kompletní, ale nelze se v něm podrobně věnovat i zcela minoritním subžánrům, jako je např. nanopunk, biopunk, darwinpunk atd. Je tedy ponechám prostor pro vlastní zkoumání čtenářovo.
+
+Retrofuturismus je celosvětově populární a věřím, že ještě dlouho bude. Nejen kreativita, s níž fanoušci stále vynalézají nové věci v retrofuturistickém duchu, je zábavná. Realizovat se může kdokoliv, a to od literatury až po architekturu, díky níž vznikají zajímavé městské čtvrti a komplexy. Setkáme se i tematicky zaměřenými akcemi, koncerty, festivaly. Weby jsou plné výtvorů, ať už soch či šperků, až po šaty pro běžné nošení. Nespoutaná fantazie totiž jen tak neomrzí.
