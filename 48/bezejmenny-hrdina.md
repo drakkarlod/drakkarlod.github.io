@@ -1,8 +1,15 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
+title: Bezejmenný hrdina
 authors: redakce
-tags: 'komiks, Bezejmenný hrdina'
+tags: comics
+fulltext: true
 ---
 
-IX. díl a Vánoční speciál (X. díl)
+Díl IX. Zoufalství
+
+<div class="hrdina"><img src="hrdina9.jpg"></div>
+
+Vánoční speciál (díl X.)
+
+<div class="hrdina"><img src="special1x.jpg"></div>
