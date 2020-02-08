@@ -127,6 +127,7 @@ body {
     }
 }
 p.sidebar { text-indent: 0 !important; }
+p + .sidebar + p { text-indent: 2em; }
 
 .mainframe code {
     font-family: inherit;
