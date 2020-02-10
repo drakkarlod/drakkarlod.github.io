@@ -7,8 +7,6 @@ authors: redakce
 tags: haiku
 ---
 
-Červencový den
-
-nesnese dlouhých řečí.
-
+Červencový den<br>
+nesnese dlouhých řečí.<br>
 Příjemné čtení!
