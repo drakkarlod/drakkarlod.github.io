@@ -7,8 +7,6 @@ authors: redakce
 tags: haiku
 ---
 
-Otisky v blátě!
-
-Aprílový šprým či past
-
+Otisky v blátě!<br>
+Aprílový šprým či past<br>
 na detektiva?
