@@ -7,8 +7,6 @@ authors: redakce
 tags: haiku
 ---
 
-slunce na vodě
-
-a únorový vítr
-
+slunce na vodě<br>
+a únorový vítr<br>
 do plachet duje
