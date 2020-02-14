@@ -87,9 +87,12 @@ body {
     text-indent: 0;
 }
 
-:not(p) + p.imageparagraph + p {
+p.imageparagraph + p {
     // do not indent text if it's only preceded by image and not another text
     text-indent: 0;
+}
+p + .imageparagraph + p {
+    text-indent: 2em;
 }
 
 @media (max-width: 1200px) {
@@ -127,6 +130,7 @@ body {
     }
 }
 p.sidebar { text-indent: 0 !important; }
+p.sidebar + p { text-indent: 0; }
 p + .sidebar + p { text-indent: 2em; }
 
 .mainframe code {
