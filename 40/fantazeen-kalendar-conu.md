@@ -3,6 +3,7 @@ layout: article
 title: "Fantazeen: Kalendář conů"
 authors: redakce
 tags: aktuality
+fulltext: true
 summary: "Na stránkách Fantazeenu byl spuštěn kalendář conů, tedy setkání příznivců ... inu, čehokoli, co si zaslouží davy příznivců :)"
 ---
 
