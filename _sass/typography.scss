@@ -80,3 +80,15 @@ ol {
 .mainframe li {
     text-align: justify;
 }
+
+hr {
+    text-align: center;
+    border: none;
+    margin: 1em 0;
+    &::before {
+        color: #ddd;
+        content: '● ● ●';
+        font-size: 14px;
+        line-height: 14px;
+    }
+}
