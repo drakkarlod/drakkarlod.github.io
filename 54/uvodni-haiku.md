@@ -4,10 +4,9 @@ title: 'Úvodní haiku'
 summary: 'Úvodní haiku'
 authors: redakce
 tags: úvodník
+fulltext: true
 ---
 
-Kam se ztratil sníh? 
-
-diví se kos na plotě. 
-
+Kam se ztratil sníh?<br>
+diví se kos na plotě.<br>
 Odkládá šálu.

@@ -1,8 +1,11 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
+title: Bezejmenný hrdina
 authors: boubaque
-tags: 'comics, bezejmenný hrdina'
+tags: comics
+fulltext: true
 ---
 
 Díl XXII. Společenská povinnost
+
+<div class="hrdina"><img src="hrdina22.jpg"></div>
