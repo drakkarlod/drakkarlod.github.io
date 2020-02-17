@@ -4,10 +4,9 @@ title: 'Úvodní haiku'
 summary: 'Úvodní slovo'
 authors: redakce
 tags: úvodník
+fulltext: true
 ---
 
-Chladný vzduch čeří 
-
-jen sluneční paprsky. 
-
+Chladný vzduch čeří<br>
+jen sluneční paprsky.<br>
 Skřípění vesel.
