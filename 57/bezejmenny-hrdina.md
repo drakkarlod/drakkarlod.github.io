@@ -1,8 +1,15 @@
 ---
 layout: article
-title: 'Bezejmenný hrdina'
-authors: „boubaque“
-tags: 'bezejmenný hrdina, komiks'
+title: Bezejmenný hrdina
+authors: boubaque
+tags: comics
+fulltext: true
 ---
 
-Díly XXIII. Bez odpočinku a XXIV. Změna
+Díl XXIII. Bez odpočinku
+
+<div class="hrdina"><img src="hrdina23.jpg"></div>
+
+Díl XXIV. Změna image
+
+<div class="hrdina"><img src="hrdina24.jpg"></div>
