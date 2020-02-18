@@ -2,7 +2,7 @@
 layout: article
 title: 'Minidungeon: De Vries'
 authors: Zob
-tags: 'doplňky a materiály'
+tags: 'doplňky a materiály, minidungeon'
 summary: 'Malý dungeon, zasazený do settingu space opery. Loď pomalu klesá z oběžné dráhy a už brzy shoří v atmosféře. Na její palubě je lék na nemoc, kterou trpí jedna z postav.'
 ---
 

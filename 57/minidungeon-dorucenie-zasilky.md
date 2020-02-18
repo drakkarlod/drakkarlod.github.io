@@ -2,7 +2,7 @@
 layout: article
 title: 'Minidungeon: Doručenie zásilky'
 authors: Skenderax
-tags: 'doplňky a materiály'
+tags: 'doplňky a materiály, minidungeon'
 ---
 
 Príbeh sa odohráva v menšej dedinke na obchodnej ceste, pri ktorej v masívnej veži sídli mocný alchymista alebo čarodej. Nikto presne nevie. Veža je niekoľko kilometrov od dediny, ale i tak ľudia občasne počujú zvuky výbuchov, prípadne ohňostroje alebo farebný dym. Nikto nevie, čo tam ten alchymista, alebo čarodej, porába, ale všetci ho majú vo veľkej úcte. Raz za čas Flerexius, tak sa volá, príde do dediny a s hostinským dohodne obchod. Väčšinou pošle nejaký balík do mesta, alebo nejaký balík dostane. Sem tam si chodí objednať suroviny, ktoré mu chýbajú. Nikdy sa moc nezdržuje.

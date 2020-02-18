@@ -2,7 +2,7 @@
 layout: article
 title: 'Minidungeon: Kostnice'
 authors: Pepa
-tags: 'doplňky a materiály'
+tags: 'doplňky a materiály, minidungeon'
 ---
 
 Necelý den cesty od vísky, ve které se družina právě nachází, je stará opuštěná kostnice. Sklad kostí z dob velkých válek, které se tu kdysi vedly, nebo alespoň tak se to říká. Je ale skutečně opuštěná? Nenachází se v ní nějaké cennosti či artefakty? A je něco pravdy na povídačkách o mizejících lidech? Snad zvědavosti za dost učiní právě vaše družina…

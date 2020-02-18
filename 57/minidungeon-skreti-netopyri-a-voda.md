@@ -2,7 +2,7 @@
 layout: article
 title: "Minidungeon: Skřeti, netopýři a\_voda"
 authors: 'Petr „ilgir“ Chval'
-tags: 'doplňky a materiály'
+tags: 'doplňky a materiály, minidungeon'
 ---
 
 Dobrodruzi jsou posláni učinit přítrž řádění skřetí bandy, která se podle všeho usídlila v opuštěné strážní věži. Po příchodu na místo však shledávají, že přímo ve věži nikdo nebydlí. Zato tu dvakrát denně prolétává hejno přerostlých krvelačných netopýrů, kteří neváhají napadnout ani dospělého člověka. Pokud budou dobrodruzi pozorní a trpěliví, možná se nakonec dopátrají tajemství věže: Její studna je zároveň přístupovou cestou do komplexu krasových jeskyní. Právě zde sídlí hlavní hejno netopýrů i skřetí banda, která ovšem používá jiný přístup do jeskyně.
