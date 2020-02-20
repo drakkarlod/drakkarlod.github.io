@@ -26,6 +26,24 @@ layout: default
     </div>
 </div>
 
+{% if page.series %}
+    <div class="articleparts">
+        {% assign parts = site.pages | where: 'series', page.series | sort: 'url' %}
+
+        <h2>Další části:</h2>
+
+        <ul>
+            {% for part in parts %}
+                {% if part.url == page.url %}
+                    <li>{{ part.title }} (aktuální článek)</li>
+                {% else %}
+                    <li><a href="{{ part.url }}">{{ part.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+{% endif %}
+
 <script src="/assets/wrapImages.js"></script>
 <script>
     wrapImages();

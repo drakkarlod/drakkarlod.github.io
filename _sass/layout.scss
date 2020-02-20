@@ -174,6 +174,15 @@ p + .sidebar + p { text-indent: 2em; }
     opacity: 0.8; // TODO alter color eventually
 }
 
+.articleparts {
+    margin-top: 30px;
+    padding: 6px 12px;
+    background-color: #eee;
+    font-size: 16px;
+    line-height: 22px;
+    > h2:first-child { margin-top: 10px; }
+}
+
 .perex {
     font-style: italic;
     margin-bottom: 19pt;

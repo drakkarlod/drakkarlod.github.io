@@ -37,11 +37,16 @@
 
 ## Speciality pro sazbu
 
-Obrázky se vkládají pomocí tlačítka v editoru. __Titulky k obrázkům__ se potom nastaví úpravou textu v __hranatých__ závorkách:
+### Obrázky
+
+Obrázky se vkládají pomocí tlačítka v editoru. Titulky k obrázkům se potom nastaví úpravou textu v _hranatých_ závorkách:
 
     ![Popisek obrázku včetně <a href="...">odkazu</a>](nazev-obrazku.jpg)
 
-Texty v rámečcích po stranách textu (__sidebar__) se vkládají buď (samostatný odstavec):
+
+### Sidebary
+
+Texty v rámečcích po stranách textu (sidebar) se vkládají buď (samostatný odstavec):
 
     {:.sidebar}
     Text rámečku. Je možné i _vyznačování_.
@@ -54,6 +59,17 @@ Nebo (v případě více odstavců):
     Druhý odstavec. I zde je možné _vyznačování_ díky atributu `markdown="1"`.
     </div>
 
+### Seriál (nebo kolektivní článek)
+
+Do metadat v záhlaví článku se přidá:
+
+    ---
+    …
+    series: Název seriálu
+    ---
+
+Na konci každého článku z seriálu se potom zobrazí odkazy na další části.
+
 ## TODO
 
 - [x] stránka tagů
@@ -63,4 +79,4 @@ Nebo (v případě více odstavců):
 - [x] skrýt testovací články (čísla >= 100)
 - [x] nahrát PDF
 - [ ] zoom pro mapy
-- [ ] přesměrovat doménu
+- [x] přesměrovat doménu
