@@ -181,6 +181,7 @@ p + .sidebar + p { text-indent: 2em; }
     font-size: 16px;
     line-height: 22px;
     > h2:first-child { margin-top: 10px; }
+    li { text-align: left; }
 }
 
 .perex {
