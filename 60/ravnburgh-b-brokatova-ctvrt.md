@@ -4,6 +4,7 @@ title: 'Ravnburgh: B. Brokátová čtvrť'
 authors: Quentin
 tags: 'doplňky a materiály'
 summary: 'Brokátová čtvrť je navenek ta nejútulnější a nejspořádanější část města. Její bohatí obyvatelé jsou sofistikovaná elitistická komunita a navzájem si tolerují tajné zvrácené koníčky, od incestu po kanibalismus.'
+series: Město Ravnburgh
 ---
 
 Brokátová čtvrť sice patří ke starému městu, ale je od jeho zbytku prakticky k nepoznání. Staré kamenné budovy nejsou nahrazené ani výrazně přestavěné, naopak. Vše je perfektně opraveno a zrestaurováno, omítnuto sytými barvami a doplněno o mnohá tesařská rozšíření; terasy, balkony, zvýšená podkroví, podloubí, dokonce i mosty nad ulicemi. Vše je architektonicky konzistentní, řemeslně perfektní, ozdobené květinami a sebevědomě na hraně kýče a vřelé útulnosti.

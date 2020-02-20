@@ -4,6 +4,7 @@ title: Malé dungeony
 authors: redakce
 tags: doplňky a materiály
 summary: Sada malých „dungeonů“ o 5–10 místnostech a tři tabulky pro jejich rychlou tvorbu.
+series: Minidungeony
 ---
 
 Nedávno jsme v redakci uvažovali o dalším kolektivním článku, který by přinesl konkrétní nápady pro hry vás, našich čtenářů, které by bylo možné vložit do probíhajícího dobrodružství. Napadlo nás tehdy požádat několik autorů o předpřipravené lokace, tentokrát menší než [hexy v č. 53](http://drakkar.sk/53/kolektivni-clanek-hexy.html). Vzniknout měly malé „dungeony“ o 5–10 místnostech. Dali jsme autorům opět volnost v obecném prostředí, do kterého svůj dungeon zasadí, a tak se i tentokrát můžeme setkat nejen s fantasy prostředím.

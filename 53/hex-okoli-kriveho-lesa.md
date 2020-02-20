@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Okolí Křivého lesa'
 authors: MarkyParky
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 ## Račiště

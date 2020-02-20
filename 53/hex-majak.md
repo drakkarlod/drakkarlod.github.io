@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Maják'
 authors: Zob
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 ## Atmosféra

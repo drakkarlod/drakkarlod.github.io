@@ -4,6 +4,7 @@ title: 'Ravnburgh: Chuť orientu'
 tags: 'doplňky a materiály'
 summary: 'Veřejná vývařovna nabízející po celý den skvěle kořeněná teplá jídla zcela zdarma. Ovdovělá provozovatelka Romana Foginsová tímto způsobem uctívá památku svého nebožtíka manžela, známého cestovatele Williama Foginse.'
 authors: Sarsaparillos
+series: Domy Ravnburghu
 ---
 
 ## Jak se postavy do domu mohou dostat

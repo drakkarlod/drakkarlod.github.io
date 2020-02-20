@@ -3,6 +3,7 @@ layout: article
 title: 'Ravnburgh: Elfův dvůr'
 tags: 'doplňky a materiály'
 authors: Paul
+series: Domy Ravnburghu
 ---
 
 Před necelým čtvrtstoletím přišel do města podivný cizinec – elf – a navíc i mistr temných nauk. Koupil si patrový dům a byl mu udělen status měšťana. Nikdy se neangažoval ve společenském životě a nikdo o něm nevěděl, kde bere peníze na tajemné pokusy, které prováděl za kamennými zdmi svého domu. O těchto pokusech ale věděli všichni. Za úplňku se za skleněnými okny rudě blýskalo, noční chodci občas z otevřeného okna zaslechli podivný nelidský hlas. Když už toho sousedi měli dost, požádali městskou radu, aby zakročila. Elf byl krátce souzen a druhého dne upálen. S jeho smrtí však potíže sousedů neskončily, ba právě naopak. Od té doby se v okolí domu občas zjevují ohniví raraši a za nocí ulicí drkotá černý povoz. A vše se ještě zhoršilo, když přišel ten nový majitel …

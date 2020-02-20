@@ -4,6 +4,7 @@ title: 'Ravnburgh: Náhodná tabulka: Městské domy'
 tags: 'doplňky a materiály'
 authors: Quentin
 summary: Tabulka neobsahuje hostince, obchody ani jiné veřejné domy, ale pouze obsah zvnějšku obyčejných budov, o kterých hráči nic nevědí, dokud neotevřou dveře. Až příště při honičce nebo jakékoli jiné příležitosti postavy vtrhnou do náhodných dveří na ulici, hoďte 2k6 a místo sčítání přečtěte kostky jako dvouciferné číslo.
+series: Domy Ravnburghu
 ---
 
 ### 11) Aukce

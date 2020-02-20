@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Vraní vrch'
 authors: Antharon
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 ## Prostredie

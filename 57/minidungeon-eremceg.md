@@ -3,6 +3,7 @@ layout: article
 title: 'Minidungeon: Eremceg'
 authors: Vallun
 tags: 'doplňky a materiály, minidungeon'
+series: Minidungeony
 ---
 
 Když večer znavený Muir Buckinner zapadl do krčmy, honila se po severním obzoru vdoví mračna, předznamenávající silnou příbřežní bouřku. Takovou bouřku, jež způsobí, že se pár lodí nevrátí do přístavu včas, tedy v lepším případě. V horším případě se nevrátí vůbec a ve městě přibude pár vdov. Muirovi to ale bylo celkem jedno, už mnoho let byla moře osiřelá, takže tuto noc příliš vdov nepřibude. Když po silné zelňačce a pár žejdlících šel spát, na severu už hřmělo.

@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Ďáblův píst'
 authors: ilgir
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Zvrásněnou krajinu pokrývá z větší části hustý les, z něhož jen nesměle ukrajují obyvatelé okolních vesnic, aby rozšířili svá skromná pole. Nad rozlehlým hvozdem se jako můra vznáší tajemství, které drží zpět pověrčivé masy a láká odvážné jednotlivce. Tam, kde je les nejhlubší, prý stálo kdysi skvostné město, jehož obyvatelé se čímsi strašlivě provinili. Okamžitý trest bohů proměnil životem kypící město v pustinu, muže ve vlky, ženy v lišky a děti v netopýry. Podle některých je středem lesa jáma, z níž lze vstoupit přímo do sedmého kruhu pekla. Těžko soudit, co je pravdy na těchto legendách. Avšak odvážní dobrodruzi, kteří dosáhli středu lesa a přečkali v něm noc, podávají shodné svědectví o zcela neobyčejném úkazu, za jehož vznikem zcela jistě stojí čáry a kouzla.

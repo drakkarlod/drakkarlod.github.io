@@ -3,6 +3,7 @@ layout: article
 title: 'Vesmírný vrak: Nákladní modul LIBRA 7'
 authors: 'Josef Janák'
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 Tento modul sloužil svojí posádce velmi dobře do doby, než se střetl s meteorickým rojem, při jehož průletu byl velmi vážně poškozen, a posádka se musela urychleně evakuovat. Od té doby bloudí vesmírem v úsporném režimu…

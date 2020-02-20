@@ -4,6 +4,7 @@ title: 'Ravnburgh: I. Dobytčí trhy'
 authors: PetrH
 tags: 'doplňky a materiály'
 summary: 'Smrdutá část kus za městem, kde vládne životu trh s dobytkem a bourárna masa. Občas se vyplatí ztracené hledat zde, nebo naopak nechat tu něco zmizet.'
+series: Město Ravnburgh
 ---
 
 Každý den ráno, sotva se rozbřeskne, je slyšet již z dáli na cestách řev honáků, pastevců a bučení dobytka. Rytmicky je doprovázejí zvonce zvířat a štěkot psů … Přesně s osmým úderem zvonu na Citadele, přesně podle pravidel se otevírají ohrady trhů.

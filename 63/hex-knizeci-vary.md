@@ -4,6 +4,7 @@ title: "Hex: Knížecí vary"
 authors: PetrH
 tags: hex
 summary: Lázeňská oblast s městečkem, klášterem, podivnými zvyky a praktikami pro vybranou společnost.
+series: Okolí Ravnburghu
 ---
 
 Celkem úrodná krajina s kouskem lesa, dnes již téměř vymýceným. Zbytky jsou součástí zahrad kláštera a je přísně zakázáno na svatém území kácet, lovit a sbírat houby či klestí. Trest za menší prohřešek je rok kláštera, za větší doživotí v něm. Celé území je darem od knížete Klitera před asi 150 až 200 lety. Podle různých kronik se to liší. Na hexu platí právo mnichů a světské se do něj nesmí míchat. Hlavním představitelem je opat Přebor.

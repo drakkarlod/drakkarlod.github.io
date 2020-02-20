@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Havraní brána'
 authors: boubaque
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Havraní brána je horské údolí, které se na jihovýchodě otevírá se do nížiny. Na severozápadní straně je průsmyk, po němž je údolí pojmenováno (Havraní brána). V údolí se rozkládá starý les, po jehož západní straně podél řeky, vede cesta z průsmyku k vesnici Branná. Nad průsmykem se tyčí stará, opuštěná hláska, na kterou přes hvozd hledí tvrz. Pod tvrzí se řeka až k horám rozlévá do mokřin, proto vede cesta po pevnějším levém břehu, na několika místech je zpevněna hatěmi a mostky, které už by mnohde zasloužily opravu.

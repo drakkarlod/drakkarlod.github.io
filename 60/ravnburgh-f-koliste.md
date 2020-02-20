@@ -4,6 +4,7 @@ title: 'Ravnburgh: F. Koliště'
 authors: boubaque
 tags: 'doplňky a materiály'
 summary: 'Na pláni pod hradbami se nachází cvičiště a střelnice městské stráže, jednou ročně se zde koná střelecká soutěž. Kapitán Beer vítá dobrodruhy jako cvičné protivníky, pokladník stráže Felbrigg kšeftuje se střelným prachem.'
+series: Město Ravnburgh
 ---
 
 Od malé, tzv. Zelené brány v západních hradbách Starého města vede cesta k Zelené pevnosti (viz H), jež získala své jméno podle nazelenalé břidlice, z níž je vystavěna. Pod hradbami a podél cesty se pak rozkládá pláň zvaná Koliště. Nachází se zde cvičiště městské stráže a téměř pod svahem Zelené pevnosti také střelnice pro městské lukostřelce a kušiníky.

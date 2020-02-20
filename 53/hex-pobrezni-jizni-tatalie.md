@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Pobřežní Jižní Tatálie'
 authors: Vallun
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Těžký nákladní škuner se líně kolébal na příbřežních vlnách a sunul se s pomocí odpolední brízy k jihu, využívaje celé palety kosatek a gén. S trochou štěstí bude moci obeplout Point Dagan dost brzy před setměním, aby ještě dnes mohl přistát v Port Bruneau. K tomu však bylo daleko, když Daganovy skály byly stále ještě před přídí.

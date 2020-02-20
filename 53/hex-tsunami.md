@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Tsunami'
 authors: Quentin
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 ## Náhodná setkání (k6)

@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Wrexham'
 authors: 'Ján „Crowen“ Rosa'
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 ## Rieka Alyn

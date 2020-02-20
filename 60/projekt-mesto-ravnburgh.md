@@ -4,6 +4,7 @@ title: "Projekt: Město Ravnburgh"
 authors: redakce
 tags: doplňky a materiály
 summary: Pro šedesáté číslo časopisu Drakkar (které právě čtete) nás napadlo zkusit připravit projekt společné tvorby města. Inspiroval nás starší projekt Jasona Morningstara na Storygames a zkusili jsme něco podobného uspořádat v rámci komunity na rpgforum.cz. Naším cílem bylo město, které můžete použít pro Vaše hry a světy. Chtěli jsme, aby bylo živoucí a obsahovalo co nejvíce nápadu na hraní a zápletky, abyste se jimi mohli inspirovat.
+series: Město Ravnburgh
 ---
 
 Nahodili jsme skicu mapy města (o kterém jsme nevěděli vůbec nic), na které byly písmeny označena místa. Kdokoli se mohl připojit tak, že si písmenko na mapě zabral a popsal jej. Při tvorbě se musely dodržet následující pravidla (z velké části inspirovaná právě pravidly Jasona Morningstara):

@@ -4,6 +4,7 @@ title: 'Ravnburgh: Dům U Temného svícnu'
 tags: 'doplňky a materiály'
 summary: 'Pověst o Isaacu Middlemanovi patří k oblíbeným městksým legendámuž dlouhá léta. Má to být dokonalý zprostředkovatel, který sežene kupce pro jakékoliv zboží, práci pro jakoukoliv družinku, lidi na jakoukoliv práci a jakoukoliv věc, o kterou je zájem. Více se ale o něm neví, byť se povídá, že dokázal prodat korunu i s královstvím, zaměstnat 300 vzbouřených sirotků a mnoho dalších ještě neskutečnějších obchodů. Zkrátka, když potřebujete sehnat do zítřka mluvící dračí hlavu, tak je Isaac Váš člověk. Čas od času se někdo pokouší začít podnikat na stejném poli, nějaký mladý snílek či naopak uštvaný dobrodruh to zkusí. Někteří uspějí, jiní ne, trh nemá slitování. Zrovna teď se rozjíždí jeden takový pokus v domě u Temného svícnu.'
 authors: Vallun
+series: Domy Ravnburghu
 ---
 
 ## Jak se postavy do domu mohou dostat

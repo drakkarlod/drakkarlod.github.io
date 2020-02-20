@@ -3,6 +3,7 @@ layout: article
 title: "Hex: Opuštěný menhir"
 authors: Narnas
 tags: hex
+series: Okolí Ravnburghu
 ---
 
 Hex leží na hranici mezi obdělávanou půdou a divočinou. Kvůli podmáčené půdě spíš pár kroků směrem do divočiny než do civilizace. Není ovšem úplně opuštěný. V jeho středu stojí osamělý menhir. Dávné centrum nejspíše druidského náboženství a rituálů. To vše vzalo za své, když před několika dekádami menhir praskl po celé délce od shora dolů. Druidové to vzali jako špatné znamení a odešli. S jejich odchodem získaly mokřady ještě větší vládu nad okolím. Přesto jedna rodina zůstala a žije v chatrči vystavěné kolem menhiru. Zvláštní je, že z rodiny nejsou na místě žádní muži, ale 3 generace žen, matka, dcera a babička. Zlí jazykové tvrdí, že jsou to zlé čarodějnice. Pletou se pouze částečně.

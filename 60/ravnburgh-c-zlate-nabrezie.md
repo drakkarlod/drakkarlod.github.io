@@ -4,6 +4,7 @@ title: 'Ravnburgh: C. Zlaté nábrežie'
 authors: Crowen
 tags: 'doplňky a materiály'
 summary: 'Zlaté nábrežie je cechová štvrť na servernom brehu ravnburského prístavu. Sídlia tu najbo­hatšie cechy, banky, pobočka Hanzy a žoldnierska kompánia Morskí vlci.'
+series: Město Ravnburgh
 ---
 
 Zlaté nábrežie je cechová štvrť mesta pomenovaná po svojej južne orientovaných honosných priečeliach cechových sídiel takmer stále zaliatych slnkom. Neoficiálne je štvrť nazývaná Zlatým nábrežím hlavne preto, lebo je tu koncentrovaného veľa bohatstva – sídla bohatých cechov, pobočka Hanzy, niekoľko menších obchodníckych bánk a slávnej žoldnierskej kompánie Morských vlkov.

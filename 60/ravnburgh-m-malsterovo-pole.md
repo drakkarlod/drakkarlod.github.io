@@ -4,6 +4,7 @@ title: 'Ravnburgh: M. Malsterovo pole'
 authors: Ilgir
 tags: 'doplňky a materiály'
 summary: 'Malsterovo pole je rozlehlé pohřebiště, kde se přes den scházejí počestní lidé k pamětním hostinám. V noci je naopak dějištěm pokoutných jednání nekalých živlů, jakož i cílem zhýralé mládeže provádějící zde nepřístojnosti.'
+series: Město Ravnburgh
 ---
 
 Pohřebiště za městem nese jméno svého zakladatele, vévody Francise Malstera. Z obou stran lemují cestu, která je v tomto úseku vydlážděna tmavým kamenem, hroby a hrobky obyvatel města. Jsou jich tisíce a všem, kdo procházejí kolem, připomínají, že lidský život není bez konce. Nejprostší hroby mají podobu nízkých bachratých věžiček, v nichž jsou zazděny ostatky zemřelých. Ani u nejmenších hrobů nechybí kamenná sedátka. Dle jižního zvyku, který si mnozí obyvatelé osvojili, se rodiny scházejí ke společnému jídlu na hrobech svých předků ve výroční den jejich úmrtí. Hrobky bohatých patricijských rodů jsou vystavěny do podoby kruhových budov s kupolí, zevnitř i vně honosně zdobených. Pod střechou je dost místa na okázalé hostiny, kterým mohou přihlížet zesnulí předkové skrze posmrtné masky zazděné v silných stěnách.

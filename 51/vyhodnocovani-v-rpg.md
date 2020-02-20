@@ -4,6 +4,7 @@ title: 'Vyhodnocování v RPG'
 summary: 'Neshody mezi hráči na téma, co je vlastně výsledkem vyhodnocení, jsou s RPG hraním spojeny snad odnepaměti. Potřeba tyto neshody odstranit historicky vedla k vymezení pojmů, které měly původně vnést trochu světla do této problematiky. Toto je první ze seriálu pěti článků, která se problému věnuje.'
 authors: 'Filip „MarkyParky“ Dvořák'
 tags: 'teorie, vyhodnocování'
+series: Vyhodnocování v RPG
 ---
 
 <div class="sample">

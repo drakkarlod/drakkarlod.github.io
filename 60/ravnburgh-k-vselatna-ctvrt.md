@@ -4,6 +4,7 @@ title: 'Ravnburgh: K. Všelátná čtvrť'
 authors: eerieBaatezu
 tags: 'doplňky a materiály'
 summary: 'Čtvrť lékárníků, filosofů a alchymistů.'
+series: Město Ravnburgh
 ---
 
 Už při prvním pohledu zanechají domy této čtvrti na zírajícího podivný dojem. Nezřídka se i o poledni nejteplejšího dne v roce z komínů valí chuchvalce kouře a často i velmi nečekaných barev. Tato čtvrť se stala domovem a někdy spíše i útočištěm podivínů a mudrců praktikujících učení svých mistrů, ať už se jedná o apatykáře a léčitele, nebo přímo alchymisty, mágy a přírodní filosofy. Ti všichni zde mají své krámky a dílny, snažíce se pomocí experimentů nebo čtením starých svitků dosáhnout většího porozumění všehomíra.

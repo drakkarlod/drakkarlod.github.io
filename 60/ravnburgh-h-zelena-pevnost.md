@@ -4,6 +4,7 @@ title: 'Ravnburgh: H. Zelená pevnost'
 authors: Plž
 tags: 'doplňky a materiály'
 summary: "Zelená pevnost, jeden z opěrných bodů městské obrany, v dobách míru trošku přehlížené, který má ve svých základech tajemnou starou svatyni.\_"
+series: Město Ravnburgh
 ---
 
 Nad celým městem se vypíná Zelená pevnost. Jméno dostala podle nazelenalé břidlice, ze které je postavena. Vzhledem k tomu, že se jedná o nejvyšší vrchol nad městem s výhledem do okolí, toto místo vždy sloužilo jako pozorovatelna a hláska proti případným útokům z pevniny.

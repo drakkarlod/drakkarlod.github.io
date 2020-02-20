@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Zrcadlový kráter'
 authors: OnGe
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Zrcadlový kráter vznikl dopadem křemičitého asteroidu na povrch planety. Při dopadu byla odhalena ložiska stříbra a materiál byl vymrštěn do okolí. Stěny kráteru tak z velké části pokryla vysoce reflexní vrstva.

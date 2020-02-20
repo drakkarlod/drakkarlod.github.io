@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Letiště na planině Aksan'
 authors: OnGe
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Letiště je jediným přímým spojem náhorní plošiny se zbytkem světa. Ne že by se nahoru nedalo dostat jinak, ale přiletět je zkrátka jednodušší než se drápat strmým svahem a jít kilometry nebezpečnou džunglí.

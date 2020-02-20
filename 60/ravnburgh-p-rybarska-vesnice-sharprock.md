@@ -4,6 +4,7 @@ title: 'Ravnburgh: P. Rybářská vesnice Sharprock'
 authors: Sarsaparillos
 tags: 'doplňky a materiály'
 summary: 'Osada rybářů, dělníků a lesníků s vysokou mírou nezávislosti, situovaná východně od Ravnburghu. Nenápadná vesnice je ve sku­tečnosti tajnou základnou vyzvědačské sítě Červená perla, kterou zde pod patronátem sousedního města Dayhaven řídí bratři Foxové.'
+series: Město Ravnburgh
 ---
 
 Na vysoké břidlicové skále leží obyvateli centra Ravnburghu přehlížená a napůl zapomenutá vesnice Sharprock. V dávných dobách se zde nad pobřežím tyčila mohutná pevnost, ze které do dnešních dní zbyly jen trosky obvodových zdí a sklepy vytesané ve skále a mnoho spletitých chodeb. Dnešní obyvatelé zachránili ze zříceniny maximum a jejich malebné domky často využívají pozůstatků pevnosti ve svých konstrukcích. Celkově působí vesnice velmi sklíčeným, ale přesto útulným dojmem a svou malebností si nezadá s většinou městských čtvrtí. Směrem dolů k pobřeží vybavili rybáři strmou skálu důmyslným systémem žebříků a nákladních jeřábů, které sahají až k molům na hladině moře.

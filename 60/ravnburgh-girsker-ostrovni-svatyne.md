@@ -4,6 +4,7 @@ title: 'Ravnburgh: Æ. Ægirsker, ostrovní svatyně'
 authors: Cor
 tags: 'doplňky a materiály'
 summary: "Ægirsker je staré obřadní místo svázané s\_bohy moře, které i dnes hraje důležitou roli v duchovním životě místních. Tajemný ostrov je plný připomínek dávno minulých časů a opředen mnoha zkazkami a lokálními pověstmi.\_"
+series: Město Ravnburgh
 ---
 
 Skalnatý ostrov, jehož černé útesy se vzdorovitě tyčí nad burácejícím příbojem. Ægirsker, jak se mu říkalo od nepaměti, je záhadným a tajemným místem, které uchovává památky na dávné časy. Východní útes ostrova byl opracován a zpola z něj vystupuje obrovská mužská postava hrubých rysů, třímající v natažené paži mísu. Říká se jí Pán moří. Nikdo neví, zda ji vytesali předkové dnešních obyvatel města, nebo jiný národ z šerého dávnověku, ani proč nebyla řádně dokončena. Dávní obyvatelé také zanechali všude po ostrově rytiny a ve skalách vytesané příbytky a chodby. Proplétají se celým ostrovem jako labyrint a jen některé jsou dost vysoké, aby umožnily pohodlnou chůzi.

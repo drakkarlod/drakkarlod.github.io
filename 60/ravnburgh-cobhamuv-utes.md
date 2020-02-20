@@ -4,6 +4,7 @@ title: 'Ravnburgh: Œ. Cobhamův útes'
 authors: Lorwyn
 tags: 'doplňky a materiály'
 summary: 'Nevelký ostrov se strmými břehy, spíš útes čnící až na hraně šelfu. Je místem zapomínání, odevzdávání věcí a někdy i životů moři. Málokterý převozník vás na něj vezme, pověrčivý lid přístavu ho nemá v lásce.'
+series: Město Ravnburgh
 ---
 
 Cobhamův útes je osamělé a pusté místo. Nikdo na větrem a vlnami bičovaném ostrově nežije, a kam až paměť sahá, nežil. Ornamenty tu a tam vyryté do kamenů smyl příboj, obrousil vítr a omyl déšť. Lid města o něm nerad mluví, mnohdy ho zmiňují jen jako „skálu“ či „ostrov“. Přitom je i Cobhamův útes opisem, mnozí dědové tvrdí, že dřív se jmenoval jinak.

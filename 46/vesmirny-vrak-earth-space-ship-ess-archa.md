@@ -3,6 +3,7 @@ layout: article
 title: 'Vesmírný vrak: Earth Space Ship ESS Archa'
 authors: Skenderax
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 02. 02. 2020 opustila ESS Archa, najmodernejšia loď vtedajšej spoločnosti, obežnú dráhu zeme a vyrazila na vzdialenú exoplanétu s názvom Terra. Jej posádka s vybavením založí prvú kolóniu a teraformuje planétu.

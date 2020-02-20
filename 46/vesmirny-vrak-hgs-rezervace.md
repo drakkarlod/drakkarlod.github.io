@@ -3,6 +3,7 @@ layout: article
 title: 'Vesmírný vrak: HGS Rezervace'
 authors: Sosáček
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 ### 1. záznam

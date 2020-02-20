@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Mořský hřbitov'
 authors: OnGe
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Během války se tu střetla dvě mocná loďstva a po pár dnech vyrovnaného boje z nich zbylo jen několik děravých lodí. Zbytek lodí i letadel klesl ke dnu. Vyprávění o tom, jak je tu na dně tolik vraků, že se vrší jeden přes druhý, jsou přehnaná. I když najdete místa, kde se pár lodí či letadel usadilo pohromadě, většinou jednotlivé vraky oddělují široké pásy celkem nezajímavého mořského dna.

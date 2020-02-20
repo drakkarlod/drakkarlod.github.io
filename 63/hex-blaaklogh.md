@@ -4,6 +4,7 @@ title: "Hex: Blaaklogh"
 authors: Petr „ilgir“ Chval
 tags: hex
 summary: Jezero Blaaklogh se rozkládá na úpatí stalgharských hor a je největší vodní plochou široko daleko. Přesto jeho břehy nekypí životem tak, jak by bylo možné očekávat. Pouhá tři městečka a pár desítek rybářských vesniček tvoří domov pro sotva tři tisíce stálých obyvatel. Voda v Blaaklogh je velmi studená vinou stínu hory a není tak bohatá na ryby, jak by se dalo čekat. Chladný vzduch z hor, časté mlhy a vytí vlků scházejících do údolí, to vše jen dodává oblasti na ponurosti.
+series: Okolí Ravnburghu
 ---
 
 Všichni majetní usedlíci žijí pod ochranou jezerní hanzy, která přes svůj vznešený název není o moc více než rybářským cechem. Kromě ryb obchoduje hanza ještě s kamenem a dřevem vytěženým na úbočích hor. Většina těchto surovin putuje přímo do Ravnburghu. Předáci hanzy, až na výjimky muži velmi pokročilého věku, mají pevně v rukou veškeré dění v oblasti kolem Blaaklogh. Pravidelně se scházejí k poradám, jejichž výnosy obyvatelé musejí respektovat. Mimo to rozsuzují spory, schvalují sňatky i posuzují zájemce, kteří by se u Blaaklogh rádi usadili. Předáci se drží tradic, každou záležitost důsledně prohovoří a rozhodně při jednáních nikam nespěchají. Proto jim bývá vyčítána zastydlost a zkostnatělost, a zvláště mladí lidé dávají často najevo svou nespokojenost s jejich vládou.

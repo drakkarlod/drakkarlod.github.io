@@ -3,6 +3,7 @@ layout: article
 title: 'Ravnburgh: Komenda řádu rytířů Modré růže'
 tags: 'doplňky a materiály'
 authors: Hike
+series: Domy Ravnburghu
 ---
 
 ## Popis místa a osob

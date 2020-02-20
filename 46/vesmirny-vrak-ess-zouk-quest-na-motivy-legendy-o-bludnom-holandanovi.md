@@ -3,6 +3,7 @@ layout: article
 title: "Vesmírný vrak: ESS Žouk (Quest na motívy legendy o\_Bludnom Holanďanovi)"
 authors: Skenderax
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 Miestnoťou zatriasol silný prešiel otras. Ďalšia loď neďaleko odtiaľ uviazla vo vesmírnom vraku. Éterom rozľahol kódovaný hlas. Kódovaný štandartným vojenským kódom planéty Zem.

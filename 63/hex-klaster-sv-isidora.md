@@ -3,6 +3,7 @@ layout: article
 title: "Hex: Klášter sv. Isidora"
 authors: komi
 tags: hex
+series: Okolí Ravnburghu
 ---
 
 Klášter se nachází v lehce zvlněné a nepříliš osídlené pahorkatině, vzdálené nějaký ten den cesty od Ravnburghu. Jeho okolí je vyhlášené tím, jak je neskutečně fádní a nudné. Když někdo cestuje touto krajinou, zaujmou jej obvykle jen dvě věci. První je občasné zahlédnutí psa, ani se totiž nechce věřit, že tu nějací nechcíplí mohli ještě zůstat. Druhou je vrch s troskami hradu a klášterem umístěným na úpatí svahu. Klášter z dálky vypadá, jako by vypadl z pohádky o zakletém zámku. Jeho hrubé neomítnuté zdi jsou naprosto nesourodou směsicí obřích vápencových balvanů, pravidelných kamenných kvádrů a cihel. Skoro to vypadá, jakoby stavbu neuměle uplácalo nějaké bájné dítě obra a až o pár století později se lidé pokusili tyhle bábovičky dostavět v něco užitečného. Celé je to navíc zamotané v jakési změti pavučin, z níž vyčnívají jen střechy a věžička kostela. Kolem se poněkud nepatřičně rozprostírají pěstěné kvetoucí zahrady a úrodná obdělávaná pole.

@@ -4,6 +4,7 @@ title: Vesmírný Vrak
 authors: různí autoři
 tags: doplňky a inspirace
 summary: Mrtvým vakuem se bezcílně pohybuje temná masa vesmírného Vraku, složeného z různých opuštěných a ztroskotaných lodí, které jsou havarované nebo zaklíněna jedna do druhé. Vrak neodpovídá na volání a jedinou odpovědí v rádiu je ticho hluboké jako smrt…
+series: Vesmírný vrak
 ---
 
 Nikdo neví, proč Vraky vznikají, a nikdo nedokáže vysvětlit, jaká podivná náhoda či záměr k sobě vede havarované a zničené lodě, které pak společně vytvoří mohutný Vrak, který se pohybuje vesmírem. Některé lodě do něj havarovaly, některé tam byly přitaženy, jiné tam zakotvily, aby Vrak prozkoumaly … a už nikdy neodrazily, přičemž osud jejich posádek je neznámý. Tvrdí se, že na Vracích žijí podivné bytosti z mimozemských lodí, krvežízniví kanibalové nebo tvorové zmutovaní zářením poškozených nukleárních motorů. Vraky se objevují a zase mizí, jejich pohyby vesmírem jsou naprosto nepředvídatelné. Byly zaznamenány případy, kdy Vrak stáhla gravitace některé planety, na které havarovaly, jiné byly spatřeny v krátkém časovém úseku ve vzdálených sektorech Galaxie, světelné roky daleko od sebe. Někteří věří, že za to mohou částečně funkční motory mimozemských lodí zapletených do Vraku, jiní tvrdí, že cosi ve Vraku je stahuje na dosud neprozkoumané červí díry a spojnice vesmíru.

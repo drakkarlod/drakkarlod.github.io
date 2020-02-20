@@ -3,6 +3,7 @@ layout: article
 title: 'Vesmírný vrak: Laboratórium profesora Octaviena Lapierre'
 authors: Skenderax
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 __Veľkosť__ – základny modul lodi je veľkosti trojposchodového rodinného domu. Jedno poschodie je samotné laboratórium a skradište ulovených obetí. V trezoroch a mraziacich boxoch sú uložené esencie, energetické zásobníky, stimulátory. Na ďalšom poschodí relaxuje, rozmýšľa o dalších nových druhoch, robí si poznámky. A na poslednom skladuje zásoby jedla pre seba. Nie je moc vyberavý.

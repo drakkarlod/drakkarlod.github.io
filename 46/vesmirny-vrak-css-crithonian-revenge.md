@@ -3,6 +3,7 @@ layout: article
 title: 'Vesmírný vrak: CSS Crithonian Revenge'
 authors: Ecthelion²
 tags: 'doplňky a inspirace'
+series: Vesmírný vrak
 ---
 
 Crithonian Revenge je tři století stará bitevní loď zničená v bitvě u Selucu. Tento mohutný koráb tvoří jeden z prvních kusů Vraku – nachází se v jeho středu, takže tu otáčení Vraku nevytváří gravitaci. Není tu ani atmosféra, protože loď byla zničena v zuřivé bitvě, takže trup lodi je posetý děrami po explozích, které ho rozpáraly. Kromě několika málo sekcí, které uzavřely automatické přepážky, je v jeho chodbách a místnostech jen vakuum, které zakonzervovalo celou scénu tak, jak vypadala před třemi stoletími. Loď explodovala a byla zničena přetížením reaktoru ve chvíli, kdy se ji pokoušel obsadit federační výsadek. Tato exploze loď prakticky rozpárala na levoboku a byla natolik poškozená, že ji po bitvě neodtáhla ani jedna z bojujících stran, protože pro ni neměli žádné využití. Na lodi se v některých nepoškozených skladech stále nacházejí vojenské zásoby, zbraně a munice (to také může být důvod, proč na loď jít, lze tu nalézt i nukleární hlavici, kterou výbuch neodpálil).

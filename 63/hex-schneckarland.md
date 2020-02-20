@@ -4,6 +4,7 @@ title: "Hex: Schneckarland"
 authors: Vallun
 tags: hex
 summary: Schneckarland je zemědělská oblast na samém okraji Ravenburského vlivu v místech vyklučeného hvozdu. Dominantou kraje je Maudina skála a bystrá řeka Schneckar. Oblast zásobuje potravinami Ravnburgh, ale rozsáhlé pozemky na severu vykoupil pro Hanzu Henry Clopton a jeho lidé tam vysazují nové stromy, což vyvolává nemalé napětí. Na východě se nachází tajemné pozůstatky Velkého hvozdu, jímž prochází stará cesta na dayhavenské území.
+series: Okolí Ravnburghu
 ---
 
 Dva dny cesty na jih od Malsterova pole protéká úrodným krajem řeka Schneckar, která je pravobřežním přítokem řeky Ravn, v jejímž ústí se nachází slavný Ravnburgh. Na jejím severním břehu se rozkládal Velký hvozd. V minulých dvou staletích však jeho mocné a nádherné kmeny podlehly sekerám a pilám nesčetných po půdě bažících lidí a hvozd tak ustoupil proti proudu Schneckaru o mnoho desítek mil, aby uvolnil místo polím tří velkých vesnic – Kiefdorfu, Buchdorfu a Eichdorfu a desítkám samostatných statků v jejich okolí. Zemědělství na velmi úrodné půdě prosperovalo a umožňovalo růst ravnburské populace.

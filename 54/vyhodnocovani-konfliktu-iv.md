@@ -4,6 +4,7 @@ title: Vyhodnocování konfliktů IV.
 authors: Filip „MarkyParky“ Dvořák
 tags: teorie rpg
 summary: V minulém dílu seriálu o vyhodnocování v RPG jsme si představili úskalí spojená s interpretací výsledku vyhodnocení. Předpokládali jsme při tom, že pravomoc pracovat s výsledkem má vždy právě jeden hráč, a rozebírali jsme, jakým způsobem může jeho rozhodování ovlivnit hru, či dokonce být příčinou neshody. Na konci článku jsme si však uvedli dva příklady, kdy z principu není možné, aby pouze jediný hráč mohl vyhodnocovanou situaci správně interpretovat. Tento díl našeho seriálu bude věnovaný právě těmto problematickým příkladům.
+series: Vyhodnocování v RPG
 ---
 
 ## Dílek třetí a kousek – Sdílení pravomoci interpretovat…

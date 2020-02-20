@@ -4,6 +4,7 @@ title: 'Ravnburgh: Dům U Stříbrných nůžek'
 tags: 'doplňky a materiály'
 summary: 'V domě U Stříbrných nůžek je vetešnictví, které má svá nejlepší léta dávno za sebou a které má ve sklepě dost výbušné tajemství …'
 authors: Ecthelion²
+series: Domy Ravnburghu
 ---
 
 ## Jak se postavy mohou do domu dostat

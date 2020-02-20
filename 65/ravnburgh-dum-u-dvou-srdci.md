@@ -4,6 +4,7 @@ title: 'Ravnburgh: Dům U Dvou srdcí'
 tags: 'doplňky a materiály'
 summary: 'Zvláštní dvojice otce a dcery zjevně není z tohoto času a nemůže opustit svůj dům. Otec dá postavám podivnou nabídku: mají přímo před jeho zraky zplodit s dychtivou dcerou rodině dědice.'
 authors: boubaque
+series: Domy Ravnburghu
 ---
 
 ## Jak se postavy do domu mohou dostat

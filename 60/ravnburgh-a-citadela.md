@@ -4,6 +4,7 @@ title: 'Ravnburgh: A. Citadela'
 authors: Narnas
 tags: 'doplňky a materiály'
 summary: "Ostrovní pevnost, chránící vstupy do ravnburského přístavu a sloužící jako rodové sídlo earlů z\_rodu Lochbearerů."
+series: Město Ravnburgh
 ---
 
 Citadela je sídelní ostrovní pevností vládnoucího rodu Lochbearerů. V jejím centru stojí earlova věž, známá spíš jako stará věž, neboť její původ nelze v zápisech vysledovat. Zbývající části jsou výsledkem postupné dostavby. Oblast kolem staré věže odděluje vnitřní hradba. Památka první přestavby, kdy kolem věže vyrostl hrad. Za vnitřní hradbu mohou pouze členové rodu, jejich nejbližší přátelé a služebnictvo. Mezi vnitřní a obvodovou hradbou se nachází nepatrné městečko, jehož obyvatelé jsou svázáni s vládnoucím rodem. Služba rodu se stala dědičnou.

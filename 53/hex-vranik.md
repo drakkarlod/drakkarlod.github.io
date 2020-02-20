@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Vraník'
 authors: Pepa
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Toto prostředí popisuje rozlehlou rovinu, na které se nachází pole a grunty trojice statkářů. Před nedávnou dobou proběhl na polích dvou statkářů požár a hráčské postavy by měly vyšetřit, kdo (nebo co) za tím vězí…

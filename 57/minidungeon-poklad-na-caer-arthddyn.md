@@ -3,6 +3,7 @@ layout: article
 title: "Minidungeon: Poklad na Caer Arthddyn"
 authors: Ján „Crowen“ Rosa
 tags: 'doplňky a materiály, minidungeon'
+series: Minidungeony
 ---
 
 ## Legenda o Caer Arthddyn

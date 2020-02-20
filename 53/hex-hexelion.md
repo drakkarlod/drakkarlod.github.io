@@ -3,6 +3,7 @@ layout: article
 title: 'Hex: Hexelion'
 authors: Sparkle
 tags: 'doplňky a materiály'
+series: Hexy
 ---
 
 Tento hex je ve skutečnosti obří zvíře, kterému se říká Hexelion. Je hibernované, rostou na něm stromy a tráva. Může se ale začít probírat, viz problémy popsané níže. Potom je potřeba s tím něco dělat, například ho zase uklidnit, jinak se probudí a spase jiný hex. Urči náhodně hodem kostkou který: 1 – sever, 2 – severovýchod, 3 – jihovýchod, 4 – jih, 5 – jihozápad, 6 – severozápad. Poté, co sní daný hex a nacpe si břicho vším, co bylo na něm, uloží se na tomto novém hexu zase ke spánku, dokud ho zase nikdo nevzbudí.

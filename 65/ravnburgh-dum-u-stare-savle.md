@@ -4,6 +4,7 @@ title: 'Ravnburgh: Dům U Staré šavle'
 tags: 'doplňky a materiály'
 summary: 'Rozsáhlejší komplex 10 budov s vnitroblokem a několika patry plnými her, rulet, stolů a barů.'
 authors: PetrH
+series: Domy Ravnburghu
 ---
 
 Několik domů původně panské jízdárny, které zakoupil ctěný pán Hrabivec z Dolů. Prý zbohatl na rudné žíle a peníze investoval. Během několika let přestavby zůstaly jen spodní klenuté oblouky. Uvnitř jsou rozsáhlé síně s křišťálovými lustry ručně vyřezávanými stoly vykládanými zlatem a drahokamy.

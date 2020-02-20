@@ -4,6 +4,7 @@ title: 'Ravnburgh: N. Kapitulní škola svatého Leonarda'
 authors: Hike
 tags: 'doplňky a materiály'
 summary: "Kapitulní škola a knihovna bratří leonardiánů, mnichů v\_šedých kutnách."
+series: Město Ravnburgh
 ---
 
 Jižní Nové město, uzavřené v objetí městských hradebních zdí, nabízí oproti živelněji založenému severnímu Starému městu jiný pohled. Ulice jsou zde spořádaně symetrické, široce stavěné, prostranství s kašnami sloužící jako tržní místa kvalitně vydlážděná, okna řemeslnických domů zde zdobí květiny v keramických květináčích a vůně čerstvě napečených housek a caltů se mísí s vůní vařeného piva a nad vším ruchem z obchodů a dílen zní rytmické dusání okovaných bot městské hlídky.

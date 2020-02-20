@@ -3,6 +3,7 @@ layout: article
 title: "Hex: Medvědínský brod"
 authors: MarkyParky
 tags: hex
+series: Okolí Ravnburghu
 ---
 
 ## 1. Starý brod

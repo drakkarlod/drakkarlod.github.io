@@ -4,6 +4,7 @@ title: "Hex: Coffinovo údolí aneb Popelákov"
 authors: Sarsaparillos
 tags: hex
 summary: "Hornická oblast protkaná doly s železnou rudou. Krom šedivého popela a zástupů extrémně chudých dělníků tu není ničeho dost: chybí jídlo, dřevo, voda i dobrá nálada."
+series: Okolí Ravnburghu
 ---
 
 Rozlehlé údolí zvrásněné nespočetnými pahorky kdysi patřilo k nejúrodnějším místům v okolí Ravnburghu. Krajinou vmáčknutou mezi vysoké hory na severu a skalnaté kopce na jihu protéká dravá řeka, která se uklidňuje až na hraně údolí a líně odtéká na východ. Ta krom horských svahů sbírá vodu i z hlubokého hvozdu, ve který údolí přechází na západě. Na břehu této řeky kdysi založil první osadu zchudlý šlechtic Coffin. Mohlo jít o idylické místo uprostřed čarokrásné přírody, kdyby ovšem jednou místní hrobník nenarazil jen pár sáhů pod zemí na železnou rudu. Vidina snadných výdělků rychle přitáhla mnoho nenasytných podnikavců. Stačilo pár let a údolí už nikdo neřekne jinak než Popelákov.

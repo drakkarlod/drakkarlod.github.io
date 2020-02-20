@@ -4,6 +4,7 @@ title: 'Ravnburgh: S. Stoky'
 authors: Arten_CZ
 tags: 'doplňky a materiály'
 summary: 'Tajuplné a rozlehlé stoky, které tu byly dříve než město samo.'
+series: Město Ravnburgh
 ---
 
 Proč vznikly dvě nejbohatší čtvrti právě v místech, kde vznikly? Může za to vhodná strategická pozice? Přístup k Dokům? Vhodné podloží? Dostatek materiálu? Ano, samozřejmě. Ale hlavní důvod, proč vznikly Brokátová čtvrť (viz B) a Zlaté nábřeží (viz C) právě v místech, kde je můžeme nalézt, je původní systém kanalizace a akvaduktů, který se stará o zásobování čtvrtí pitnou vodou a odvod nečistot a splašků.

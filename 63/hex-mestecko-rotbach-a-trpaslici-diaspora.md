@@ -3,6 +3,7 @@ layout: article
 title: "Hex: Městečko Rotbach a trpasličí diaspora"
 authors: Hike
 tags: hex
+series: Okolí Ravnburghu
 ---
 
 Pár mil od Ravnburghu, tam, kde se Jižní obchodní stezka ztrácí v kopcích Lemanské vrchoviny, se pod vrchem Rammehorn rozkládá městečko Rotbach. Upřímně, je to ospalá díra, kde na každém kroku člověk narazí na důkazy zašlé slávy tohoto dříve významného průmyslového centra. Kamenné hradby se dvěma branami poznamenal zub času, i v dláždění se množí vyviklané kameny, přesto v poslední době přibylo několik honosných domů kolem Trhového náměstí.

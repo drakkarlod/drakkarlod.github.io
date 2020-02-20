@@ -4,6 +4,7 @@ title: "Kolektivní článek: Opuštěné ostrovy"
 authors: redakce
 tags: doplňky a materiály
 summary: „Už je to možná padesát nebo šedesát let… co z ostrovů odešli elfové. Předtím nás jejich lodě držely v bezpečné vzdálenosti a my jsme se drželi dál, pak ale ze dne na den zmizeli… a zůstaly po nich jen tiché dolmeny, opuštěné domy, přístaviště a chrámy. Brzy se tomu tady začalo říkat Opuštěné souostroví a naše kogy zakotvily v prázdných zátokách, kde nás vítalo jen bečení ovcí, jejichž pastýři odešli. Přišli noví lidé z jihu, aby se tu usadili a osídlili jsme postupně většinu větších ostrůvků. Ale nikdy jsme nezjistili proč nebo kam elfové odešli. Zmizeli všichni beze stopy a bez vysvětlení…“
+series: Opuštěné ostrovy
 ---
 
 Na stránkách [http://maps.gamingkeep.sk](http://maps.gamingkeep.sk) je k dispozici náhodný generátor map, který sestavil dohromady Antharon. Nabízí hodně nastavení pro generování (při kliknutí na růžici vlevo dole) a tím prostor pro vytváření různorodých světů a prostředí.

@@ -4,6 +4,7 @@ title: 'Ravnburgh: E. Slatina'
 authors: Ecthelion²
 tags: 'doplňky a materiály'
 summary: 'Čtvrť postavená na bývalém močálu, kde neplatí zákony města a zdejší obyvatelé si vytvářejí svá vlastní pravidla. Změť přístavišť, rybáren, náleven, skladů překupníků, nevěstinců, obchůdků s pašovaným a kradeným zbožím.'
+series: Město Ravnburgh
 ---
 
 Za severními hradbami Starého města se přístavní uličky zužují a zamotávají, přičemž ústí do labyrintu průchodů, můstků, schodů a úzkých koridorů, jež vytvářejí Slatinu. Tato čtvrť je z velké části postavena na bývalé mokřině, do které se celá pomalu potápí. Je tvořena změtí přístavišť, náleven, skladů překupníků, obchůdků s pašovaným a kradeným zbožím a nevěstinců, namačkaných na sebe. Městská stráž se většinou do zdejších uliček odváží jen málokdy. A to vždy jen ve velkých počtech a za denního světla, kdy je doprovází temné pohledy přihlížejících. Místní si dělají vlastní pravidla a odpovědí na otázky strážců zákona je jen zaryté mlčení. I pro náhodného návštěvníka to může být nebezpečné místo, kde si musí dávat pozor. Každý, kdo překročí nepsané zákony, dostane jen jedno varování. Další prohřešek většinou znamená, že provinilec prostě zmizí a už ho nikdo neuvidí. Šušká se, že takoví skončí pohřbení pod základy domů, které se propadají do mokřadů, případně zatížení kameny a shození do moře kus od břehu.

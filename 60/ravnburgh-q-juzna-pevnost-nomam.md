@@ -4,6 +4,7 @@ title: 'Ravnburgh: Q. Južná pevnosť – Nomam'
 authors: Skenderax
 tags: 'doplňky a materiály'
 summary: 'Uhladený, usporiadaný, čistý a spokojný výzor Nomamu je zásterkou a reklamou bankového domu rodu Kentovcov i žriedlom informácií, ktoré zhŕňajú Červené Hviezdy. „Za peniaze je možné kúpiť všetko.“ – toto konštatovanie sa stalo neoficiálnym heslom Južnej pevnosti.'
+series: Město Ravnburgh
 ---
 
 Južná pevnosť bola založená ako ochrana vodného toku do vnútrozemia. Pôvodná obranná veža sa v neskoršom období rozrástla o nádvorie a hospodárske budovy i stálu posádku nie len na patrolovanie pobrežia, ale i na obsluhu obliehacích strojov schopných poškodiť každú loď vhodnú na splavenie rieky.

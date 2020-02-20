@@ -3,6 +3,7 @@ layout: article
 title: 'Opuštěné ostrovy: Oltha Doll – Ostrov snov'
 authors: Skenderax
 tags: 'doplňky a materiály'
+series: Opuštěné ostrovy
 ---
 
 ## Príbeh začína

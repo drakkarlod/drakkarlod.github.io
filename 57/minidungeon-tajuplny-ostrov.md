@@ -3,6 +3,7 @@ layout: article
 title: 'Minidungeon: Tajuplný ostrov'
 authors: Sarsaparillos
 tags: 'doplňky a materiály, minidungeon'
+series: Minidungeony
 ---
 
 ## 1 Intro

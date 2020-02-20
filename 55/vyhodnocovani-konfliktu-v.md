@@ -4,6 +4,7 @@ title: Vyhodnocování konfliktů V.
 authors: Filip „MarkyParky“ Dvořák
 tags: teorie rpg
 summary: Ve všech předcházejících dílech našeho seriálu jsme se na vyhodnocování a RPG hry dívali více či méně subjektivním pohledem. Popisovali jsme si, co ve hře můžeme vlastně vyhodnocovat, jaká to má úskalí a jak ten či onen způsob může či nemusí naplnit hráčské preference. Tento poslední dílek skládačky se bude od ostatních trochu lišit. Bude se totiž zabývat přímo herní mechanikou.
+series: Vyhodnocování v RPG
 ---
 
 ## Dílek pátý – postupně nebo najednou?
