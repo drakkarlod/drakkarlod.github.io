@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Seriály</h1>
+
+{% assign series_set = site.pages | where_exp: 'page', 'page.series' | group_by: 'series' %}
+
+{% for series in series_set %}
+    <h2>{{ series.name }}</h2>
+    {% assign articles = series.items | sort: 'url' %}
+    {% for article in articles %}
+        <a href="{{ article.url }}">{{ article.title }}</a><br>
+    {% endfor %}
+{% endfor %}
