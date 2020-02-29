@@ -7,7 +7,7 @@ description: >-
   tešil som sa ako decko, pretože to boli mačičky. Tak som to v práci rozbalil a
   preskúmal. Veľmi milo ma to celé prekvapilo.
 published: true
-title: 'Čerstvě dočteno: Cats &amp; Catacombs'
+title: 'Čerstvě dočteno: Cats & Catacombs'
 ---
 
 ## Miniatúry
