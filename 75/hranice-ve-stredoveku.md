@@ -10,6 +10,12 @@ description: >-
   zvyklí.
 published: true
 title: Hranice ve středověku
+summary: >-
+  Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se
+  ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím
+  odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v
+  opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes
+  zvyklí.
 ---
 
 Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes zvyklí.
