@@ -1,3 +1,10 @@
+---
+layout: article
+authors: Paul
+tags: 'Historie a realita'
+description: Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes zvyklí.
+---
+
 Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes zvyklí.
 
 A právě na jejich podobu před tisíci lety ve střední Evropě se zaměří tento článek. Na příkladech různých států v nám dobře známém prostoru si ukážeme, jakých forem mohly hranice nabývat v závislosti na okolní krajině nebo délce osídlení.
