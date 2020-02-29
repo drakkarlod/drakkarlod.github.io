@@ -13,7 +13,7 @@ published: true
 
 _Spolupráce a konzultace: Faskal, Asheara_
 
-Název pro celou rasu je „Všichni“, několik jedinců se označuje jako „Každí“ a jeden jedinec je „Každý“ (proč má mimozemská rasa tak netradiční jméno viz oddíl Komunikace). 
+>Název pro celou rasu je „Všichni“, několik jedinců se označuje jako „Každí“ a jeden jedinec je „Každý“ (proč má mimozemská rasa tak netradiční jméno viz oddíl _Komunikace_). 
 
 Navzdory svému hrozivému vzezření a hanlivé přezdívce „vesmírní brouci“ je to rasa hluboce přesvědčených pacifistů, ekologů a počítačových inženýrů. Přestože díky své pokročilé technologii a potenciálně neomezeným počtům by mohli dominovat rozsáhlým oblastem vesmíru, nikdy ve známé historii nevedli válku proti jiné cizí rase. Sami nemají potřebu nikam expandovat a vše, na čem jim záleží, je jejich vlastní svět. Nakolik chápeme jejich důvody, věří, že je propojen s jejich osudem a má zvláštní místo v osudu celého vesmíru. 
 
@@ -43,7 +43,7 @@ Po _Válce_ napjali všechny snahy, kapacitu i zdroje celé rasy k obnově svoj
 
 ## Komunikace
 
-Každí se mezi sebou dokážou domlouvat telepaticky (přesněji za pomoci posílání mimoprostorových zpráv na krátké vzdálenosti). Členové matrice umí udržovat vzájemné spojení do vzdálenosti asi dvou set metrů, domluva se členy ostatních matric je možná asi na vzdálenost padesáti metrů. Toto neustálé spojení s ostatními členy matrice jim umožnila vytvořit si částečné společné vědomí, které sdílejí. Jednotlivé matrice se řetězí a zapojují do vyššího společného vědomí, které zesiluje s počtem jedinců do něj zapojených. To jim umožňuje rychle řešit problémy a jejich vývoj a výzkum je neskutečně rychlý, protože dokáže využívat optimálně mentální kapacity všech zapojených členů Všech. Jak už bylo zmíněno, před Válkou bylo společných vědomí vícero, ale po ní se všichni přeživší spojili do jediného, které nyní funguje jako jediný poradní hlas pro celou rasu. 
+Každí se mezi sebou dokážou domlouvat telepaticky (přesněji za pomoci posílání mimoprostorových zpráv na krátké vzdálenosti). Členové matrice umí udržovat vzájemné spojení do vzdálenosti asi dvou set metrů, domluva se členy ostatních matric je možná asi na vzdálenost padesáti metrů. Toto neustálé spojení s ostatními členy matrice jim umožnila vytvořit si částečné společné vědomí, které sdílejí. Jednotlivé matrice se řetězí a zapojují do vyššího společného vědomí, které zesiluje s počtem jedinců do něj zapojených. To jim umožňuje rychle řešit problémy a jejich vývoj a výzkum je neskutečně rychlý, protože dokáže využívat optimálně mentální kapacity všech zapojených členů Všech. Jak už bylo zmíněno, před _Válkou_ bylo společných vědomí vícero, ale po ní se všichni přeživší spojili do jediného, které nyní funguje jako jediný poradní hlas pro celou rasu. 
 
 Pokud vzdálené matrice řeší důležitá rozhodnutí, mohou zapojit veškerou kapacitu všech svých členů a vytvořit „simulaci“ nadřazeného společného vědomí na základě svých vzpomínek a kapacit, které mají k dispozici... a dostanou odpovědi, které jsou zhruba v souladu se společným vědomím. Pro takovou simulaci je zapotřebí všech členů matrice a je to časově náročný proces, takže se k němu neuchylují často.
 
