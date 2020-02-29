@@ -1,8 +1,14 @@
 ---
 layout: article
 authors: Paul
-tags: 'Historie a realita'
-description: Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes zvyklí.
+tags: Historie a realita
+description: >-
+  Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se
+  ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím
+  odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v
+  opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes
+  zvyklí.
+published: true
 ---
 
 Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím odlišnější jejich představa a význam v lidské mysli byl. Snad také proto, že v opravdu hluboké minulosti se většinou ani nejednalo o čáru, jak jsme dnes zvyklí.
@@ -29,13 +35,13 @@ Příkladem hraniční řeky může být třeba Warta[1], ve dvanáctém stolet�
 
 > … zavlažuje území Čechů a Srbů, na středním toku odřízne Slovany od Sasů a nakonec svým tokem rozdělí gamburský a brémský diecézní okrsek…
 >
->_— Helmold z Bosau, I:2 [4]
+> <em>— Helmold z Bosau, I:2</em> [4]
 
 Odra pak:
 
 > … plyne na sever, protéká středem území Vinulů a odděluje Pomořany od Vilců.
 >
->— Helmold z Bosau, I:2
+> <em>— Helmold z Bosau, I:2</em>
 
 Řeky ale nesloužily vždy jako hranice. Ne vždy totiž bylo výhodné vést hranice po jejich toku, jindy se postupnou expanzí ocitly v nitru nějakého státu. Potom sloužily jako svého druhu dálnice, protože bylo jednodušší postavit loď a plout s ní po řece, kde byla poháněna silou přírody, než se spoléhat na nedobré cesty a povozy. V zimě, když řeky zamrzly, se daly využít i pro přechod vojska. Podobně na se k litevskému Romove dostal český král Přemysl II.[5]
 
@@ -121,7 +127,7 @@ Zmínku si zaslouží jeden trochu kuriózní příklad z Polska, spíše než o
 
 > … zkrotil \[je] tak mohutnou silou, že na řece Sále, uprostřed jejich území železným sloupem vyznačil hranice Polska.
 >
-> — Gallus Anonymus, I:6 [10]
+> <em>— Gallus Anonymus, I:6</em> [10]
 
 Později se tohoto motivu chopil Jan Dlugosz, když přirovnal Boleslava vztyčujího sloupy jak na Sále, tak na Dněpru, k antickému Herkulovi. V Polsku (a zvláště v tamním malířství) je to docela oblíbený motiv, ale nepodařilo se mi dohledat důkazy podporující podobné vytyčení hranic.
 
@@ -137,7 +143,7 @@ Ve článku jsme si zběžně představili některé z hranic oddělující kmen
 
 - 2) HRABOVÁ, Libuše. Stopy zapomenutého lidu: Obraz dějin polabských slovanů v historiografii. České Budějovice: Veduta, 2006. ISBN 80-86829-18-9.
 
-- 3) Die Awaren. In: Wikipedia: the free encyclopedia \[online]. San Francisco (CA): Wikimedia Foundation, 2001- \[cit. 2020-01-16]. Dostupné z: https://de.wikipedia.org/wiki/Awaren
+- 3) Die Awaren. In: Wikipedia: the free encyclopedia \[online]. San Francisco (CA): Wikimedia Foundation, 2001- \[cit. 2020-01-16]. Dostupné z: [https://de.wikipedia.org/wiki/Awaren]
 
 - 4) Z BOSAU, Helmold a Jan ZDICHYNEC. Kronika Slovanů. Dotisk 1. vyd. Praha: Argo, 2012. ISBN 978-80-257-0786-9.
 
@@ -145,7 +151,7 @@ Ve článku jsme si zběžně představili některé z hranic oddělující kmen
 
 - 6) Opět Pluta, viz. výše.
 
-- 7) ARGONANTUS. Kopce a hory ve středověku \[online]. \[cit. 2020-01-16]. Dostupné z: http://drakkar.sk/66/kopce-a-hory-ve-stredoveku.html
+- 7) ARGONANTUS. Kopce a hory ve středověku \[online]. \[cit. 2020-01-16]. Dostupné z: [http://drakkar.sk/66/kopce-a-hory-ve-stredoveku.html]
 
 - 8) ŽEMLIČKA, Josef. Čechy v době knížecí. 2. dopl. vyd. Praha: Lidové noviny, 2007. ISBN 80-7106-196-4.
 
@@ -153,4 +159,4 @@ Ve článku jsme si zběžně představili některé z hranic oddělující kmen
 
 - 10) ANONYMUS, Gallus a Josef FÖRSTER. Kronika a činy polských knížat a vládců. Praha: Argo, 2009. ISBN 978-80-257-0206-2.
 
-- 11) MUZEUM ARCHEOLOGICZNE V GDAŃSKU. Baby pruskie \[online]. \[cit. 2020-01-24]. Dostupné z: https://archeologia.pl/dom-przyrodnikow/baby-pruskie
+- 11) MUZEUM ARCHEOLOGICZNE V GDAŃSKU. Baby pruskie \[online]. \[cit. 2020-01-24]. Dostupné z: [https://archeologia.pl/dom-przyrodnikow/baby-pruskie]
