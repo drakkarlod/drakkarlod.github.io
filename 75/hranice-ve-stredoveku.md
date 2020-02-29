@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: Paul
-tags: Historie a realita
+tags: historie a realita
 description: >-
   Hranice tady vždy byly a s nejvyšší pravděpodobností i budou. Jejich podoba se
   ale za staletí jejich existence měnila a čím více do minulosti jdeme, tím
