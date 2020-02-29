@@ -9,6 +9,7 @@ summary: >-
   kteří nemají zájem expandovat ze své planety, a naopak se všemi okolními
   rasami udržují přátelské a obchodní vztahy.
 published: true
+authors: Ecthelion²
 ---
 
 _Spolupráce a konzultace: Faskal, Asheara_
