@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: Antharon
-tags: Recenze
+tags: 'recenze, čerstvě dočteno'
 description: >-
   Keď mi tento týždeň prišiel kuriér a priniesol malú krabičku s miniatúrami,
   tešil som sa ako decko, pretože to boli mačičky. Tak som to v práci rozbalil a
