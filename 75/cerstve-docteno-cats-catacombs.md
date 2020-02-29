@@ -2,7 +2,11 @@
 layout: article
 authors: Antharon
 tags: Recenze
-description: Keď mi tento týždeň prišiel kuriér a priniesol malú krabičku s miniatúrami, tešil som sa ako decko, pretože to boli mačičky. Tak som to v práci rozbalil a preskúmal. Veľmi milo ma to celé prekvapilo.
+description: >-
+  Keď mi tento týždeň prišiel kuriér a priniesol malú krabičku s miniatúrami,
+  tešil som sa ako decko, pretože to boli mačičky. Tak som to v práci rozbalil a
+  preskúmal. Veľmi milo ma to celé prekvapilo.
+published: true
 ---
 
 ## Miniatúry
