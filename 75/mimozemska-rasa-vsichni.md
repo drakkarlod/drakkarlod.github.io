@@ -2,8 +2,13 @@
 layout: article
 autors: Ecthelion²
 title: 'Mimozemská rasa: Všichni'
-tags: doplňky a materiály, sci-fi
-summary: Článek představuje mimozemskou rasu vesmírných arachnidů. Na rozdíl od běžně pojímaných ras tohoto typu ve sci-fi jsou Všichni pacifističtí ekologové, kteří nemají zájem expandovat ze své planety, a naopak se všemi okolními rasami udržují přátelské a obchodní vztahy.
+tags: 'doplňky a materiály, sci-fi'
+summary: >-
+  Článek představuje mimozemskou rasu vesmírných arachnidů. Na rozdíl od běžně
+  pojímaných ras tohoto typu ve sci-fi jsou Všichni pacifističtí ekologové,
+  kteří nemají zájem expandovat ze své planety, a naopak se všemi okolními
+  rasami udržují přátelské a obchodní vztahy.
+published: true
 ---
 
 _Spolupráce a konzultace: Faskal, Asheara_
@@ -68,5 +73,4 @@ Naši vědci zatím neobjevili princip, díky kterému k tomu dochází, ale v�
 
 ## Závěr
 
-Všichni jsou velice odlišná rasa, kterou zatím úplně nechápeme, přestože lidstvo se s ní setkalo již před desítkami let a matrice Každých působících jako počítačoví operátoři nebo inženýři nejsou na lidských světech ničím výjimečným. 
-
+Všichni jsou velice odlišná rasa, kterou zatím úplně nechápeme, přestože lidstvo se s ní setkalo již před desítkami let a matrice Každých působících jako počítačoví operátoři nebo inženýři nejsou na lidských světech ničím výjimečným.
