@@ -4,9 +4,15 @@ authors: různí autoři
 title: 'Kolektivní článek: Architektonické prvky'
 tags: doplňky a materiály
 published: true
+summary: >-
+  Článek <a
+  href="https://drakkar.sk/74/architektura-ktora-nikdy-neexistovala.html">Architektúra,
+  ktorá nikdy neexistovala</a> Martina Hataly v 74. čísle Drakkaru se stal
+  inspirací pro tento kolektivní článek. Zadáním bylo vymyslet zajímavé
+  architektonické ztvárnění k různým obecným herním lokacím. Cílem je inspirovat
+  vypravěče k tomu, že neobyčejná architektura se může stát něčím, díky čemu si
+  hráči snáze vybaví dříve odehraná dobrodružství a scény.
 ---
-Článek Architektúra, ktorá nikdy neexistovala Martina Hataly v 74. čísle Drakkaru se stal inspirací pro tento kolektivní článek. Zadáním bylo vymyslet zajímavé architektonické ztvárnění k různým obecným herním lokacím. Cílem je inspirovat vypravěče k tomu, že neobyčejná architektura se může stát něčím, díky čemu si hráči snáze vybaví dříve odehraná dobrodružství a scény.
-
 > Autoři: Ecthelion<sup>2</sup>, Josef „Hike“ Gregor, Petr „ilgir“ Chval, Log 1=0, Filip „MarkyParky“ Dvořák, Paul, Quentin, Sarsaparillos, Vallun.
 
 ## 1. Citadela nad metropolí
