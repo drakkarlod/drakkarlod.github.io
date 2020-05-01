@@ -15,6 +15,10 @@ summary: >-
 ---
 
 ## Miniatúry
+
+![]({{site.baseurl}}/75/87209226_1296058323932252_2720348060977725440_n.jpg)
+
+
 Keďže cieľom tohoto projektu boli miniatúry, začnime práve nimi. V kickstarter verzií nájdeme spolu trinásť mačacích kamarátov, v retail verzií sú rozdelené na dve krabice po šesť.
 
 Kickstarter exclusive model je necromeowcer, hlavný záporňák celého dobrodružstva. Okrem toho tu nájdeme jednu mačičku od každej classy z dungeons and dragons 5e, veľké, malé, chlpaté i nahé.
@@ -22,7 +26,10 @@ Kickstarter exclusive model je necromeowcer, hlavný záporňák celého dobrodr
 Modely sú veľmi kvalitne odliate z plastic resinu, detaily sú veľmi ostré a aj tenké chvosty vyzerajú byť dostatočne pevné aby zniesli bežnú manipuláciu. Scale modelov je približne 32mm, alebo 1/50.
 
 ## Pravidlá
-K miniatúram patria aj tri knižky v elektronickej podobe, ktoré rozširujú dungeons and dragons o nové možnosti v podobe hrania mačiek.
+
+![]({{site.baseurl}}/75/CaC2.jpg)
+
+K miniatúram patria aj tri knižky v elektronickej podobe, ktoré rozširujú Dungeons and Dragons o nové možnosti v podobe hrania mačiek.
 
 Pravidlovo mačky nie sú príliš rozdielne ako bežné rasy. Majú lepšiu obratnosť, darkvision, štandardnú rýchlosť a tri rôzne životné štýly. Je tu drsňácka mačka, bežná túlavá mačka a lapcat. Okrem toho mačky prichádzajú vo všetkých možných tvaroch a podobách, preto si mačka vyberie jednu abilitu s roztomilým názvom. Tých je spolu dvadsaťdva a otvárajú ďalšie možnosti dolaďovania.
 
@@ -36,6 +43,8 @@ Pravidlá pokračujú zoznamom magických predmetov ako nekonečné klbko, alebo
 
 ### Dobrodružstvo
 
+![]({{site.baseurl}}/75/CaC1.jpg)
+
 Druhá knižka reprezentuje dobrodružstvo pre mačky na tretej až štvrtej úrovni a je koncipované ako one-shot. Všetko to začína in medias res, keď skupina mačiek prichádza do hniezda strašného necromancera. Ten už je dávno mrtvy a remeslo po ňom prebrala jeho mačka. Tá na svoje temné plány využíva nemrtve krysy, avšak jej cieľom je stvoriť nemrtvehi oveľa velkolepejšieho!
 
 Dobrodružstvo je rozdelené na štyri encountre, ku ktorým je priložená mapa. Každá mapka reprezentuje jednu samostatnú miestnosť z úkrytu necromeowcera. V prvej stretnú pár krysích zombií a dozvedia sa, že v tajomných orboch prúdi nekroenergia a dajú sa rozbiť, ďalšia miestnosť je mraziareň na telá, stoly visia zo stropu na reťaziach a mačičkám odmrzaju packy.
@@ -43,6 +52,8 @@ Dobrodružstvo je rozdelené na štyri encountre, ku ktorým je priložená mapa
 Tretia miestnosť začína byť zaujímavá. Mačičky musia poraziť necrostroj a vyriešiť logickú hádanku. V poslednej miestnosti príde na finálne zúčtovanie, stretnú tu necromeowcera s jeho nemrtvou abomináciou, ktorej sila sa odvíja od <spojlerová cenzúra>.
 
 Po smrti necromeowcera je na pláne už len vyzbierať poklady a vrhnúť sa na ďalšie dobrodružstvá.
+
+![]({{site.baseurl}}/75/CaC3.jpg)
 
 ## Záverom
 
