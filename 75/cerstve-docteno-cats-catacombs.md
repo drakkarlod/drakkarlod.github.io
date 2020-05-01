@@ -16,24 +16,24 @@ summary: >-
 
 ## Miniatúry
 
-![]({{site.baseurl}}/75/87209226_1296058323932252_2720348060977725440_n.jpg)
-
-
 Keďže cieľom tohoto projektu boli miniatúry, začnime práve nimi. V kickstarter verzií nájdeme spolu trinásť mačacích kamarátov, v retail verzií sú rozdelené na dve krabice po šesť.
 
 Kickstarter exclusive model je necromeowcer, hlavný záporňák celého dobrodružstva. Okrem toho tu nájdeme jednu mačičku od každej classy z dungeons and dragons 5e, veľké, malé, chlpaté i nahé.
 
 Modely sú veľmi kvalitne odliate z plastic resinu, detaily sú veľmi ostré a aj tenké chvosty vyzerajú byť dostatočne pevné aby zniesli bežnú manipuláciu. Scale modelov je približne 32mm, alebo 1/50.
 
-## Pravidlá
+![]({{site.baseurl}}/75/87209226_1296058323932252_2720348060977725440_n.jpg)
 
-![]({{site.baseurl}}/75/CaC2.jpg)
+## Pravidlá
 
 K miniatúram patria aj tri knižky v elektronickej podobe, ktoré rozširujú Dungeons and Dragons o nové možnosti v podobe hrania mačiek.
 
 Pravidlovo mačky nie sú príliš rozdielne ako bežné rasy. Majú lepšiu obratnosť, darkvision, štandardnú rýchlosť a tri rôzne životné štýly. Je tu drsňácka mačka, bežná túlavá mačka a lapcat. Okrem toho mačky prichádzajú vo všetkých možných tvaroch a podobách, preto si mačka vyberie jednu abilitu s roztomilým názvom. Tých je spolu dvadsaťdva a otvárajú ďalšie možnosti dolaďovania.
 
 Každá classa dostáva niekoľko úprav, niektoré dostávajú celú novú subclassu. Cleric dostáva novú doménu zasvätenú nenápadnému životu a trojici mačacích bohov, Urbaste,Tomovi z aleje a Starému pásikavému. Paladin má nový sľub, sľub súmraku, ktorý stojí na neutralite, harmónií svetla a temnoty. A bojovník má nový archetyp mačacej packy.
+
+![]({{site.baseurl}}/75/CaC2.jpg)
+<p></p>
 
 Naviac je tu aj nový background pre mačacie postavy, ktoré chcú ešte viac prehlbiť svoje mačstvo plný charakterových vlastností vhodných pre túto rasu.
 
