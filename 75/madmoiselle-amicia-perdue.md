@@ -17,7 +17,7 @@ _Madmoiselle_ ve skutečnosti není jednou z lidí a Perdue není její pravé 
 
 Je na lidi zvědavá a nezřídka se zapojí do jejich záležitostí, protože ji nepřestávají ani po mnoha staletích překvapovat. Pod jménem Meridiana pomohla v roce 999 papeži Sylvesterovi II., který byl předtím jejím milencem, získat jeho úřad v rámci církve. Šeptá se, že mág, kterého odmítla, je jí v patách a přísahal, že ji zničí. Ona se takovým řečem jen směje zvonivým smíchem.
 
-![hfAiko9c.jpeg]({{site.baseurl}}/75/hfAiko9c.jpeg)
+![]({{site.baseurl}}/75/hfAiko9c.jpeg)
 
 ## Aspekty
 
