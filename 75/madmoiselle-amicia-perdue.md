@@ -8,6 +8,10 @@ description: >-
   Záhadná dáma, která dorazila nedávno do Londýna a provází ji obdivné pohledy
   mužů, závistivé ohlédnutí žen a divoké příběhy o jejích milostných avantýrách
   a zástupu bývalých milenců. Postava pro Příběhy Impéria.
+summary: >-
+  Záhadná dáma, která dorazila nedávno do Londýna a provází ji obdivné pohledy
+  mužů, závistivé ohlédnutí žen a divoké příběhy o jejích milostných avantýrách
+  a zástupu bývalých milenců. Postava pro Příběhy Impéria.
 ---
 Záhadná a překrásná dáma, která dorazila nedávno do Londýna a provází ji obdivné pohledy mužů, závistivé ohlédnutí žen a klepy o její pochybné morálce, stejně jako divoké příběhy o jejích milostných avantýrách a zástupu bývalých milenců. Mluví anglicky s francouzským přízvukem, který muži považují za neodolatelný, je vždy oblečena do nejdražších šatů a vypadá jako ze škatulky. 
 
