@@ -103,11 +103,11 @@ summary: >-
 
 ## 8. Hraniční přechod
 
--Přechod v horách tvoří dlouhý a úzký tunel vysekaný v kamenném masivu. Strážní patrolují na svých stranách a dovnitř se nedováží kvůli duším dělníků, kteří tunel postavili a nyní v něm straší.
+- Přechod v horách tvoří dlouhý a úzký tunel vysekaný v kamenném masivu. Strážní patrolují na svých stranách a dovnitř se nedováží kvůli duším dělníků, kteří tunel postavili a nyní v něm straší.
 - Věž uprostřed valu s palisádou. Přízemí tvoří obranné prvky (padací most přes kruhový příkop, dvojitá brána, spouštěcí mříž), druhé jejich obsluha a ve třetím žijí celníci i s rodinami. Jeden z každé země, plus ti, koho si přivedou.
 - Most – přes širou řeku do půlky proudu stojí festovní kamenný most, zdobený mramorem. Vstup chrání mohutná mostní věž s dvojitou padací mříží. Most pokračuje prostou dřevěnou konstrukcí a na druhém břehu stojí chatrná dřevěná budka.
 - Dvě říše rozděluje řeka a jeden brod chrání dvě pevnosti. Ve snaze uškodit tomu druhému se jeden z velitelů rozhodl, že zaplatit budete muset za přechod i na jeho straně.
-Zdi i střechy několika domků jsou natřeny zářivě bílou barvou. I během zatažených nocí domky lehce svítí a každá silueta je na nich dobře patrná.
+- Zdi i střechy několika domků jsou natřeny zářivě bílou barvou. I během zatažených nocí domky lehce svítí a každá silueta je na nich dobře patrná.
 - Dvě dřevěná stavení, pomalovaná v národních barvách, s vysokými stožáry a vlajkami spolu s dvojicí stejně vymalovaných závor stojí na cestě jen pár metrů od sebe. Krom tohoto podivného páru nic v okolí nenaznačuje toho, že jde o hranici mezi dvěma zeměmi.
 - Mohutná nevysoká věž stavěná tak, aby posádce skýtala ochranu i při těch nejhorších bouřích, které se průsmykem prohánějí. Silné zdi, malá okénka a místo střechy zaoblená kamenná helmice.
 - Cestovatelé, muži, ženy, děti i zvířata, musí projít dlouhou nádrží neprůhledné modravě třpytivé vody. Má je očistit v očích místního božstva, ale ve skutečnosti jim pod kůži vlezou tencí červi, kterými je může šlechta ovládat. 
