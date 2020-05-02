@@ -5,11 +5,23 @@ layout: default
 {% assign issue = page %}
 {% assign issue_num = issue.dir | replace: '/', '' %}
 {% assign issue_pdf = site.static_files | where: 'extname', '.pdf' | where_exp: 'file', "file.path contains issue.dir" | first %}
+{% assign issue_cover = site.static_files | where: 'name', 'index.jpg' | where_exp: 'file', "file.path contains issue.dir" | first %}
 
 <h1>Drakkar #{{ issue_num }}</h1>{% comment %} TODO určit, jestli používat mřížku, číslo, nebo jinak {% endcomment %}
 
+{% if issue_cover %}
+    <img src="{{ issue_cover.path }}" style="
+        display: block;
+        box-sizing: border-box;
+        max-width: 100%;
+        border: solid 4px #ccc;
+    ">
+{% endif %}
+
 {% if issue_pdf %}
-    Kompletní číslo ke stažení:&ensp;<a href="{{ issue_pdf.path }}" target="_blank">Drakkar #{{ issue_num }} jako PDF</a>
+    <div style="text-align: center; font-size: 16px">
+        Kompletní číslo ke stažení:&ensp;<a href="{{ issue_pdf.path }}" target="_blank">Drakkar #{{ issue_num }} jako PDF</a>
+    </div>
 {% endif %}
 
 <div style="height: 35px"></div>
