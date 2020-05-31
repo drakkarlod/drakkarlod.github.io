@@ -15,7 +15,58 @@
     <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(100873045);</script>
     <script async src="//static.getclicky.com/js"></script>
 
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600|Alegreya+SC:700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <!-- fast load fonts -->
+    <style>
+        /* source-sans-pro-regular - latin-ext_latin */
+        @font-face {
+          font-family: 'Source Sans Pro';
+          font-style: normal;
+          font-weight: 400;
+          src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        }
+
+        /* source-sans-pro-italic - latin-ext_latin */
+        @font-face {
+          font-family: 'Source Sans Pro';
+          font-style: italic;
+          font-weight: 400;
+          src: local('Source Sans Pro Italic'), local('SourceSansPro-Italic'),
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        }
+
+        /* source-sans-pro-600 - latin-ext_latin */
+        @font-face {
+          font-family: 'Source Sans Pro';
+          font-style: normal;
+          font-weight: 600;
+          src: local('Source Sans Pro SemiBold'), local('SourceSansPro-SemiBold'),
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+               url('/assets/fonts/source-sans-pro-v13-latin-ext_latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        }
+
+        /* alegreya-sc-700 - latin-ext_latin */
+        @font-face {
+          font-family: 'Alegreya SC';
+          font-style: normal;
+          font-weight: 700;
+          src: local('Alegreya SC Bold'), local('AlegreyaSC-Bold'),
+               url('/assets/fonts/alegreya-sc-v11-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+               url('/assets/fonts/alegreya-sc-v11-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+        }
+
+        body {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Alegreya SC', serif;
+            font-weight: 700;
+        }
+    </style>
     <link rel="stylesheet" href="/assets/main.css">
     <link rel="icon" href="/assets/favicon.png">
 
