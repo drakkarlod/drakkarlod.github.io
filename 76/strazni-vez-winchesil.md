@@ -1,7 +1,8 @@
 ---
 layout: article
-title: Strážní věž Winchesil
+title: 'Dračí ostrovy: Strážní věž Winchesil'
 authors: Ecthelion²
 tags: materiály a doplňky
 series: Dračí ostrovy
+published: true
 ---
