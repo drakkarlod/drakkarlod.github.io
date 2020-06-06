@@ -1,7 +1,8 @@
 ---
 layout: article
-title: Molagan
+title: 'Dračí ostrovy: Molagan'
 authors: Lorwyn
 tags: materiály a doplňky
 series: Dračí ostrovy
+published: true
 ---
