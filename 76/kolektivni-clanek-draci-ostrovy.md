@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Kolektivní článek: Dračí ostrovy'
+title: Dračí ostrovy
 authors: redakce
 tags: materiály a doplňky
 summary: >-
