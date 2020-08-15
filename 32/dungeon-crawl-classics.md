@@ -50,4 +50,5 @@ Hra využíva plnú sadu Zocchi kociek, teda k3, k4, k5, k6, k7, k8, k10, k12, k
 
 V mnohých ohľadoch DCC RPG nasadzuje nový štandard pre produkty starej školy, ba ich v mono­hom prekračuje. Povedal by som, že na Pána hry kladie menšie nároky než je pre starú školu typic­ké a tiež mám pocit, že nevyžaduje až toľko „zaos­trenia“ a textúry a teda jej herný štýl je o trochu intuitívnejší a pochopiteľnejší. Niektoré dizajnové rozhodnutia sa puristom môžu zdať príliš „moder­né“ (napríklad zlodej a jeho schopnosti), DCC RPG je však veľmi ľahko houserulovateľná. Okrem toho k starej škole vychádza neustále enormné množ­stvo vysoko použiteľného (aj neplateného) mate­riálu, s ktorým je hra prakticky plne kompatibilná. K DCC RPG už bola ohlásená séria dobrodružstiev a pri doterajšej kvalite produktov Goodman Ga­mes sa je na čo tešiť. Na fantasy hru, v ktorej sa z nýmandov stávajú hrdinovia, je pre mňa DCC RPG voľbou číslo jedna. A teraz ma ospravedlňte, idem si pustiť Manowar.
 
-(V skrátenej podobe bola recenzia zverejnená ako hodnotenie k [anotácii na rpg.sk](https://rpgforum.cz/anotace/dungeon-crawl-classics).)
+
+_(V skrátenej podobe bola recenzia zverejnená ako hodnotenie k [anotácii na rpg.sk](https://rpgforum.cz/anotace/dungeon-crawl-classics).)_
