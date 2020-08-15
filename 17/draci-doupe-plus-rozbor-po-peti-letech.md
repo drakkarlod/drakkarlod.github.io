@@ -13,6 +13,8 @@ summary: >-
   Dračí Doupě Plus podívat očima člověka, který je hrál od jeho vydání a kromě
   něho zná mnoho jiných RPG rozličných rozsahů a zaměření.
 ---
+![]({{site.baseurl}}/17/drd+1.jpg)
+
 V minulém čísle Drakkaru jsme vám přinesli podrobnou [recenzi na legendární Dračí Doupě](https://rpgforum.cz/clanky/draci-doupe-po-20-letech-recenze-legendy). Nyní navazujeme rozborem o mnoho mladší, ale přesto velmi významné RPG – [Dračího Doupěte Plus](https://rpgforum.cz/anotace/draci-doupe-plus). Tato hra, jak už název napovídá, rovněž pocházející z produkce Altaru, je tu s námi už nějaký ten pátek. Za pět let, které uplynuly od vydání, si tato hra již získala své příznivce, ale mnohými též byla odhozena mimo oblast jejich zá­jmu. V tomto rozboru se pokusím zhod­notit DrD+ jako celek, identifikovat jeho silné stránky i problémy, se kterými se potýká. Mé hodnocení bude postupovat v souladu se strukturou příruček. Dočká­te se porovnávání s DrD, vypíchnutí dů­ležitých momentů i shrnujících soudů.
 
 ## Příručka pro hráče – čím vás zaujme?
@@ -22,6 +24,8 @@ Rovněž příklady k pravidlům jsou hojně zastoupeny a většinou jde o záž
 pamatujeme u DrD.
 
 > Ačkoli se to tak může jevit pode názvu, Dračí Doupě Plus nemá být nástupcem staršího [Dračího doupěte](https://rpgforum.cz/anotace/draci-doupe). Dokladem je i to, že DrD je stále vydáváno a prodáváno. Shodný název byl zvolen z čistě marketingových důvodů - opuštění značky, která je známá a vydělává, by bylo pro Altar chybou. Dračí Doupě Plus bylo zamýšleno jako alternativa pro hráče, kteří DrD vy­týkali přílišnou jednoduchost na úkor realističnosti, roztříštěnost mechanik a také absenci podpory roleplayingu.
+
+![]({{site.baseurl}}/17/drd+2.jpg)
 
 ## Tvorba postavy – obsáhlá, ale nikoli převratná
 Za krátkým, nepříliš zajímavým, nicmé­ně obligátním úvodem nás čeká první rozsáhlá část – Tvorba postavy. Zde bych chtěl ocenit nenápadnou snahu autorů vést hráče ke stylu „vytvoř si představu své postavy a pak k ní vyber rasu a po­volání“, nikoli „vytvoř si postavu volbou rasy a povolání“. Jen by ta snaha mohla být nápadnější.
@@ -60,6 +64,8 @@ Najdeme tu všechno – nutnost prorazit zbroj, než zraníme soupe­ře, možno
 do hlavy, rozlišování bodného, sečného a drtivého zranění, několik soubojových taktik jako „bezhlavý útok“ či krytí „spo­lubojovníka“. Perličkou je „útok na plo­cho“, který ve starém [Dračím Doupěti](https://rpgforum.cz/anotace/draci-doupe) ubíral stínové životy místo běžných, způ­soboval tedy pád do bezvědomí, a stal se proto zásadním nástrojem při zajímá­ní živých protivníků. Heslo „bereme je naplocho“ zlidovělo snad ve všech her­ních skupinách. V DrD+ žádné stínové životy nejsou, efekt útoku na plocho je zde takový, že mění třídu způsobeného zranění na drtivé. V čem je výhodnější zabít protivníka drtivým zraněním než bodným nebo sečným, to mi uniklo.
 
 Systém zranění a léčení je bohu­žel další ukázkou přebujelého pravidla, vzniklého ze snahy o co největší „realis­tičnost“. Základem je sice klasická mříž­ka zranění, která se postupně zaplňuje (analogie k ubývajícím životům), ale pro přiblížení realitě tu máme pojmy „vel­ké zranění“ a „postižení“. Zatímco velké zranění se zanáší normálně do mřížky a liší se jen v možnostech léčení, postižení je zcela samostatnou mechanikou, která používá šest (!) veličin, s jejichž pomocí je možné postižení definovat. Ano, do postižení se schová skutečně všechno, od otravy jedem, přes choleru, až po useknutou končetinu. Vejdou se sem i duševní poruchy. Otázkou zůstává, zda šest veličin, jež je nutné vyplnit, sledo­vat a průběžně ověřovat, potěší někoho jiného, než milovníka účetnictví. Nešlo by místo toho jednoduše uvést několik typických příkladů postižení, nastínit jejich chování a možnosti léčby… a to ostatní nechat na úsudku hráčů?
+![]({{site.baseurl}}/17/drd+3.jpg)
+
 
 ## Dovednosti – příjemné překvapení na závěr
 Na konci Příručky pro hráče najdeme kapitolu Obecné dovednosti, bez níž se neobejde snad žádná Class and Level hra. Každá dovednost se zde váže k jed­nomu typu základní vlastnosti, máme tedy dovednosti fyzické, psychické a kombinované. Dovedností je tu přes padesát, každá má tři stupně, v nichž je možné se zdokonalit, a ke každému stupni patří konkrétní bonus, jež se při­čítá k hodu kostkami v každé situaci, 
@@ -69,6 +75,8 @@ Systém obecných dovedností je natolik jednoduchý, že vzbuzuje otázku, zda 
 
 ## Povolání
 Příručky povolání jsou koncipovány jako tři svazky, v nichž najdeme vždy po dvou povoláních, která mají stejný systém roz­voje. Tento koncept byl mnohými oceňo­ván i haněn. Setkal jsem se s hráči, kteří by chtěli mít všechna povolání v jedné knize, jako tomu bylo u Dračího Doupě­te, ale i s takovými, kteří by raději každé povolání zvlášť. Nebudu tedy soudit, zda je současný koncept dobrý či špatný, ná­zor ať si udělá každý sám.
+![]({{site.baseurl}}/17/drd+4.jpg)
+
 
 ### Bojovník – zajímavější, než čekáte
 Rytíř, šermíř, gladiátor, bijec, barbar či kondotiér? Ve srovnání s DrD je „plus­kový“ bojovník daleko vpředu. Možnost budovat si svou postavu na výběru z šesti různých archetypů dokáže hráče zaujmout a nadchnout. Zároveň dává záruku, že každý bojovník bude vypa­dat trochu jinak. Jak to tedy funguje? Při každém přestupu na vyšší úroveň si bojovník vybere jeden z archetypů, 
@@ -86,6 +94,7 @@ Celkově hodnotím bojovníka vel­mi vysoko. Často vytýkaná nevyváženost b
 ### Čaroděj – jedním slovem nuda
 Napíšu to rovnou. Čaroděj byl pro mě největším zklamáním ze všech povolání. Nikdy jsem nebyl přítelem rozsáhlých seznamů kouzel, z nichž si „stačí jen vy­brat“, a kvalitu povolání jsem nehodnotil úměrně jejich pravidlové moci. Čaroděj je mocné povolání, a systémově docela funkční (opět zde nejsou žádné složitosti, které by zabíjely hru), ale celkový pocit z něho mám nijaký. Není zde totiž nic jiného, než ony seznamy kouzel (a pár schopností týkající se hole a techniky sesílání kouzel). Archety­py jsou řešeny čistě jako obory magie, ale není zde zahrnut je­jich vliv na osobnost čaroděje. Pokročilý mág se od začátečníka liší jen počtem kouzel, která ovládá. V podstatě se ča­roděj velmi podobá kouzelníkovi z DrD, jen kouzla jsou systematičteji provede­ná. Musím však ocenit lehkost a humor, s jakým je psána celá příručka, je z ní cítit alespoň osobnost pisatele. Příkla­dy budiž čaroděj Marián Tráva, studující 
 v chrámu bohyně Marhul nalezené kouzlo Ovocný sen, či kouzlo Radost až na kost, způsobující rozdrcení oběti ka­menným kvádrem.
+![]({{site.baseurl}}/17/drd+5.jpg)
 
 ### Hraničář – inspirativní a stylové bohatství vs. mechaniky
 Příručka hraničáře obsahuje dva základ­ní oddíly: Znalosti a Mechanismy. Zatím­co část Znalosti popisuje, co všechno se může hraničář naučit, Mechanismy nám poskytují přesný návod, jak to použít ve hře. A zde vězí ten problém. Zatímco po přečtní první části bude většina hráčů nadšená, při zkoumání mechanik jim nejspíš úsměv spadne.
@@ -122,6 +131,8 @@ Poslední doménou kněze jsou _zázraky_. Ty jsou v příručce popsány vel­m
 
 Celkově o knězi platí to samé, co o hraničáři. Spousta dobrých a stylových nápadů, některé bohužel nepoužitel­né, většina z nich zbytečně pravidlově 
 zatížena.
+![]({{site.baseurl}}/17/drd+6.jpg)
+
 
 ### Zloděj – stavebnice z dovedností
 Zábavný společník a příležitostný chma­ták, nepolapitelný vykradač pokladnic a hrobek, záhadný zabiják z temnot, chladnokrevný vykonavatel rozkazů ve službách zločinecké organizace, šéf taj­né policie – tím vším můžete být jako zloděj v podání DrD+. Příručka zloděje obsahuje skutečně úctyhodné množství dovedností na již známém třístupňovém systému, které si můžete nakombinovat podle libosti. Tedy ne tak úplně. Spousta dovedností je závislá na nějakých jiných, takže dohromady spíš tvoří takového pavouka (přesněji více pavouků), který dohlíží na logickou návaznost jednotli­vých schopností. Abych mohl používat Šestý smysl, budu muset nejdřív po­cvičit těch pět zbývajících v dovednosti 
@@ -144,6 +155,7 @@ O něco výše už jsem zmínil systém při­dělování zkušeností, který j
 
 Každé povolání má vlastní systém rozvoje, který může být velmi jedno­duchý (čaroděj), ale i skutečně složitý (hraničář) a v případě hraničáře a kněze 
 vyžaduje aktivní zapojení PJ. Podstatným plusem na tomto systému je fakt, že při každém přestupu se postava naučí něco nového, a to většinou ne jednu věc, ale hned několik. Je to tedy značný pokrok ve srovnání s DrD, kde na vysokých úrov­ních (u válečníka i na nízkých) se postavě při přestupech pouze zvýší pár čísel.
+![]({{site.baseurl}}/17/drd+7.jpg)
 
 ## Svět Dračího Doupěte Plus – jedna velká komplikovanost
 Otevřeme-li _Příručku pro Pána Jeskyně_, naskytne se nám podívaná, jaká se jen tak nevidí. Prvních třicet stran totiž zabí­rá popis světa DrD+. Nejedná se ovšem o nějaký konkrétní setting, ten je u her z rodiny DrD vždy v kompetenci PJ. Tato kapitola popisuje jakýsi „metasvět“, kte­rý je pro každého PJ víceméně závazný a podle tvrzení tvůrců je natolik obecný, aby každému PJ ponechal dostatečnou svobodu při tvorbe vlastního konkrétní­ho světa. Co přesně je tedy náplní této kapitoly?
@@ -189,6 +201,7 @@ přeběhl mráz.
 > Když skončil, jen si odfrkl a od­kráčel do křoví mezi stromy…“
 
 Dobrodružství sice trochu trpí přílišnou linearitou, ale to je daň hernímu stylu, jakému má sloužit. Celkově je hodnotím velmi vysoko.
+![]({{site.baseurl}}/17/drd+8.jpg)
 
 ## Bestiář – nejlepší z příruček?
 Část Bestiáře byla jako ochutnávka vlo­žena do Příručky PJ, ale ten hlavní vyšel jako samostatná příručka až nějakou dobu po vydání DrD+. Mnohými hrá­či je bestiář hodnocen jako vůbec nej­lepší součást pravidel DrD+. Jednotli­vým tvorům je zde ponechán dostatek prostoru a jsou popsáni tak, že sami 
