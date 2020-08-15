@@ -15,7 +15,7 @@ summary: >-
 ---
 
 Za posledné štyri roky sa viacero tvorcov a vydavateľov pokúšalo docieliť tento pocit. [Swords and Wizardry](https://rpgforum.cz/anotace/swords-wizardry) či [Labyrinth Lord](https://rpgforum.cz/anotace/labyrinth-lord) urobili solídny krok správnym smerom. [Lamentations of the Flame Princess](https://rpgforum.cz/anotace/lamentations-flame-princess) od Jamesa Raggiho sa správnym smerom vyslovene rozbehlo. Ale DCC RPG of Johna Good­mana je oproti tomu ako zbesilá jazda na tátošovi černejšom než noc, pri ktorej vám znie Manowar.
-
+![dcc rpg.jpg]({{site.baseurl}}/32/dcc rpg.jpg)
 Ak sa ešte stále divíte, o čom rozprávam, tak ste asi pred pár dňami nezachytili vydanie [Dunge­on Crawl Classics](https://rpgforum.cz/anotace/dungeon-crawl-classics), majestátnej základnej príručky k novej hre od _Goodman Games_. DCC RPG je hra na pomedzí starej školy a „moderného“ dizajnu, s veľmi osobitou estetikou a obrovským srdcom. Je to pokus o reimagináciu [Dungeons and Dragons](https://rpgforum.cz/anotace/rodina/dungeons-and-dragons), pri ktorom vzniklo niečo nové, s vlastným hlasom – a predsa to nové zachováva obrovský rešpekt voči velikánom, ktorí mu vyšľapali cestu.
 
 Prvá vec, ktorá vás zaujme, je masívnosť príručky. Po roztvorení jej strán zistíte, že snáď štvr­tina textu sú famózne ilustrácie v štýle starej školy od Jeffa Easleyho, Jima Hollowaya, Erola Otusa, Jima Roslofa a ďalších, ktoré – ak nie ste úplný RPG barbar – vám hovoria „tu si doma“. Druhá vec, kto­rú zistíte, je, že papier je solídny a hrubý a písmo je príjemne veľké. A keď začnete hľadať samotné pravidlá, s prekvapením zistíte, že sú písané veľmi stručným a zrozumiteľným jazykom a zaberajú vlastne len pár strán.
