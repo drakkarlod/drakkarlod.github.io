@@ -9,14 +9,13 @@ published: true
 
 > - Alnag (hodnocení 5/5), [Anotace RPG her](https://rpgforum.cz/anotace/over-edge) – RPG.sk
 
-![Over the Edge, první vydání, 1992]({{site.baseurl}}/17/ote1.jpg)
-
-
 [Over the Edge](https://rpgforum.cz/anotace/over-edge) je konspirační, psychade­lické RPG z pera uznávaného designéra Jonathana Tweeta ([Ars Magica](https://rpgforum.cz/anotace/ars-magica), Everway, [Dungeons & Dragons 3e](https://rpgforum.cz/anotace/dungeons-and-dragons-3e-35e), [Unkown Armies](https://rpgforum.cz/anotace/unknown-armies-2e), …) za asistence neméně zná­mého Robina D. Lawse ([Feng Shui](https://rpgforum.cz/anotace/feng-shui), [HeroQuest](https://rpgforum.cz/anotace/heroquest), [Dying Earth](https://rpgforum.cz/anotace/dying-earth), [GUMSHOE system](https://rpgforum.cz/anotace/system/gumshoe), [Og: Unearthed Edition](https://rpgforum.cz/anotace/og-unearthed-edition)…). V roce 1992 jej vydalo nakladatelství Atlas, o pět let později vyšla kosmeticky uprave­ná druhá edice v modernějším kabátku. Toto RPG si vysloužilo status kultu, ať již pro svůj úžasně nápaditý, originální a inspirující setting, pro psychedelicky schizofrenickou atmosféru, nebo pro svou podporu experimentálního přístu­pu k tvorbě a roleplayingu opřeného o estetické a umělecké hodnoty a záměry hráčů.
 
 > S myšlenkou hraní „za hranou“ - „over the edge“ -  přišel v kontextu RPG her Johathan Tweet, jehož vy­nikající hru stejného jména (včetně obsaženého eseje od Robina D. Law­se) by si měl přečíst každý, koho za­jímá experimentování s uměleckou formou. Cílem je jednoduše posu­nout hranice toho, jaký typ příběhu dokážeme pomocí roleplayingu vy­právět, a zkoumat, co všechno tento formát vlastně dokáže vyjádřit.
 
 > - Ron Edwards, [Sorcerer](https://rpgforum.cz/anotace/sorcerer) str. 124
+
+![Over the Edge, první vydání, 1992]({{site.baseurl}}/17/ote1.jpg)
 
 Samotný systém hry je velmi jedno­duchý. V některých ohledech by se dal považovat za předchůdce systému [Fate](https://rpgforum.cz/anotace/rodina/fudgefate), i když je ještě jednodušší. Vyhodnoco­vací mechanika používá součet X  šes­tistěnných kostek (většinou 2–4, závisí 
 na použitém rysu) a porovnává jej s cí­lovým číslem určeným vypravěčem dle náročnosti úkolu. Samotná hra se ale mnohdy pohybuje na hranici freefor­mu (hraní s minimálním vlivem systé­mu a hlavní rozhodovací pravomocí na vypravěči) a improvizace. Hlavní zbraní a klíčovým nástrojem je totiž herní pro­středí fiktivního ostrova ve středozemí zvaného Al Amarja (čti Al-Amarha), jeho konspirační prvky a samozřejmě více či méně roztodivné postavy a spolky, jež se na ostrově vyskytují, nebo je na něj nějaká náhoda zavede…
