@@ -8,6 +8,7 @@ published: true
 > Síla Over the Edge je hlavně v set­tingu, protože systém je velmi jed­noduchý a jeho hlavní devizou je, že nepřekáží, když rozvíjíte stále víc bující síť dezinformací a intrik. Celá příručka je nabušená až po střechu množství nápadů, které musel vy­produkovat nějaký maniakální de­signér, který byl právě na tripu… je to šíleně geniální, geniálně šílené a téměř nepopsatelné…
 
 > - Alnag (hodnocení 5/5), [Anotace RPG her](https://rpgforum.cz/anotace/over-edge) – RPG.sk
+
 ![Over the Edge, první vydání, 1992]({{site.baseurl}}/17/ote1.jpg)
 
 
