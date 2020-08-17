@@ -17,7 +17,8 @@ V priebehu svojej existencie mala hra tri vydania: pôvodné z roku 1987, _Sec
 
 > * Vrátane neblaho známeho Star Wars Holiday Special, ktorý je tak notoricky príšerný, že ho jeho vlastná nepozerateľnosť vymrštila do kultovosti. Dopozeral som ho, ale varujem Vás – dobre si rozmyslite, či to naozaj chcete vidieť. Málokto vydrží hodinu dialógov vo wookijčine ... bez titulkov.
 
-![]({{site.baseurl}}/19/star-wars-weg.jpg)
+![]({{site.baseurl}}/19/starwarsweg.jpg)
+
 
 ## Systém
 Mnoho z dôvodov, prečo sa u mňa (a u mojich hráčov) táto hra teší takej obľu­be, leží práve v elegancii systému, ktorý používa. Všetko sa vyhodnocuje jednot­nou mechanikou, ktorá sa výborne hodí do akčnej, cinematickej hry (ako by ste od Star Wars čakali) – či už zjednávate s Huttom, opravujete pokazeného droi­da, ste v barovej prestrelke či naháňačke uprostred pralesa, používa sa stále ten istý druh hodu. Pri tvorbe postavy nie ste zväzovaní povolaniami či úrovňami. Môžete sa pokúšať o čokoľvek a vždy máte šancu na úspech (i keď občas by ju C-3PO vyhodnotil ako 3 720:1). V kľúčo­vom momente je Vaša postava schopná hrdinských výkonov, porovnateľných s tým, čo môžete vidieť vo filmoch. 
@@ -45,7 +46,7 @@ Kniha je písaná veľmi prívetivo a ná­pomocne aj pre ľudí, ktorí s RPG
 
 Knihou Vás celý čas sprevádzajú rozličné postavy (slávna pašeráčka, lo­vec odmien, imperiálny colný inšpek­tor, stíhací pilot), ktoré z postranných bublín ponúkajú svoju mienku na to, čo práve čítate v hlavnom texte, prípadne to komentujú veselými historkami. Ten­to dojem hravosti a zábavnosti je ešte umocnený rozličnými reklamami, ktoré sú roztrúsené po celej knihe – tak na Vás uprostred čítania kapitoly o zručnos­tiach vyskočí náborový leták Imperiál­nej flotily či rebelský pamflet burcujúci obyvateľstvo, aby nikdy nezabudlo na zverstvo vykonané na bezbrannej pla­néte Alderaan. Neskôr v knižke nájdete trebárs upútavku na dvojtýždennú výlet­nú plavbu po rozličných svetoch galaxie, reklamu na novú sériu navigačných dro­idov či oznam o výpredaji modelu TIE/ln za skvelé ceny (a s množstevným raba­tom pri objednávkach nad 200 kusov). Toto všetko spôsobuje, že nemáte pri čí­taní dojem, že držíte suchú zbierku záko­nov, ale už aj samotné čítanie pravidiel je zábavou. 
 
-![weg2.jpg]({{site.baseurl}}/19/weg2.jpg)
+![]({{site.baseurl}}/19/weg2.jpg)
 
 
 ## Ďalšie materiály
