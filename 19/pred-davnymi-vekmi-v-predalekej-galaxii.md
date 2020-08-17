@@ -15,7 +15,7 @@ Jedna z nich – [The Star Wars Roleplaying Game](https://rpgforum.cz/anotace/s
 
 V priebehu svojej existencie mala hra tri vydania: pôvodné z roku 1987, _Second Edition_ z roku 1992 a _Second Edi­tion_, _Revised and Expanded_ z roku 1996. Práve toto posledné vydanie dodnes pa­trí medzi moje najobľúbenejšie hry vô­bec, preto by som Vám ho chcel zopár slovami priblížiť. 
 
-> * Vrátane neblaho známeho Star Wars Holiday Special, ktorý je tak notoricky príšerný, že ho jeho vlastná nepozerateľnosť vymrštila do kultovosti. Dopozeral som ho, ale varujem Vás – dobre si rozmyslite, či to naozaj chcete vidieť. Málokto vydrží hodinu dialógov vo wookijčine ... bez titulkov.
+> /* Vrátane neblaho známeho Star Wars Holiday Special, ktorý je tak notoricky príšerný, že ho jeho vlastná nepozerateľnosť vymrštila do kultovosti. Dopozeral som ho, ale varujem Vás – dobre si rozmyslite, či to naozaj chcete vidieť. Málokto vydrží hodinu dialógov vo wookijčine ... bez titulkov.
 
 ![]({{site.baseurl}}/19/starwarsweg.jpg)
 
