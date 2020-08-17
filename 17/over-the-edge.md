@@ -4,7 +4,11 @@ title: Over the Edge
 authors: Pavel „Bajo“ Kechajov
 tags: 'recenze, Over the Edge, konspirace, prostředí, psychedelie'
 published: true
-summary: ''
+summary: >-
+  Článek o kultovním konspiračním RPG Over the Edge, jež se proslavilo svým
+  geniálně inspirujícím prostředím a hlavně psychedelicky paranoidní atmosférou.
+  Recenze stručně rozebírá obsah základní knihy a je proložena fiktivními
+  zápisky novináře přibližují cími prostředí a atmosféru hry.'
 ---
 > Síla Over the Edge je hlavně v set­tingu, protože systém je velmi jed­noduchý a jeho hlavní devizou je, že nepřekáží, když rozvíjíte stále víc bující síť dezinformací a intrik. Celá příručka je nabušená až po střechu množství nápadů, které musel vy­produkovat nějaký maniakální de­signér, který byl právě na tripu… je to šíleně geniální, geniálně šílené a téměř nepopsatelné…
 
