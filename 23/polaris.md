@@ -5,10 +5,9 @@ authors: 'Juraj „Fingalen“ Pšenák, Peter „Peekay“ Kopáč'
 tags: 'recenze, Polaris, hry, systémy, světy, téma čísla, krev na sněhu'
 published: true
 summary: >-
-  -> 'Predstavíme vám netradičnú rolovú hru so zvláštne rozprávkovo-čarovným
+  Predstavíme vám netradičnú rolovú hru so zvláštne rozprávkovo-čarovným
   prostredím, ktorá má ambície vytvárať príbehy nie nepodobné zasneným,
-  lyricko-tragickým básniam. Pred dávnymi vekmi na konci sveta umierali
-  ľudia...'
+  lyricko-tragickým básniam. Pred dávnymi vekmi na konci sveta umierali ľudia...
 ---
 Je to už päť rokov, čo pod hlavičkou TAO Games vyšla z pera Bena Lehmana táto pozoruhodná hra. Odvtedy si vyslúži­la nemalý hráčsky ohlas predovšetkým vďaka inovatívnym mechanikám a neo­pakovateľnej atmosfére žalospevu mý­tických rytierov ľadového severu. [Polaris](https://rpgforum.cz/anotace/polaris) je hra pre 3–5 hráčov bez rozprávača, ktorí prostredníctvom formálne nemen­ných fráz a cyklickej výmeny rozprávač­ských právomocí spoločne vykresľujú tragický príbeh vopred prehraného boja rytierov Rádu Hviezd. Hra je štruktu­rovaná do presne vymedzených scén, v ktorých má každý z hráčov inú úlohu.
 	
