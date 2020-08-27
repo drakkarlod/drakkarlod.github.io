@@ -19,4 +19,4 @@ fulltext: false
 publish: false
 ---
 
-Prostředí je zhruba období rané renesance, po vynálezu knihtisku, ale před vynálezem muškety (takže z&nbsp;palných zbraní píšťaly a hákovnice). Obývají ho pouze lidé a magie i&nbsp;čáry jsou ukryty pod povrchem a navenek se příliš neprojevují, přestože mohou být přítomné. Na moři jsou nejčastějšími ravnburskými loděmi kogy, každá se dvěma až čtyřmi ‚puškami‘ (děly) na přídi. Většina bitev se navzdory tomu stále rozhoduje přiražením k&nbsp;boku protivníkovy lodě a bojem na blízko na prknech palub.
+Prostředí je zhruba období rané renesance, po vynálezu knihtisku, ale před vynálezem muškety (takže z palných zbraní píšťaly a hákovnice). Obývají ho pouze lidé a magie i čáry jsou ukryty pod povrchem a navenek se příliš neprojevují, přestože mohou být přítomné. Na moři jsou nejčastějšími ravnburskými loděmi kogy, každá s dvěma až čtyřmi ‚puškami‘ (děly) na přídi. Většina bitev se navzdory tomu stále rozhoduje přiražením k boku protivníkovi lodě a bojem na blízko na prknech palub.
