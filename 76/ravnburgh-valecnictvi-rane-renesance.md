@@ -7,6 +7,8 @@ summary: >-
   V tomto článku je popsáno, jak by mohlo vypadat válčení, bitvy a válečnické
   řemeslo v době rané renesance a světě Ravnburghu.
 published: true
+publish: false
+fulltext: false
 ---
 _Tento článek obsahuje shrnutí válečnictví a druhů jednotek používaných v renesanci, už po vynálezu střelného prachu, ale ještě před vynálezem muškety. V našem světě je to víceméně období odpovídající husitským a burgundským válkám, především ale italským válkám mezi lety 1494 až 1559\. Jednotlivé reálie se v průběhu té doby výrazně měnily, takže níže uvedený souhrn je už konkrétní adaptací pro svět Ravnsburghu než přesným zachycením určité konkrétní historické doby._ 
 
@@ -152,4 +154,4 @@ Polní děla byla zpočátku vyráběna na kusy a žádné dva kusy nebyly stejn
 
 - **ribauldequin** -- Známá také jako ‚varhany' nebo ‚pekelný stroj'. Šlo o několik, zpravidla lehčích hlavní (většinou ne větších než píšťaly), které byly připevněné na stejnou lafetu, případně byly svařené dohromady. Ty v bitvě pálily buď salvou (a vytvořily ekvivalent kartáčové střely) nebo postupně, aby fungovaly jako primitivní kulomet. 
 
-Pušky a děla byly v tomto období zdobeny rytinami zvířat a mytologických stvůr, které určovaly jejich velikost. Největší z nich, _basilisque_ , zdobily rytiny draků a bazilišků, _coulevrine_ rytiny hadů, nejmenší _falconet_ rytinu sokola a ruční střelné zbraně jako píšťaly a hákovnice zdrobily rytiny krahujců. 
+Pušky a děla byly v tomto období zdobeny rytinami zvířat a mytologických stvůr, které určovaly jejich velikost. Největší z nich, _basilisque_ , zdobily rytiny draků a bazilišků, _coulevrine_ rytiny hadů, nejmenší _falconet_ rytinu sokola a ruční střelné zbraně jako píšťaly a hákovnice zdrobily rytiny krahujců.
