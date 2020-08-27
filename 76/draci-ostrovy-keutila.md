@@ -8,6 +8,8 @@ published: true
 fulltext: false
 publish: false
 ---
+_(Autor: Selhan)_
+
 ![Ostrov Kuetila]({{site.baseurl}}/76/keutila.jpg)
 
 Obyvatelé ostrova Keutila jsou vrásčití, nedůvěřiví a chudí - takhle daleko na sever žádné obchodní cesty nevedou, a jediná místní obživa je lov žraloků, namáhavá, nebezpečná a nepříjemná práce. Maso severských žraloků je jedovaté, a musí se nechávat dlouhé měsíce fermentovat, než se stane pouze nechutné, jejich tuk je však relativně cennou surovinou a tři malé osady tak jsou již z dálky cítit nezaměnitelným močovinovým zápachem místních sušíren. Poptávka po oleji však s každým rokem klesá, a poslední dřevo vhodné ke stavbě opravě rybářských lodí bylo nadobro vykáceno - nad černými čedičovými útesy Keutily se vzpínají jen spousty bělavých břízek. Bylo zde tradicí vysílat mladé rybáře do světa, odkud si měli přivést zkušenosti a manželky - poslední dobou se však mladí již nevrací.
