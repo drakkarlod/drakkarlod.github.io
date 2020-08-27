@@ -10,6 +10,8 @@ summary: >-
   husitským a burgundským válkám, především ale italským válkám mezi lety 1494
   až 1559. 
 published: true
+publish: false
+fulltext: false
 ---
 _Paluba Ravnburského posla se otřásla a z její obruby na levém boku, kam zasáhly kule pirátských pušek, vyletěl mrak třísek. Jeden z lodníků s výkřikem padl na palubu a přidržoval si krvavý obličej. Kapitán lodi rychle rozkázal: „K lanům!" „Ano, pane," odpověděla posádka. „Plachty na vítr!" „Na vítr, pane!" Pirátská loď pod vzdutou rudou plachtou s vyšitým černým krakenem, se zoufale snažila uniknout dvojici ranvnburských kog. Menší z nich, Mořský pes, právě vypálila z dvojice svých pušek na pravoboku. Pan Hugh, její kapitán, byl zručný střelec a už podruhé v průběhu bitvy zasáhl piráta přesně na čáru ponoru. Pronásledovaná koga nabírala vodu a ztrácela svou pohyblivost. Kapitán ravnburského posla kývnul na puškaře na přídi, který se krčil u dvojice jejich vlastních pušek s několika vojáky: „Pal, Avery!" Puškařova rozžhavená tyč vjela do zátravek -- do první, do druhé -- a hlavně vyslaly další střely, které způsobilo spoušť v lanoví pirátské lodi. Menší koga už nedokázala udržet rychlost a unikat oběma svým pronásledovatelům. Začala se pomalu naklánět a její stále napjatá plachta s nestvůrným krakenem ji začala otáčet na stranu._ 
 
