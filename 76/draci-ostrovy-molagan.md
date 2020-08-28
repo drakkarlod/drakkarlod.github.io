@@ -10,9 +10,9 @@ publish: false
 ---
 (Autor: Lorwyn)
 
-![Ostrov Molagan]({{site.baseurl}}/76/molagan.jpg)
-
 Temně šedé skály ostrova ohladil vítr do podivných tvarů, pozvolné stráně zarostlé vysokou bledou travou přecházejí v kamenité pláže. Míle a míle temných oblázků a vyvržených hnijících chaluh, mlhy, plískanice, všudypřítomné kvílení větru. Molagan, ostrov krvavého jantaru.
+
+![Ostrov Molagan]({{site.baseurl}}/76/molagan.jpg)
 
 Před lety tu stála hrdá přímořská pevnost Bantur. Místní posádka patřila ke skvěle vybaveným a střežila obchodní trasy, maják ukazoval lodím cestu zrádnými vodami. Ale vždy proměnlivé obchodní trasy se posunuly a vratká spojenectví proměnila. Molagan upadl v zapomnění, maják oslepl a posádka byla zrušena. Pak, před necelou stovkou let, byl na ostrově nalezen jantar. Nikdy ho nebylo moc a nebyl ani moc čistý, molaganský jantar byl narudlý a nahnědlý, jakoby špinavý od krve.
 Bantur byl opraven a znovu obsazen, ale už ne odvážnými vojáky, místo toho sem začali z Ravnburghu vozit odsouzence, aby sbíráním jantaru odsloužili určené roky. Podmínky byly příšerné. Nikdo nechtěl hlídat vězně tak daleko od domova, stráže sem byly posílány za trest a frustraci si vybíjely na vězních. Kdo nenasbíral dost jantaru, nedostal jídlo. Bičování bylo na denním pořádku. Z majáku se stala hlídková věž a z jeho nadějného světla slídivé oko. A krvavý jantar zdobil prsteny a náhrdelníky ravnburské šlechty.
