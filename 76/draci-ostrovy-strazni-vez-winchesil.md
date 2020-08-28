@@ -4,11 +4,7 @@ title: 'Dračí ostrovy: Strážní věž Winchesil'
 authors: Ecthelion²
 tags: materiály a doplňky
 series: Dračí ostrovy
-published: true
-fulltext: false
-publish: false
 ---
-_(Autor: Ecthelion2)_
 
 Poté, co arlatští velekrálové před dvěma sty lety upevnili svou moc na jihu, zřídili na Dračích ostrovech Strážní věže, které měly chránit říši před invazí ze severu a nájezdníky z moře. Každou z dvanácti strážních věží dostal do dědičného držení jeden z vybraných rytířů říše, kteří přísahali, že napříště budou chránit severní hranice Arlatu. 
 
