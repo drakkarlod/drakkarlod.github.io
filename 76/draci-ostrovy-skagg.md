@@ -4,16 +4,14 @@ title: 'Dračí ostrovy: Skagg'
 authors: Korhul
 tags: materiály a doplňky
 series: Dračí ostrovy
-published: true
-fulltext: false
-publish: false
 ---
-_(Autor: Korhul)_
 
 Černý kužel tyčící se nad modří mořské hladiny, z jehož špičky se čas od času vyvalí dým a celý ostrov se zachvěje slabým zemětřesením.
 
 Vrahové, zloději, zrádci, ale také dlužníci nebo lidé, kteří se prostě zprotivili mocným, jsou posíláni z Ravnburghu, Dayhavenu a dalších měst pobřeží do zdejší trestanecké kolonie. 
+
 ![Ostrov Skagg]({{site.baseurl}}/76/skagg.jpeg)
+
 Tady je čekají ty nejohavnější galeje, které jsou ve srovnání s dřívějším lágrem na Molaganu selankou. Vězni sestupují do kaldery na vrcholu hory a těžit zde síru, surovinu potřebnou mimo jiné pro výrobu střelného prachu. Provozovatel internačního tábora není veřejně znám, dohady směřují jak na Hanzu, Rudou perlu nebo kteroukoli jinou mocnou organizaci v této části světa. Nejspíše však půjde o někoho neutrálního, jelikož zde přijímají vězně ze všech jurisdikcí bez rozdílu.
 
 Kráter je místo, které lze připodobnit k peklu. Horko je v něm jako v peci, z průduchů vyvěrají dusivé plyny, kdo nedokáže včas zaznamenat varovné syčení, tomu stříkne do obličeje přehřátá pára. Na dně je pak krásné modré jezírko, jehož voda však nechladí, ale naopak leptá kůži.
@@ -24,8 +22,6 @@ Ani pro vojáky není služba v této smrduté díře žádná selanka. Nicmén�
 
 ## Zápletky
 
-Pokud se družina zaplete do politických zákulisních her v Ravnburghu a nezvládne dotáhnout hru do konce, může skončit uvězněná na ostrově. Podaří se jí uniknout?
-
-Prominent jedné ze znesvářených frakcí ve městě byl odsouzen za zradu a poslán na Skagg. Jeho spojenci nabídnou štědrou odměnu za jeho vysvobození a odvoz do bezpečí. Tato osoba však odmítá opustit Skagg se slovy „Raději shniju tady, než aby mě ti řezníci znovu mučili.“
-
-Družina se při pobytu na ostrově ocitne v noci mimo tábor. Zkazky o ďáblech nebyly přesné. Z průduchů a puklin začnou vylézat salamandři a družinu napadnou.
+- Pokud se družina zaplete do politických zákulisních her v Ravnburghu a nezvládne dotáhnout hru do konce, může skončit uvězněná na ostrově. Podaří se jí uniknout?
+- Prominent jedné ze znesvářených frakcí ve městě byl odsouzen za zradu a poslán na Skagg. Jeho spojenci nabídnou štědrou odměnu za jeho vysvobození a odvoz do bezpečí. Tato osoba však odmítá opustit Skagg se slovy „Raději shniju tady, než aby mě ti řezníci znovu mučili.“
+- Družina se při pobytu na ostrově ocitne v noci mimo tábor. Zkazky o ďáblech nebyly přesné. Z průduchů a puklin začnou vylézat salamandři a družinu napadnou.
