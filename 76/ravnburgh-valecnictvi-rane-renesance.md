@@ -12,11 +12,11 @@ fulltext: false
 ---
 _Tento článek obsahuje shrnutí válečnictví a druhů jednotek používaných v renesanci, už po vynálezu střelného prachu, ale ještě před vynálezem muškety. V našem světě je to víceméně období odpovídající husitským a burgundským válkám, především ale italským válkám mezi lety 1494 až 1559\. Jednotlivé reálie se v průběhu té doby výrazně měnily, takže níže uvedený souhrn je už konkrétní adaptací pro svět Ravnsburghu než přesným zachycením určité konkrétní historické doby._ 
 
+![Bitva]({{site.baseurl}}/76/01.jpg)
+
 _Francouzština v textu na tomto místě zastupuje jazyk, kterým se mluví na jihu ve Lvím císařství (Empire du Lion), odkud pochází mnoho žoldnéřů a většina teoretických pojednání o vojenství. Přestože v městech hanzy, Maelské ligy i západních markách se používají jiné jazyky, tyto výrazy jejich vojáci běžně převzali._ 
 
 _Historicky se v našem světě francouzština používala pro všechno související s jízdou, ale většina výrazů pro pěchotu byla v němčině. ‚Deppelsöldner' je tak v tomto článku přeložen jako ‚double-soudard', ‚Weibel' je ‚sergent', ‚Gemeinweibel' je ‚sergent-major' a ‚stratioti' (název lehké jízdy původně z řečtiny) jsou v mém textu ‚étrangers'._ 
-
-![Bitva]({{site.baseurl}}/76/01.jpg)
 
 Po staletích, kdy bojištím kralovala těžká jízda jako rozhodující a nezastavitelná zbraň, došlo postupně ke změnám a v několika případech se pěchota dokázala postavit jízdě a porazit ji. Lučištníci ukrytí za zákopy a naostřené kůly, pěchota ve vozech nebo pěchota s dlouhými píkami dokázala vydržet nájezd do té doby neporažené jízdy a zvítězit. Z nich všech se jako nejekonomičtější ukázaly právě oddíly pikenýrů. Vycvičit dobrého lučištníka trvalo roky a v případě ztrát nebylo snadné nahradit jejich počty. Vojáci s vozy byli účinní, ale nedostatečně mobilní a jejich taktika s vozy byla příliš složitá a nepružná. Pokud byli zaskočeni během přesunu, skončila výprava masakrem. Pikenýři nabídli namísto toho dobrou mobilitu, snadné nasazení, a přestože pěchota s píkami musela být dobře vycvičená a nebyla levná (rozhodně nešlo dát komukoli píku a očekávat, že bude schopen zastat práci pikenýra), v porovnání s jízdou byla levnější řádově. 
 
@@ -81,8 +81,9 @@ Mnoho žen trénu byly manželky vojáků, případně další rodinní příslu
 Trén se mohl u některých jednotek rozrůst až na polovinu členů regimentu samotného. Byl nenahraditelný pro zásobování jednotky, ale omezoval její pohyb a rychlost přesunu. V případě porážky také mohl padnout v plen nepřátelské armádě. 
 
 > **Černí skřeti z pohoří Vhre**
+>
 >_Mlčenliví a hroziví, černí skřeti jsou asi o půl hlavy vyšší než průměrný člověk, s tvářemi ukrytými za hledími svých šalířů. Jsou zuřiví a nemilosrdní v útoku, neochvějní v bitvě a proslavili jako nezastavitelná síla na bojišti. Byli to oni, kdo v obraně před snahou vévody z Leunep podmanit vherské průsmyky jako první nasadili masy pík a porazili s touto taktikou těžkou jízdu. To vítězství jim otevřelo cestu k několik desítek trvajícímu monopolu na najímání pikenýrů. Dodnes je vojenská přezdívka pro vojáky s píkou ‚skřet', bez ohledu na to, odkud pocházejí._
-
+>
 >_Ve službách cizích států preferovali vždy útok masy pikenýrů proti nepříteli, rychlý a zničující. V boji neberou zajatce, milost nedávají ani nečekají. Bojují i umírají tiše, bez povzbuzování, výkřiků nebo proseb o milost. Dominovali bojištím po několik desetiletí, než ostatní státy postavily vlastní jednotky podle jejich vzoru. Na rozdíl od skřetů lidské jednotky doplnily prostou sílu pikenýrů o střelce, aby byli schopni přijmout útok skřetích pikenýrů a porazit je. Tato taktika se ukázala jako velice účinná a takové síly porazily skřety v několika bitvách, takže poptávka po jejich službách klesla. Sami museli doplnit své řady o vlastní střelce (dávají přednost zastaralým, ale stále účinným samostřílům před zbraním na střelný prach), aby dokázali konkurovat svým konkurentům a často jsou schopni bojovat i v obraně, přestože stále preferují bezhlavý útok. Jsou pořád oceňováni jako elitní vojáci a mnohé státy, především města Ligy, je dál najímají a staví do bitev._
 
 ## Lehká jízda 
@@ -97,7 +98,7 @@ Díky jejich úspěchům začali postupně vzdálenější státy, které neměl
 
 ## Těžká jízda 
 
-![Těžká jízda]({{site.baseurl}}/76/_03.jpg)
+![Těžká jízda]({{site.baseurl}}/76/03.jpg)
 
 Navzdory ztrátě absolutní dominance na bojišti byla těžká jízda stále hrozivou zbraní, která mohla rozhodovat bitvy, pokud byla správně nasazena. Byla schopna zasadit naprosto drtivý úder a navzdory stále těžšímu brnění, které jezdci nosili kvůli ochraně před palnými zbraněmi, byla schopná rychlého pohybu a manévrování. Mimo bitvu jezdci pronásledovali prchající armády a prováděli nájezdy, při kterých pálili a plundrovali nepřátelské vesnice a území. 
 
@@ -134,14 +135,14 @@ Několik kopí tvořilo společně taktické jednotky zvané _korouhve_. Ty byly
 Jízda byla rozdělena do menších částí zvaných _bataille_ . _Byly to _ad hoc_ formace bez přesného určení počtu mužů, zpravidla pak tři - předvoj (_avant-garde_ ), střed a zadní voj (_arrière-garde_ ). V případě, že byla jízda zformována jako kolona, pak jely do bitvy v tomto pořadí. Pokud byla jízda roztažena do řady, pak předvoj byl zařazen doprava a zadní voj doleva od středu. Uspořádaní do řady, byla jízda zformována do nepřetržité linie jezdců, tři nebo čtyři řady hluboké. V tom případě se 1000-2000 mužů roztáhlo na šíři asi osmi set metrů. 
 
 > _**Černá kumpanie**_
-
+>
 > _Proslavená žoldnéřská kumpanie pod velením, které velel lionský rytíř a bývalý lapka, Arnaud lis Muret, známější jako ‚Lišák'. On tvrdí, že je to pro mazanost a vynalézavost, všichni ostatní pak, protože je zrzavý až na půdu a má špičatý nos, který mu propůjčuje vzezření zmíněného zvířete. V císařství je hledán pro zradu, urážku majestátu a vraždu císařského úředníka. Sama Lionnesse , dědičná císařovna lvice, na jeho hlavu vypsala značnou odměnu a Lišák několikrát jen o vlásek unikl dýkám úkladných vrahů._
-
+>
 > _Počty členů jednotky se v průběhu let v závislosti jejich válečné štěstěně hodně měnily. Před dvěma lety po katastrofální prohře u Gelmu se jejich řady scvrkly jen na 250 mužů. Díky Lišákovu velení a několika dalším úspěchům se současné počty rozrostly na asi 2000 pěších (poloviční pluk) a 600 kopí najímaných pod černými prapory jednotky._
 
 ## Dělostřelectvo 
 
-![Dělostřelectvo]({{site.baseurl}}/76/_02.jpg)
+![Dělostřelectvo]({{site.baseurl}}/76/02.jpg)
 
 Polní děla byla zpočátku vyráběna na kusy a žádné dva kusy nebyly stejné. Časem se objevila určitá standardizace a rozlišily se hlavní druhy (které měly mnoho variací a poddruhů): 
 
@@ -154,3 +155,4 @@ Polní děla byla zpočátku vyráběna na kusy a žádné dva kusy nebyly stejn
 - **ribauldequin** -- Známá také jako ‚varhany' nebo ‚pekelný stroj'. Šlo o několik, zpravidla lehčích hlavní (většinou ne větších než píšťaly), které byly připevněné na stejnou lafetu, případně byly svařené dohromady. Ty v bitvě pálily buď salvou (a vytvořily ekvivalent kartáčové střely) nebo postupně, aby fungovaly jako primitivní kulomet. 
 
 Pušky a děla byly v tomto období zdobeny rytinami zvířat a mytologických stvůr, které určovaly jejich velikost. Největší z nich, _basilisque_ , zdobily rytiny draků a bazilišků, _coulevrine_ rytiny hadů, nejmenší _falconet_ rytinu sokola a ruční střelné zbraně jako píšťaly a hákovnice zdrobily rytiny krahujců.
+
