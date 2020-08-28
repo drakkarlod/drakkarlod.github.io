@@ -15,7 +15,7 @@ summary: >-
   ostrovy můžete přidat prakticky libovolně či náhodně do probíhající kampaně.
 series: Dračí ostrovy
 published: true
-fulltext: false
+fulltext: true
 publish: false
 ---
 
