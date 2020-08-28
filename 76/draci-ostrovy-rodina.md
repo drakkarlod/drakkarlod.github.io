@@ -10,9 +10,9 @@ publish: false
 ---
 _(Autor: Korhul)_
 
-![Ostrov Rodina]({{site.baseurl}}/76/rodina.jpeg)
-
 Toto malé souostroví tvoří velký ostrov Otec, menší ostrov Matka a okolo nich pak jejich pět malých dětí. Ostrov slouží jako stanice pro mezipřistání lodí. Městečko La Barre nabízí zdroj pitné vody a možnost doplnit některé základní potraviny a provést nezbytné opravy. Obyvatelé ostrova se věnují chovu ústřic, který probíhá v mělkém a chráněném průlivu mezi ostrovem Otec a Matka.
+
+![Ostrov Rodina]({{site.baseurl}}/76/rodina.jpeg)
 
 **Chaluhová zátoka**
 Hluboce zakrojená zátoka na jižním pobřeží je místem, kterému se lodě vyhýbají. Dno je mělké, ale postačující ke kotvení větších lodí. Nicméně voda je plná provazců dlouhých chaluh, které se mohou namotat do kormidelního ústrojí. Pak nezbude než vyslat potápěče do vody, aby loď znovu uschopnili k plavbě. Už jen teplota vody stačí k tomu, že najít dobrovolníka na tuto práci nebude snadné. A to ještě jen málokdo tuší, že na dně číhá na neopatrnou kořist zvědavá chobotnice s třímetrovými chapadly.
