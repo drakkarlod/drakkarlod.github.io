@@ -21,9 +21,9 @@ Velká většina lodí, které brázdily vody kolem velkého ravnburského pří
 
 ## Koga
 
-![Koga]({{site.baseurl}}/76/hanseschiffe-mitte-en.jpg)
-
 Byla to velká bachratá loď s jedním stěžněm a masivní čtvercovou plachtou. Kogy byly asi 15-25 metrů dlouhé a mezi 5-8 metry široké. Kormidlo bylo na zádi a relativně ploché dno a nízký ponor (3-5 metrů) umožňovalo kogám manévrování v mělkých vodách. V případě odlivu mohly sednout na mělčinu a bylo-li třeba, na krátkou vzdálenost mohly být poháněny vesly.
+
+![Koga]({{site.baseurl}}/76/hanseschiffe-mitte-en.jpg)
 
 Trup lodi byl obložen dubovými prkny klinkerovou obšívkou. To znamená, že na žebra byly pomocí kovových hřebů připevňována prkna, tak že jedno přesahovalo druhé. Díky tomu byla vnější strana zubatá. Tato konstrukce jim propůjčovala výjimečnou pružnost, dobrou stabilitu a byla jednoduchá na výrobu. Nevýhodou byla vyšší propustnost (i za použití pryskyřice nebo asfaltu na spáry do lodi prosti víc teklo) a pokud byla delší dobu mimo vodu, musela se nejprve nechat „zatáhnout“ (nechat prkna znovu nasáknout vodou a tím expandovat), protože do ní teklo jako do cedníku. Kogy mohly plout pouze po větru, nemohly křižovat proti němu.
 
