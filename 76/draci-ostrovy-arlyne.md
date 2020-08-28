@@ -11,13 +11,16 @@ publish: false
 _(Autor: Vaarsuvis)_
 
 Střed ostrova Arlyne pokrývá starobylý hvozd, sestávajícího se z unikatního druhu stromu, který nikde neroste. Jejich dřevo je pevné a krvavě rudé barvy, a tudíž je z něj vyráběn nábytek, který je velmi žádaný mezi ravenburskými šlechtici a měšťany.
+
+![Ostrov Arlyne]({{site.baseurl}}/76/arlyne.PNG)
+
 Na ploše ostrova se nachazí několik drobných zemědělských či dřevorubeckých osídlení. Pouze dvě jsou většího významu:
 **Bredon** je přístavem a administrativním centrem ostrova vedeného guvernérem Robertem Goldingem. Město o velikosti 1000 obyvatel je chráněné dřevěnou pevností s malou vojenskou posádkou, jejíž zdi chrání na tucet děl. Mezi výraznější budovy také patří kamenný leonardský kostel, v němž slouží a káže otec Adrian. Ve městě je také hostinec "U Kotvy" nabízející stravu a ubytování pro znavené námořníky a cestující z obchodních lodí.
 **Penshaw** je centrem dřevorubeckého průmyslu. Osada o velikosti zhruba 200 obyvatel je obehnaná dřevěnou palisádou. Obyvatelé jsou převážně dřevorubci a lovci. Každý pátek se osekané kmeny dopravují po Tiché řece do Bredonu, odkud se pak vozí do vnitrozemí a voraři se vrací zpět s nakoupeným zbožím.
 Avšak ostrov neskýtá pouze přírodní bohatství, nachází se zde řada pozůstatků po dávných pohanských obyvatelích, tedy obřadní místa, ruiny chrámu, či základy osady. Prostí lidé mají tato místa za zlověstná a spíše se jim vyhýbají.
 
 ## Cizí postavy:
-![Ostrov Arlyne]({{site.baseurl}}/76/arlyne.PNG)
+
 _Guvernér Robert Golding_
 Užívá si svého výsadního postavení. Arlyne mu nejen přináší zisk díky obchodu se dřevem, ale také je výtečně chráněn ostatními ostrovy, takže guvernér nemá motivaci financovat dostatečně své vojáky. Co na tom, že zásoby prachu jsou malé a posádka dlouho netrénovala, když o bezpečnost na moři se starají jiní? Guvernér jistě najde pro finance "lepší" uplatnění.
 
