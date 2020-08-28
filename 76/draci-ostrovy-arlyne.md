@@ -4,10 +4,8 @@ title: 'Dračí ostrovy: Arlyne'
 authors: Vaarsuvis
 tags: materiály a doplňky
 series: Dračí ostrovy
-published: true
-fulltext: false
-publish: false
 ---
+
 Střed ostrova Arlyne pokrývá starobylý hvozd, sestávajícího se z unikatního druhu stromu, který nikde neroste. Jejich dřevo je pevné a krvavě rudé barvy, a tudíž je z něj vyráběn nábytek, který je velmi žádaný mezi ravenburskými šlechtici a měšťany.
 
 Na ploše ostrova se nachazí několik drobných zemědělských či dřevorubeckých osídlení. Pouze dvě jsou většího významu:
