@@ -16,13 +16,13 @@ _Francouzština v textu na tomto místě zastupuje jazyk, kterým se mluví na j
 
 _Historicky se v našem světě francouzština používala pro všechno související s jízdou, ale většina výrazů pro pěchotu byla v němčině. ‚Deppelsöldner' je tak v tomto článku přeložen jako ‚double-soudard', ‚Weibel' je ‚sergent', ‚Gemeinweibel' je ‚sergent-major' a ‚stratioti' (název lehké jízdy původně z řečtiny) jsou v mém textu ‚étrangers'._ 
 
-![Bitva]({{site.baseurl}}/76/_01.jpg)
+![Bitva]({{site.baseurl}}/76/01.jpg)
 
 Po staletích, kdy bojištím kralovala těžká jízda jako rozhodující a nezastavitelná zbraň, došlo postupně ke změnám a v několika případech se pěchota dokázala postavit jízdě a porazit ji. Lučištníci ukrytí za zákopy a naostřené kůly, pěchota ve vozech nebo pěchota s dlouhými píkami dokázala vydržet nájezd do té doby neporažené jízdy a zvítězit. Z nich všech se jako nejekonomičtější ukázaly právě oddíly pikenýrů. Vycvičit dobrého lučištníka trvalo roky a v případě ztrát nebylo snadné nahradit jejich počty. Vojáci s vozy byli účinní, ale nedostatečně mobilní a jejich taktika s vozy byla příliš složitá a nepružná. Pokud byli zaskočeni během přesunu, skončila výprava masakrem. Pikenýři nabídli namísto toho dobrou mobilitu, snadné nasazení, a přestože pěchota s píkami musela být dobře vycvičená a nebyla levná (rozhodně nešlo dát komukoli píku a očekávat, že bude schopen zastat práci pikenýra), v porovnání s jízdou byla levnější řádově. 
 
 Jádro sil tvořili v této době profesionální vojáci najímaní jako žoldnéři. Většina bojujících států a měst neměla dostatečné zdroje, aby vybudovala své vlastní ozbrojené síly, které by platila i v dobách míru. Proto ve válce spoléhali na zkušené a ostřílené žoldnéře, kteří drželi jejich linii a které doplnili vlastní lehkou pěchotou (která většinou byla vyzbrojena jako střelci) a těžkou jízdou, kterou poskytla vlastní šlechta. 
 
-# Lehká pěchota 
+## Lehká pěchota 
 
 ![Střelec z píšťaly]({{site.baseurl}}/76/06-357.png)
 
@@ -32,13 +32,13 @@ Mimo bitvy tvořila zverbovaná lehká pěchota často posádky pevností a obsa
 
 I lehká pěchota, často mnohem zkušenější a schopnější, byla ale najímána pro žold. Mezi nimi byli nejznámější elitní darnajští střelci. 
 
-> _**Darnajští střelci**_
+>_**Darnajští střelci**_
+>
+>_Byla to elitní jednotka, která byla vytvořena k obraně městského státu Darnaj, ale proslavila se jako žoldnéřská síla v řadách dalších států. Členové jednotky byli rekrutováni buď přímo ve městě, ale také v přilehlých oblastech a dalších přístavech ligy. Velitelé jednotlivých praporů byli zpravidla členové urozených a vlivných rodin._
+>
+>_Jejich hlavní zbraní byly hákovnice, které prorážely i těžká brnění a působily protivníkům vystavených jejich palbě hrozivé ztráty. Byli organizováni do týmů po třech. První z nich byl střelec, který pálil ze zbraně, ukrytý za velkou pavézou. Tu držel druhý z mužů, který byl zpravidla mohutný a silný, protože musel udržet zpětný ráz hákovnice, která byla o pavézu opřena. Poslední z týmu mezitím přebíjel druhou hákovnici, čímž zdvojnásobil rychlost střelby. Všichni vojáci měli dýku jako záložní zbraň, lehkou železnou přilbici a brigantiny._
 
-_> Byla to elitní jednotka, která byla vytvořena k obraně městského státu Darnaj, ale proslavila se jako žoldnéřská síla v řadách dalších států. Členové jednotky byli rekrutováni buď přímo ve městě, ale také v přilehlých oblastech a dalších přístavech ligy. Velitelé jednotlivých praporů byli zpravidla členové urozených a vlivných rodin._
-
-_> Jejich hlavní zbraní byly hákovnice, které prorážely i těžká brnění a působily protivníkům vystavených jejich palbě hrozivé ztráty. Byli organizováni do týmů po třech. První z nich byl střelec, který pálil ze zbraně, ukrytý za velkou pavézou. Tu držel druhý z mužů, který byl zpravidla mohutný a silný, protože musel udržet zpětný ráz hákovnice, která byla o pavézu opřena. Poslední z týmu mezitím přebíjel druhou hákovnici, čímž zdvojnásobil rychlost střelby. Všichni vojáci měli dýku jako záložní zbraň, lehkou železnou přilbici a brigantiny._
-
-# Těžká pěchota 
+## Těžká pěchota
 
 ![Těžká pěchota]({{site.baseurl}}/76/Der_Weisskunig_78_Detail_Landsknecht_Battle.jpg)
 
@@ -46,7 +46,7 @@ Tu v této době představovaly žoldnéřské oddíly pikenýrů, najímané do
 
 Zpravidla se najímal celý pluk, některé žoldnéřské kumpanie ale mohly být menší (jen několik praporů) nebo i větší (až několik pluků). Někdy mohla mít i vlastní jízdu nebo dělostřelectvo, nebylo to ale pravidlem. 
 
-## Organizační struktura žoldnéřského pluku 
+### Organizační struktura žoldnéřského pluku
 
 Nejnižší organizační jednotkou na bojišti byla **rota**, které velel **rotmistr**. Tvořilo ji 10 často nepříliš ostřílených pikenýrů a 6 veteránů, označovaných jako _double–soudard_ (pl. _double–soudards_ , v překladu ‚dvojitý voják'). Ti dostávali dvojitý plat (od toho jejich název), protože byli na nejnebezpečnějších částech bojiště. Rotmistra volili sami členové roty ze svého středu a jeho zástupcem byl _sergent_ , který udržoval disciplínu a sloužil jako prostředník mezi mužstvem a důstojníky. Jeden z těchto mužů byl měsíčně volen jako _sergent-major_ , který pak byl mluvčím obyčejných vojáků a přednášel jejich požadavky a přání kapitánům a plukovníkovi. 
 
@@ -56,7 +56,7 @@ Kapitán měl sluhu, písaře a dvojici _double-soudards_ , kteří sloužili ja
 
 10 praporů bylo organizováno do **pluku**, kterému velel **plukovník**. Pluk měl tak celkem 4000 mužů, přes třetinu z toho _double-soudards_. Plukovník měl k dispozici velký štáb, který tvořili praporečník (s praporem pluku), bubeník, pištec, kaplan, písař, felčar, zvěd, ubytovatel a osm _double-soudards_ jako tělesnou stráž. 
 
-## Taktika 
+### Taktika 
 
 ![Bitva u Marignan]({{site.baseurl}}/76/Marignan.jpg)
 
@@ -72,7 +72,7 @@ Pikenýři často útočili proti jiným formacím pikenýrů, které se zformov
 
 Ve chvílích, kdy byly obě strany do sebe zaklesnuté, vyrazili zezadu _double-soudards_ s halberdami a obouručními meči, aby pat prolomili. Podklouzli pod píkami, odtlačili je stranou a pokusili se udělat průlom, do kterého se hned nahrnuli další muži zezadu a rozbili protivníkovu formaci. Občas _double-soudards_ se svými zbraněmi také běželi před formací a pokusili se narušit jeho zeď pík předtím, než do ní udeřil hlavní úder kolony. 
 
-## Trén 
+### Trén 
 
 Každý žoldnéřský pluk pochodoval s vlastním trénem, který jej následoval. Jeho členové byli ženy a děti, řemeslníci a námezdní dělníci. Nesli vojenské nezbytnosti, jídlo a majetek každého z vojáků. Členové trénu stavěli tábory pro vojáky, vařili, ošetřovali zranění a kopali a čistili latríny. 
 
@@ -80,13 +80,12 @@ Mnoho žen trénu byly manželky vojáků, případně další rodinní příslu
 
 Trén se mohl u některých jednotek rozrůst až na polovinu členů regimentu samotného. Byl nenahraditelný pro zásobování jednotky, ale omezoval její pohyb a rychlost přesunu. V případě porážky také mohl padnout v plen nepřátelské armádě. 
 
-> _**Černí skřeti z pohoří Vhre**_
+> **Černí skřeti z pohoří Vhre**
+>_Mlčenliví a hroziví, černí skřeti jsou asi o půl hlavy vyšší než průměrný člověk, s tvářemi ukrytými za hledími svých šalířů. Jsou zuřiví a nemilosrdní v útoku, neochvějní v bitvě a proslavili jako nezastavitelná síla na bojišti. Byli to oni, kdo v obraně před snahou vévody z Leunep podmanit vherské průsmyky jako první nasadili masy pík a porazili s touto taktikou těžkou jízdu. To vítězství jim otevřelo cestu k několik desítek trvajícímu monopolu na najímání pikenýrů. Dodnes je vojenská přezdívka pro vojáky s píkou ‚skřet', bez ohledu na to, odkud pocházejí._
 
-> _Mlčenliví a hroziví, černí skřeti jsou asi o půl hlavy vyšší než průměrný člověk, s tvářemi ukrytými za hledími svých šalířů. Jsou zuřiví a nemilosrdní v útoku, neochvějní v bitvě a proslavili jako nezastavitelná síla na bojišti. Byli to oni, kdo v obraně před snahou vévody z Leunep podmanit vherské průsmyky jako první nasadili masy pík a porazili s touto taktikou těžkou jízdu. To vítězství jim otevřelo cestu k několik desítek trvajícímu monopolu na najímání pikenýrů. Dodnes je vojenská přezdívka pro vojáky s píkou ‚skřet', bez ohledu na to, odkud pocházejí._
+>_Ve službách cizích států preferovali vždy útok masy pikenýrů proti nepříteli, rychlý a zničující. V boji neberou zajatce, milost nedávají ani nečekají. Bojují i umírají tiše, bez povzbuzování, výkřiků nebo proseb o milost. Dominovali bojištím po několik desetiletí, než ostatní státy postavily vlastní jednotky podle jejich vzoru. Na rozdíl od skřetů lidské jednotky doplnily prostou sílu pikenýrů o střelce, aby byli schopni přijmout útok skřetích pikenýrů a porazit je. Tato taktika se ukázala jako velice účinná a takové síly porazily skřety v několika bitvách, takže poptávka po jejich službách klesla. Sami museli doplnit své řady o vlastní střelce (dávají přednost zastaralým, ale stále účinným samostřílům před zbraním na střelný prach), aby dokázali konkurovat svým konkurentům a často jsou schopni bojovat i v obraně, přestože stále preferují bezhlavý útok. Jsou pořád oceňováni jako elitní vojáci a mnohé státy, především města Ligy, je dál najímají a staví do bitev._
 
-> _Ve službách cizích států preferovali vždy útok masy pikenýrů proti nepříteli, rychlý a zničující. V boji neberou zajatce, milost nedávají ani nečekají. Bojují i umírají tiše, bez povzbuzování, výkřiků nebo proseb o milost. Dominovali bojištím po několik desetiletí, než ostatní státy postavily vlastní jednotky podle jejich vzoru. Na rozdíl od skřetů lidské jednotky doplnily prostou sílu pikenýrů o střelce, aby byli schopni přijmout útok skřetích pikenýrů a porazit je. Tato taktika se ukázala jako velice účinná a takové síly porazily skřety v několika bitvách, takže poptávka po jejich službách klesla. Sami museli doplnit své řady o vlastní střelce (dávají přednost zastaralým, ale stále účinným samostřílům před zbraním na střelný prach), aby dokázali konkurovat svým konkurentům a často jsou schopni bojovat i v obraně, přestože stále preferují bezhlavý útok. Jsou pořád oceňováni jako elitní vojáci a mnohé státy, především města Ligy, je dál najímají a staví do bitev._
-
-# Lehká jízda 
+## Lehká jízda 
 
 Jezdci, kteří byli chráněni lehčeji než těžká jízda obrnění (tedy _coutiliers_ , viz níže), na bojišti bojovali ve stejné jednotce společně s těžkooděnými jezdci a používali stejnou taktiku jako oni. Teprve mnohem později začali být vyčleňováni do samostatných oddílů „středně těžké jízdy" označované jako švališéři. 
 
@@ -96,7 +95,7 @@ Na bojištích se objevovalo také menší množství lehké jízdy, verbovaný 
 
 Díky jejich úspěchům začali postupně vzdálenější státy, které neměly přístup k žoldnéřům zdaleka, stavět ze svých vojáků vlastní jednotky _étrangers_ s podobou výzbrojí a výstrojí. Chyběla jim zuřivost původních východních jezdců a nestínali hlavy, ale plnili na bojišti stejnou úlohu. 
 
-# Těžká jízda 
+## Těžká jízda 
 
 ![Těžká jízda]({{site.baseurl}}/76/_03.jpg)
 
@@ -106,9 +105,9 @@ V bitvě byla těžká jízda úspěšná, pokud bojovala v součinnosti s pěch
 
 Těžká jízda byla většinou dodána šlechtou vlastní strany, ale existovaly také žoldnéřské jednotky těžké jízdy, které najímaly své služby za plat. Nejmenší jednotkou, která se najímala, bylo kopí (viz níže). Objevili se ale také jednotlivci, kteří se oddělili od svých žoldnéřských oddílů a kopí a najímali své služby individuálně. Říkalo se jim ‚zlomená kopí' a po najmutí byli zařazeni do nových kopí a korouhví. 
 
-## Struktura jízdy: 
+### Struktura jízdy: 
 
-### Lance fournie ('kopí') 
+#### Lance fournie ('kopí') 
 
 Šlo o označení základní bojové jednotky, která obsahovala tři muže a šest koní (jejich počty se v historii značně měnily, ale kopí o třech mužích byla často používaná). Byli to _gent d'armes_ (těžkooděný jezdec) s bitevním a jízdním koněm, _coutilier_ (lehkooděný jezdec) taktéž s ořem bitevním a jízdním a _valet_ (sluha) s jízdním a nákladním koněm. 
 
@@ -126,11 +125,11 @@ Jezdec se přesouval na jízdním koni a do bitev pak přesedal na tvého bitevn
 
 **Valet** (sluha, nebojující člen) se staral o pohodlí obou zbylých členů skupiny mimo bitvu, které se zpravidla neúčastnil. Na svou osobní ochranu měl jen dýku nebo krátký meč. Na rozdíl od obou zbylých členů neměl bitevního koně (jen jízdního) a kůň, kterého při přesunech vedl za sebou, byl nákladní (mohla to být i mula nebo mezek). Na něm trojice převážela své zásoby a jídlo. 
 
-### - Banner (korouhev) 
+#### - Banner (korouhev) 
 
 Několik kopí tvořilo společně taktické jednotky zvané _korouhve_. Ty byly zpravidla propojeny skrze rodinné, rodové, feudální nebo lokální vztahy a v bitvě se měly držet pohromadě, shromážděné kolem společného praporu čtvercového tvaru (tedy korouhve), případně jejího velitele. Často také používali společný bojový pokřik. 
 
-### - Bataille (voj) 
+#### - Bataille (voj) 
 
 Jízda byla rozdělena do menších částí zvaných _bataille_ . _Byly to _ad hoc_ formace bez přesného určení počtu mužů, zpravidla pak tři - předvoj (_avant-garde_ ), střed a zadní voj (_arrière-garde_ ). V případě, že byla jízda zformována jako kolona, pak jely do bitvy v tomto pořadí. Pokud byla jízda roztažena do řady, pak předvoj byl zařazen doprava a zadní voj doleva od středu. Uspořádaní do řady, byla jízda zformována do nepřetržité linie jezdců, tři nebo čtyři řady hluboké. V tom případě se 1000-2000 mužů roztáhlo na šíři asi osmi set metrů. 
 
@@ -140,7 +139,7 @@ Jízda byla rozdělena do menších částí zvaných _bataille_ . _Byly to _ad 
 
 > _Počty členů jednotky se v průběhu let v závislosti jejich válečné štěstěně hodně měnily. Před dvěma lety po katastrofální prohře u Gelmu se jejich řady scvrkly jen na 250 mužů. Díky Lišákovu velení a několika dalším úspěchům se současné počty rozrostly na asi 2000 pěších (poloviční pluk) a 600 kopí najímaných pod černými prapory jednotky._
 
-# Dělostřelectvo 
+## Dělostřelectvo 
 
 ![Dělostřelectvo]({{site.baseurl}}/76/_02.jpg)
 
