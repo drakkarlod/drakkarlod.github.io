@@ -10,9 +10,9 @@ publish: false
 ---
 _(Autor: Ecthelion2)_
 
-![Strážní věž Winchesil]({{site.baseurl}}/76/winchestil.jpg)
-
 Poté, co arlatští velekrálové před dvěma sty lety upevnili svou moc na jihu, zřídili na Dračích ostrovech Strážní věže, které měly chránit říši před invazí ze severu a nájezdníky z moře. Každou z dvanácti strážních věží dostal do dědičného držení jeden z vybraných rytířů říše, kteří přísahali, že napříště budou chránit severní hranice Arlatu. 
+
+![Strážní věž Winchesil]({{site.baseurl}}/76/winchestil.jpg)
 
 Za poslední dvě století moc velekrálů zeslábla a říše se rozpadla na de facto nezávislá království, hrabství a městské státy, jak je známe dnes. Na severní hranice se zapomnělo v sérii válek o moc, které zuřily v jádrových oblastech. Strážní věže bez podpory říše, nových lodí a posádek postupně zpustly a staly se jen volným spojenectvím malých vládců, kteří vládnou svým věžím na pustých a skalnatých ostrůvcích bičovaných větry, které s bídou nesou nějakou úrodu. Jejich přístavy, vybudované, aby se v případě potřeby mohly stát kotvištěm větších flotil, zničily bouře nebo je zanesl písek a bahno. Postupem času některé věže zpustly, nebo byly vypáleny nájezdníky nebo piráty. Ze všech dvanácti jen věže Winchesil, Saversham, Rye, Weald a Forthwich ještě stále stojí a vlastní je potomci rodů jejich původních majitelů. Z nich Winchesil byl vždy sídlem jejich rady a jejich rod byl považován za vůdce jejich malé flotily, která stále čas od času hlídá průlivy Dračích ostrovů. Ravnburgh i Dayhaven viní Pány strážních věží z pašeráctví a lodě věží Forthwich a Rye byly obviňovány také z pirátství. Páni se brání výsadami, které jim byly před dvěma sty lety uděleny a které je vyjímají z placení cla. Ravnsburské zboží, které zabavili, považují za kontraband poté, co obchodní lodě odmítly prohlídku. Vztahy s hanzou a dalšími mocnostmi jsou vždy poměrně napjaté, ale ravnburské válečné lodě s Pány strážních věží běžně spolupracují při pronásledování pirátů a navzdory napětí na sebe lodě pod vlajkami obou stran nebudou střílet bez dalších provokací. 
 
