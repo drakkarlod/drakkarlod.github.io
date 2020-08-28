@@ -17,9 +17,11 @@ _Paluba Ravnburského posla se otřásla a z její obruby na levém boku, kam za
 
 _Na tu chvíli kapitán Posla čekal. „Kormidlo vlevo," křikl na kormidelníka. „Vlevo!" Ten strhl páku kormidla, aby vychýlil příď Ravnburského posla. Koga se otřela se o bok pirátské lodě a lodníci vrhli háky. V tě chvíli zadrnčely tětivy na obou palubách a vojáci s výkřikem „Ravnsburgh!" skočili na palubu zahákovaného piráta. Byly slyšet jednotlivé výkřiky, sténání, křik kapitána, který volal znovu „Ravnburgh!" a řev odpovídajících vojáků... _
 
+![Bitva u Sluys]({{site.baseurl}}/76/BattleofSluys.jpeg.jpeg)
+
 Velká většina lodí, které brázdily vody kolem velkého ravnburského přístavu byly velké kogy, které připlouvaly s nákladem zboží. Nad mnohými z nich vlály vlajky hanzy. Byly tím nejekonomičtějším prostředkem, jak spolehlivě přepravit zboží a náklady. Válečné lodě byly většinou také kogy, které byly pro boje zrekvírovány a přestavěny. Sem tam se v přístavu objevily i karavely, které sloužily především k dálkovému obchodu s luxusními předměty a průzkumu, případně galéry užívané především pro válku. Ty byly ale poměrně vzácné mezi obvyklými návštěvníky. Většinou šlo o žoldnéře z některého města Ligy, kteří připluli z Vnitřního moře, aby pronajali své lodě a zbraně do služeb některé ze zdejších mocností.  
 
-**Koga** 
+## **Koga**
 
 ![Koga]({{site.baseurl}}/76/hanseschiffe-mitte-en.jpg)
 
@@ -33,15 +35,13 @@ Náklady se tehdy měřily na „vozy", přesněji plně naložené žebřiňák
 
 Tato obchodní loď se dala přeměnit na válečnou přidáním přední a zadní nástavby s cimbuřím, která fungovala stejně jako hradní cimbuří (v angličtině se tyto nástavby dokonce přímo označují jako „hrady") a za které se mohli ukrývat střelci se samostříly a píšťalami. Zadní nástavba také umožňovala naložit více nákladu, protože se do ní dala přesunout kajuta pro posádku (a podpalubí tak plně naložit nákladem). Obě nástavby se také často přidávaly na lodě kvůli ochraně před piráty.  
 
-![Bitva u Sluys]({{site.baseurl}}/76/BattleofSluys.jpeg.jpeg)
-
 ![Vojenská koga]({{site.baseurl}}/76/militarycog.jpg)
 
 V případě války často panovníci zrekvírovali obchodní lodě a rychlou dostavbou nástaveb je přeměnili na válečné lodě, kterými posílili svá malá loďstva. Na palubu se pak pro bitvu nalodili královští vojáci, aby sloužili pro vylodění na nepřátelské lodě a střelci ze samostřílů na cimbuřích lodí a v koši na stěžni. V bitvách se občas kogy připoutaly dohromady, aby vytvořily „plovoucí pevnost", která postupovala proti nepříteli a rychle ho přemohla výsadkem přesily vojáků. 
 
 Kogy byly vybaveny na obranu „puškami" (tedy nerýhovanými děly na střelný prach), které se v dřevěných lafetách zajištěných pytli s pískem umisťovaly na přední nebo i zadní nástavbu lodi. Ozbrojené obchodní lodě mívaly většinou dvě až tři pušky, které používaly na obranu proti pirátům. Pokud byly napadeny, snažily se pronásledovatelům vyřadit kormidlo nebo poškodit plachtu a rychle uniknout. Vojenské lodě mohly pušek nést více, ale byly velice drahé a málokterý král jich na lodi riskoval příliš mnoho. Jejich ráže bývaly zpravidla menší než _falconet_, protože zpětný ráz z velkého děla mohl loď převrátit nebo roztříštit palubu. Pálily obvykle čtvrtliberní nebo půlliberní kule. 
 
-**Karavela** 
+## **Karavela**
 
 ![Karavela]({{site.baseurl}}/76/Bras_de_Oliveira_Caravel_with_oars.png)
 
@@ -52,7 +52,7 @@ Posádka karavely byla obvykle dvacet mužů. Obvykle měřily na délku mezi 12
 
 Karavely byly menší (aby si udržely svou hbitost) a díky tomu měly menší kapacitu pro náklad a mohly ubytovat méně posádky. Zpravidla mohly naložit okolo třiceti vozů (50-60 tun) zboží a zásob. Oproti kogám tak nemohly na kratších trasách konkurovat ekonomicky, ale na delší plavby i navzdory menšímu nákladu, který mohly naložit, mohly úspěšně podnikat. Nedostat nákladového prostoru byl později vyřešen v podobě karaky (které se také říkalo nau), která nabídla některé výhody karavely, ale byly větší a naložily více nákladu. 
 
-**Galéra** 
+## **Galéra**
 
 ![Galéra]({{site.baseurl}}/76/galera.jpg)
 
