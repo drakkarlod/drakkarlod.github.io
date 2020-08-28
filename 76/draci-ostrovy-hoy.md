@@ -8,7 +8,7 @@ series: Dračí ostrovy
 
 Lodě blížící se k ostrovu mohou už zdálky vidět vysoké světlé útesy. Kopcovitý povrch ostrova je pokryt koberci zelené trávy, ve vyšších polohách nachovými trsy vřesu, jen sem tam se uchytil nějaký keřík nebo mořským větrem ošlehaný strom. Na pahorcích jsou vidět stáda ovcí na loukách ohrazených kamennými zídkami. Pokud se námořníci přiblíží ke břehům mohou rozeznat i postavy pastýřů, kterak hrozí proplouvajícím plavidlům pěstí.
 
-![Ostrov Hoy]({{site.baseurl}}/76/hoy.jpeg)
+![Ostrov Hoy]({{site.baseurl}}/76/hoy.jpg)
 
 Osídlení ostrova tvoří několik kamenných klanových usedlostí. Jejich náčelníci tvoří radu, která řídí veškerý život na ostrově. Zdroje tu jsou totiž omezené a je tedy třeba přesně plánovat jejich spotřebu a tím i životy obyvatel – počty ovcí, budování nových domů, uzavírání manželství. Proto se také komunita ostrovanů dobrovolně izoluje před světem, aby své území ochránila před nežádoucími vlivy zvenčí. Takový je na Hoy obyčej už od dob praotců, kteří sem přišli před mnoha pokoleními. To vše pod ochranou Pána moří, kterého na tomto ostrově dosud živě uctívají, aniž by to bylo jinde všeobecně známo.
 

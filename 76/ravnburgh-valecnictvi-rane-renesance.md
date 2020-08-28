@@ -22,7 +22,7 @@ Jádro sil tvořili v této době profesionální vojáci najímaní jako žoldn
 
 ## Lehká pěchota
 
-![Střelec z píšťaly]({{site.baseurl}}/76/06-357.png)
+![Střelec z píšťaly]({{site.baseurl}}/76/06-357.jpg)
 
 Třetinu až polovinu polních armád tvořila lehká pěchota, kterou postavily do pole jednotlivé státy nebo města. Šlo buď o zbrojnou hotovost, kterou svolali pro čas války jednotliví pánové, nebo měšťanské milice. Ty často trénovali a vedli profesionálové a zkušení veteráni. Většina jich byli střelci, ozbrojeni samostříly, luky, píšťalami a hákovnicemi. Byli shromážděni ve skupinách asi po padesáti, ale nebojovali ve formacích. Namísto toho byli rozptýlení a využívali krytů, které jim nabízelo bojiště. Většina takové lehké pěchoty bojovali jako střelci, ozbrojeni samostříly, luky, píšťalami a hákovnicemi. Překvapivě mnoho z nich bylo chráněno přilbicemi a brigantinami.
 

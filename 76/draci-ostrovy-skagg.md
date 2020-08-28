@@ -10,7 +10,7 @@ series: Dračí ostrovy
 
 Vrahové, zloději, zrádci, ale také dlužníci nebo lidé, kteří se prostě zprotivili mocným, jsou posíláni z Ravnburghu, Dayhavenu a dalších měst pobřeží do zdejší trestanecké kolonie. 
 
-![Ostrov Skagg]({{site.baseurl}}/76/skagg.jpeg)
+![Ostrov Skagg]({{site.baseurl}}/76/skagg.jpg)
 
 Tady je čekají ty nejohavnější galeje, které jsou ve srovnání s dřívějším lágrem na Molaganu selankou. Vězni sestupují do kaldery na vrcholu hory a těžit zde síru, surovinu potřebnou mimo jiné pro výrobu střelného prachu. Provozovatel internačního tábora není veřejně znám, dohady směřují jak na Hanzu, Rudou perlu nebo kteroukoli jinou mocnou organizaci v této části světa. Nejspíše však půjde o někoho neutrálního, jelikož zde přijímají vězně ze všech jurisdikcí bez rozdílu.
 

@@ -15,7 +15,7 @@ summary: >-
 >
 > _Na tu chvíli kapitán Posla čekal. „Kormidlo vlevo,“ křikl na kormidelníka. „Vlevo!“ Ten strhl páku kormidla, aby vychýlil příď Ravnburského posla. Koga se otřela se o bok pirátské lodě a lodníci vrhli háky. V tě chvíli zadrnčely tětivy na obou palubách a vojáci s výkřikem „Ravnsburgh!“ skočili na palubu zahákovaného piráta. Byly slyšet jednotlivé výkřiky, sténání, křik kapitána, který volal znovu „Ravnburgh!“ a řev odpovídajících vojáků..._
 
-![Bitva u Sluys]({{site.baseurl}}/76/BattleofSluys.jpeg.jpeg)
+![Bitva u Sluys]({{site.baseurl}}/76/BattleofSluys.jpeg.jpg)
 
 Velká většina lodí, které brázdily vody kolem velkého ravnburského přístavu byly velké kogy, které připlouvaly s nákladem zboží. Nad mnohými z nich vlály vlajky hanzy. Byly tím nejekonomičtějším prostředkem, jak spolehlivě přepravit zboží a náklady. Válečné lodě byly většinou také kogy, které byly pro boje zrekvírovány a přestavěny. Sem tam se v přístavu objevily i karavely, které sloužily především k dálkovému obchodu s luxusními předměty a průzkumu, případně galéry užívané především pro válku. Ty byly ale poměrně vzácné mezi obvyklými návštěvníky. Většinou šlo o žoldnéře z některého města Ligy, kteří připluli z Vnitřního moře, aby pronajali své lodě a zbraně do služeb některé ze zdejších mocností.
 
@@ -41,7 +41,7 @@ Kogy byly vybaveny na obranu „puškami“ (tedy nerýhovanými děly na střel
 
 ## Karavela
 
-![Karavela]({{site.baseurl}}/76/Bras_de_Oliveira_Caravel_with_oars.png)
+![Karavela]({{site.baseurl}}/76/Bras_de_Oliveira_Caravel_with_oars.jpg)
 
 Byly to rychlé a hbité lodě, které se mohly odvážit na oceány a byly využívány především pro dálkové plavby, objevitelské výpravy a dálkový obchod. Díky nízkému kýlu mohly také plout proti proudu řek a plavit se v mělkých pobřežních vodách. Pokud posádka vytáhla čtvercové plachty, mohla karavela dosahovat velkých rychlostí plavby. Lodě zpravidla vozily s sebou obě plachty a měnily je dle potřeby.
 

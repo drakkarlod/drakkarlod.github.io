@@ -8,7 +8,7 @@ series: Dračí ostrovy
 
 Toto malé souostroví tvoří velký ostrov Otec, menší ostrov Matka a okolo nich pak jejich pět malých dětí. Ostrov slouží jako stanice pro mezipřistání lodí. Městečko La Barre nabízí zdroj pitné vody a možnost doplnit některé základní potraviny a provést nezbytné opravy. Obyvatelé ostrova se věnují chovu ústřic, který probíhá v mělkém a chráněném průlivu mezi ostrovem Otec a Matka.
 
-![Ostrov Rodina]({{site.baseurl}}/76/rodina.jpeg)
+![Ostrov Rodina]({{site.baseurl}}/76/rodina.jpg)
 
 #### Chaluhová zátoka
 
