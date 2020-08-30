@@ -33,6 +33,6 @@ Univerzitní učenec, jehož oborem zájmu je studium pradávných kultur, a mí
 
 ## Zápletky:
 
-1. Archeologové záhadně přerušili kontakt s civilizací a postavy jsou vyslány, aby zjistily, co se jim stalo. Vykopali něco, co mělo zůstat skryto? Či se střetli s bandou pašeráků, co si zařídila na strašidelném místě skrýš?
-2. V okolí Penshaw se záhadně ztrácí dřevorubci. Dodávky dřeva jsou čím dál menší a mezi lidem probíhá šeptanda, že se pohanská magie a démoni vrátili. Guvernér může postavy požádat o urychlené vyšetření situace, než se ekonomika ostrova zhroutí, bude dokonce ochoten jim dát něco ze své "rezervy".
-3. Otec Adrian postavy požádá o sabotáž archeologů, neboť se obává, že by mohli uvést v pohyb nečisté síly a tím ohrozili ostrov. Případné objevené artefakty nechť mu okamžitě doručí, aby je mohl církevním obřadem očistit a zničit.
+- Archeologové záhadně přerušili kontakt s civilizací a postavy jsou vyslány, aby zjistily, co se jim stalo. Vykopali něco, co mělo zůstat skryto? Či se střetli s bandou pašeráků, co si zařídila na strašidelném místě skrýš?
+- V okolí Penshaw se záhadně ztrácí dřevorubci. Dodávky dřeva jsou čím dál menší a mezi lidem probíhá šeptanda, že se pohanská magie a démoni vrátili. Guvernér může postavy požádat o urychlené vyšetření situace, než se ekonomika ostrova zhroutí, bude dokonce ochoten jim dát něco ze své "rezervy".
+- Otec Adrian postavy požádá o sabotáž archeologů, neboť se obává, že by mohli uvést v pohyb nečisté síly a tím ohrozili ostrov. Případné objevené artefakty nechť mu okamžitě doručí, aby je mohl církevním obřadem očistit a zničit.
