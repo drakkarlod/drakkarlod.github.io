@@ -12,7 +12,7 @@ publish: false
   
 Leigirdské klany obývaly severní část západního světadílu od nepaměti a kdysi jejich teritoria sahala mnohem víc na jih, ale byly otamtud po staletí postupně vytlačovány, anebo pohlceny dravějšími kulturami. Ač skvělí bojovníci, Leigridové nikdy nebyli z podstaty dobyvatelé a jejich nezávislá nátura a vzájemná odloučenost jednotlivých klanů vedla k mnoha porážkám.  
   
-Teprve před sedmdesáti lety vojvoda **Garahal Kel'nor** svolal velký klanový sněm na posvátném místě Darbysland, hřbitově obrů, kde se mu podařilo přesvědčit velkou část klanových náčelníků, náčelnic a vojvodů, převážně zjihovýchodních teritorií, aby uzavřeli vzájemný obranný pakt, Darbyslandijskou Jednotu. Garahal byl poté zvolen nominální hlavou celé aliance jako **_Adar-adarach_, Náčelník náčelníků.**  
+Teprve před sedmdesáti lety vojvoda **Garahal Kel'nor** svolal velký klanový sněm na posvátném místě Darbysland, hřbitově obrů, kde se mu podařilo přesvědčit velkou část klanových náčelníků, náčelnic a vojvodů, převážně zjihovýchodních teritorií, aby uzavřeli vzájemný obranný pakt, Darbyslandijskou Jednotu. Garahal byl poté zvolen nominální hlavou celé aliance jako **_Adar-adarach_ , Náčelník náčelníků.**  
   
 Pevnost unie byla od té doby ověřena v mnoha válkách, obranných i útočných, a obstála v nich se ctí. Nejen, že od té doby neztratila ani píď země, ale podařilo se jí dobýt zpět některá ztracená území. Vítězství přilákala do svazku další klany a jak šel čas, území rostlo, organizace se zlepšovala a také se zvýšil objem obchodu a výměny informací. Pro většinu Leigridů se stalo založení Jednoty něčím, co zažehlo jejich národní uvědomění, spojilo je a sjednotilo.  
   
