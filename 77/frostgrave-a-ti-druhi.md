@@ -10,7 +10,7 @@ summary: >-
   trojica hier od Josepha McCollougha, alias Renessaince Trolla. Prvá z jeho
   hier, Frostgrave nedávno dostala novú edíciu, poďme sa ted pozrieť na to, čo
   nám ponúka…
-published: true
+published: false
 fulltext: false
 publish: false
 ---
