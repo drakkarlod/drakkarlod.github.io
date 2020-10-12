@@ -14,7 +14,7 @@ published: false
 title: Rozhovor se Skavenem
 ---
 
-Hlavní postavu Mytaga, nakladatele Jiřího Reitera, známého taky pod přezdívkou Skaven, jsem se zeptali na pár věcí, které nás zajímají nejvíc. To jsou v současné době vydávané RPG Zapovězené země a Lone Wolf – hra na hrdiny.
+_Hlavní postavu Mytaga, nakladatele Jiřího Reitera, známého taky pod přezdívkou Skaven, jsem se zeptali na pár věcí, které nás zajímají nejvíc. To jsou v současné době vydávané RPG `Zapovězené země` a `Lone Wolf – hra na hrdiny`._
 
 >Letošní rok to skoro vypadá, že se s hrami na hrdiny v česku roztrhl pytel. Za dvě, Zapovězené země a Lone Wolf – hru na hrdiny, můžeš více či méně ty. My ale víme, že v Mytagu nezahálíte a pracujete na dalších věcech. Mohl bys všechny projekty, anebo aspoň ty, které považuješ za nejzajímavější, stručně představit? Co všechno jste teď vydali a co ještě v dohledné budoucnosti chystáte?
 
