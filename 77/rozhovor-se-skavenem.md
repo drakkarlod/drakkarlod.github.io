@@ -2,7 +2,16 @@
 layout: article
 authors: redakce
 tags: 'rozhovor, promo'
-summary: 'Nakladatelství Mytago se za téměř dekádu etablovalo jako hlavní vydavatel na české RPG scéně a vše začalo už jeho první publikací, příručkou pro hru Příběhy Impéria. Vydává však nejen hry na hrdiny a rozšíření pro ně, ale také gamebooky (zejména nostalgií čpící sérii Lone Wolf, ale zdaleka nejen tu). Stranou nestojí ani beletristické texty, například romány a povídky ze světa pro hry na hrdiny Asterionu, a okrajově Mytago zabrousí i do oblasti deskových a karetních her, či dokonce ke stavbě domu svépomocí.'
+summary: >-
+  Nakladatelství Mytago se za téměř dekádu etablovalo jako hlavní vydavatel na
+  české RPG scéně a vše začalo už jeho první publikací, příručkou pro hru
+  Příběhy Impéria. Vydává však nejen hry na hrdiny a rozšíření pro ně, ale také
+  gamebooky (zejména nostalgií čpící sérii Lone Wolf, ale zdaleka nejen tu).
+  Stranou nestojí ani beletristické texty, například romány a povídky ze světa
+  pro hry na hrdiny Asterionu, a okrajově Mytago zabrousí i do oblasti deskových
+  a karetních her, či dokonce ke stavbě domu svépomocí.
+published: false
+title: Rozhovor se Skavenem
 ---
 
 Hlavní postavu Mytaga, nakladatele Jiřího Reitera, známého taky pod přezdívkou Skaven, jsem se zeptali na pár věcí, které nás zajímají nejvíc. To jsou v současné době vydávané RPG Zapovězené země a Lone Wolf – hra na hrdiny.
