@@ -11,7 +11,7 @@ summary: >-
   pro hry na hrdiny Asterionu, a okrajově Mytago zabrousí i do oblasti deskových
   a karetních her, či dokonce ke stavbě domu svépomocí.
 published: false
-title: Rozhovor se Skavenem
+title: Rozhovor se Skavenem nejen o Zapovězených zemích
 ---
 
 _Hlavní postavu Mytaga, nakladatele Jiřího Reitera, známého taky pod přezdívkou Skaven, jsem se zeptali na pár věcí, které nás zajímají nejvíc. To jsou v současné době vydávané RPG `Zapovězené země` a `Lone Wolf – hra na hrdiny`._
