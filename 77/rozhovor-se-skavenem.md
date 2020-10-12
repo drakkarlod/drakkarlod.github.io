@@ -10,7 +10,7 @@ summary: >-
   Stranou nestojí ani beletristické texty, například romány a povídky ze světa
   pro hry na hrdiny Asterionu, a okrajově Mytago zabrousí i do oblasti deskových
   a karetních her, či dokonce ke stavbě domu svépomocí.
-published: true
+published: false
 title: Rozhovor se Skavenem nejen o Zapovězených zemích
 ---
 
