@@ -8,7 +8,7 @@ summary: >-
   dědictví starého Dračího doupěte a v mnoha ohledech na něj přímo navazuje –
   Dračí Hlídka. Vyptali jsme se tedy autorského týmu na pár otázek, které určitě
   zajímají nejen nás.
-published: false
+published: true
 fulltext: false
 publish: false
 ---
@@ -54,4 +54,4 @@ _Jaké máte s Hlídkou další plány a co bude dál?_
 
 Je toho strašně moc. Máme rozpracováno mnoho dobrodružství, která chceme nabídnout ke stažení. Začínáme práce na další knize (pravidla pro pokročilé). Pokud půjde vše dobře, pustíme první draft na testy někdy kolem Vánoc. V průběhu října chceme pustit ven LITE verzi pravidel jako PDF ke stažení. Bude obsahovat vše potřebné pro hru na první úrovni a k pochopení hry jako takové. Dále se intenzivně pracuje na nové verzi mobilní aplikace. Bude v ní mnoho nových vychytávek a navíc bude podporována i iOS mobily. Na příští rok navíc chystáme sérii lokálních turnajů a první mistrovství v Hlídce. Čeká nás hodně pěkná a vzrušující jízda. Hodně se těším na nové tváře, které při tom poznáme a které se k nám přidají.
 
-_Děkujeme za rozhovor a držíme palce s Dračí hlídkou dál!_ 
+_Děkujeme za rozhovor a držíme palce s Dračí hlídkou dál!_
