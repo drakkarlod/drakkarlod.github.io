@@ -6,7 +6,7 @@ tags: materiály a doplňky
 summary: >-
   V tomto článku se řeší, jakými mincemi a penězi se platí v Ravnburghu a okolí
   a jak různé druhy mincí a platidel zapojit do hraní.
-published: false
+published: true
 ---
 ![Peníze]({{site.baseurl}}/77/_prachy_cernobile.jpg)
 
