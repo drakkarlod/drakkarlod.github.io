@@ -29,13 +29,13 @@ Podařilo se nám vytvořit něco zajímavého z náhodně vytvořeného světa?
 
 ### Ilustrace
 **Politická mapa**
-![Trives: Politická mapa]({{site.baseurl}}/77/Trives_politicka_mapa.jpeg)
+![Trives: Politická mapa]({{site.baseurl}}/77/Trives_politicka_mapa.jpg)
 
 **Geografie**
-![Trives: Geografická mapa]({{site.baseurl}}/77/Trives_geografie.jpeg)
+![Trives: Geografická mapa]({{site.baseurl}}/77/Trives_geografie.jpg)
 
 **Náboženství**
-![Trives: Mapa náboženství]({{site.baseurl}}/77/Trives_nabozenstvi.jpeg)
+![Trives: Mapa náboženství]({{site.baseurl}}/77/Trives_nabozenstvi.jpg)
 
 **Kultury**
-![Trives: Mapa kultur]({{site.baseurl}}/77/Trives_cultures.jpeg)
+![Trives: Mapa kultur]({{site.baseurl}}/77/Trives_cultures.jpg)

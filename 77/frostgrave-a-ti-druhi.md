@@ -19,7 +19,7 @@ publish: false
 
 Medzi wargamermi a hráčmi RPG je obvykle pomerne veľký prienik. Napriek tomu, že komunita hráčov hráva oba typy hier, prienik medzi samotnými hrami je pomerne malý. Práve do tento čiernej diery medzi žánrami presne zapadla trojica hier od Josepha McCollougha, alias Renessaince Trolla. Prvá z jeho hier, Frostgrave nedávno dostala novú edíciu, poďme sa ted pozrieť na to, čo nám ponúka... 
 
-![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave03.jpeg)
+![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave03.jpg)
 
 ### Frostgrave
 Príbeh hry Frostgrave je jednoduchý a otvorený kreatívnym hráčom. Pred dávnymi miléniami existovalo na ďalekom severe úžasné mesto mágov. Tí tu žili a venovali sa svojim kúzelným záujmom, štúdiu kúziel, politike, alchýmií, vyvolávaniu démonov, či snahe ovládnuť svet. S ich mocou rástol aj ich apetít a nešťastie na seba nedalo príliš dlho čakať. Prišla bližšie neurčená apokalypsa a mesto zamrzlo do jedného bloku ľadu. 
@@ -33,7 +33,7 @@ Hlavným znakom čarodejníka je škola mágie, ktorú praktikuje. Základných 
 
 Každý kúzelník si vyberie pár kúziel zo svojej školy, po jednom kúzle zo spriateľených kúzelných škol a jedno kúzlo z ostatných. Tento proces z neho urobí zaujímavého unikátneho mága. Učiť sa kúzla z rôznych škol nie je nemožné, ale ich zosielanie je trocha ťažšie. 
 
-![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave02.jpeg)
+![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave02.jpg)
 
 ### Žoldnieri
 Okrem mága samotného na výpravu ide spravidla skupina ozbrojencov, aby mu nosili získané poklady a občas aj na jeho ochranu. Takmer každý čarodejník si so sebou navyše berie aj svojho učňa, ktorý je jeho mladšou a neskúsenejšou kópiou a v prípade smrti čarodejníka môže prebrať velenie a dokonca si nájsť vlastného učňa. 
@@ -47,7 +47,7 @@ Ano, aspektom, ktorý robí frostgrave zaujímavý sú obyvatelia zamrznutého m
 
 Hry sú spravidla previazané do dlhšej kampane, kde s mágovia vybudujú vo Frostgrave svoju základňu a podnikajú ďalšie výpravy. Postupne si v ich základni budujú rôzne príslušenstvo, najímajú nových, lepších žoldnierov a získavajú nové skúsenosti a schopnosti. Zaujímavosť v novej ediícií je, že získavanie skúseností za zabíjanie sa zrušilo, čím sa viac podporil exploratívny ráz hry. 
 
-![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave04.jpeg)
+![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave04.jpg)
 
 ### Systém 
 Hra je rozdelená na kolá a hráči vykonávajú striedavé aktivácie, kde každý hráč môže urobiť s jedným z modelov dve rôzne akcie, napríklad pohyb a boj. Výnimkou sú mágovia a ich učni, ktorí dokážu spolu so sebou aktivovať aj nejakých bojovníkov vo svojom okolí a napríklad sa vrhnúť naraz na nepriateľa. 
@@ -63,7 +63,7 @@ Okrem frostgravu autor rozvíja v tomto svete aj ďalšie dve hry. Ghost archipe
 
 Pre hráčov RPG je však asi najzaujímavejšou hra Rangers of Shadow Deep. Tá prináša solo a kooperatívne hranie v niekoľkých zaujímavých kampaniach. Hráči sa stavajú do úlohy enigmatických hraničiarov, ktorí sa vydávajú na samovražedné misie do Hlbiny tieňov, v ktorej sídli strašné zlo a postupne silnie. 
 
-![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave01.jpeg)
+![Frostgrave obrázek]({{site.baseurl}}/77/frostgrave01.jpg)
 
 ### Záver
 Čo dodať na záver? Frostgrave a ďalšie hry z tohoto systému určite stoja za peskúmanie. Prinášajú zábavu na mnoho sedení, či už ako kompetitívne bitky alebo ako naratívne misie. Vzhľadom k tomu, že hra definuje vizuál hry len veľmi vágne, je možné ju prispôsobiť ľubovoľnému prostrediu a vstupné náklady pre hráčov sú nízke, obćas aj nulové (správny pán jskyne má dostatočnú zbierku miniatúr a terénov pohodených na dne skrine). Situácia vo svete je zlá, ostante doma a hrajte sa.
