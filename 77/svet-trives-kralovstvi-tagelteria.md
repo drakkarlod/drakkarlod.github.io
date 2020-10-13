@@ -4,7 +4,7 @@ title: 'Svět Trives: Království Tagelteria'
 authors: ilgir
 tags: materiály a doplňky
 series: Svět Trives
-published: false
+published: true
 ---
 Tagelteria by se dalo do češtiny přeložit jako "Pětiřečí". Toto jméno odvozuje nejstarší království v oblasti od pěti velkých řek, které protékají jeho územím a vlévají se do Širokého zálivu. Nejhustší lidské osídlení je právě zde, podél pobřeží. Široký záliv je skutečně široce otevřený do oceánu a pobřeží je vystaveno jihozápadním větrům, které přinášejí časté deště. Zdejší přístavy jsou proto chráněny masivními sypanými moly, a lidská sídla se schovávají za valy protipovodňových hrází. Snad každý druhý usedlík se zde živí rybolovem, ti s dobrodružnější povahou se věnují námořnímu obchodu nebo pirátství.  
   
