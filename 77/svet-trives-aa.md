@@ -8,7 +8,7 @@ summary: >-
   automaticky generované mapy. Použili jsme pro náš pokus [Azgaar’s Fantasy Map
   Generator](https://azgaar.github.io/Fantasy-Map-Generator/).
 series: Svět Trives
-published: false
+published: true
 fulltext: false
 publish: false
 ---
@@ -39,5 +39,3 @@ Podařilo se nám vytvořit něco zajímavého z náhodně vytvořeného světa?
 
 **Kultury**
 ![Trives: Mapa kultur]({{site.baseurl}}/77/Trives_cultures.jpeg)
-
-
