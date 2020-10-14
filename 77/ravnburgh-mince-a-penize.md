@@ -8,9 +8,9 @@ summary: >-
   a jak různé druhy mincí a platidel zapojit do hraní.
 published: true
 ---
-![Peníze]({{site.baseurl}}/77/_prachy_cernobile.jpg)
+V Ravnsburghu se platí většinou říšskými penězi. V Arlatu ražené mince jsou zlaté _gryfy_ (podle říšského gryfa na rubu), který má hodnotu tuctu stříbrných _grošů_. Používají se i přelomené napůl jako _půlgryfy_ v ceně šesti grošů. Nejméně cenné mince, které se ale používají mezi lidmi nejčastěji, je malá _pence_. Tucet _pencí_ má hodnotu jednoho groše, veletucet (tucet tuctů, tedy 144) pencí je hodnota jednoho gryfa. Jsou raženy ze slitiny stříbra a mědi a obsah stříbra je často natolik malý, že se jim mezi lidmi hanlivě říká _měďáky_.
 
-V Ravnsburghu se platí většinou říšskými penězi. V Arlatu ražené mince jsou zlaté _gryfy_ (podle říšského gryfa na rubu), který má hodnotu tuctu stříbrných _grošů_. Používají se i přelomené napůl jako _půlgryfy_ v ceně šesti grošů. Nejméně cenné mince, které se ale používají mezi lidmi nejčastěji, je malá _pence_. Tucet _pencí_ má hodnotu jednoho groše, veletucet (tucet tuctů, tedy 144) pencí je hodnota jednoho gryfa. Jsou raženy ze slitiny stříbra a mědi a obsah stříbra je často natolik malý, že se jim mezi lidmi hanlivě říká _měďáky_. 
+![Peníze]({{site.baseurl}}/77/prachy-cernobile.jpg)
 
 Jen občas se díky obchodu objeví nějaké mince ze zahraničí - zlatý _écu_ ze Lvího císařství, zlaté _floriny_ nebo stříbrné _dukáty_ , _cavalla_ a _solda_ z Ligy, staré zlaté _basilikony_ a stříbrné šestihranné _hexagony_ z padlé Purpurové říše. Zlobři z ledových fjordů na poledni mince nepoužívají. Stačí jim směna zboží nebo hřivny železa a drahých kovů, které často mají podobu náramků na paži, kde je zlobři nosí jako ozdobu a platidlo zároveň. Jen málokdy se do říše dostanou oválné zlaté _tahily_ a měděné _rony_ s dírkou uprostřed (užívané pro provlečení šňůry, které spolu svážou stovku takových drobných mincí) z dalekého východu nebo hrubé _ačegy_ , se kterými platí amirové z oáz roztroušených ve Žhnoucích pouštích.  
 
