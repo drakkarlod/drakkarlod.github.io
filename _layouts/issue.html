@@ -26,7 +26,7 @@ layout: default
 
 <div style="height: 35px"></div>
 
-{% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' %}
+{% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' | where_exp: 'article', 'article.hide != true' %}
 {% for article in articles %}
     {% assign article_authors = article.authors | split: ', ' %}
     {% assign article_tags = article.tags | split: ', ' %}

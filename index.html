@@ -11,7 +11,7 @@ layout: default
 
     {% assign issue_pdf = pdfs | where_exp: 'pdf', "pdf.path contains issue.dir" | first %}
 
-    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
+    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' | where_exp: 'article', 'article.hide != true' %}
     {% for article in articles %}
 
         {% assign article_authors = article.authors | split: ', ' %}

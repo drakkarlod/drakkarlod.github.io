@@ -4,7 +4,7 @@ layout: default
 
 <h1>Seriály</h1>
 
-{% assign series_set = site.pages | where_exp: 'page', 'page.series' | group_by: 'series' %}
+{% assign series_set = site.pages | where_exp: 'page', 'page.series' | where_exp: 'article', 'article.hide != true' | group_by: 'series' %}
 
 {% for series in series_set %}
     <h2>{{ series.name }}</h2>

@@ -28,7 +28,7 @@ layout: default
 
 {% if page.series %}
     <div class="articleparts">
-        {% assign parts = site.pages | where: 'series', page.series | sort: 'url' %}
+        {% assign parts = site.pages | where: 'series', page.series | where_exp: 'article', 'article.hide != true' | sort: 'url' %}
 
         <h2>Další části:</h2>
 

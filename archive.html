@@ -10,7 +10,7 @@ layout: default
 
     <a href="{{ issue.url }}">Obsah čísla</a>
 
-    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' %}
+    {% assign articles = site.pages | where: 'dir', issue.dir | where: 'layout', 'article' | where_exp: 'article', 'article.hide != true' %}
     {% for article in articles %}
         {% assign length = article.content | size %}
         {% if length > 1000 or article.fulltext %}
