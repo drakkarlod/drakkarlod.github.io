@@ -9,14 +9,16 @@ fulltext: false
 publish: false
 ---
 
-**Slovo Hinkeho**  
-_"Víra vyžaduje vše, co máme." Červená kniha, 18:3:2_  
+## Slovo Hinkeho
+
+> "Víra vyžaduje vše, co máme." Červená kniha, 18:3:2
   
 Hinke byl prorok, který jako první v odhalil pravdu o světě a kázal Slovo. Jeho učení se brzy rozšířilo po velké části Země spícího hada a Šeptavy. Vykladači jeho slov se už dostali i na západní pevninu a ve větších městech jsou jeho následovníci.  
   
 Tím, kdo vykládá Slovo Hinkeho prostým vesničanům i měšťanům je _Kazatel_. Ten má na starosti většinou jeden kostel nebo kapli. Nad několika Kazateli ve větším území má autoritu _Starší_ , který se opět zodpovídá _Dohlížiteli_ , který má na starosti území celého státu. Nejvyšší autoritou církve je _Sbor dohlížitelů_ a mezi nimi _hathamesský Dohlížitel_ , který je tradičně vnímán jako první mezi rovnými (_primus inter pares_ ).  
   
-**Chilmondijská diecéze**  
+## Chilmondijská diecéze
+
 Království chilmondijské drželo území na východní pevnině. Protože se zarputile drželo staré maltonské víry (stejně jako čarodějnice Heptarchie a velkovévodství haremerské, které bylo de facto vazalem chilmondijského krále) a odmítalo moudrost Slova, spojila se proti němu koalice státu vyznávajících Hinkeho učení. Sbor dohlížitelů vyhlásil svatou válku proti maltonským kacířům. V čele invazních oddílů pochodovali Hinkeho zvěstovatelé, vojenské křídlo církve, které do té doby mělo na starosti zpravidla jen ochranu klášterů a osob Starších a Dohližitelů. Poprvé v chilmondijské válce nastoupili Zvěstovatelé jako vojenské jednotky do prvních řad bitev.  
   
 Výsledkem svaté války byla úplná porážka „kacířů". Chilmondijské království bylo vyvráceno, linie králů přetržena. Heremerský velkovévoda raději dobrovolně přijal Hinkeho učení a dovolil Kazatelům, aby šířili Slovo v jeho zemi. Čarodějnice heptarchie stáhly své prořídlé oddíly a uzavřely své hranice všem nově příchozím. Chilmondijská území na pevnině si vítězné státy rozdělily mezi sebe a na ostrově vznikla Chilmondijská diecéze pod správou Zvěstovatelů. Ti se proměnili ve vojenský řád ochotný šířit Slovo ohněm a mečem.  
