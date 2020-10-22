@@ -55,6 +55,12 @@ Obrázky se vkládají pomocí tlačítka v editoru. Titulky k obrázkům se pot
 
     ![Popisek obrázku včetně <a href="...">odkazu</a>](nazev-obrazku.jpg)
 
+### Mapy
+
+Mapy (a široké obrázky obecně) se vytvoří následovně:
+
+    {:.map}
+    ![](nazev-obrazku.jpg)
 
 ### Sidebary
 

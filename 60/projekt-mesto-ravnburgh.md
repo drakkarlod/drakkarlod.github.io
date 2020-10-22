@@ -24,7 +24,8 @@ Ve výsledku se během jednoho měsíce sešlo celkem 16 příspěvků a s kaž
 
 Jak bylo zmíněno výše, budeme rádi, pokud se jím pro své hraní inspirujete – můžete ho použít celé a jen je zasadit do reálií vašeho světa (přejmenovat celé město, případně obchodního konkurenta na město, které již máte), vzít některou ze čtvrtí, použít nějaký prvek, případně jen nějakou zápletku. Pokud vás článek inspiruje a najdete pro nápady v něm obsažené využití, pak splnil svůj účel.
 
-![](mapa-psd-popisky-v2-fmt.jpg)
+{:.map}
+![Mapa Ravnburghu](ravn2.jpg)
 
 ## Místa na mapě
 

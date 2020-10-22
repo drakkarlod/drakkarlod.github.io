@@ -28,14 +28,23 @@ Podařilo se nám vytvořit něco zajímavého z náhodně vytvořeného světa?
 - **Tagelterijské království** (ilgir)
 
 ### Ilustrace
-**Politická mapa**
-![Trives: Politická mapa]({{site.baseurl}}/77/Trives_politicka_mapa.jpg)
 
-**Geografie**
-![Trives: Geografická mapa]({{site.baseurl}}/77/Trives_geografie.jpg)
+#### Politická mapa
 
-**Náboženství**
-![Trives: Mapa náboženství]({{site.baseurl}}/77/Trives_nabozenstvi.jpg)
+{:.map}
+![Trives: Politická mapa]({{site.baseurl}}/77/trives-politicka-mapa-mid.jpg)
 
-**Kultury**
-![Trives: Mapa kultur]({{site.baseurl}}/77/Trives_cultures.jpg)
+#### Geografie
+
+{:.map}
+![Trives: Geografická mapa]({{site.baseurl}}/77/trives-geografie-mid.jpg)
+
+#### Náboženství
+
+{:.map}
+![Trives: Mapa náboženství]({{site.baseurl}}/77/trives-nabozenstvi-mid.jpg)
+
+#### Kultury
+
+{:.map}
+![Trives: Mapa kultur]({{site.baseurl}}/77/trives-cultures-mid.jpg)
