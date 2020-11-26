@@ -213,8 +213,6 @@ Ona ostatně i gotika jako taková je označení, které bylo použito v histori
 
 Ale nedá se nic dělat; jakkoli je to omyl, je to omyl skálopevně vžitý a masově sdílený. Gotika je prostě čímsi strašidelná a horor bez starodávných rekvizit z gotického románu vnímá publikum jako nedostatečný. A všechno to funguje a náladu to dělá, a to je hlavní, co potřebujete vědět. Dejte tam klaustrofobně uzavřenou dlouhou chodbu, která se všelijak lomí a za rohem na vás může něco bafnout, přidejte umělé osvětlení, případně nějaké ty zlověstné zvuky a za okny burácející bouři, do toho dejte sympatickou hrdinku, a výsledek je málem zaručen. 
 
-<div>&nbsp;</div>
-
 ## VI. 
 
 Neméně užitečný seznam rekvizit gotického románu stvořil padesát let po Lovecrfatovi nějaký pan Brendan Hennessy, autor pojednání The Gothic Novel, 1978. Hlavně je na něm zajímavé, že se nedrží jen interiéru gotického hradu a všímá si i exteriérových rekvizit: 
