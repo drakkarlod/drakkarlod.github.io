@@ -92,11 +92,9 @@ Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud
 <div>&nbsp;</div>
 **Strážce**
 
-Konstrukt ze dřeva a látky
-
-AC 7 [12], HD 2+2 (11hp), Att 1 × fist (1d8), THAC0 17 [+2], MV 120’ (40’), SV D12 W13 P14 B15 S16 (1), ML 12, AL Lawful, XP 25, NA 1 (1), TT None
-
-Hořlavý: -2 k záchraně proti ohni, za každou kostku zranění ohněm dostávají +1 bod zranění
+-Konstrukt ze dřeva a látky
+- AC 7 [12], HD 2+2 (11hp), Att 1 × fist (1d8), THAC0 17 [+2], MV 120’ (40’), SV D12 W13 P14 B15 S16 (1), ML 12, AL Lawful, XP 25, NA 1 (1), TT None
+- Hořlavý: -2 k záchraně proti ohni, za každou kostku zranění ohněm dostávají +1 bod zranění
  
 <div>&nbsp;</div>
 **Vesmírný rytíř**
