@@ -224,8 +224,6 @@ Neméně užitečný seznam rekvizit gotického románu stvořil padesát let po
 - *z lesa se bude ozývat houkání sov a nad hlavou se nám zatřepotá několik netopýrů* 
 - *celou scénu pak nechme osvětlovat měsícem v úplňku, jehož paprsky, krom svící a pochodní, poskytnou také trochu světla uvnitř temného hradu*
 
-<div>&nbsp;</div>
-
 Tady se můžeme rozletět dál, k obecnějším principům, využitelným prakticky u jakéhokoli druhu literatury. Třeba i úplně realistické, „vážné“ čili mainstreamové. 
 
 Slovo „pitoreskní“ značí prý v překladu prostě totéž, co český výraz „malebný.“ Tím nám ovšem uniká jádro věci. Na malířských školách té doby - například na pražské akademii pod vedením Maxe Haushofera, který učil pány Grusse i Kosárka - bylo zkoumáno, který prvek v krajině je dostatečně pitoreskní a který nikoli. V zásadě se věřilo, že předmět dramaticky rozervaný je pitoresknější, než předmět klidný a oblý. 
