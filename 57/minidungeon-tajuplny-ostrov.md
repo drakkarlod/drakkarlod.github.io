@@ -91,20 +91,16 @@ Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud
 
 <div>&nbsp;</div>
 **Strážce**
-
 -Konstrukt ze dřeva a látky
 - AC 7 [12], HD 2+2 (11hp), Att 1 × fist (1d8), THAC0 17 [+2], MV 120’ (40’), SV D12 W13 P14 B15 S16 (1), ML 12, AL Lawful, XP 25, NA 1 (1), TT None
 - Hořlavý: -2 k záchraně proti ohni, za každou kostku zranění ohněm dostávají +1 bod zranění
  
 <div>&nbsp;</div>
 **Vesmírný rytíř**
-
-Imunita vůči nemagickým zbraním, ohni, kyselině. Odolnost vůči mrazu a elektřině. Nepůsobí na něj kouzla Charm, Hold a Sleep, nepůsobí na něj odvracení nemrtvých.
-
-AC 0 [19], HD 20** (100hp), Att 2 × fist (4d10), THAC0 6 [+13], MV 120’ (40’), SV D6 W7 P8 B8 S10 (10), ML 12, AL Chaotic, XP 4,300, NA 1 (1), TT None
+- unita vůči nemagickým zbraním, ohni, kyselině. Odolnost vůči mrazu a elektřině. Nepůsobí na něj kouzla Charm, Hold a Sleep, nepůsobí na něj odvracení nemrtvých.
+- AC 0 [19], HD 20** (100hp), Att 2 × fist (4d10), THAC0 6 [+13], MV 120’ (40’), SV D6 W7 P8 B8 S10 (10), ML 12, AL Chaotic, XP 4,300, NA 1 (1), TT None
 Iniciativa: -1 postih kvůli pomalému pohybu
-
-Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva cíle v těsné blízkosti
+- Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva cíle v těsné blízkosti
 
 <div>&nbsp;</div>
 
@@ -113,8 +109,7 @@ Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva c
 *Pozn. autora: v systému DnD 5e netestováno, následující statistiky berte pouze jako doporučení.*
 
 <div>&nbsp;</div>
-**Strážce** – statistiky jako Animated Armor (Oživlá zbroj) z Monster Manual
-
-**Vesmírný rytíř** – statistiky jako Iron Golem z Monster Manual, ale bez útoku mečem a jedovým dechem.
+- **Strážce** – statistiky jako Animated Armor (Oživlá zbroj) z Monster Manual
+- **Vesmírný rytíř** – statistiky jako Iron Golem z Monster Manual, ale bez útoku mečem a jedovým dechem.
 **Záchrana proti jedu (v místnosti 13):** záchranný hod proti obratnosti s obtížností 17, jinak zranění 1d10 jedem a postava je otrávena na příští hodinu.
  
