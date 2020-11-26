@@ -109,7 +109,7 @@ U Vězňů času vznikl takovýto popis, aniž jsem tehdy ještě znal Grussův 
 > Litoměřice byly velkolepé. 
 Rozložily se úplně dole pod Severními horami a nad řekou Labem, která tekla těsně pod městem na jižní straně. Ať už vytvořil Severní hory kdokoli, dal jasně najevo, že přesně na tomto místě kopce skončily a bez jakéhokoli varování je proměnil na rovinu. Pro jistotu rovinu a kopce ještě navzájem důkladně oddělil širokým pásem řeky.
 A právě místo, kde hory končily a padaly do Labe, si vybrali dávní obyvatelé země ke stavbě pevnosti. Hrad, dnes již poněkud chátrající, stál na jednom menším kopci přímo nad řekou. Postupně se proměnil v sídlo církevní kapituly, s velkým kamenným chrámem a několika dalšími budovami. Také už ho pomalu přestali nazývat hradem a stále častěji se mluvilo o vrchu svatého Štěpána. Kopec to byl ovšem nevelký a poskytoval nahoře jen velmi málo místa k dalšímu rozvoji.
-
+>
 > Město se proto začalo šířit kus od hradu na vedlejším kopci. Ten druhý vrch proti proudu Labe, mnohem širší a částečně schovaný za tím prvním, vlastně spíše jakási terasa pod horami, zlákal k vybudování tržiště s prvními domy, v několika málo případech dokonce i kamennými. Nevýhodou tohoto širšího kopce ovšem bylo chybějící opevnění; každý dům se musel v případě nouze bránit samostatně, jak bylo tenkrát zvykem.
 
 <div>&nbsp;</div>
