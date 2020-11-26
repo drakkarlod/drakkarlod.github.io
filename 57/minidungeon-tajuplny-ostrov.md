@@ -6,109 +6,113 @@ tags: 'doplňky a materiály, minidungeon'
 series: Minidungeony
 published: true
 ---
-Chrám padlé hvězdy 
 
+## 1 Intro
 
-Čas od času někdy každý spatří na nebi padající hvězdu. Co ale není tak obvyklé, je vidět padající hvězdu dopadnout. A přesně to se vám stalo. Ohnivá kometa vám s hukotem proletěla nad hlavou a narazila do nedaleké hory.
+Ostrůvek se nachází nedaleko za hranou horizontu na moři nebo hladině rozlehlého jezera. Spíše než o ostrov se jedná o menší zpustlou neobydlenou skálu, kterou místní ani neměli snahu pojmenovat. Okolní vody jsou bohaté na ryby a není tomu dávno, co se zde lovící námořníci začali vracet s tajemnými zkazkami: Z ostrůvku se nesou nelidské zvuky a za šera a mlhy z něj vychází ostrá, ohni nepodobná světla. Poté, co se jedna rybářská loď plná zvědavců z ostrůvku nevrátila, vyhýbají se jí místní obloukem a mořští vlci v krčmách vyprávějí o duchu moře, který procitl ze spánku a nárokuje si své oběti. Co za tím vším tedy vězí?
 
-Vesničané z nedaleké vesnice jsou z toho vyděšení. Říkají, že v té hoře je zapečetěný starý chrám Slunečního boha a obávají se, co dopad hvězdy může znamenat. Je to varování vyšší moci? Nebo snad první útok bohů Chaosu, kteří chtějí rozpoutat novou válku s bohy Řádu?
+## 2 Tajuplný ostrov
 
-Ať je to, co je to, vy v tom vidíte příležitost. Jste si jistí, že nalezení jádra hvězdy bude znamenat nalezení velkého bohatství – ať už světského, nebo magického. 
+Ostrůvek je půlkruhovitého tvaru o průměru asi dvě stě padesát metrů se zátokou ve vnitřní části a výrazným rozšířením na západním okraji. Na vnější straně z něj ční až do výšky patnácti metrů skalní věže, které zde prudce klesají k hladině. Od těchto útesů směrem k vnitřní zátoce skály postupně klesají až do vody. Západní rozšířená část tvoří téměř jednolitou plochu, ve které skály formují malé nepravidelné bludiště věží, puklin, zákrut a jeskyněk. Většina povrchu je porostlá mechem, lišejníky, naplavenými chaluhami a místy malými keříky. Krom pár racků a zbloudilých želv na ostrůvku není živé duše.
 
-> Dobrodružství pro postavy na 1. – 3. úrovni
+### 2.1 Zřícená vzducholoď
 
-> Pro Old School Essentials (konverze na DnD 5e v závěru)
- 
-## Popis oblastí chrámu
-**1)** Kamenné dveře. Nezdobené, ošlehané počasím a opotřebované častým používáním. Jdou snadno otevřít. V chodbě jsou dva výklenky a v nich obětní misky – zbytky starých svící, kadidla, suché rozpadající se květy, zašlé měďáky.
+V západním cípu ostrůvku leží již dávno ztroskotaná vzducholoď. Její balón po splasknutí zůstal viset na vrcholcích okolní skal, prostor pod sebou neprodyšně zakryl a během let jej zcela pohřbily nánosy prachu, kamínků a lišejníků. Bystrému pozorovateli možná neunikne, že spletenec západních jeskyní má zvláštně nestabilní strop, který se ve větru jakoby pohybuje. Pod balónem lze mezi skálami dojít až ke vzducholodi, která leží pod plachtou zcela skryta před okolním světem.
 
-<div>&nbsp;</div>
-**2)** Kamenné dveře s reliéfem zobrazujícím bohy Řádu, uprostřed na trůnu sedí Sluneční bůh s korunou paprsků. Dveře byly zapečetěny, ale pečeť leží stržená na zemi.
+Dřevěná vzducholoď s kovovými výztuhami zvenčí na první pohled docela připomíná klasická vodní plavidla. Je zhruba třicet metrů dlouhá, deset metrů široká, má dvě patra s mnoha malými okénky a vrchní otevřenou palubu. Spodní patro sloužilo pro cestující, horní jako strojovna a sklady. Lze do ní vstoupit buďto přes horní palubu, nebo vchodem na pravé přídi spodního patra. Na některých místech je trup částečně proražen skalami a zde by bylo možné s trochou úsilí vytvořit další průchody dovnitř. Navzdory svému nešťastnému osudu je vzducholoď v docela zachovalém stavu, avšak nosný plyn z balónu je nenávratně ztracen a z ostrůvku jen tak neodletí.
 
-<div>&nbsp;</div>
-**3)** Předsíň chrámu. Obětní mísa na nožce, podobná těm v **1)**, ale větší a zdobenější. Pod miskou po podlaze prochází čára vykládaná bílým mramorem, dělící místnost na dvě části. V apsidách stojí podivní **Strážci**, postavy zahalené látkou třímající v kostnatých rukou meče. Pokud je do mísy vložena obětina (zlato, cenný předmět), strážci nechají postavy projít. Při překročení linie bez odevzdání obětiny zaútočí. Strážci nepřekročí linii – pokud se postava vrátí do první části místnosti, strážci se po chvilce vrátí do apsidy – jejich cílem je pouze zabránit vstupu nezvaných hostů.
+### 2.2 Vzduchoplavcův příběh
 
-<div>&nbsp;</div>
-**4)** Schody na západ (do **5**) vedou nahoru, schody na jih (do **8**) klesají. V **5** je odtud vidět denní světlo a průvan, z **8** sem přichází zápach spáleniny.
+> __Zápis z deníku 4305:__ A už toho mám dost! Dnes mne opět neohlášeně obtěžovali ti primitivové od armády. Tentokrát je zajímalo, kolik mohou na mou loď namontovat děl a zda unese čtyři tucty beden munice. Už není pochybu, že navzdory mému výslovnému zákazu mi můj vynález po dokončení vojáci zabaví a udělají si z něj klenot jejich už tak bohatého arzenálu. Po takovémto dni opět nemohu usnout. Obávám se, že se mi naskýtá jedna z posledních možností uniknout i s mým vynálezem. Bude-li mi přát příznivý vítr, měl bych si vybudovat dostatečný náskok. Mí věrní přátelé jsou připraveni, zásob mám dostatek. Zítra musím zkontrolovat stav lodi a rozhodnout se. Ne rozhodnout – zítra se musím odhodlat.
 
-<div>&nbsp;</div>
-**5)** Většina místnosti se zřítila do průrvy při průletu hvězdy. Okraj tvoří ostré, polámané dlaždice. V prudkém srázu vedoucím do **6** jsou vidět ve stěně zapečené šperky (náhrdelník ze zlata a jehlice, hodnota 100 zl).
+> …
 
-<div>&nbsp;</div>
-**6)** Díra proražena padající hvězdou vede ven ze skály na prudký útes klesající do údolí (200–300 stop)
+> __Zápis z deníku 4307:__ Minula čtvrtá noc a má situace je stále zoufalejší. Vzducholoď naštěstí skutečně neutrpěla žádná závažná poškození a i mí pomocníci zvládli nechtěné přistání bez úhony. Balón je však zcela prázdný a na této bohem zapomenuté skále není nic, z čeho by šel extrahovat plyn a nachází se zde jen velmi málo potenciálního paliva. Prošel jsem již na dvakráte všechny své poznámky, deníky i plány prototypů, zatím jsem však nenalezl žádnou možnost zlomit nepříznivý osud. Musím arci jednat rychle, mé rány hnisají a horečka mi nedá odpočinout. Navzdory improvizovaným podmínkám jsem zatím zvládl připravit proces doplnění energie mým neúnavným pomocníkům, musím již jen dokončit kameny s novými rolemi. Včera jsem na obzoru na chvíli zahlédl loď, ale strach z mých pronásledovatelů mi nedovolil zkoušet signalizovat o pomoc. To už mi bude více po chuti můj milovaný vynález rozebrat a sestavit z něj nějaké plavidlo, se kterým bych snad měl dosáhnout pevniny. Přese všechny útrapy je stále nejdůležitější, aby má loď nepadla do nepravých rukou.
 
-<div>&nbsp;</div>
-**7)** "Jádro hvězdy", podivná kovová schránka ošlehaná plameny, relativně nepoškozená. Kulaté zasklené okénko a poklop otevřený dovnitř. Uvnitř schránky je křeslo z podivného materiálu stojící před „oltářem“ pokrytým podivnými runami, sklíčky a očividně alchymistickými přístroji – nic však není funkční. Pod sedačkou je kovová schránka s železnými zásobami potravin (5 ks), zkumavka s čirou tekutinou (silná kyselina), zkumavka plná barevných krystalů (nemagické, cena 120 zlatých u šperkaře) a věc, která vypadá jako podivná ruční kuše, ale je kovová a nemá lučiště. Na zbrani svítí dvě malinká zelená sklíčka (2 výstřely označené diodami, výstřel má stejný efekt jako **dezintegrační paprsek**).
+![](ostrov-opt.jpg)
 
-<div>&nbsp;</div>
-**8)** Hlavní chrámová loď, silně poškozená dopadem. Rozmetané lavice, na méně poškozených zdech jsou vidět fresky s výjevy ze svaté knihy Slunečního boha.
+Vzduchoplavec zemřel krátce po dokončení posledního deníkového zápisu. Jeho Konstrukty zůstaly bez svých kamenů neaktivní po mnoho dalších let. Až mladý zvědavý rybář, který zde před časem zakotvil se svou posádkou, neodolal pokušení a vložil jeden ze zvláštních drahokamů do útrob tajemného kovového muže. Oči probuzeného Konstruktu se po desetiletích odpočinku opět zažehly, a protože vesmír má tendenci zůstat v rovnováze, vyhasl život mladého rybáře zanedlouho poté.
 
-<div>&nbsp;</div>
-**9)** Oltář, jako zázrakem téměř nepoškozený. Na něm stojí svatý symbol Slunečního boha ze zlata, prodchnutý silou desetiletí bohoslužeb. Klerici zákonného přesvědčení jej mohou používat jako svatý symbol, bytostem chaotického přesvědčení jeho nošení přináší smůlu. Jeho znesvěcení přinese viníkovi boží trest (příští 3 hozené natural 20 se promění v natural 1).
+### 2.3 Konstrukty
 
-<div>&nbsp;</div>
-**10)** Poničená knihovna. Vyvrácené police a rozházené, potrhané knihy a svitky náboženských textů (modlitby, zpěvníky, životy svatých). V rohu se jimi strojovými pohyby probírá **Vesmírný rytíř**.
+Umělé bytosti, Konstrukty, jsou jedinými trvale „žijícími“ obyvateli na ostrůvku. Sestrojil je Vzduchoplavec jako svou loajální posádku na vzducholodi. Jsou tedy z lehké konstrukce, uzpůsobení k pohybu a práci na lodi. Jejich tělo je humanoidního uspořádání, připomínají však spíše kostlivce, kterému chybí tkáně i kůže. Konstrukty pohání zářící energetický kámen, který mají usazen uprostřed svého hrudníku. Oči probuzených Konstruktů září v barvě energetického kamene a nehybnými ústy jsou schopní promlouvat stejně jako jakýkoliv člověk. Energetické kameny získávají svou sílu ze slunce – jednou za čas je nutné je z Konstruktů vyjmout a pomocí složitelného a časově náročného procesu do nich sluneční energii uložit.
 
-<div>&nbsp;</div>
-**11)** Sakristie – technická místnost. Police se zásobami – svíce, kadidla, bohoslužebná roucha, sametový rudý provaz na oddělení davu, monstrance (masivní, vypadají jako zlaté, ale je to pozlacený bronz).
+Konstrukty přemýšlejí jen omezeně v rámci hranic vymezených svou rolí (např. Uklízeč se nenechá přesvědčit, aby něco uvařil, ale sám nejlépe pozná, co je potřeba uklidit). Jsou schopné vést i komplikovanější rozhovory, jejich motivace a cíle jsou však pevně dány a nijak o nich nepochybují. Řídí se přísnou logikou s absencí jakýchkoliv citů. Krom toho se řídí základními pěti pravidly, která jim vštípil jejich tvůrce, a které jsou s nimi bytostně spjaty. Oproti úkolům, které může Konstrukt vykonávat různě, jsou základní pravidla neměnná a pevně hierarchicky uspořádána. Konstrukt se v rámci jednoho pravidla nikdy nezachová tak, aby porušil pravidlo nadřazené. __Pravidla chování__ zní následovně:
 
-<div>&nbsp;</div>
-**12)** Bazének se svěcenou vodou, na stěnách fresky svatých mužů. Atmosféra je tu prosycena aurou svatosti a Řádu. Koncentrovaná síla několika generací modliteb způsobila, že dotek nebo požití doušku vody léčí. Ponoření do vody nebo požití většího množství je chápáno jako chamtivost a domýšlivost vůči bohům a zraňuje (1k10 za kolo).
+1. Neublížit pánovi
+1. Nepoškodit majetek pána
+1. Chránit svou funkčnost
+1. Chránit funkčnost ostatních Konstruktů
+1. Vykonávat zadaný úkol
 
-<div>&nbsp;</div>
-**13)** Hrobka, na podlaze symbol Slunečního boha vyložený černým mramorem. V hrobce stojí kamenný sarkofág s freskou rytíře. U paty sarkofágu leží seschlá mrtvola zloděje (dýka, šperháky, 2 zl). Víko sarkofágu obsahuje past – vyskakovací otrávenou šipku (záchrana proti jedu). V sarkofágu kostlivec v rozpadlé zbroji (destičková zbroj, ale kůže se na ní rozpadla stářím), drží dlouhý meč vykládaný perlami.
+Na ostrůvku se nachází sedm Konstruktů. Každý se ze všech sil snaží vykonávat zadaný úkol. Žádný není vyloženě agresivní, zpravidla nejprve upozorní narušitele, brání-li v jeho úkolu. Zároveň jsou však Konstrukty zcela loajální úkolům od svého pána, neznají strach ani pochyby. Nerozumí konceptu smrti – co lze vypnout, lze přece i znovu zapnout. Dobrovolně si však svůj energetický kámen vyjmout nenechají – nemohli by vykonávat zadaný úkol. U každého Konstruktu je uvedeno jeho označení, role, hlavní úkol a principy chování.
 
-<div>&nbsp;</div>
-**14)** Prázdná místnost, kterou od **15** odděluje bronzová zeď s reliéfy s výjevy válek proti Chaosu. Uprostřed místnosti stojí podivný předmět – kovová bedna, ze které čouhají dráty formující pyramidu. Jakási divná baňka na krabici zeleně svítí. Pokud je přístroj dostatečně poškozen, začne baňka červeně blikat a přístroj syčet, načež za tři kola vybuchne (viz. **Záchranný maják**).
+- __K1. Osobní strážce.__ Úkol: _„Nedopusť, aby mi bylo ublíženo.“_ Hlídá před kajutou Vzduchoplavce. Bude nepřátelský, pokud se přes něj někdo pokusí do kajuty proniknout a zaútočí, pokud někdo bude manipulovat s ostatky pána. Je ochotný podávat o Vzduchoplavci zajímavé informace.
+- __K2. Dohlížitel.__ Úkol: _„Udržuj ostatní konstrukty v provozu.“_ Pohybuje se po lodi a jejím okolí, kontroluje správnost prováděných úkolů, vkládá energetické kameny do neaktivních Konstruktů (sám ale nedokáže provést proces nabíjení). Zatím nenašel na nabíjecím ponku dva chybějící kameny. Pokud je objeví, probudí s ním zbývající Konstrukty. Konzultuje s ostatními jejich úkoly, v případě nutnosti se je snaží opravit. Zaútočí, pokud je svědkem ničení jiného Konstruktu. Má informace o principech fungování Konstruktů, jejich mechanice a napájení.
+- __K3. Uklízeč.__ Úkol: _„Udržuj interiér vzducholodi v čistotě.“_ Pohybuje se po lodi s improvizovaným smetáčkem a lopatkou a zoufale neefektivně se jí snaží uklidit. Neuvědomuje si mizérii svého úkolu a opakovaně tvrdí, že již za chviličku bude mít všechno hotové a v lodi bude zase útulně. Bude nepřátelský, pokud někdo v lodi dělá nepořádek (hrabe se ve věcech, vnáší nečistoty na botách apod.). Přímo nezaútočí, dokud mu někdo cíleně nebrání v úklidu.
+- __K4. Kuchař.__ Úkol: _„Zajisti, aby bylo co jíst a pít.“_ Vychází ze vzducholodi na pláž, loví ryby nebo racky a ty připravuje v kuchyni na kamínkách, pod kterými zatápí nanošeným palivem od strojovny. Hotové ryby hromadí na jídelním stole a nezajímá ho, že je nemá kdo sníst. Pokusí se chytit a uvařit zvířecí doprovod postav. Na postavy přímo nezaútočí – lidé se přece nejí. Mezi skalami má improvizované odpařiště mořské vody.
+- __K5. Topič.__ Úkol: _„Zajisti palivo do strojovny.“_ Shání cokoliv hořlavého mimo výbavu lodi a loď samotnou (viz pravidlo 2 – nesmí loď poškodit). Pokusí se postavám zabavit cokoliv, co vypadá hořlavě a budou-li se bránit, pokusí se to vzít násilím. Uvidí-li však nové bytosti na ostrově, nejprve beze slova bude na pláži hledat jejich loď, kterou rozštípe a nanosí dovnitř.
 
-<div>&nbsp;</div>
-**15)** Pokladnice chráněná masivními bronzovými dveřmi. Ty mají složitý zámek, dají se vysadit opravdu velkou silou nebo poškodit výbuchem přístroje v **14**. V pokladnici jsou šperky v ceně 400 zl, masivní pozlacená harfa (400 zl), souprava stříbrného ceremoniálního nádobí (150 zl), rituální dýka se smaragdem (100 zl) a magický **modlitební mlýnek** (500 zl).
+Následující dva Konstrukty jsou neaktivní. Jejich energické kameny se nacházejí na nabíjecím ponku v zátoce. Jeden z kamenů nemá vloženou žádnou roli – jím probuzený konstrukt přijme jakýkoliv úkol. Nemá ale žádné omezující hranice role a při jeho plnění se chová zcela nevyzpytatelně.
 
-<div>&nbsp;</div>
+- __K6. Strážce vzducholodi.__ Úkol: _„Udržuj loď nepoškozenou.“_ Po probuzení začne po krátké prohlídce stahovat balón na horní palubu vzducholodi – strop jeskynního systému se začne hroutit. Je-li probuzený, zaútočí na každého, kdo se pokusí loď nebo její výbavu poškodit (něco rozbít, odnést apod.).
+- __K7. Bezprizorní.__ Úkol: _Nemá._ Po aktivaci se zeptá, jaký úkol má provést a není-li v rozporu s pěti základními pravidly, pustí se ihned do práce. V opačném případě si vyžádá úkol jiný. Lze na něm otestovat, co všechno jsou ještě Konstrukty ochotné udělat.
 
-### Vesmírný rytíř
+## 3 Místopis
 
-**Lidská postava vysoká skoro dva metry v podivné oranžové zbroji. Nevypadá jako kovová, ale jako jakási zvláštní kůže, ohebná, a přitom odolná. Trčí z ní hadice a na taštičkách září krystaly a sklíčka. Ale nejhorší je helma – pod nápisem z rudých, neznámých run je lesklý, neprůhledný kryt, který si Rytíř zvedne a odhalí skleněnou baňku skrývající vybělenou lebku. Ať je to, co je to, je to mrtvé – ale tato skutečnost mu v ničem nepřekáží.**
+### 3.1 Ostrov
 
-<div>&nbsp;</div>
-Vesmírný muž není nemrtvý. Kosmonaut ukrytý v skafandru mrtvý je, ale kombinace záchranné technologie pro případ ztroskotání a účinky energií Chaosu udržují skafandr v chodu bez přičinění mrtvoly uvnitř. Program je silně narušený, proto neregistruje, že muž je mrtvý, udržuje záchranný maják v chodu a je příčinou bizarního chování: rytíř se pokusí zabít jakoukoliv živou bytost, kterou spatří.
-Pokud spatří živou postavu, začne ji pronásledovat. Pohybuje se pomalu, klátivým krokem a postava mu může relativně snadno utéct, ale rytíř se nezastaví a neodpočívá. Dveře pro něj nejsou překážkou, má nadlidskou sílu a nějakým způsobem ví, kde se zacílená postava nachází.
-Skafandr sovětské výroby, vyrobený pro účely Druhé války o Měsíc (2017–2021), infuzovaný surovou energií Chaosu ze Chřtánu světa je prakticky nezničitelný. Paprsek pistole z přistávacího modulu (**7**) jej pouze na několik kol vyřadí (1k6), než se systém zresetuje. Existují jen dva efektivní způsoby, jak rytíře zastavit. Je nutné buď zničit záchranný maják (**14**), jehož vyřazení vypne automatický program skafandru, nebo rytíře nalákat nějakým způsobem do bazénku v **11** (silná energie Řádu ve vodě efektivně vyruší energie Chaosu – skafandr bude sice stále funkční, ale znehybněný a bez nutkání zabíjet).
- 
-<div>&nbsp;</div>
-**Záchranný maják**
-Hrubě zpracovaný vojenský přístroj natřený khaki barvou. Kovová bedna s několika ciferníky, tlačítky, otočnými knoflíky a anténou. Žárovka svítí zeleným světlem, pokud je přístroj v chodu. Pro případ objevení je vybaven sebedestrukčním mechanismem – vybuchne, pokud je nastavován bez správně zadaného kódu nebo dostatečně poškozen silou. Síla výbuchu se rovná síle kouzla Ohnivá koule (*Fireball*).
+__Plocha pokrytá balónem.__ Hrubá oblast skalisek, která jsou zakryta splasklým balónem. V těchto místech lze strop jeskyní snadno prorazit. Pokud dojde ke snaze balón stáhnout na loď, zhruba tato oblast se začne bortit. Pokud někdo vystoupá nahoru a bude po balónu přecházet, zpozoruje nestabilní podloží. Na některých místech by se i mohl propadnout dolů.
 
-<div>&nbsp;</div>
-**Modlitební mlýnek**
-Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud se v jeho okolí do 50 stop objeví bytost chaotického přesvědčení, hlasitě se roztočí (zvuk silou a tónem připomínající řehtačku) a sešle na svého nositele kouzlo Požehnání (Bless). Tuto schopnost má až třikrát denně, dobíjí se za úsvitu. Jeho vlastnosti jsou automatické a nejdou vypnout ani jinak ovládat.
+__Vzducholoď.__ Pozice vzducholodi na ostrově s naznačenými vstupy.
 
-<div>&nbsp;</div>
+__Vstupy do jeskyní.__ Místa, kterými lze nejsnáze vstoupit do skalnatého prostoru pod balónem. Lze u nich postřehnout stopy rybářů i konstruktů.
 
-### Statistiky monster
+__Mrtvý rybář.__ Tělo nedávno zemřelého mladého rybáře. Má na sobě pouze jednu hlubokou sečnou ránu. V ruce svírá pár menších drahokamů. V kapse lze nalézt obrázek slečny a několik vytržených stránek, mezi nimi je i deníkový záznam 4305.
 
-***Old School Essentials (kompatibilní s B/X Dungeons and Dragons a jeho klony)***
+![](vzducholod-opt.jpg)
 
-<div>&nbsp;</div>
-**Strážce**
-- Konstrukt ze dřeva a látky
-- AC 7 [12], HD 2+2 (11hp), Att 1 × fist (1d8), THAC0 17 [+2], MV 120’ (40’), SV D12 W13 P14 B15 S16 (1), ML 12, AL Lawful, XP 25, NA 1 (1), TT None
-- Hořlavý: -2 k záchraně proti ohni, za každou kostku zranění ohněm dostávají +1 bod zranění
- 
-<div>&nbsp;</div>
-**Vesmírný rytíř**
-- Imunita vůči nemagickým zbraním, ohni, kyselině. Odolnost vůči mrazu a elektřině. Nepůsobí na něj kouzla Charm, Hold a Sleep, nepůsobí na něj odvracení nemrtvých.
-- AC 0 [19], HD 20** (100hp), Att 2 × fist (4d10), THAC0 6 [+13], MV 120’ (40’), SV D6 W7 P8 B8 S10 (10), ML 12, AL Chaotic, XP 4,300, NA 1 (1), TT None
-Iniciativa: -1 postih kvůli pomalému pohybu
-- Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva cíle v těsné blízkosti
+__Nabíjecí ponk.__ Pozůstatky stolu s nářadím a alchymistickou výbavou, zčásti zakryto hadry, kamením a chaluhami. Na stole lze zpozorovat v řadě vedle sebe pět zrezivělých stojanů, nad kterými jsou umístěna zvětšovací skla koncentrující sluneční paprsky. Dále v řadě lze pod kamením a nepořádkem nalézt další dva zasypané stojany, které obsahují zářící energetické kameny.
 
-<div>&nbsp;</div>
+__Zbytky po rybářské lodi.__ Hromada lan, sítí, kovových košů a podobně. Nenalézá se zde žádné dřevo, pouze prach a třísky. Kousky dřeva zapadlé mezi kameny vedou na západ k jeskyním.
 
-***Konverze pro Dungeons and Dragons 5e***
+__K4 zde loví ryby.__ Místo, kam Konstrukt Kuchař chodí lovit ryby. Má zde odpařiště a zásobu pitné vody. Cestou může potkat postavy.
 
-*Pozn. autora: v systému DnD 5e netestováno, následující statistiky berte pouze jako doporučení.*
+### 3.2 Vzducholoď
 
-<div>&nbsp;</div>
-- **Strážce** – statistiky jako Animated Armor (Oživlá zbroj) z Monster Manual
-- **Vesmírný rytíř** – statistiky jako Iron Golem z Monster Manual, ale bez útoku mečem a jedovým dechem.
-**Záchrana proti jedu (v místnosti 13):** záchranný hod proti obratnosti s obtížností 17, jinak zranění 1d10 jedem a postava je otrávena na příští hodinu.
+__Vrchní paluba.__ Je pokrytá kamením, zarostlá mechem. Po stranách se nacházejí kotvící místa držící balón – lana a hadice vedou kamsi ke stropu jeskyně. Zkušenějším námořníkům přijde paluba zvláštní, nepodobá se žádné známé lodi určené na moře nebo řeky. Schody do nitra vzducholodi jsou částečně zasypané, ale průchozí.
+
+1. __Kormidlo.__ Vedle kormidla je soustava dalekohledů a další aparatury využívané k navigaci podle slunce a hvězd. Ve zpráchnivělé skřínce jsou fragmenty map.
+
+__Horní paluba.__ Je zde cítit zatuchlina a nějaký další zvláštní zápach rozkladu. Ačkoliv mají jednotlivé místnosti malá okénka, z prostorů jeskyně pod balónem sem nedosáhne žádné světlo. U bočního schodiště jsou stopy krve, v sousedící vstupní místnosti hromádka cenností.
+
+1. __Sklad.__ Nachází se zde náhradní díly k lodi – kování, lana a záplaty na balón. V koutech je k zemi přivázáno několik sudů. Plyn, který je v nich obsažen, se používá jako nouzová zásoba k plnění balónu. Po odvázání se vznesou ke stropu. Pokud z nich plyn unikne, působí na živé bytosti omamným účinkem a při reakci s ohněm hoří.
+1. __Vstupní místnost.__ Těla tří námořníků. Podle zranění zemřeli násilnou smrtí. Lze odhadnout, že byli na útěku. Jeden má u sebe amulet ochraňující před hněvem duchů moře.
+1. __Úschovna Konstruktů.__ Nachází se zde sedm kójí, dvě z toho jsou obsazeny neaktivními Konstrukty. Pod policemi leží hromada náhradních dílů. Na stěnách visí náčrty se znázorněním konstrukčních řešení. Lze zde vyčíst slabá místa na tělech konstruktů.
+1. __Skladiště pohonných hmot.__ Obsahují pouze hromadu nahrubo nalámaného dřeva. Při bližším pohledu lze poznat pozůstatky rybářské loďky.
+1. __Strojovna.__ Nachází se zde parní stroj, který pohání vrtule umístěné zvenku na zádi lodi. Na stroji jsou nejvýraznější obrovská kamna, ve kterých lze ještě nalézt zbytky popela. Krom toho skrz kamna prochází horký vzduch a dým, který mizí někde v přístroji. Kolem leží kovové harampádí a neuklizené nářadí. Pokud by do stroje někdo doplnil vodu, promazal ho a zatopil, vrtule by se roztočily. Vedle stojí menší stroj sloužící k tlakování balónu, vedou od něj částečné průhledné trubice na vrchní palubu.
+
+__Spodní paluba.__ Je zde větší vlhko, podlaha a některé stěny se částečně propadají. V prasklinách se daří mechu a lišejníku. Ze zadní části se line odpudivý zápach.
+
+1. __Ložnice Vzduchoplavce.__ Honosně vyzdobená místnost, přesto s praktickým uspořádáním. Neobsahuje více než velkou postel, skříň se ztrouchnivělým oblečením a police zaplněné knihami. Lze zde najít mnoho textů o historii, geografii a zoologii. Všechny knihy jsou velmi staré, některé lze považovat za zcela ojedinělé exempláře nebo již dávno ztracená díla. Pod postelí leží těžká kovová truhla se zabudovanou pastí uvolňující omamný plyn. V truhle se nachází Vzduchoplavcovy finanční rezervy a konstrukční plány vzducholodi.
+1. __Pracovna vzduchoplavce.__ Dominuje jí velký jednací stůl s mnoha židlemi. Na stěnách visí police se svitky a knihami. Většina knih je na zámek, obsahují poznatky z oblasti alchymie a umělého života – jedná se spíše o akademickou literaturu. Na stole leží spousta rozházených knih, roztrhaného papíru a rozsypaných psacích potřeb. Stranou leží otevřený jasně největší svazek v místnosti – Vzduchoplavcův deník. Několik stránek je z něj vytržených. Je rozevřený na posledním deníkovém zápisku č. 4307.
+1. __Alchymistická dílna.__ Panuje v ní hrozný nepořádek. Na zemi i stole se válí spousta rozbitých lahviček, ze kterých jsou vysypané podivně barevné prášky. Na dřevě jsou patrné stopy zaschlých tekutin. Ve váčcích a miskách leží různé drahokamy. Na pár místech vyrůstají mezi dřevěnými prkny prazvláštní světélkující rostlinky. Mezi tím vším se povalují fragmenty Vzduchoplavcových alchymistických poznámek a zápisů. Lze z nich pracně zrekonstruovat mnoho zavádějících informací.
+1. __Konstrukční dílna.__ Zadní část je zasypána haraburdním. Na stolech po stranách leží ani ne zpola dokončené Konstrukty. Na nástěnce jsou poznámky ke Konstruktům – seznam inovovaných prvků, způsoby odstranění současných konstrukčních nedokonalostí. Mezi mnoha poznámkami lze nalézt malý papírek, na kterém je v pár bodech vysvětlen princip dobíjení energetických kamenů za pomocí slunce.
+1. __Kuchyně a jídelna.__ Zdroj veškerého nepříjemného zápachu. V zadní části připravuje Kuchař ulovené ryby a jiné živočichy na roztopených kamnech, do kterých přikládá nanošené zásoby ze strojovny. Kouř z kamínek je odváděn k parnímu stroji na horní palubě. Hotové pokrmy vrství na hromadu, která již téměř pohltila jídelní stůl. Za stolem sedí na židli pozůstatky Vzduchoplavce – ten už mnoho let nic nesnědl. Lze u něj najít svazek klíčů.
+1. __Toaleta a koupelna.__ V místnosti je velká kovová vana a jednoduchý záchod ústící někam pod loď. Skrz záchod prorůstá do lodi mladá břízka.
+
+![](boot-1577323-960-720-opt.jpg)
+
+## 4 Tipy pro hraní
+
+Prostředí je připraveno pro svět, ve kterém létající stroje běžně neexistují. Objevení a průzkum vzducholodi tak má představovat pro hrdiny napínavé dobrodružství už samo o sobě. V případě, že ve vašem světě nejsou vzducholodě žádnou zvláštností, doplň do Vzduchoplavcových zásob jiný zajímavý vynález, který by stálo za to ukořistit.
+
+U Konstruktů záměrně není uvedena jejich výstroj a výzbroj. Předpokládá se, že jsou primárně určeny pro práci na lodi, ne pro boj. Lze si je ale představit stejně tak jako mírně nemotorné sluhy, nebo jako hbité a rychlé stroje s mnoha ostrými kovovými hranami, bodci na kloubech a končetinách a schopností se rozžhavit. Mohou být odolní vůči sečným a bodným útokům, nebo mohou pohlcovat působení ohně. Pravděpodobně budou velmi dobře držet na dřevěných površích a možná umí i šplhat po stěnách a stropech. Jejich zářící pohled může oslňovat. Perfektně znají vzducholoď a její okolí a dokáží využít každé menší výhody. Budou však vždy jednat tak, aby loď svými akcemi nepoškodily.
+
+Je na vás, kolik „duše“ vdechnete Konstruktům. Je možné je hrát jako nemyslící stroje, které zvládnou pouze odpovídat na jednoduché otázky, ale je samotné nic nezajímá. Nebo naopak jako téměř lidské bytosti s vlastním pohledem na svět, pouze bez prožívaných emocí. Každopádně by hráči měli mít možnost s nimi interagovat i po dobrém. Konstrukty zde nepředstavují pouze nepřátelé k pobití, ale spíše bytosti překážející ve volném průzkumu vzducholodi a jejich tajemství. Nezapomínejte, že každý z nich má jinou roli a úkol a je potřeba k němu zvolit tu správnou cestu.
+
+Pokud vám příběhy rybářů nestačí jako dostatečná motivace pro postavy k cestě na opuštěný ostrůvek, vymyslíte jistě více jiných vhodných motivací. Má některá z postav záhadně zmizelého předka vynálezce? Ztratil se na ostrůvku někdo postavám známý? Snaží se postavy dlouhodobě získat převahu ve vleklé a vyrovnané válce? Ztroskotaly postavy na ostrůvku během bouře? Vydaly se tam s původně zcela jiným posláním?
+
+Je zde možnost sehrát dobrodružství více jako survival a nechat postavy na ostrůvku bez jejich loďky a možnosti snadného úniku. Nutnost vymyslet a zrealizovat jinou cestu na pevninu může být zajímavá, ale je to již trochu o něčem jiném, než o rozkrývání tajemství ztracené vzducholodi.
+
+Využijete-li přiložené zápisy z deníku, nahraďte jejich čísla pro vás zajímavými daty.
