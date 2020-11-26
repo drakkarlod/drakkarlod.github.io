@@ -6,23 +6,40 @@ tags: literatura
 published: true
 ---
 > Po modrém blankytu bělavé páry hynou,
-lehounký větřík s nimi hraje;
-a vysoko - v daleké kraje
-bílé obláčky dálným nebem plynou,
-a smutný vězeň takto mluví k nim:
-"Vy jež dalekosáhlým během svým,
-co ramenem tajemným zemi objímáte,
-vy hvězdy rozplynulé, stíny modra nebe,
-vy truchlenci, jež rozsmutnivše sebe,
-v tiché se slzy celí rozplýváte,
-vás já jsem posly volil mezi všemi.
-Kudy plynete u dlouhém, dálném běhu,
-i tam, kde svého naleznete břehu,
-tam na své pouti pozdravujte zemi.
-Ach zemi krásnou, zemi milovanou,
-kolébku mou i hrob můj, matku mou,
-vlast jedinou i v dědictví mi danou,
-šírou tu zemi, zemi jedinou! 
+
+> lehounký větřík s nimi hraje;
+
+> > a vysoko - v daleké kraje
+
+> bílé obláčky dálným nebem plynou,
+
+> a smutný vězeň takto mluví k nim:
+
+> "Vy jež dalekosáhlým během svým,
+
+> co ramenem tajemným zemi objímáte,
+
+> vy hvězdy rozplynulé, stíny modra nebe,
+
+> vy truchlenci, jež rozsmutnivše sebe,
+
+> v tiché se slzy celí rozplýváte,
+
+> vás já jsem posly volil mezi všemi.
+
+> Kudy plynete u dlouhém, dálném běhu,
+
+> i tam, kde svého naleznete břehu,
+
+> tam na své pouti pozdravujte zemi.
+
+> Ach zemi krásnou, zemi milovanou,
+
+> kolébku mou i hrob můj, matku mou,
+
+> vlast jedinou i v dědictví mi danou,
+
+> šírou tu zemi, zemi jedinou! 
 
 <div>&nbsp;</div>
 
@@ -221,4 +238,3 @@ Takže, metoda z romantické doby nás naučila, že jakkoli je scéna reálná 
 Dnešní rada pro vypravěče může být proto dost jednoduchá: 
 
 Nepodceňujte popisy ve vašem příběhu, mohou mít totiž více než jednu funkci. Nemohou změnit děj příběhu, ale mohou změnit jeho význam a vnímání.
-
