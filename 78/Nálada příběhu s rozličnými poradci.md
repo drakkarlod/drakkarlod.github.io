@@ -199,12 +199,12 @@ Ale nedá se nic dělat; jakkoli je to omyl, je to omyl skálopevně vžitý a m
 
 Neméně užitečný seznam rekvizit gotického románu stvořil padesát let po Lovecrfatovi nějaký pan Brendan Hennessy, autor pojednání The Gothic Novel, 1978. Hlavně je na něm zajímavé, že se nedrží jen interiéru gotického hradu a všímá si i exteriérových rekvizit: 
 
-- přírodní scenérie je podobně dramatická a pitoreskní
-- hluboké, temné lesy pokrývají horské stráně 
-- povětří je neklidné a blíží se bouře 
-- kolem hradu spatříme kroužit tajemně a zároveň hrozivě vyhlížející ptáky 
-- z lesa se bude ozývat houkání sov a nad hlavou se nám zatřepotá několik netopýrů 
-- celou scénu pak nechme osvětlovat měsícem v úplňku, jehož paprsky, krom svící a pochodní, poskytnou také trochu světla uvnitř temného hradu
+- *přírodní scenérie je podobně dramatická a pitoreskní*
+- *hluboké, temné lesy pokrývají horské stráně* 
+- *povětří je neklidné a blíží se bouře* 
+- *kolem hradu spatříme kroužit tajemně a zároveň hrozivě vyhlížející ptáky* 
+- *z lesa se bude ozývat houkání sov a nad hlavou se nám zatřepotá několik netopýrů* 
+- *celou scénu pak nechme osvětlovat měsícem v úplňku, jehož paprsky, krom svící a pochodní, poskytnou také trochu světla uvnitř temného hradu*
 
 <div>&nbsp;</div>
 
