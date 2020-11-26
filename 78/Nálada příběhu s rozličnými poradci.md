@@ -6,39 +6,39 @@ tags: literatura
 published: true
 ---
 > Po modrém blankytu bělavé páry hynou,
-
+>
 > lehounký větřík s nimi hraje;
-
-> > a vysoko - v daleké kraje
-
+>
+> a vysoko - v daleké kraje
+>
 > bílé obláčky dálným nebem plynou,
-
+>
 > a smutný vězeň takto mluví k nim:
-
+>
 > "Vy jež dalekosáhlým během svým,
-
+>
 > co ramenem tajemným zemi objímáte,
-
+>
 > vy hvězdy rozplynulé, stíny modra nebe,
-
+>
 > vy truchlenci, jež rozsmutnivše sebe,
-
+>
 > v tiché se slzy celí rozplýváte,
-
+>
 > vás já jsem posly volil mezi všemi.
-
+>
 > Kudy plynete u dlouhém, dálném běhu,
-
+>
 > i tam, kde svého naleznete břehu,
-
+>
 > tam na své pouti pozdravujte zemi.
-
+>
 > Ach zemi krásnou, zemi milovanou,
-
+>
 > kolébku mou i hrob můj, matku mou,
-
+>
 > vlast jedinou i v dědictví mi danou,
-
+>
 > šírou tu zemi, zemi jedinou! 
 
 <div>&nbsp;</div>
@@ -77,7 +77,10 @@ Zbývá už jen dodat, že děj sám je naprosto stejný, nic jsme nezměnili. Z
 
 Pokud jsou náladotvorné popisy statická záležitost, potom lze zkoumat úplně stejně skutečné romantické plátno z podobné doby:
  
-![p01.jpg]({{site.baseurl}}/78/p01.jpg)
+![Romantické plátno]({{site.baseurl}}/78/p01.jpg)
+
+<div>&nbsp;</div>
+
 
 Možná v první chvíli dumáte, ke kterému Tolkienovu příběhu tahle úžasná věc patří. Je to snad město Osgiliath vedle řeky Anduiny před jeho zničením? 
 Modří už tuší, že je to jinak, a sledují stopu básníka Máchy v obláčcích, které dálným nebem plynou. Ano, přesně tak; jsou to docela prostě Litoměřice v 19. století. 
