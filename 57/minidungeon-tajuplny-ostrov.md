@@ -15,8 +15,9 @@ Vesničané z nedaleké vesnice jsou z toho vyděšení. Říkají, že v té ho
 
 Ať je to, co je to, vy v tom vidíte příležitost. Jste si jistí, že nalezení jádra hvězdy bude znamenat nalezení velkého bohatství – ať už světského, nebo magického. 
 
-> dobrodružství pro postavy na 1. – 3. úrovni
-> pro Old School Essentials (konverze na DnD 5e v závěru)
+> Dobrodružství pro postavy na 1. – 3. úrovni
+
+> Pro Old School Essentials (konverze na DnD 5e v závěru)
  
 ## Popis oblastí chrámu
 **1)** Kamenné dveře. Nezdobené, ošlehané počasím a opotřebované častým používáním. Jdou snadno otevřít. V chodbě jsou dva výklenky a v nich obětní misky – zbytky starých svící, kadidla, suché rozpadající se květy, zašlé měďáky.
@@ -63,9 +64,10 @@ Ať je to, co je to, vy v tom vidíte příležitost. Jste si jistí, že naleze
 <div>&nbsp;</div>
 **15)** Pokladnice chráněná masivními bronzovými dveřmi. Ty mají složitý zámek, dají se vysadit opravdu velkou silou nebo poškodit výbuchem přístroje v **14**. V pokladnici jsou šperky v ceně 400 zl, masivní pozlacená harfa (400 zl), souprava stříbrného ceremoniálního nádobí (150 zl), rituální dýka se smaragdem (100 zl) a magický **modlitební mlýnek** (500 zl).
 
+<div>&nbsp;</div>
 ###Vesmírný rytíř
 
-**Lidská postava vysoká skoro dva metry v podivné oranžové zbroji. Nevypadá jako kovová, ale jako jakási zvláštní kůže, ohebná, a přitom odolná. Trčí z ní hadice a na taštičkách září krystaly a sklíčka. Ale nejhorší je helma – pod nápisem z rudých, neznámých run je lesklý, neprůhledný kryt, který si Rytíř zvedne a odhalí skleněnou baňku skrývající vybělenou lebku. Ať je to, co je to, je to mrtvé – ale tato skutečnost mu v ničem nepřekáží. **
+**Lidská postava vysoká skoro dva metry v podivné oranžové zbroji. Nevypadá jako kovová, ale jako jakási zvláštní kůže, ohebná, a přitom odolná. Trčí z ní hadice a na taštičkách září krystaly a sklíčka. Ale nejhorší je helma – pod nápisem z rudých, neznámých run je lesklý, neprůhledný kryt, který si Rytíř zvedne a odhalí skleněnou baňku skrývající vybělenou lebku. Ať je to, co je to, je to mrtvé – ale tato skutečnost mu v ničem nepřekáží.**
 
 <div>&nbsp;</div>
 Vesmírný muž není nemrtvý. Kosmonaut ukrytý v skafandru mrtvý je, ale kombinace záchranné technologie pro případ ztroskotání a účinky energií Chaosu udržují skafandr v chodu bez přičinění mrtvoly uvnitř. Program je silně narušený, proto neregistruje, že muž je mrtvý, udržuje záchranný maják v chodu a je příčinou bizarního chování: rytíř se pokusí zabít jakoukoliv živou bytost, kterou spatří.
@@ -81,26 +83,38 @@ Hrubě zpracovaný vojenský přístroj natřený khaki barvou. Kovová bedna s 
 Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud se v jeho okolí do 50 stop objeví bytost chaotického přesvědčení, hlasitě se roztočí (zvuk silou a tónem připomínající řehtačku) a sešle na svého nositele kouzlo Požehnání (Bless). Tuto schopnost má až třikrát denně, dobíjí se za úsvitu. Jeho vlastnosti jsou automatické a nejdou vypnout ani jinak ovládat.
 
 <div>&nbsp;</div>
+
 ###Statistiky monster:
+
 ***Old School Essentials (kompatibilní s B/X Dungeons and Dragons a jeho klony)***
 
 <div>&nbsp;</div>
 **Strážce**
+
 Konstrukt ze dřeva a látky
+
 AC 7 [12], HD 2+2 (11hp), Att 1 × fist (1d8), THAC0 17 [+2], MV 120’ (40’), SV D12 W13 P14 B15 S16 (1), ML 12, AL Lawful, XP 25, NA 1 (1), TT None
+
 Hořlavý: -2 k záchraně proti ohni, za každou kostku zranění ohněm dostávají +1 bod zranění
  
 <div>&nbsp;</div>
 **Vesmírný rytíř**
+
 Imunita vůči nemagickým zbraním, ohni, kyselině. Odolnost vůči mrazu a elektřině. Nepůsobí na něj kouzla Charm, Hold a Sleep, nepůsobí na něj odvracení nemrtvých.
+
 AC 0 [19], HD 20** (100hp), Att 2 × fist (4d10), THAC0 6 [+13], MV 120’ (40’), SV D6 W7 P8 B8 S10 (10), ML 12, AL Chaotic, XP 4,300, NA 1 (1), TT None
 Iniciativa: -1 postih kvůli pomalému pohybu
-Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva cíle v těsné blízkosti
- <div>&nbsp;</div>
 
-***Konverze pro Dungeons and Dragons 5e
-Pozn. autora: v systému DnD 5e netestováno, následující statistiky berte pouze jako doporučení.***
+Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva cíle v těsné blízkosti
+
+<div>&nbsp;</div>
+
+***Konverze pro Dungeons and Dragons 5e***
+
+*Pozn. autora: v systému DnD 5e netestováno, následující statistiky berte pouze jako doporučení.*
+
 **Strážce** – statistiky jako Animated Armor (Oživlá zbroj) z Monster Manual
+
 **Vesmírný rytíř** – statistiky jako Iron Golem z Monster Manual, ale bez útoku mečem a jedovým dechem.
 **Záchrana proti jedu (v místnosti 13):** záchranný hod proti obratnosti s obtížností 17, jinak zranění 1d10 jedem a postava je otrávena na příští hodinu.
  
