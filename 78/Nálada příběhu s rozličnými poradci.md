@@ -86,11 +86,11 @@ To namaloval Lepiého současník, Julius Theodor Gruss. Obraz těchže Litomě�
 U Vězňů času vznikl takovýto popis, aniž jsem tehdy ještě znal Grussův obraz: 
 
 <div>&nbsp;</div>
-*Litoměřice byly velkolepé. 
+> Litoměřice byly velkolepé. 
 Rozložily se úplně dole pod Severními horami a nad řekou Labem, která tekla těsně pod městem na jižní straně. Ať už vytvořil Severní hory kdokoli, dal jasně najevo, že přesně na tomto místě kopce skončily a bez jakéhokoli varování je proměnil na rovinu. Pro jistotu rovinu a kopce ještě navzájem důkladně oddělil širokým pásem řeky.
-A právě místo, kde hory končily a padaly do Labe, si vybrali dávní obyvatelé země ke stavbě pevnosti. Hrad, dnes již poněkud chátrající, stál na jednom menším kopci přímo nad řekou. Postupně se proměnil v sídlo církevní kapituly, s velkým kamenným chrámem a několika dalšími budovami. Také už ho pomalu přestali nazývat hradem a stále častěji se mluvilo o vrchu svatého Štěpána. Kopec to byl ovšem nevelký a poskytoval nahoře jen velmi málo místa k dalšímu rozvoji.*
+A právě místo, kde hory končily a padaly do Labe, si vybrali dávní obyvatelé země ke stavbě pevnosti. Hrad, dnes již poněkud chátrající, stál na jednom menším kopci přímo nad řekou. Postupně se proměnil v sídlo církevní kapituly, s velkým kamenným chrámem a několika dalšími budovami. Také už ho pomalu přestali nazývat hradem a stále častěji se mluvilo o vrchu svatého Štěpána. Kopec to byl ovšem nevelký a poskytoval nahoře jen velmi málo místa k dalšímu rozvoji.
 
-*Město se proto začalo šířit kus od hradu na vedlejším kopci. Ten druhý vrch proti proudu Labe, mnohem širší a částečně schovaný za tím prvním, vlastně spíše jakási terasa pod horami, zlákal k vybudování tržiště s prvními domy, v několika málo případech dokonce i kamennými. Nevýhodou tohoto širšího kopce ovšem bylo chybějící opevnění; každý dům se musel v případě nouze bránit samostatně, jak bylo tenkrát zvykem.*
+> Město se proto začalo šířit kus od hradu na vedlejším kopci. Ten druhý vrch proti proudu Labe, mnohem širší a částečně schovaný za tím prvním, vlastně spíše jakási terasa pod horami, zlákal k vybudování tržiště s prvními domy, v několika málo případech dokonce i kamennými. Nevýhodou tohoto širšího kopce ovšem bylo chybějící opevnění; každý dům se musel v případě nouze bránit samostatně, jak bylo tenkrát zvykem.
 
 <div>&nbsp;</div>
 
@@ -158,21 +158,26 @@ Ray Bradbury a mnoho velkých spisovatelů právě proto zdůrazňovali **sílu 
 
 Detail má zvláštní naléhavost právě tím, že se to od něj neočekává. Od dominantního celku automaticky čekáme, že v popisu bude; takže mu moc nevěnujeme pozornost. Detail, který je takto vytažený a zdůrazněný, vzbuzuje pozornost větší; proč tam vlastně je?
 
-
 Na Grussově obraze Litoměřic sedí úplně vpředu na lavičce nějaký muž v klobouku a vedle něho je dítě. Předpokládám, že to byla nedůležitá stafáž pro oživení. Ale kdybychom tento malinký detail v literárním popisu zachovali, lze snadno rozvíjet příběh, že je to starý plavec, který vypráví tomu klukovi o svých cestách, například.  Tím se detail stane důležitý a v dalším ději se může posunout úplně do hlavní role. 
 
-V. 
-V literatuře zkoumal podobné techniky jeden náš starý známý jménem H. P. Lovecraft. A tentokrát nikoli jako autor, který samozřejmě také podobné věci dělal, ale jako badatel. Hledal kořeny své oblíbené literatury a nalezl je v gotickém románu. 
-To je jeden z hlavních objevů eseje Hrůza a nadpřirozeno v literatuře (česky ve sbírce Bezejmenné město). Nechme stranou otázku, zda ty kořeny nesahají ještě daleko dál, a vyjděme z Lovecraftovy téze, že vlastně veškerá fantastická literatura, obsahující nějaké nadpřirozeno - tedy dnešním jazykem scifi, fantazy, horor, historická fikce s fantastickými prvky a paradoxně i zamilovaný román - začala u Otrantského zámku, který vydal pan Horace Walpole roku 1764. 
-Po Walpolovi samozřejmě následovala lavina jeho následovníků, s překvapivě vysokým procentem významných spisovatelek. V roce 1820 vydáním Maturinova Poutníka Melmotha potom tato slavná zakladatelská epocha končí. Gotické romány tím nezmizely, ale začaly se vnitřně dělit mezi zmíněné dceřinné fantastické žánry, které si od té doby nesou stále techniky a nápady, které pocházejí z těchto dávných dob. A občas někdo s velkým úspěchem připomněl gotický román v plném lesku, i když třeba s ohromným zpožděním. Třeba takový Dracula, nebo Interwiew s upírem. A koho zajímá názor kritiky, že ta nemožně zastaralá forma už dávno nemůže nikoho bavit. 
+## V. 
+
+V literatuře zkoumal podobné techniky jeden náš [starý známý](https://drakkar.sk/13/lovecraftova-strasidla.html) jménem H. P. Lovecraft. A tentokrát nikoli jako autor, který samozřejmě také podobné věci dělal, ale jako badatel. Hledal kořeny své oblíbené literatury a nalezl je v gotickém románu. 
+To je jeden z hlavních objevů eseje Hrůza a nadpřirozeno v literatuře (česky ve sbírce [Bezejmenné město](https://www.databazeknih.cz/knihy/bezejmenne-mesto-a-jine-povidky-3674)). Nechme stranou otázku, zda ty kořeny nesahají ještě daleko dál, a vyjděme z Lovecraftovy téze, že vlastně veškerá fantastická literatura, obsahující nějaké nadpřirozeno - tedy dnešním jazykem scifi, fantazy, horor, historická fikce s fantastickými prvky a paradoxně i zamilovaný román - začala u [Otrantského zámku](https://www.databazeknih.cz/knihy/otrantsky-zamek-452347), který vydal pan Horace Walpole roku 1764.
+
+Po Walpolovi samozřejmě následovala lavina jeho následovníků, s překvapivě vysokým procentem významných spisovatelek. V roce 1820 vydáním Maturinova [Poutníka Melmotha](https://www.databazeknih.cz/knihy/poutnik-melmoth-113330) potom tato slavná zakladatelská epocha končí. Gotické romány tím nezmizely, ale začaly se vnitřně dělit mezi zmíněné dceřinné fantastické žánry, které si od té doby nesou stále techniky a nápady, které pocházejí z těchto dávných dob. A občas někdo s velkým úspěchem připomněl gotický román v plném lesku, i když třeba s ohromným zpožděním. Třeba takový [Dracula](https://drakkar.sk/70/uzitecnost-upira-pro-analyzu-archetypu.html), nebo Interwiew s upírem. A koho zajímá názor kritiky, že ta nemožně zastaralá forma už dávno nemůže nikoho bavit.
+
 Potud malé opakování pro ty, co buď nedávali ve škole pozor, anebo jim to učitelé z vrozené zlomyslnosti nějak zatajili.
+
 Pro nás je důležité, že H. P. Lovecraft s odstupem sta let, kdy nad tím přemýšlel, charakterizuje prvky gotického románu takto:
 
-K těmto novým dramatickým náležitostem patřil především gotický hrad se svou bázeň vzbuzující starobylostí, nekonečnými bludnými chodbami, opuštěnými či zborcenými křídly, vlhkými průchody, nezdravými tajnými katakombami a galaxií strašidel a děsivých pověstí, jenž se stával ohniskem napětí a démonického děsu. 
+> K těmto novým dramatickým náležitostem patřil především gotický hrad se svou bázeň vzbuzující starobylostí, nekonečnými bludnými chodbami, opuštěnými či zborcenými křídly, vlhkými průchody, nezdravými tajnými katakombami a galaxií strašidel a děsivých pověstí, jenž se stával ohniskem napětí a démonického děsu.
 
-Dále sem patřili tyranský a zlovolný šlechtic v roli padoucha, svatouškovská pronásledovaná hrdinka, jenž postupuje největší hrůzy, a z jejíž pozice je děj nazírán, takže slouží jako ohnisko čtenářových sympatií, udatný hrdina bez bázně a hany, vždy urozený, avšak často ve skromném přestrojení. 
+> Dále sem patřili tyranský a zlovolný šlechtic v roli padoucha, svatouškovská pronásledovaná hrdinka, jenž postupuje největší hrůzy, a z jejíž pozice je děj nazírán, takže slouží jako ohnisko čtenářových sympatií, udatný hrdina bez bázně a hany, vždy urozený, avšak často ve skromném přestrojení. 
 
-Konvence vznešeně znějících cizích jmen postav, ponejvíce italských a nekonečná spousta rekvizit, k nimž patří záhadná světla, vlhké padací dveře, zhasínající lampy, plesnivé ukryté rukopisy, vrzající panty, vlnící se zástěny a podobně.
+> Konvence vznešeně znějících cizích jmen postav, ponejvíce italských a nekonečná spousta rekvizit, k nimž patří záhadná světla, vlhké padací dveře, zhasínající lampy, plesnivé ukryté rukopisy, vrzající panty, vlnící se zástěny a podobně.
+
+<div>&nbsp;</div>
 
 Kdo čte tento seznam po předchozím výletu k romantickým malířům, začíná tušit. Ano, to vše tam není jen tak pro dodržení nějakých konvencí žánru, jak by se zdálo, ale proto, že je to osvědčené a vyzkoušené, jako ty bílé obláčky, co dálným nebem plynou. Něco to dělá a má to funkci; maluje to náladu. 
 
@@ -188,14 +193,20 @@ Ona ostatně i gotika jako taková je označení, které bylo použito v histori
 
 Ale nedá se nic dělat; jakkoli je to omyl, je to omyl skálopevně vžitý a masově sdílený. Gotika je prostě čímsi strašidelná a horor bez starodávných rekvizit z gotického románu vnímá publikum jako nedostatečný. A všechno to funguje a náladu to dělá, a to je hlavní, co potřebujete vědět. Dejte tam klaustrofobně uzavřenou dlouhou chodbu, která se všelijak lomí a za rohem na vás může něco bafnout, přidejte umělé osvětlení, případně nějaké ty zlověstné zvuky a za okny burácející bouři, do toho dejte sympatickou hrdinku, a výsledek je málem zaručen. 
 
-VI. 
+<div>&nbsp;</div>
+
+## VI. 
+
 Neméně užitečný seznam rekvizit gotického románu stvořil padesát let po Lovecrfatovi nějaký pan Brendan Hennessy, autor pojednání The Gothic Novel, 1978. Hlavně je na něm zajímavé, že se nedrží jen interiéru gotického hradu a všímá si i exteriérových rekvizit: 
--	přírodní scenérie je podobně dramatická a pitoreskní
--	hluboké, temné lesy pokrývají horské stráně 
--	povětří je neklidné a blíží se bouře 
--	kolem hradu spatříme kroužit tajemně a zároveň hrozivě vyhlížející ptáky 
--	z lesa se bude ozývat houkání sov a nad hlavou se nám zatřepotá několik netopýrů 
--	celou scénu pak nechme osvětlovat měsícem v úplňku, jehož paprsky, krom svící a pochodní, poskytnou také trochu světla uvnitř temného hradu
+
+- přírodní scenérie je podobně dramatická a pitoreskní
+- hluboké, temné lesy pokrývají horské stráně 
+- povětří je neklidné a blíží se bouře 
+- kolem hradu spatříme kroužit tajemně a zároveň hrozivě vyhlížející ptáky 
+- z lesa se bude ozývat houkání sov a nad hlavou se nám zatřepotá několik netopýrů 
+- celou scénu pak nechme osvětlovat měsícem v úplňku, jehož paprsky, krom svící a pochodní, poskytnou také trochu světla uvnitř temného hradu
+
+<div>&nbsp;</div>
 
 Tady se můžeme rozletět dál, k obecnějším principům, využitelným prakticky u jakéhokoli druhu literatury. Třeba i úplně realistické, „vážné“ čili mainstreamové. 
 
@@ -208,5 +219,6 @@ A nikoli náhodou to připomíná vyprávěcí metodu literární beletrie, kter
 Takže, metoda z romantické doby nás naučila, že jakkoli je scéna reálná a daná, jakkoli chceme dodržet realitu nebo lore daného fantastického světa, přesto nám to nikdy nezabrání si to všechno natočit z toho nejlepšího úhlu, vyprávět události z nejzajímavějšího konce, zdůraznili ty nejzajímavější detaily. Případně detaily, které právě potřebujete, a hrají nějakou roli ve vašem příběhu. 
 
 Dnešní rada pro vypravěče může být proto dost jednoduchá: 
+
 Nepodceňujte popisy ve vašem příběhu, mohou mít totiž více než jednu funkci. Nemohou změnit děj příběhu, ale mohou změnit jeho význam a vnímání.
 
