@@ -77,7 +77,7 @@ Zbývá už jen dodat, že děj sám je naprosto stejný, nic jsme nezměnili. Z
 
 Pokud jsou náladotvorné popisy statická záležitost, potom lze zkoumat úplně stejně skutečné romantické plátno z podobné doby:
  
-![Romantické plátno]({{site.baseurl}}/78/p01.jpg)
+![Litoměřice]({{site.baseurl}}/78/p01.jpg)
 
 <div>&nbsp;</div>
 
@@ -99,7 +99,7 @@ Neodpustím si poznámku, že tento obraz by se dal použít jako hodně dobrá 
 
 A všimněte si, že malíř nic takového neřekl; jen maloval mraky a hory a řeku. Všechna vedlejší sdělení - která jsou nakonec docela podstatná - vyrobil natočením úhlu pohledu, ponecháním spousty místa té obloze a zdůrazněním řeky. Pokud někdo nevěří, jak strašně moc nadělá prostý úhel kamery a zvýraznění některých detailů perspektivou, nechť to srovná s tímto pohledem:
 
-![p02.jpg]({{site.baseurl}}/78/p02.jpg)
+![Litoměřice]({{site.baseurl}}/78/p02.jpg)
 
 To namaloval Lepiého současník, Julius Theodor Gruss. Obraz těchže Litoměřic v podobné době, otočený o 90 stupňů, od jihu a více zblízka. Výsledek je také optimistický a romantický, také tu hraje obloha významnou roli, a chtěl by to mít v obýváku kdekdo, ale na nějakého Tolkiena zřejmě ani nevzpomeneme. 
 
@@ -124,7 +124,7 @@ V popise mají proti Grussovi snad trochu větší úlohu ty hory za městem; je
 
 Dejme nyní prostor dalšímu výtečnému romantickému obrazu, tentokrát rovnou z Národní galerie:
 
-![p03.jpg]({{site.baseurl}}/78/p03.jpg)
+![nedaleko Roztok u Prahy]({{site.baseurl}}/78/p03.jpg)
 
 Ne, nikoli, opět není to výjev z Války o prsten někde kus před Minas Tirith, jak byste očekávali. Obraz zachycuje opět naprosto realistické místo vedle Roztok severně u Prahy. Prostě tu projíždí svatební průvod, nic víc a nic méně. To, že je svatební, víme hlavně díky názvu; Selská svatba. Jinak bychom to stěží uhádli, velká veselice to není.
 
@@ -136,7 +136,7 @@ Obraz je také úplně věrná obdoba Poeova Havrana; stejné téma, podobně zp
 
 Poznamenám ještě k tématu oblohy a mraků, že zrovna u Kosárka to bývá opravdu profesorská záležitost, jak ukazuje další výjev:
 
-![p04.jpg]({{site.baseurl}}/78/p04.jpg)
+![obraz Adolfa Kosárka]({{site.baseurl}}/78/p04.jpg)
  
 Tady je dojem ještě jasnější; déšť a bouře odchází pryč, mraky se trhají a světlo brzy dorazí i k té chaloupce vlevo. Úleva po těžké zkoušce, vysvobození, uzdravení. Možná někde v dálce padla nějaká místní Barad Dur.
 
@@ -192,9 +192,9 @@ Potud malé opakování pro ty, co buď nedávali ve škole pozor, anebo jim to 
 Pro nás je důležité, že H. P. Lovecraft s odstupem sta let, kdy nad tím přemýšlel, charakterizuje prvky gotického románu takto:
 
 > K těmto novým dramatickým náležitostem patřil především gotický hrad se svou bázeň vzbuzující starobylostí, nekonečnými bludnými chodbami, opuštěnými či zborcenými křídly, vlhkými průchody, nezdravými tajnými katakombami a galaxií strašidel a děsivých pověstí, jenž se stával ohniskem napětí a démonického děsu.
-
+>
 > Dále sem patřili tyranský a zlovolný šlechtic v roli padoucha, svatouškovská pronásledovaná hrdinka, jenž postupuje největší hrůzy, a z jejíž pozice je děj nazírán, takže slouží jako ohnisko čtenářových sympatií, udatný hrdina bez bázně a hany, vždy urozený, avšak často ve skromném přestrojení. 
-
+>
 > Konvence vznešeně znějících cizích jmen postav, ponejvíce italských a nekonečná spousta rekvizit, k nimž patří záhadná světla, vlhké padací dveře, zhasínající lampy, plesnivé ukryté rukopisy, vrzající panty, vlnící se zástěny a podobně.
 
 <div>&nbsp;</div>
