@@ -65,7 +65,8 @@ Ať je to, co je to, vy v tom vidíte příležitost. Jste si jistí, že naleze
 **15)** Pokladnice chráněná masivními bronzovými dveřmi. Ty mají složitý zámek, dají se vysadit opravdu velkou silou nebo poškodit výbuchem přístroje v **14**. V pokladnici jsou šperky v ceně 400 zl, masivní pozlacená harfa (400 zl), souprava stříbrného ceremoniálního nádobí (150 zl), rituální dýka se smaragdem (100 zl) a magický **modlitební mlýnek** (500 zl).
 
 <div>&nbsp;</div>
-###Vesmírný rytíř
+
+### Vesmírný rytíř
 
 **Lidská postava vysoká skoro dva metry v podivné oranžové zbroji. Nevypadá jako kovová, ale jako jakási zvláštní kůže, ohebná, a přitom odolná. Trčí z ní hadice a na taštičkách září krystaly a sklíčka. Ale nejhorší je helma – pod nápisem z rudých, neznámých run je lesklý, neprůhledný kryt, který si Rytíř zvedne a odhalí skleněnou baňku skrývající vybělenou lebku. Ať je to, co je to, je to mrtvé – ale tato skutečnost mu v ničem nepřekáží.**
 
@@ -84,7 +85,7 @@ Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud
 
 <div>&nbsp;</div>
 
-###Statistiky monster:
+### Statistiky monster:
 
 ***Old School Essentials (kompatibilní s B/X Dungeons and Dragons a jeho klony)***
 
@@ -113,6 +114,7 @@ Dva útoky za kolo: může útočit dvakrát na jeden cíl, nebo jednou na dva c
 
 *Pozn. autora: v systému DnD 5e netestováno, následující statistiky berte pouze jako doporučení.*
 
+<div>&nbsp;</div>
 **Strážce** – statistiky jako Animated Armor (Oživlá zbroj) z Monster Manual
 
 **Vesmírný rytíř** – statistiky jako Iron Golem z Monster Manual, ale bez útoku mečem a jedovým dechem.
