@@ -49,6 +49,10 @@
 
 <div>&nbsp;</div>
 
+![chram_padajici_hvezdy_mapa.jpg]({{site.baseurl}}/78/chram_padajici_hvezdy_mapa.jpg)
+
+<div>&nbsp;</div>
+
 ### Vesmírný rytíř
 
 **Lidská postava vysoká skoro dva metry v podivné oranžové zbroji. Nevypadá jako kovová, ale jako jakási zvláštní kůže, ohebná, a přitom odolná. Trčí z ní hadice a na taštičkách září krystaly a sklíčka. Ale nejhorší je helma – pod nápisem z rudých, neznámých run je lesklý, neprůhledný kryt, který si Rytíř zvedne a odhalí skleněnou baňku skrývající vybělenou lebku. Ať je to, co je to, je to mrtvé – ale tato skutečnost mu v ničem nepřekáží.**
