@@ -85,7 +85,7 @@ Drobný kouzelný artefakt, předmět vyrobený poustevníky bohů Řádu. Pokud
 
 <div>&nbsp;</div>
 
-### Statistiky monster:
+### Statistiky monster
 
 ***Old School Essentials (kompatibilní s B/X Dungeons and Dragons a jeho klony)***
 
