@@ -1,6 +1,10 @@
 ---
 Title: Chrám padlé hvězdy
-
+published: true
+layout: article
+authors: Vandalicus
+tags: materiály a doplňky
+summary: ''
 ---
 
 > Dobrodružství pro postavy na 1. – 3. úrovni
