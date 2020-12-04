@@ -2,7 +2,8 @@
 Title: Jarošova šlamastika
 layout: article
 authors: Ján “Crowen” Rosa
-tags:  ‘literatura, povídka‘
+tags: '‘literatura, povídka‘'
+published: true
 ---
 
 
