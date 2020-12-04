@@ -91,6 +91,7 @@ Barbarič so Steinom na seba pozreli.
 “Bohdan,” prehovoril ťažkým hlasom Barbarič, “žiadne dievča nie je. Ani kríž. Ani dievčenské telo. Je len pivnica vymaľovaná krvou, rozbitý stôl, rozhádzané karty a čaše na víno. Služobníctvo tvrdí, že páni sa často pri kartách a pijatike stretávali.”
 
 “Tak ich treba lepšie vyspovedať!” zreval Jaroš. “Kapitán, nájdite to dievča! Potvrdí moje slová.” 
+
 Na chvíľu sa odmlčal. Stein ani Barbarič ho už nesúrili. Prižmúril oči, spomínal.
 
 “Trochu nižšia ako ja. Plavé vlasy po plecia. Materské znamienko na ľavom prsníku. Nevyzerala ako sedliačka, skôr ako z bohatej rodiny. Dobitá, dorezaná, popálená. Tie zranenia sa jej ešte za tých pár dní nemohli zahojiť.”
