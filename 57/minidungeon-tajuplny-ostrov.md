@@ -6,7 +6,8 @@ tags: 'doplňky a materiály, minidungeon'
 series: Minidungeony
 published: true
 ---
-> Úvod poviedky napísal Juraj Červenák v rámci súťaže organizovanej Martinusom, Červenákove písačky zábavné. > Poviedka je na motívy knižnej série Kapitán Stein a notár Barbarič. 
+> Úvod poviedky napísal Juraj Červenák v rámci súťaže organizovanej Martinusom, Červenákove písačky zábavné. > 
+> Poviedka je na motívy knižnej série Kapitán Stein a notár Barbarič. 
 
 <div>&nbsp;</div>
 
