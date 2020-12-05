@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: Ecthelion²
+tags: 'Ravnburgh, doplněk'
+published: false
 ---
