@@ -1,3 +1,6 @@
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+---
+layout: article
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
+---
