@@ -1,6 +1,7 @@
+
 ---
 layout: article
 title: Ravnburgh: Bohové Zrcadlového dvora (kult Zrcadlového dvora)
 authors: Ecthelion²
-tags: štítek, další štítek
+tags: 'Ravnburgh, doplněk'
 ---
