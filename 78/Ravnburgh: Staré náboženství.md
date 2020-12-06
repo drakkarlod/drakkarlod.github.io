@@ -11,6 +11,8 @@ summary: >-
 ---
 _Mezi trojici stojících prastarých balvanů, porostlých mechem a lišejníkem, vstoupila kněžka v bílém rouchu. Tvář ji kryla jelení lebka a na rozích byly pověšené malé zvonky, které cinkaly, jak dívka šla. Temnota halila tváře těch, kteří stáli na stranách a jen kmitavý svit pochodní a srpek měsíce ozařoval prostranství mezi kameny. Přistoupila ke krávě, která byla uvázána uprostřed a pohladila ji. Pak zvedla do výše prastarý nůž, aby jej všichni viděli:_ „Her bið feoh læne, her bið freond læne, her bið mon læne, her bið mæg læne, eal þis eorþan gesteal idel weorþeð!" _Sbor hlasů jí odpověděl:_ „Oft him anhaga are gebideð, metudes miltse."_Kněžka jediným zkušeným pohybem podřízla dobytčeti krk:_ „Fore Síthwíf!" _Zatímco kráva žalostně bučela a padla na kolena, dívka v bílé říze zachytila její krev do měděné misky. Lidé ze tmy jeden po druhém začali vystupovat na osvětlené prostranství, aby jim kněžka krví namalovala na čelo symbol bohyně..._ 
 
+![Symbol bohyně]({{site.baseurl}}/78/bohyne_symbol.jpg)
+
 Kult Bezejmenné bohyně byl uctíván ve známých zemích předtím, než před několika sty lety přišli z východu noví lidé se svou vírou v bohy Zrcadlového dvora. Nově příchozí porazili místní a usídlili se těchto zemích i se svou vírou, která nahradila Staré náboženství. To dnes vyznává už jen malý zlomek lidí, a to většinou jen potají, protože je v očích většiny opovrhované. 
 
 Ozvěnou tohoto dávného zápasu je mýtus o Válce v nebesích, který vypráví o tom, jak nově příchozí bohové porazili Bezejmennou bohyni (které následovníci bohů Zrcadlového dvora říkají Sigref nebo Irrkela) a zahnali ji do zásvětí, kterému dodnes vládne. Zařadili ji tak vlastně do svého pantheonu, ale nepřinášejí jí žádné oběti, bojí se jí a nenávidí ji. 
@@ -35,6 +37,8 @@ Tyto tři velké svátky doplňují tři menší, které doplňují dvě trojice
 
 Symbolem Bezejmenné a symbolem celé víry je trojúhelník postavený na hrot (každý hrot představuje jednu z podob bohyně, hrot, který míří dolů je země, oba hroty nahoru jsou slunce a měsíc). Trojúhelník je vepsaný do kruhu (představujícího jednotu mezi všemi třemi podobami a v podobě bohyně celý svět jako takový). 
 
+![Soška bohyně]({{site.baseurl}}/78/_trojice.jpg)
+
 Věřící u sebe často nosí náramek _þriligu_ spletený ze tří pramenů, který představuje jejich víru v Trojjedinou a blízkost, kterou k ní mají. Jednoduché _þriligu_ jsou často jen tři šňůrky spletené dohromady, opravdové pak mají vpleteny drobné korále a mince, které mají různé významy a mají nositele chránit před zlem a přinést jim přízeň _weardas._ Ti, kdo Bezejmennou následují otevřeně, nosí _þriligu_ většinou na levé ruce (blíže srdci). Ostatní jej nosí ukrytý v kapsách nebo všitý do lemu oblečení, aby nemohl být objeven. 
 
 _„Hej! To je jeden z nich!" Všichni v hostinci zvedli hlavu a upřeli pohled na mladíka u baru, který vypadal značně nejistě při vší té pozornosti. Hostinský na něj ukazoval rozhořčeně rukou: „Viděl jsem ten jejich náramek, jak se natáh pro pití! Uctívaj bohyni smrti a přinášej neštěstí! Kam jdou, tam krávy nemaj mlíko a slepice nenesou!" Mladík se zvedl, aby něco řekl, ale sbor rozzuřených hlasů ho přehlušil. Měl u sebe nebezpečně vypadající meč, ale vesničanů byla příliš velká přesila. Hostinský shodil na zem korbel s pivem, který stál před cizincem: „Pro tebe tu žádný pití není. Koukej zmizet, než tě donutíme." Mladík se rozhlídnul a chvíli s jílcem na meči zvažoval situaci, ale pak přikývnul a odešel. „Rosemary, přines vodu a mejdlo! Musíme vypucovat všechno, čeho se ten spratek dotknul. Leanndu na chůdách! To je den!"_ 
@@ -54,6 +58,8 @@ I v největších městech a jádrových oblastech Říše, kde je víra v Zrcad
 ### Svatyně a chrámy 
 
 Následovníci Bezejmenné na rozdíl od uctívačů bohů a bohyň Zrcadlového dvora nestaví kamenné chrámy a jejich obřady se konají vždy pod otevřeným nebem. Jejich nejposvátnějšími místy, kde se setkávají, aby uctili _Síthwíf_ , jsou trojice vztyčených kamenných bloků zasazených svisle do země, kterým říkají _þrihíwedé_ (_„mající tři formy"_ ve Staré řeči). Ty byly kdysi rozeseté po celé zemi, a přestože mnoho jich bylo vyvráceno a zničeno, další stále stojí, ukryté v lesích a odlehlých krajích. Ti, kteří si uchovali svou víru, k nim podnikají cesty i z velké dálky, aby obětovali Bezejmenné. 
+
+![Zvonky]({{site.baseurl}}/78/_zvonky.jpg)
 
 Dnes se obřady nejčastěji konají pod rouškou tmy u mohutných osamělých stromů nebo hluboko v posvátných hájích, kde jsou účastníci obřadu skryti před pátravými zraky ostatních. 
 
