@@ -7,6 +7,8 @@ published: false
 ---
 _Dea, kněžka Rynfru Ochránkyně, zapálila vonné tyčinky a upravila jejich umístění tak, aby byly ve správné pozici vůči sošce bohyně. Její žluté a modré roucho šustilo a pruhy barvy na jejím obličeji se třpytily ve světle svící. Když bylo vše připraveno, odkryla zrcadlo a uklonila se. Pak klekla před odrazem sochy v zrcadle a jako každý den začala odříkávat ranní modlitby k usmíření bohyně..._ 
 
+![Symbol Zrcadlového dvora]({{site.baseurl}}/78/_obr_02.jpg)
+
 Je to nejrozšířenější náboženství ve známých zemích a bohům. Víru v mnoho bohů, kteří sídlí v Zrcadlovém dvoře, si s sebou přinesli lidé, kteří přišli z východu před několika staletími. Porazili zdejší obyvatele, kteří uctívali Bezejmennou bohyni a usadili se tu. Jejich bohové nahradili oltáře Bezejmenné bohyně, která se v jejich očích stala vládkyní věčné tmy a smrti. Proto uctívači bohů zrcadlového dvora opovrhují těmi, kdo stále přinášejí oběti podle Staré víry. 
 
 Kromě hlavní desítky obsahuje kult Zrcadlového dvora tucty dalších bohů, kteří se jim nemohou rovnat množstvím chrámů, kněžích a následovníků. Obyvatel Říše by měl určitě problém vám je vyjmenovat všechny, protože noví bohové se objevují, získávají na popularitě, upadají v zapomnění a zanikají prakticky každý den. Před dvěma sty lety byli kupříkladu součástí hlavní desítky dva bohové, které tam už dnes nenajdete. Ceto, bůh spravedlnosti, a Yathirr, který býval pravděpodobně bohem spravedlivé války. První je stále uctíván v Owlavine, kde stojí jeho velký chrám a občas lze na jeho malé kaple a kostelíky narazit, takže je stále počítán mezi malé bohy. Druhý ale upadl v zapomnění. Některé jeho aspekty byly začleněny do uctívání Sluneční panny, už ale nemá své chrámy ani kněze, a i mnozí učenci dnes už neznají ani jeho jméno. 
@@ -72,6 +74,8 @@ Bohyně smrti není mezi bohy Zrcadlového dvora počítána, protože přebýv�
 - **Hasur** - Jeho kult byl zrušen a zakázán. Záznamy o něm byly vymazány, sochy rozbity na štěrk, kněží, kteří neutekli, byli upáleni a bylo nařízeno, aby každému, kdo by nahlas vyslovil jeho jméno, byl vytržen jazyk. 
 
 - ... 
+
+![Zrcadlo s emblémy Zrcadlového dvora]({{site.baseurl}}/78/_obr_01.jpg)
 
 ### Svaté dny a svátky 
 
