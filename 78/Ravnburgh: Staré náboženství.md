@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Ravnburgh:_Stare_nabozenstvi_kult_Bezejmenne_bohyne'
+title: Staré náboženství (kult Bezejmenné bohyně)
 authors: Ecthelion²
 tags: 'Ravnburgh, doplněk'
 published: false
