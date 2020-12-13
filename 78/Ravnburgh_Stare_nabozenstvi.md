@@ -3,7 +3,7 @@ layout: article
 title: Staré náboženství (kult Bezejmenné bohyně)
 authors: Ecthelion²
 tags: 'Ravnburgh, doplněk'
-published: false
+published: true
 summary: >-
   Popis původního náboženství, které bylo na kontinentu v Ravnburghu uctíváno.
   Dnes je na okraji společnosti a věřící jsou opovrhování a občas
