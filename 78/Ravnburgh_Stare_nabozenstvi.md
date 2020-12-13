@@ -21,7 +21,7 @@ Bezejmenná je pro své následovníky milosrdná bohyně, která stvořila vše
 
 Pro své následovníky je zdrojem všeho života a po smrti se vše vrací k ní. Stvořila mocné duchy a Strážce, kteří chrání zemi a lidi na ní, zatímco ona spřádá osud celého světa. Věřící se k ní obrací většinou jen v těch nejdůležitějších situacích a jinak dávají přednost získání přízně a pomoci Strážců. 
 
-Ti jsou známí jako _„weardas“_ („Strážci“ ve Staré řeči, singulár je _„weard“_ ) a mají pomáhat lidem a starat se o ně. Nejsou ale božstvy, jsou služebníky bohyně a musí ji poslechnout na slovo. Pomáhají jí svými činy spřádat osud světa. Většina z nich má podobu strašlivých nestvůr a monster, přestože někteří, většinou méně významní (strážkyně pramenů, lesních hájů a podobně) nosí lidem blízké formy, často i krásné. Mnozí jsou aspekty přírody nebo zhmotněním různých částí lidských činností, a když se rozzuří, jsou mocní a nebezpeční. Ægir, strašlivý prastarý kraken a pán moří, který sídlí u dna moří a velryby jsou jeho posly, je uctíván na březích moří a mezi námořníky a je jedním z lépe známých _weardas_. 
+Ti jsou známí jako _„weardas“_ („Strážci“ ve Staré řeči, singulár je _„weard“_) a mají pomáhat lidem a starat se o ně. Nejsou ale božstvy, jsou služebníky bohyně a musí ji poslechnout na slovo. Pomáhají jí svými činy spřádat osud světa. Většina z nich má podobu strašlivých nestvůr a monster, přestože někteří, většinou méně významní (strážkyně pramenů, lesních hájů a podobně) nosí lidem blízké formy, často i krásné. Mnozí jsou aspekty přírody nebo zhmotněním různých částí lidských činností, a když se rozzuří, jsou mocní a nebezpeční. Ægir, strašlivý prastarý kraken a pán moří, který sídlí u dna moří a velryby jsou jeho posly, je uctíván na březích moří a mezi námořníky a je jedním z lépe známých _weardas_. 
 
 Dnes je uctívání _Síthwíf_ a jednotlivých _weardas_ opovrhováno a jejich následovníci často nesmí zastávat veřejné funkce. Otevřeně tak uctívá bohyni jen málo lidí, většinou v odlehlých končinách, mnozí si svou víru ale uchovali v tajnosti. Učenci občas odhadují, že až okolo desetiny obyvatel země ve skrytu následuje víru v Trojjedinou. 
 
@@ -29,15 +29,15 @@ Dnes je uctívání _Síthwíf_ a jednotlivých _weardas_ opovrhováno a jejich 
 
 ### Svaté dny a svátky
 
-Kult Bezejmenné slaví během roku šest velkých svátků. Tři hlavní jsou **letní slunovrat** (_middansumer_ ), **zimní slunovrat** (_middanwinter_ ) a **svátek světel** (_condeledmæle_ ), slavený brzy na jaře. Každý z nich provází pálení ohňů na výšinách, procesí, při kterých kněžky nesou sochy Trojjediné, obětování zvířat a velké hostiny. 
+Kult Bezejmenné slaví během roku šest velkých svátků. Tři hlavní jsou **letní slunovrat** (_middansumer_), **zimní slunovrat** (_middanwinter_) a **svátek světel** (_condeledmæle_), slavený brzy na jaře. Každý z nich provází pálení ohňů na výšinách, procesí, při kterých kněžky nesou sochy Trojjediné, obětování zvířat a velké hostiny. 
 
-Tyto tři velké svátky doplňují tři menší, které doplňují dvě trojice a dělí rok na 6 menších období s vlastní barvou a zvyky, které toto období určují. Tyto tři menší svátky jsou **svátek úplňku** (_mónaþfylen_  ), slavený na konci jara a začátku léta, **svátek sklizně** (_onríptíd_ ) na konci léta a začátku podzimu a **svátek strážců** (_weardedmæle_ ) na konci podzimu a začátku zimy.  
+Tyto tři velké svátky doplňují tři menší, které doplňují dvě trojice a dělí rok na 6 menších období s vlastní barvou a zvyky, které toto období určují. Tyto tři menší svátky jsou **svátek úplňku** (_mónaþfylen_), slavený na konci jara a začátku léta, **svátek sklizně** (_onríptíd_) na konci léta a začátku podzimu a **svátek strážců** (_weardedmæle_) na konci podzimu a začátku zimy.  
 
 ### Symboly
 
 Symbolem Bezejmenné a symbolem celé víry je trojúhelník postavený na hrot (každý hrot představuje jednu z podob bohyně, hrot, který míří dolů je země, oba hroty nahoru jsou slunce a měsíc). Trojúhelník je vepsaný do kruhu (představujícího jednotu mezi všemi třemi podobami a v podobě bohyně celý svět jako takový). 
 
-![Soška bohyně]({{site.baseurl}}/78/_trojice.jpg)
+![Soška bohyně]({{site.baseurl}}/78/trojice.jpg)
 
 Věřící u sebe často nosí náramek _þriligu_ spletený ze tří pramenů, který představuje jejich víru v Trojjedinou a blízkost, kterou k ní mají. Jednoduché _þriligu_ jsou často jen tři šňůrky spletené dohromady, opravdové pak mají vpleteny drobné korále a mince, které mají různé významy a mají nositele chránit před zlem a přinést jim přízeň _weardas._ Ti, kdo Bezejmennou následují otevřeně, nosí _þriligu_ většinou na levé ruce (blíže srdci). Ostatní jej nosí ukrytý v kapsách nebo všitý do lemu oblečení, aby nemohl být objeven. 
 
@@ -59,10 +59,10 @@ I v největších městech a jádrových oblastech Říše, kde je víra v Zrcad
 
 Následovníci Bezejmenné na rozdíl od uctívačů bohů a bohyň Zrcadlového dvora nestaví kamenné chrámy a jejich obřady se konají vždy pod otevřeným nebem. Jejich nejposvátnějšími místy, kde se setkávají, aby uctili _Síthwíf_, jsou trojice vztyčených kamenných bloků zasazených svisle do země, kterým říkají _þrihíwedé_ (_„mající tři formy“_ ve Staré řeči). Ty byly kdysi rozeseté po celé zemi, a přestože mnoho jich bylo vyvráceno a zničeno, další stále stojí, ukryté v lesích a odlehlých krajích. Ti, kteří si uchovali svou víru, k nim podnikají cesty i z velké dálky, aby obětovali Bezejmenné. 
 
-![Zvonky]({{site.baseurl}}/78/_zvonky.jpg)
+![Zvonky]({{site.baseurl}}/78/zvonky.jpg)
 
 Dnes se obřady nejčastěji konají pod rouškou tmy u mohutných osamělých stromů nebo hluboko v posvátných hájích, kde jsou účastníci obřadu skryti před pátravými zraky ostatních. 
 
 Mnoho věřících má doma sošku Bezejmenné v její podobě trojice dívek ze dřeva nebo vypálené hlíny jako malý domácí oltář, před který ulívají z nápojů a pokládají malé symbolické obětiny pro bohyni. Na střechy domů a větve stromů se často věší větrné zvonky a rolničky, které zvoní k oslavě bohyně, kdykoli je rozezní vítr. 
 
-Podél cest není neobvyklé narazit kromě zvonků také na nějaký malý oltář zasvěcený bohyni nebo některému z _weardas_ . Dříve měly často tvář bohyně, dnes mívají ale jen nevinnou podobu, aby jen zasvěcení poznali, o co se jedná (oltář může vypadat jen jako trojice malých stromků u cesty spojených provazem dohromady). Pocestní k těmto oltářům pokládají část svého jídla nebo malé obětiny.
+Podél cest není neobvyklé narazit kromě zvonků také na nějaký malý oltář zasvěcený bohyni nebo některému z _weardas_. Dříve měly často tvář bohyně, dnes mívají ale jen nevinnou podobu, aby jen zasvěcení poznali, o co se jedná (oltář může vypadat jen jako trojice malých stromků u cesty spojených provazem dohromady). Pocestní k těmto oltářům pokládají část svého jídla nebo malé obětiny.
