@@ -41,7 +41,7 @@ Díra proražena padající hvězdou vede ven ze skály na prudký útes klesaj�
 
 #### 7)
 
-"Jádro hvězdy", podivná kovová schránka ošlehaná plameny, relativně nepoškozená. Kulaté zasklené okénko a poklop otevřený dovnitř. Uvnitř schránky je křeslo z podivného materiálu stojící před „oltářem“ pokrytým podivnými runami, sklíčky a očividně alchymistickými přístroji&nbsp;– nic však není funkční. Pod sedačkou je kovová schránka s železnými zásobami potravin (5 ks), zkumavka s čirou tekutinou (silná kyselina), zkumavka plná barevných krystalů (nemagické, cena 120 zlatých u šperkaře) a věc, která vypadá jako podivná ruční kuše, ale je kovová a nemá lučiště. Na zbrani svítí dvě malinká zelená sklíčka (2 výstřely označené diodami, výstřel má stejný efekt jako **dezintegrační paprsek**).
+„Jádro hvězdy“, podivná kovová schránka ošlehaná plameny, relativně nepoškozená. Kulaté zasklené okénko a poklop otevřený dovnitř. Uvnitř schránky je křeslo z podivného materiálu stojící před „oltářem“ pokrytým podivnými runami, sklíčky a očividně alchymistickými přístroji&nbsp;– nic však není funkční. Pod sedačkou je kovová schránka s železnými zásobami potravin (5 ks), zkumavka s čirou tekutinou (silná kyselina), zkumavka plná barevných krystalů (nemagické, cena 120 zlatých u šperkaře) a věc, která vypadá jako podivná ruční kuše, ale je kovová a nemá lučiště. Na zbrani svítí dvě malinká zelená sklíčka (2 výstřely označené diodami, výstřel má stejný efekt jako **dezintegrační paprsek**).
 
 #### 8)
 
