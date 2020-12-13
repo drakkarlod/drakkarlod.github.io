@@ -4,6 +4,7 @@ layout: article
 authors: Argonantus
 tags: literatura
 published: true
+title: Nálada příběhu s rozličnými poradci
 ---
 > Po modrém blankytu bělavé páry hynou,
 >
@@ -15,7 +16,7 @@ published: true
 >
 > a smutný vězeň takto mluví k nim:
 >
-> "Vy jež dalekosáhlým během svým,
+> „Vy jež dalekosáhlým během svým,
 >
 > co ramenem tajemným zemi objímáte,
 >
@@ -39,17 +40,13 @@ published: true
 >
 > vlast jedinou i v dědictví mi danou,
 >
-> šírou tu zemi, zemi jedinou! 
-
-<div>&nbsp;</div>
+> šírou tu zemi, zemi jedinou!“ 
 
 Předpokládám, že řada z vás ihned poznala, odkud to pochází. Starší generace se to dokonce učila povinně nazpaměť. Pokud jste mladší a nepoznáváte to, nezáleží na tom; zajímá nás technika, která je zde použita pro vytvoření určité nálady. Jak přesně se to dělá a co se tím chtělo dosáhnout. 
 
 O náladě, atmosféře, dojmech a pocitech se toho totiž dnes v kdejaké recenzi namluví hodně, ale málokdo se obtěžuje to zkoumat blíže; z čeho přesně pocity v psaném textu vznikají a jak to může autor ovlivnit. Posvátnost pocitů zřejmě zakazuje přistupovat k problému s vědeckým zájmem a leptat ho kyselinou rozumu. Ale pokud chcete někdy podobné věci vytvářet, nic jiného vám nezbude; je důležité pochopit princip, jak to funguje.
 
 A je třeba rovnou přiznat, že nám ctihodný Kurt Vonnegut kázal, že v našem uměleckém textu *každá věta má posunout příběh nebo odhalit charakter postavy*, a pokud tak nečiní, nemá v příběhu co dělat. Pokud se tedy po této zápovědi vysoké autority vůbec vydáváme na tuto literární badatelskou výpravu, činíme tak s přesvědčením, že kontaminace příběhu jinými disciplínami, tedy lyrickou básní nebo dokonce klasickou malbou nemusí být vůbec ke škodě a od těchto machrů odlišného druhu se může vypravěč naučit leccos. 
-
-<div>&nbsp;</div>
 
 Jdeme tedy na to. 
 
@@ -69,7 +66,7 @@ A když se na to podíváme ještě blíže, nejspíš ani to není třeba; je t
 
 Při takovém postupu by ovšem celý efekt pocitu zmizel. Zbyl by záznam suchého děje. Pokud odsekávané lakonické věty ještě zdůrazníme, dosáhneme efekt také, i když naprosto jiný. Vznikne dojem strnulé fyzické odtažitosti autora, jako z policejní zprávy:
 
-*Odsouzený byl viděn, jak sleduje mraky z okna. Činil tak od 13.50 do 17. 30.*
+*Odsouzený byl viděn, jak sleduje mraky z okna. Činil tak od 13.50 do 17.30.*
 
 Zbývá už jen dodat, že děj sám je naprosto stejný, nic jsme nezměnili. Změnil se jen způsob vyprávění a úhel kamery; to první je, jak to viděl ten vězeň sám, a to druhé je, jak to viděl pan dozorce. 
 
@@ -78,9 +75,6 @@ Zbývá už jen dodat, že děj sám je naprosto stejný, nic jsme nezměnili. Z
 Pokud jsou náladotvorné popisy statická záležitost, potom lze zkoumat úplně stejně skutečné romantické plátno z podobné doby:
  
 ![Litoměřice]({{site.baseurl}}/78/p01.jpg)
-
-<div>&nbsp;</div>
-
 
 Možná v první chvíli dumáte, ke kterému Tolkienovu příběhu tahle úžasná věc patří. Je to snad město Osgiliath vedle řeky Anduiny před jeho zničením? 
 Modří už tuší, že je to jinak, a sledují stopu básníka Máchy v obláčcích, které dálným nebem plynou. Ano, přesně tak; jsou to docela prostě Litoměřice v 19. století. 
@@ -105,14 +99,13 @@ To namaloval Lepiého současník, Julius Theodor Gruss. Obraz těchže Litomě�
 
 U Vězňů času vznikl takovýto popis, aniž jsem tehdy ještě znal Grussův obraz: 
 
-<div>&nbsp;</div>
-> Litoměřice byly velkolepé. 
-Rozložily se úplně dole pod Severními horami a nad řekou Labem, která tekla těsně pod městem na jižní straně. Ať už vytvořil Severní hory kdokoli, dal jasně najevo, že přesně na tomto místě kopce skončily a bez jakéhokoli varování je proměnil na rovinu. Pro jistotu rovinu a kopce ještě navzájem důkladně oddělil širokým pásem řeky.
-A právě místo, kde hory končily a padaly do Labe, si vybrali dávní obyvatelé země ke stavbě pevnosti. Hrad, dnes již poněkud chátrající, stál na jednom menším kopci přímo nad řekou. Postupně se proměnil v sídlo církevní kapituly, s velkým kamenným chrámem a několika dalšími budovami. Také už ho pomalu přestali nazývat hradem a stále častěji se mluvilo o vrchu svatého Štěpána. Kopec to byl ovšem nevelký a poskytoval nahoře jen velmi málo místa k dalšímu rozvoji.
+> Litoměřice byly velkolepé.
+>
+> Rozložily se úplně dole pod Severními horami a nad řekou Labem, která tekla těsně pod městem na jižní straně. Ať už vytvořil Severní hory kdokoli, dal jasně najevo, že přesně na tomto místě kopce skončily a bez jakéhokoli varování je proměnil na rovinu. Pro jistotu rovinu a kopce ještě navzájem důkladně oddělil širokým pásem řeky.
+>
+> A právě místo, kde hory končily a padaly do Labe, si vybrali dávní obyvatelé země ke stavbě pevnosti. Hrad, dnes již poněkud chátrající, stál na jednom menším kopci přímo nad řekou. Postupně se proměnil v sídlo církevní kapituly, s velkým kamenným chrámem a několika dalšími budovami. Také už ho pomalu přestali nazývat hradem a stále častěji se mluvilo o vrchu svatého Štěpána. Kopec to byl ovšem nevelký a poskytoval nahoře jen velmi málo místa k dalšímu rozvoji.
 > 
 > Město se proto začalo šířit kus od hradu na vedlejším kopci. Ten druhý vrch proti proudu Labe, mnohem širší a částečně schovaný za tím prvním, vlastně spíše jakási terasa pod horami, zlákal k vybudování tržiště s prvními domy, v několika málo případech dokonce i kamennými. Nevýhodou tohoto širšího kopce ovšem bylo chybějící opevnění; každý dům se musel v případě nouze bránit samostatně, jak bylo tenkrát zvykem.
-
-<div>&nbsp;</div>
 
 V Grussově době už zase většina středověkých hradeb zmizela, případně je schovaná v roklině mezi oběma kopci, kam zrovna nevidíme. Domy jsou samozřejmě zděné, je jich víc a jsou větší, ale jinak většina řečeného stále odpovídá. 
 
@@ -196,8 +189,6 @@ Pro nás je důležité, že H. P. Lovecraft s odstupem sta let, kdy nad tím p�
 > Dále sem patřili tyranský a zlovolný šlechtic v roli padoucha, svatouškovská pronásledovaná hrdinka, jenž postupuje největší hrůzy, a z jejíž pozice je děj nazírán, takže slouží jako ohnisko čtenářových sympatií, udatný hrdina bez bázně a hany, vždy urozený, avšak často ve skromném přestrojení. 
 >
 > Konvence vznešeně znějících cizích jmen postav, ponejvíce italských a nekonečná spousta rekvizit, k nimž patří záhadná světla, vlhké padací dveře, zhasínající lampy, plesnivé ukryté rukopisy, vrzající panty, vlnící se zástěny a podobně.
-
-<div>&nbsp;</div>
 
 Kdo čte tento seznam po předchozím výletu k romantickým malířům, začíná tušit. Ano, to vše tam není jen tak pro dodržení nějakých konvencí žánru, jak by se zdálo, ale proto, že je to osvědčené a vyzkoušené, jako ty bílé obláčky, co dálným nebem plynou. Něco to dělá a má to funkci; maluje to náladu. 
 
