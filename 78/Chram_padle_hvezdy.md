@@ -7,6 +7,9 @@ tags: materiály a doplňky
 description: >-
   Dobrodružství pro postavy na 1. – 3. úrovni. Pro Old School Essentials
   (konverze na DnD 5e v závěru).
+summary: >-
+  Dobrodružství pro postavy na 1. – 3. úrovni. Pro Old School Essentials
+  (konverze na DnD 5e v závěru).
 ---
 
 
