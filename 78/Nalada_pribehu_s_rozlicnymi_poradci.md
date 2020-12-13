@@ -55,8 +55,9 @@ Nasnadě je potom, že jádrem celého efektu je kontrast; vězeň, který z pod
 
 Učitelé milují tuto pasáže s vězněm a mraky, že je na ní vidět učebnicový romantismus, národně obrozenecké vlastenectví a tak dále. Vězeň, jakkoli je na tom špatně, ještě z posledních sil miluje svoji zemi. Sláva nazdar.
 
-Pro nás je důležitá Máchova lekce něčím jiným. Zdánlivě zbytečné zvukomalebné přemílání něčeho banálního&nbsp;– třeba mraků - může stvořit nečekaný výsledek; celé to před sebou najednou úplně vidíte; ten vězeň, jak na to kouká malým zamřížovaným okýnkem,&nbsp;a ty malebně nasvícené obláčky kolem. Cinematická fantazie dokreslí, že vězeň může být zavřený třeba ve věži na nějakém hradě na skále. A máme z toho najednou romantické plátno se vší parádou. 
-Když potom začneme vyprávět - třeba zdánlivě něco úplně jiného - máme už čtenáře nějakým způsobem naladěného. 
+Pro nás je důležitá Máchova lekce něčím jiným. Zdánlivě zbytečné zvukomalebné přemílání něčeho banálního&nbsp;– třeba mraků&nbsp;– může stvořit nečekaný výsledek; celé to před sebou najednou úplně vidíte; ten vězeň, jak na to kouká malým zamřížovaným okýnkem,&nbsp;a ty malebně nasvícené obláčky kolem. Cinematická fantazie dokreslí, že vězeň může být zavřený třeba ve věži na nějakém hradě na skále. A máme z toho najednou romantické plátno se vší parádou. 
+
+Když potom začneme vyprávět&nbsp;– třeba zdánlivě něco úplně jiného&nbsp;– máme už čtenáře nějakým způsobem naladěného. 
 
 Připusťme, že nálada je skutečně něco, co v příběhu být nemusí a není jeho povinnou součástí. Je to jakýsi přidaný obraz, jako když ve filmu na chvíli zastavíme kameru. Celou slavnou pasáž by šlo zvládnout jedinou stručnou větou:
 
