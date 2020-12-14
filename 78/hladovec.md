@@ -2,15 +2,13 @@
 Title: Hladovec
 layout: article
 authors: Lorwyn
-tags: doplňky, příběhy impéria
+tags: 'doplňky, příběhy impéria'
+published: true
+summary: 'Doplněk pro svět Příběhů Impéria. Nenasytný děs, který nalezl domov v Londýně.'
 ---
 
 
-> Doplněk pro svět Příběhů Impéria. Nenasytný děs, který nalezl domov v Londýně.
-
-_Londýn vždycky požíral lidi. Co na tom sejde, když si taky zobnu?_
-
-<div>&nbsp;</div>
+> Londýn vždycky požíral lidi. Co na tom sejde, když si taky zobnu?
 
 Na první pohled je podobný stovkám bědných chudáků toulajících se bezcílně londýnskými ulicemi. Vychrtlý, s hluboko vpadlýma očima, promodralý zimou. Rty má okousané do krve, oděv ošoupaný a otrhaný. Pozornější pozorovatel může odhalit nesrovnalosti.Vypadá více mrtvě, než živě, nese sebou pach mršiny a lezavý chlad, přídech ledového větru a beznaděje. I jeho stín je podivný, obzvlášť když se běs rozzuří nebo rozdychtí, je stínem většího shrbeného tvora, samý tesák, dráp a paroží.
 	
@@ -23,13 +21,10 @@ Při lovu setřese svou lidskou podobu, stane se nahrbenou bestií s vylysalou s
 
 ## Zápletky
 
-Pan Joseph Roberts, vlastník zkrachovalé továrny na sirky, topící se v dluzích začal po nocích pronásledovat své konkurenty, bývalé pracovníky i náhodné chodce. Spolu s bandou pološílených žebráků, je odvléká do prázdné tovární haly páchnoucí fosforem a požírá. Wendigo ho tiše pronásleduje městem, přispívá k jeho mstivému šílenství a odkládá den svého lovu v naději, že se banda požíračů ještě rozšíří. Když postavy do řádění zasáhnou, zjeví se a nárokuje si kanibaly pro sebe.
-<div>&nbsp;</div>
+- Pan Joseph Roberts, vlastník zkrachovalé továrny na sirky, topící se v dluzích začal po nocích pronásledovat své konkurenty, bývalé pracovníky i náhodné chodce. Spolu s bandou pološílených žebráků, je odvléká do prázdné tovární haly páchnoucí fosforem a požírá. Wendigo ho tiše pronásleduje městem, přispívá k jeho mstivému šílenství a odkládá den svého lovu v naději, že se banda požíračů ještě rozšíří. Když postavy do řádění zasáhnou, zjeví se a nárokuje si kanibaly pro sebe.
 
-Známý postav, informátor a vlastník opiového doupěte je podezřelý kvůli opakovaným zmizením lidí v okolí jeho podniku. Zejména šlo o zákazníky, kteří mu dlouho neplatili dluhy. Postavy zjistí, že majitel je wendigo zařizující si prodejem levné drogy přísun potravy.
-<div>&nbsp;</div>
+- Známý postav, informátor a vlastník opiového doupěte je podezřelý kvůli opakovaným zmizením lidí v okolí jeho podniku. Zejména šlo o zákazníky, kteří mu dlouho neplatili dluhy. Postavy zjistí, že majitel je wendigo zařizující si prodejem levné drogy přísun potravy.
 
-Postavy pronásledují vraha, ten se ale vysmekne z každé léčky a pasti. Vychrtlý cizinec nabídne postavám pomoc, prodá jim informace o hledaném, ale jen pokud mu po výslechu muže přenechají. Ukáže se, že hledaný je jen krůček od propadnutí démonu a beznaděj z polapení je vše, co ho dělí od sežrání. Spojí se postavy s věčně hladovým běsem?
-<div>&nbsp;</div>
+- Postavy pronásledují vraha, ten se ale vysmekne z každé léčky a pasti. Vychrtlý cizinec nabídne postavám pomoc, prodá jim informace o hledaném, ale jen pokud mu po výslechu muže přenechají. Ukáže se, že hledaný je jen krůček od propadnutí démonu a beznaděj z polapení je vše, co ho dělí od sežrání. Spojí se postavy s věčně hladovým běsem?
 
-Postavy spatří pohřešovaného přítele, vypadá ale podivně vyhládle a nemocně. Své známé nepoznává. Později získají informaci, že je mrtvý a muž v ulicích je prý wendigo nosící jeho podobu. Co jejich dávný přítel provedl, že propadl démonu? Anebo je to celé jinak?
+- Postavy spatří pohřešovaného přítele, vypadá ale podivně vyhládle a nemocně. Své známé nepoznává. Později získají informaci, že je mrtvý a muž v ulicích je prý wendigo nosící jeho podobu. Co jejich dávný přítel provedl, že propadl démonu? Anebo je to celé jinak?
