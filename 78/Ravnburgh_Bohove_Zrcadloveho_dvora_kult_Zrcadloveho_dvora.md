@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Bohové Zrcadlového dvora (kult Zrcadlového dvora)'
 authors: Jméno autora
 tags: 'štítek, další štítek'
-published: false
+published: true
 ---
 > Dea, kněžka Rynfru Ochránkyně, zapálila vonné tyčinky a upravila jejich umístění tak, aby byly ve správné pozici vůči sošce bohyně. Její žluté a modré roucho šustilo a pruhy barvy na jejím obličeji se třpytily ve světle svící. Když bylo vše připraveno, odkryla zrcadlo a uklonila se. Pak klekla před odrazem sochy v zrcadle a jako každý den začala odříkávat ranní modlitby k usmíření bohyně… 
 
