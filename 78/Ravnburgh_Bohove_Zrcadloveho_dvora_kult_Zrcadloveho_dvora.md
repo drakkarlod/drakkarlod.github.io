@@ -20,7 +20,7 @@ Kromě hlavní desítky obsahuje kult Zrcadlového dvora tucty dalších bohů, 
 
 Není neobvyklé, že některý bůh je uctíván v podobě různých manifestací své moci. Občas se takové aspekty některého boha oddělí jako samostatné božstvo, jiné se v průběhu doby spojují do nových. 
 
-Bohové Zrcadlového dvora jsou součástí světa kolem nich – ústy svých kněží se podílejí na vládě, vyjadřují se k důležitým rozhodnutím, vlastní chrámy, půdu a zvířata. Většině bohů nezáleží morálce nebo hodnotách těch, kteří je uctívají. Bohové lidi neposuzují a nehodnotí jejich vnitřní přesvědčení. Vždy se najde nějaký bůh, který je bude podporovat na cestě, kterou si zvolili (bez ohledu na to, jestli jsou dobří nebo zlí). Důležité jsou dodržované rituály, oběti, které jsou pokládány na oltáře bohů a mýty, které utvářejí svět kolem nich. Každý obřad má jasný praktický účel, prosící nabízí božstvu dary a prosící o splnění žádosti a ovlivnění světa navenek. Nemají spirituální funkci (dosáhnout vnitřního účinku na tazatele), jde o vytvoření komunikačního kanálu s božstvem a praktickou výměnu. 
+Bohové Zrcadlového dvora jsou součástí světa kolem nich&nbsp;– ústy svých kněží se podílejí na vládě, vyjadřují se k důležitým rozhodnutím, vlastní chrámy, půdu a zvířata. Většině bohů nezáleží morálce nebo hodnotách těch, kteří je uctívají. Bohové lidi neposuzují a nehodnotí jejich vnitřní přesvědčení. Vždy se najde nějaký bůh, který je bude podporovat na cestě, kterou si zvolili (bez ohledu na to, jestli jsou dobří nebo zlí). Důležité jsou dodržované rituály, oběti, které jsou pokládány na oltáře bohů a mýty, které utvářejí svět kolem nich. Každý obřad má jasný praktický účel, prosící nabízí božstvu dary a prosící o splnění žádosti a ovlivnění světa navenek. Nemají spirituální funkci (dosáhnout vnitřního účinku na tazatele), jde o vytvoření komunikačního kanálu s božstvem a praktickou výměnu. 
 
 > Roger Šermíř se udýchaně zastavil a poklekl na jedno koleno, protože se neudržel na nohách. Krvácel z půltuctu ran, ale byl pořád naživu. A zvítězil. Jeho protivník, šermíř odněkud z poledne z Ligy, ležel v prachu s proseknutým hrdlem a dusil se vlastní krví. Jeho nohy vyrývaly rýhy do země, jak se snažil zastavit život, který mu protékal mezi prsty. Ale Roger byl pořád naživu. Jeho společníci k němu přispěchali a pomohli mu opět na nohy. Přešel k místu, kde umíral poražený šermíř, a&nbsp;zvedl ze země jeho meč. Byla to skvostná zbraň, vytvořená mistrem řemesla. Mnohem lepší než jeho vlastní meč. Zvedl ji k nebesům: „Zasvěcuji tuto zbraň Aphei Sluneční panně, síle bohů a paní bitev. To jeho pomoc mi zajistila vítězství.“ Kývl na své společníky: „Pověste ten meč k sedlu. Odevzdáme ho v Apheině svatyni cestou. A teď mi pomozte zavázat ty rány, nebo tu vykrvácím. Nohy už mě nenesou…“
 
@@ -32,15 +32,15 @@ Jádrem kultu je deset vládnoucích bohů, kteří sídlí v Zrcadlovém dvoře
 
 - **Taevas** **Šestiruký**, **Pán nebes**&nbsp;– Bůh jasné a nekonečné oblohy a úrodných dešťů, manžel Leanndu. To on objevil Zrcadlový dvůr, ze kterého vystavěli pevnost bohů. Jeden z jeho přídomků je Tvůrce zrcadel. Je vševidoucí a je svědkem přísah, pronášených muži. Bývá zobrazován se šesti pažemi, jak pase stáda mraků na klidné obloze. 
 
-_Má vlastní mysterijní kult._ 
+> _Má vlastní mysterijní kult._ 
 
 - **Leanndu Matka země**&nbsp;– Bohyně země, ochránkyně rodinného krbu a žen, po úrodných deštích přináší na zem květiny. Manželka Taevase, Pána nebes. 
 
 Taevas a Leanndu mají společně mají dceru a dva syny: 
 
-- **Aphea Pohlcující oheň slunce**, Sluneční panna, Zářící -- Dcera Pána nebes a Matky země. Bohyně slunce uctívána jako bohyně bitev se lví hlavou, bohyně sluneční spravedlnosti a pomsty. Bojuje s temnotou a nocí a brání lidstvo před Věčnou nocí. Slunce pohasíná vždy jen na třetinu dne, během kterých odpočívá a léčí si svá zranění, aby pak mohla bojovat další den. Vede armády bohů a v císařství je uctívána jako nejpřednější z bohů. 
+- **Aphea Pohlcující oheň slunce**, Sluneční panna, Zářící&nbsp;-- Dcera Pána nebes a Matky země. Bohyně slunce uctívána jako bohyně bitev se lví hlavou, bohyně sluneční spravedlnosti a pomsty. Bojuje s temnotou a nocí a brání lidstvo před Věčnou nocí. Slunce pohasíná vždy jen na třetinu dne, během kterých odpočívá a léčí si svá zranění, aby pak mohla bojovat další den. Vede armády bohů a v císařství je uctívána jako nejpřednější z bohů. 
 
-_Má vlastní mysterijní kult._ 
+> _Má vlastní mysterijní kult._ 
 
 - **Gitris Srpek měsíce**&nbsp;– Syn Pána nebes a Matky země. Bůh měsíce a moudrosti. V noci hlídá nebeské stezky a dohlíží, aby se monstra z Irkelly nepřiplížily k Zrcadlové síni. Těm, kdo mu přináší oběti, může zjevit budoucnost, protože vidí daleko a slyší i noční šepot trav a stromů. 
 
@@ -52,7 +52,7 @@ Zbylí bohové Zrcadlového dvora:
 
 - **Kusor** **Kovotepec**&nbsp;– Bůh ohně a kovářství. 
 
-_Má vlastní mysterijní kult._ 
+> _Má vlastní mysterijní kult._ 
 
 - **Rynfru Ochránkyně**&nbsp;– Bohyně divočiny, která hlídá stáda a cesty. Je oblečena do vlčích kůží, na hlavě má vlčí čapku a mluví se zvířaty. Proměňuje se do zvířecích podob a běhá se stády. Její oblíbená podoba je bílá laň. Trestá lovce, kteří jsou příliš chamtiví, nebo zabíjejí zvířata, která si oblíbila (většinou jim dává zvláštní zbarvení, bílou srst nebo zlaté rohy). Chrání poutníky před bandity a divokou zvěří, lidstvo jako takové pak před nebezpečím. 
 
