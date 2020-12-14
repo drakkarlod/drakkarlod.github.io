@@ -5,6 +5,7 @@ authors: Lorwyn
 tags: 'doplňky, příběhy impéria'
 published: true
 summary: 'Doplněk pro svět Příběhů Impéria. Nenasytný děs, který nalezl domov v Londýně.'
+title: Hladovec
 ---
 
 
