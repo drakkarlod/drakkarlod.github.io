@@ -1,5 +1,5 @@
 ---
-Title: Chrám padalé hvězdy
+title: Chrám padalé hvězdy
 published: true
 layout: article
 authors: Vandalicus
