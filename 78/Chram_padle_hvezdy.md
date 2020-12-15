@@ -1,5 +1,5 @@
 ---
-Title: Chrám padlé hvězdy
+Title: Chrám padalé hvězdy
 published: true
 layout: article
 authors: Vandalicus
@@ -13,7 +13,7 @@ summary: >-
 ---
 
 
-## Popis oblastí chrámu
+## Chrám padlé hvězdy
 
 #### 1) 
 
