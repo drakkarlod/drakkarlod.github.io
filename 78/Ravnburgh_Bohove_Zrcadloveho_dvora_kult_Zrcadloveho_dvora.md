@@ -1,8 +1,8 @@
 ---
 layout: article
 title: 'Ravnburgh: Bohové Zrcadlového dvora (kult Zrcadlového dvora)'
-authors: Jméno autora
-tags: 'štítek, další štítek'
+authors: Ecthelion²
+tags: 'Ravnburgh, doplněk'
 published: true
 summary: >-
   Je to nejrozšířenější náboženství ve známých zemích. Víru v mnoho bohů, kteří
