@@ -11,9 +11,12 @@ summary: >-
   Dobrodružství pro postavy na 1. – 3. úrovni. Pro Old School Essentials
   (konverze na DnD 5e v závěru).
 ---
+> Čas od času někdy každý spatří na nebi padající hvězdu. Co ale není tak obvyklé, je vidět padající hvězdu dopadnout. A přesně to se vám stalo. Ohnivá kometa vám s hukotem proletěla nad hlavou a narazila do nedaleké hory.
+> 
+> Vesničané z nedaleké vesnice jsou z toho vyděšení. Říkají, že v té hoře je zapečetěný starý chrám Slunečního boha a obávají se, co dopad hvězdy může znamenat. Je to varování vyšší moci? Nebo snad první útok bohů Chaosu, kteří chtějí rozpoutat novou válku s bohy Řádu?
+> 
+> Ať je to, co je to, vy v tom vidíte příležitost. Jste si jistí, že nalezení jádra hvězdy bude znamenat nalezení velkého bohatství – ať už světského, nebo magického.
 
-
-## Chrám padlé hvězdy
 
 #### 1) 
 
