@@ -4,7 +4,7 @@ title: 'Protivník: Draugr'
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace'
 summary: "Jeden z\_aptrganga, mrtvých, kteří opět kráčí světem živých."
-published: true
+published: false
 ---
 
 > Haidzruno runu, falahak haidera, ginnarunaz. Arageu haeramalausz uti az. Weladaude, sa'z þat barutz. Uþarba spa. / „Já, vládce run zde ukrývám tyto runy moci. Ustavičně postihován zlobou, odsouzen k záludné smrti je ten, kdo naruší tento monument. Prorokuji zkázu.“
@@ -17,4 +17,4 @@ Draugři jsou ohyzdní na pohled, jejich kůže je mrtvolně namodralá (_hel-bl
 
 Pokud se draugr probudí ze snu bez konce, zvířata, která žijí v okolí mohyly, zešílí hrůzou. Ptáci, kteří jej přeletí, padají mrtví k zemi. Draugr je nelidsky silný a každý, kdo se mu postaví, může přijít o rozum. Ovládá temná kouzla (_trollskap_), která mu umožňují nahlížet do budoucnosti, ovládat počasí nebo měnit podobu. Většinou se nevzdalují daleko od své mohyly, ale pokud vyrazí, jeho příchod dokáže změnit den v noc a jeho přítomnost mohou prozradit Eliášovy ohně plápolající v okolí. Dokáže vstupovat do snů žijících a provází ho hrůza. 
 
-Většina zbraní draugra ani nezpomalí. Studené železo jim působí bolest (nebo ozvěnu bolesti jakou znali za života), ale není dost silné, aby ho zahnalo nebo zahubilo. Jedinou možností jak draugra porazit je fyzicky jej přeprat a uzavřít ho zpět do hrobky, nebo mu utnout hlavu, spálit tělo a popel rozprášit do moře. 
+Většina zbraní draugra ani nezpomalí. Studené železo jim působí bolest (nebo ozvěnu bolesti jakou znali za života), ale není dost silné, aby ho zahnalo nebo zahubilo. Jedinou možností jak draugra porazit je fyzicky jej přeprat a uzavřít ho zpět do hrobky, nebo mu utnout hlavu, spálit tělo a popel rozprášit do moře.
