@@ -3,16 +3,11 @@ layout: article
 authors: Ecthelion²
 tags: 'Ecthelion², Ravburgh, Doplněk, Drakkar #79'
 summary: >-
-  Doplněk popisující Turnaj růži, jeden z pěti Velkých turnajů, který se koná každoročně v Ravnburghu.
+  Doplněk popisující Turnaj růži, jeden z pěti Velkých turnajů, který se koná
+  každoročně v Ravnburghu.
+published: false
 ---
-
 ## Ravnburgh: Turnaj růží 
-
-_Autor: _[_Ecthelion²_](https://drakkar.sk/authors.html#ecthelion) 
-
-_Perex: Doplněk popisující Turnaj růži, jeden z pěti Velkých turnajů, který se koná každoročně v Ravnburghu._ 
-
-_Tagy: _[_Ecthelion²_](https://drakkar.sk/authors.html#ecthelion)_/ Ravburgh / Doplněk / Drakkar _[_\#7_](https://drakkar.sk/78/)_9_ 
 
 Tisíce lidí z Říše, Císařství, z Ligy i z východu se každoročně sjíždějí do Ravnburghu, aby byli svědky druhého z pěti Velkých turnajů -- turnaje růží. Na polích za městem vyroste stanové městečko, které dočasně zvýší počet obyvatel města téměř o polovinu. Všechny hostince a pronájmy jsou nacpané k prasknutí a celé město je vyzbrojeno růžemi, které kvetou v okolí v době turnaje. Přes den se rytíři utkávají v tjostu, válečníci v zápasech, střelci zápasí o nejpřesnější střelu a po setmění se v ohni osvětlených stanech zápasí slovy v soutěžích zpěvu a poezie, které se často protáhnou do brzkých ranních hodin. Tanec, oslavování, sázky na soutěžící a všeobecné veselí probíhá v každou denní i noční hodinu. 
 
@@ -109,4 +104,3 @@ _..._zahnuly do uličky, která je měla dovézt zpět k turnaji. Když si jejic
 ### Využití ve hře 
 
 Turnaj může být dobrodružstvím sám o sobě, pokud se hráči chtějí některé z disciplín zúčastnit, nebo může být jen pozadím pro další vaše dobrodružství. Konání turnaje dočasně změní a oživí prostředí, ve kterém hrajete. Turnaj přiláká cizince a soutěžící zdaleka -- udatní rytíři, krásné dámy, oslavy, růže v ulicích a domy vyzdobené květinovou výzdobou -- to vše poskytuje příležitost pro neobvyklá dobrodružství a nezvyklé zápletky.
-
