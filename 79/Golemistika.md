@@ -1,9 +1,9 @@
 ---
 layout: article
 authors: OnGe
-tags: 'Doplněk'
-summary: >-
-  Golemistika pro vaše hry.
+tags: Doplněk
+summary: Tvorba golemů pro vaše hry.
+published: true
 ---
 
 ## Golemistika - nauka o výrobě a fungování golemů 
