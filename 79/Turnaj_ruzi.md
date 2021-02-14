@@ -15,6 +15,7 @@ Hostitelem turnaje růží ve městě je tradičně rod Lochbearerů a starý Ea
 
 Postavy ale nemusí jen přihlížet a mohou se do turnaje samy zapojit. Do **tjostu** a **mêlée** se mohou zapisovat rytíři a šlechtici (zápisné jsou 2 zlaté gryfy pro rytíře bez léna, 6 gryfů pro rytíře s lénem, tucet gryfů pro hraběte, 2 tucty gryfů pro barona nebo earla a kopa gryfů pro knížete nebo krále), **střelecké soutěže** jsou otevřené a prakticky nikdy se do nich nezapisují urození (zápisné činí jen 2 groše). **Pěvecké** a **básnické soutěže** se mohou účastnit urození i neurození účastníci (zápisné je půl tuctu grošů do každé).  
 
+![01.jpg]({{site.baseurl}}/79/01.jpg)
 
 ### _Velké turnaje_ 
 _Každý z pěti Velkých turnajů je pojmenovaný po květině, která v té době kvete v okolí a celé město je těmito květy vyzdobeno. Královna turnaje pak předá vítězi tjostu (považovaného za královskou disciplínu) květinu dle druhu turnaje vyrobenou ze zlata, která může nosit na znamení vítězství. Druhý v pořadí dostane květinu ze stříbra a třetí květinu z bronzu. Pokud má někdo na košili přišitou jednu nebo více květin z drahého kovu, každý ví, že jde o vítěze turnaje a je předmětem značného obdivu._ 
@@ -35,9 +36,11 @@ Rytíř dostane **2 bod** za každý dřevec, který zlomí o protivníkův **š
 
 **- básnická soutěž** - Je velice prestižní a na rozdíl od zpěvu, který je určitou lidovou zábavou, básnířská soutěž je hodnocena velice přísně rozhodčími z řad básníků. Soutěžící musí přijít s vlastními básněmi, které jsou pak vydány v básnířské sbírce po skončení turnaje (většinou v malém vydání, ale znalci se o takové sborníky zajímají). Vítěz je oceněn zlaceným Vavřínem básníků, který smí nosit až do dalšího turnaje. 
 
+![06.jpg]({{site.baseurl}}/79/06.jpg)
+
 #### _Jak hrát turnaj?_ 
 
-_Pokud se hráči rozhodnou, že se jejich postavy zúčastní souboje, je otázka do jak= hloubky turnaj odehrávat. Záleží čistě na vaší hře a zájmu vašich hráčů. Můžete celý turnaj a účast vašich postav v ní vyhodnotit jediným hodem, pokud je to pro vás jen vedlejší zájem. Můžete brát zápas po zápase a vyhodnotit je hodem proti hodu, přičemž se postavy budou postupně propracovávat tabulkou zápasů k vítězství nebo porážce v dalších kolech. Každý zápas lze také pojmout jako minizápas a odházet každý ze tří nájezdů (v případě tjostu). Lze přidat každému z protivníků jejich vlastní osobnost, přátelství a rivality mezi soutěžícími, soupeření o přízeň dam, zákeřné zákulisní taktiky a úplatky rozhodčích. Záleží jen na vás a vaší skupině, jakému přístupu dáváte přednost._ 
+_Pokud se hráči rozhodnou, že se jejich postavy zúčastní souboje, je otázka do jaké hloubky turnaj odehrávat. Záleží čistě na vaší hře a zájmu vašich hráčů. Můžete celý turnaj a účast vašich postav v ní vyhodnotit jediným hodem, pokud je to pro vás jen vedlejší zájem. Můžete brát zápas po zápase a vyhodnotit je hodem proti hodu, přičemž se postavy budou postupně propracovávat tabulkou zápasů k vítězství nebo porážce v dalších kolech. Každý zápas lze také pojmout jako minizápas a odházet každý ze tří nájezdů (v případě tjostu). Lze přidat každému z protivníků jejich vlastní osobnost, přátelství a rivality mezi soutěžícími, soupeření o přízeň dam, zákeřné zákulisní taktiky a úplatky rozhodčích. Záleží jen na vás a vaší skupině, jakému přístupu dáváte přednost._ 
 
 ### Favorité na vítěze 
 
@@ -56,6 +59,8 @@ Pokud postavy do turnaje nijak nezasáhnou, velmi pravděpodobně zvítězí ná
 - V **básnířské soutěži** se očekává vítězství Maud Garretová s heroickou básní, která popisuje smrt posledního Purpurového císaře před desetiletími. Dle zpráv obecenstvo u této básně nepokrytě pláče.  
 
 - Velkým **skandálem** celého turnaje je zrušení zásnub Charity Rowdonové, bohaté dědičky, a Henryho Lochbearera. Dáma tak učinila hodně veřejně a okázale. Potupený Henry se až do konce turnaje neukáže na veřejnosti, zatímco jeho otec zesinal vzteky a přísahal Rowdonovým krevní mstu za tu urážku. Detaily nejsou zcela jasné, ale drby o různých postelích jsou více než šťavnaté.  
+
+![03.jpg]({{site.baseurl}}/79/03.jpg)
 
 #### _Přízeň dámy_ 
 
@@ -76,6 +81,8 @@ Některé z těchto novinek mohou postavy zaslechnout na trhu nebo od některéh
 - _„Slyšeli jste už o Snícím městě? Podle příběhů se nachází daleko na Hlubokém poledni v zemi Núr. Tam na čarodějném trůně sedí dávno mrtvý král v dávno mrtvém městě a sní sen bez konce. Trest bohů před staletím zahubil všechny, kteří v tom zlém místě žili, ale sny mrtvých jsou tak silné, že pronikají do snů živých. Dávno mrtví černokněžníci tak ze snů řídí celou svou říši a stále naplňují plán, který měl ztroskotat již před staletími..."_ 
 
 - _„Slyšeli jste ty příběhy, že pod městem tepe na oltáři starých bohů živoucí srdce? Slyšel jsem, že kultisti unášejí po nocích lidi, aby ho zkropili čerstvou krví a nepřestalo nikdy tlouci. Když zavřete oči a nasloucháte dostatečně usilovně, můžete jeho tepání slyšet skrze kámen a zeminu..."_ 
+
+![04.jpg]({{site.baseurl}}/79/04.jpg)
 
 ### Když-tu-náhle! 
 
@@ -100,6 +107,8 @@ Postavy procházejí městem během turnaje, když tu náhle...
 ...zpozorují na jedné ze zdí přibitý list vytištěný na knihtisku. Linorytem je tam vyvedena poměrně přesná podoba jedné z postav, její jméno a odměna za dopadení. Když se rozhlédnete kolem sebe, tak takových listů je po celé tržnici vyvěšeno několik... a kolemjdoucí se už začínají dívat na vás, na výzvu... a počítat v duchu mince. 
 
 ...zahlédnou v temném koutě tržiště jednoho z rozhodčích turnaje. Vypadá velice nervózně a ohlíží se, zatímco od muže v kápi přijme měšec grošů, které rychle ukryje v rukávu. Opravdu přijímá úplatky na ovlivnění výsledku turnaje? 
+
+![05.jpg]({{site.baseurl}}/79/05.jpg)
 
 ### Využití ve hře 
 
