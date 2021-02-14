@@ -7,7 +7,7 @@ summary: "Jeden z\_aptrganga, mrtvých, kteří opět kráčí světem živých.
 published: false
 ---
 
-> Haidzruno runu, falahak haidera, ginnarunaz. Arageu haeramalausz uti az. Weladaude, sa'z þat barutz. Uþarba spa. / „Já, vládce run zde ukrývám tyto runy moci. Ustavičně postihován zlobou, odsouzen k záludné smrti je ten, kdo naruší tento monument. Prorokuji zkázu.“
+> _Haidzruno runu, falahak haidera, ginnarunaz. Arageu haeramalausz uti az. Weladaude, sa'z þat barutz. Uþarba spa. / „Já, vládce run zde ukrývám tyto runy moci. Ustavičně postihován zlobou, odsouzen k záludné smrti je ten, kdo naruší tento monument. Prorokuji zkázu.“_
 
 Draugar (sg. draugr) jsou stvoření známá ze skandinávské mytologie. Jsou to obyvatelé prastarých mohyl (ve staré severštině _haugbúi_ ) a jedni z mrtvých, kteří opět kráčejí (_aptrganga_ ). Nyní jsou ne-mrtví, oživení umrlci, žijící ve svých hrobech a mohylách a strážící poklady, které získali za života. Příkladem je Glámr ze ságy o Grettirovi Silném. 
 
