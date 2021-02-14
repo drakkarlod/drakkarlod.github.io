@@ -2,7 +2,7 @@
 
 Wargaming není jen Warhammer a Warhammer 40,000\. Za posledních několik let jsem se vydatně věnoval válečným hrám (wargames). Stejně jako rolové hry mají různá specifika, vyhodnocovací systémy a různě také pracují s hráčskými preferencemi. Než abychom se bavili o tom, co a jak mají které válečné hry společného s rolovými (role-playing games), pojďme se podívat na pár zajímavých her, které prolínají role-playing a wargaming. 
 
-![_DSC8132.jpg]({{site.baseurl}}/79/_DSC8132.jpg)
+![_DSC8151.jpg]({{site.baseurl}}/79/_DSC8151.jpg)
 
 ### Válečné hry s kampaňovým systémem 
 
@@ -14,7 +14,7 @@ Na druhou stranu historický Outremer: Faith and Blood (Jamie Gordon) z prostře
 
 Velice silný RP zážitek dodává taky parádní hra od Gods Eye Games - Steel and Steed. Jedná se o simulátor rytířských turnajů. Hra zpracovává klání na dřevce, lukostřelbu a pěší i jízdní buhurt. Autoři výslovně píší, že skutečné figurky potřebujete jenom na buhurt, ale proč si neudělat i jezdce a střelce. V této hře ovládáte pouze jeden model, jednoho rytíře. Tvorba postavy hodně připomíná RPG. Určujete základní atributy a pak další schopnosti. Vybíráte si typ luku, koně, dřevce... Kampaňový mód obsahuje pravidla pro dvoření se dámám a bonusy, které vám ta která dáma přináší v rámci jejího působení na tribuně ve váš prospěch. Dále můžete do své rytířské domácnosti přidávat vazaly, panoše, syny a dcery. Trochu jako RPG Pendragon. 
 
-![_DSC8151.jpg]({{site.baseurl}}/79/_DSC8151.jpg)
+![_DSC8132.jpg]({{site.baseurl}}/79/_DSC8132.jpg)
 
 ### Společná tvorba příběhu 
 
