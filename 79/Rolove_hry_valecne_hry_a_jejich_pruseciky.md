@@ -1,3 +1,7 @@
+---
+neco: neco
+---
+
 ## Rolové hry, válečné hry a jejich průsečíky 
 
 Wargaming není jen Warhammer a Warhammer 40,000\. Za posledních několik let jsem se vydatně věnoval válečným hrám (wargames). Stejně jako rolové hry mají různá specifika, vyhodnocovací systémy a různě také pracují s hráčskými preferencemi. Než abychom se bavili o tom, co a jak mají které válečné hry společného s rolovými (role-playing games), pojďme se podívat na pár zajímavých her, které prolínají role-playing a wargaming. 
