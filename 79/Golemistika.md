@@ -1,3 +1,10 @@
+---
+layout: article
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
+---
+
 ## Golemistika - nauka o výrobě a fungování golemů 
 
 Golem je tělo vyrobené z neživé hmoty, nejčastěji hlíny, kamene a kovů, oživené životným kamenem a poháněné myšlenkou, která je do něj zasazena. Golem je schopen vnímat své okolí, poznat svého pána a plnit jednoduché příkazy do té míry, jsou-li v souladu s myšlenkou či myšlenkami, které byly do golema vsazeny. 
