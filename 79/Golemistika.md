@@ -1,8 +1,9 @@
 ---
 layout: article
-title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: OnGe
+tags: 'Doplněk'
+summary: >-
+  Golemistika pro vaše hry.
 ---
 
 ## Golemistika - nauka o výrobě a fungování golemů 
