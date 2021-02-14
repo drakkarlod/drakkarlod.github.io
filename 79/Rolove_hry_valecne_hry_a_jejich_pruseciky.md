@@ -1,5 +1,10 @@
 ---
 neco: neco
+published: false
+Title: 'Rolové hry, válečné hry a jejich průsečíky'
+layout: article
+authors: Jiron
+tags: literatura
 ---
 
 ## Rolové hry, válečné hry a jejich průsečíky 
