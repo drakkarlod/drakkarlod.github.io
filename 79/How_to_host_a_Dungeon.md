@@ -3,13 +3,16 @@ layout: article
 title: How to host a Dungeon (2. edícia)
 authors: Antharon
 tags: 'materiály a doplňky, inspirace, recenze'
-published: true
+published: false
 summary: >-
   Popis solitérové hry How to host a dungeon (2. edice) včetně příkladu
   vyrtvořeného světa Skarland.
 ---
 
 ## How to host a Dungeon (2. edícia) 
+
+![Obálka knihy.]({{site.baseurl}}/79/_obalka.jpg)
+
 
 V rámci hľadania nejakej zábavy počas lockdownu som si spomenul na drobnú solitérovú kratochvílu menom How to host a Dungeon. Hra pre jedného hráča bola skôr generátorom herného sveta a mala veľké medzery, ktoré hráč musel doplniť vlastnou predstavivosťou a metagamovými rozhodnutiami. 
 
@@ -60,6 +63,8 @@ Impériom sa skupina stane ak získala dostatok pokladov. Impérium sa snaží s
 Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé dve, ale chápem, že je to potrebné pre doriešenie príbehu. Ak vás táto hra zaujala, určite po nej skočte v tomto osamelom období. V porovnaní s prvou edíciou sme sa dočkali množstva výborných zmien v oblasti hrateľnosti. Výsledkom hry je často veľmi pestré prostredie vhodné pre hranie RPG a práve preto som jednu zo svojich hier spracoval trochu hlbšie a nájdete ju na nasledujúcich stranách. 
 
 ### Skarland - história 
+
+![hthad.png]({{site.baseurl}}/79/hthad.png)
 
 Tu sa nachádza interpretácia histórie skarlandu tak ako som odohrával hru v How to host a dungeon. Po dobe impéria mi ostala veľká voľné plocha na severe a tak som tam spustil ešte jednu dobu monštier a priniesla zaujímavé výsledky... 
 
