@@ -9,7 +9,7 @@ published: false
 ---
 ## Ravnburgh: Turnaj růží 
 
-Tisíce lidí z Říše, Císařství, z Ligy i z východu se každoročně sjíždějí do Ravnburghu, aby byli svědky druhého z pěti Velkých turnajů -- turnaje růží. Na polích za městem vyroste stanové městečko, které dočasně zvýší počet obyvatel města téměř o polovinu. Všechny hostince a pronájmy jsou nacpané k prasknutí a celé město je vyzbrojeno růžemi, které kvetou v okolí v době turnaje. Přes den se rytíři utkávají v tjostu, válečníci v zápasech, střelci zápasí o nejpřesnější střelu a po setmění se v ohni osvětlených stanech zápasí slovy v soutěžích zpěvu a poezie, které se často protáhnou do brzkých ranních hodin. Tanec, oslavování, sázky na soutěžící a všeobecné veselí probíhá v každou denní i noční hodinu. 
+Tisíce lidí z Říše, Císařství, z Ligy i z východu se každoročně sjíždějí do Ravnburghu, aby byli svědky druhého z pěti Velkých turnajů - turnaje růží. Na polích za městem vyroste stanové městečko, které dočasně zvýší počet obyvatel města téměř o polovinu. Všechny hostince a pronájmy jsou nacpané k prasknutí a celé město je vyzbrojeno růžemi, které kvetou v okolí v době turnaje. Přes den se rytíři utkávají v tjostu, válečníci v zápasech, střelci zápasí o nejpřesnější střelu a po setmění se v ohni osvětlených stanech zápasí slovy v soutěžích zpěvu a poezie, které se často protáhnou do brzkých ranních hodin. Tanec, oslavování, sázky na soutěžící a všeobecné veselí probíhá v každou denní i noční hodinu. 
 
 Hostitelem turnaje růží ve městě je tradičně rod Lochbearerů a starý Earl Malcolm slouží také jako závěrečný rozhodčí a sudí sporů soutěžících. Prvního dne turnaje je z řad nejkrásnějších svobodných dívek na turnaji zvolena Královna růží, která pak předsedá turnaji jako přední z dam, předává vítězům jejich trofeje a rytíři vítězí na její počest.  
 
@@ -19,7 +19,7 @@ Postavy ale nemusí jen přihlížet a mohou se do turnaje samy zapojit. Do **tj
 
 Každý z pěti Velkých turnajů je pojmenovaný po květině, která v té době kvete v okolí a celé město je těmito květy vyzdobeno. Královna turnaje pak předá vítězi tjostu (považovaného za královskou disciplínu) květinu dle druhu turnaje vyrobenou ze zlata, která může nosit na znamení vítězství. Druhý v pořadí dostane květinu ze stříbra a třetí květinu z bronzu. Pokud má někdo na košili přišitou jednu nebo více květin z drahého kovu, každý ví, že jde o vítěze turnaje a je předmětem značného obdivu. 
 
-První je každým rokem turnaj sněženek. Koná se ještě na sklonku zimy, kdy kromě sněženek nic jiného neroste. Následuje turnaj růží, turnaj narcisů, turnaj slunečnic a turnaj lilií. Mezi nimi je vždy dost času na to, aby se rytíři mohli mezi nimi přesunout a třeba stihnout ještě účast v některých menších turnajích, ve kterých mohou vyhrát peníze na účast na dalším Velkém turnaji.  
+První je každým rokem turnaj sněženek. Koná se ještě na sklonku zimy, kdy kromě sněženek nic jiného neroste. Následuje turnaj růží, turnaj narcisů, turnaj slunečnic a turnaj lilií. Mezi nimi je vždy dost času na to, aby se rytíři mohli mezi nimi přesunout a třeba stihnout ještě účast v některých menších turnajích, ve kterých mohou vyhrát peníze na účast na dalším Velkém turnaji.
 
 ### Disciplíny 
 
@@ -29,11 +29,11 @@ Rytíř dostane **2 bod** za každý dřevec, který zlomí o protivníkův **š
 
 **- mêlée** -- Souboj v plné rytířské zbroji. Zápolí v uzavřených šraňkách a počítají se zásahy proti hrudnímu plátu a přilbici. První, kdo dosáhne deseti zásahů, zvítězí a postupuje dál v turnaji. 
 
-**- střelba lukem, samostřílem, píšťalou -- **Účastníci soutěže soutěží ve střelbě na cíle na různé vzdálenosti. Při střelbě z luku a samostřílu většinou střílí soutěžící najednou, každý na svůj cíl. Postupně jsou vyřazováni slabší střelci až do finále a nejnáročnějších disciplín postupují jen ti nejlepší, mezi kterými se vybere vítěz. Střelba píšťalou je poměrně nová disciplína a nesoutěží v ní tolik střelců. Nastupují proto k výstřelu jeden po druhém a mezi výstřely jsou pauzy během který se musí vyčistit vzduch od dýmu ze spáleného střelného prachu. I tak ale mají výhodu ti, kteří pálí první, protože ti na konci často jen tuší, kterým směrem je terč.  
+**- střelba lukem, samostřílem, píšťalou** -- Účastníci soutěže soutěží ve střelbě na cíle na různé vzdálenosti. Při střelbě z luku a samostřílu většinou střílí soutěžící najednou, každý na svůj cíl. Postupně jsou vyřazováni slabší střelci až do finále a nejnáročnějších disciplín postupují jen ti nejlepší, mezi kterými se vybere vítěz. Střelba píšťalou je poměrně nová disciplína a nesoutěží v ní tolik střelců. Nastupují proto k výstřelu jeden po druhém a mezi výstřely jsou pauzy během který se musí vyčistit vzduch od dýmu ze spáleného střelného prachu. I tak ale mají výhodu ti, kteří pálí první, protože ti na konci často jen tuší, kterým směrem je terč.  
 
-**- soutěž ve zpěvu -- **Probíhá v hlavním stanu po setmění a za večer se zpravidla představí dvojice bardů a jeden z nich postoupí do dalšího kola podobně jako v tjostu. O výsledku rozhoduje sice několik rozhodčích, kterým opět předsedá hostitel, Earl Malcolm, ale ti jsou zpravidla ovlivněni reakcemi naslouchajících v sále. Není proto výjimkou, že soutěžící vybírají písně, které jsou populární a hrají na náladu v místnosti, aby dosáhli povzbuzování a zlepšili svoje šance. 
+**- soutěž ve zpěvu** -- Probíhá v hlavním stanu po setmění a za večer se zpravidla představí dvojice bardů a jeden z nich postoupí do dalšího kola podobně jako v tjostu. O výsledku rozhoduje sice několik rozhodčích, kterým opět předsedá hostitel, Earl Malcolm, ale ti jsou zpravidla ovlivněni reakcemi naslouchajících v sále. Není proto výjimkou, že soutěžící vybírají písně, které jsou populární a hrají na náladu v místnosti, aby dosáhli povzbuzování a zlepšili svoje šance. 
 
-**- básnická soutěž -- **Je velice prestižní a na rozdíl od zpěvu, který je určitou lidovou zábavou, básnířská soutěž je hodnocena velice přísně rozhodčími z řad básníků. Soutěžící musí přijít s vlastními básněmi, které jsou pak vydány v básnířské sbírce po skončení turnaje (většinou v malém vydání, ale znalci se o takové sborníky zajímají). Vítěz je oceněn zlaceným Vavřínem básníků, který smí nosit až do dalšího turnaje. 
+**- básnická soutěž** -- Je velice prestižní a na rozdíl od zpěvu, který je určitou lidovou zábavou, básnířská soutěž je hodnocena velice přísně rozhodčími z řad básníků. Soutěžící musí přijít s vlastními básněmi, které jsou pak vydány v básnířské sbírce po skončení turnaje (většinou v malém vydání, ale znalci se o takové sborníky zajímají). Vítěz je oceněn zlaceným Vavřínem básníků, který smí nosit až do dalšího turnaje. 
 
 #### Jak hrát turnaj? 
 
@@ -51,7 +51,7 @@ Pokud postavy do turnaje nijak nezasáhnou, velmi pravděpodobně zvítězí ná
 
 - Ve **střelbě lukem** jsou sázky na straně sira Oswyna Metcalfa, ve **střelbě samostřílem** je neporaženým šampionem Ermo se'Azrento z Ligy a **střelbě píšťalou** se očekává triumf jednoho ze žoldnéřů rodu Lochbearerů, Simona Dauerse. 
 
-- V soutěži **ve zpěvu **zřejmě vyhraje Nathaniel Fulke se starou baladou Míle cest, ke které podle šeptandy přidal pro účely soutěže několik upravených slok. 
+- V soutěži **ve zpěvu** zřejmě vyhraje Nathaniel Fulke se starou baladou Míle cest, ke které podle šeptandy přidal pro účely soutěže několik upravených slok. 
 
 - V **básnířské soutěži** se očekává vítězství Maud Garretová s heroickou básní, která popisuje smrt posledního Purpurového císaře před desetiletími. Dle zpráv obecenstvo u této básně nepokrytě pláče.  
 
@@ -71,7 +71,7 @@ Některé z těchto novinek mohou postavy zaslechnout na trhu nebo od některéh
 
 - _„Pirátské bratrstvo za poslední měsíc zesílilo své přepady. Tvrdí se, že se rozhodli uzavřít celé moře pro plavbu bez ohledu na prapor. A není to jako dřív jedna pirátská koga, které můžete s dobrým větrem uniknout. Teď se plaví jako flotila a potápí ke dnu jednu loď za druhou. Tvrdí se, že mají dost drzosti, aby přepadli samotný Ravnburgh."_ 
 
-- _„Kde jsi vzal ten šat, cizinče? Viděl jsem ho už jednou. Před několika dny. Prala ho dívka a plakala. Bylo od krve a ona říkala, že oplakává smrt. Dávej na sebe pozor, cizinče... tohle je zlé znamení." _ 
+- _„Kde jsi vzal ten šat, cizinče? Viděl jsem ho už jednou. Před několika dny. Prala ho dívka a plakala. Bylo od krve a ona říkala, že oplakává smrt. Dávej na sebe pozor, cizinče... tohle je zlé znamení."_ 
 
 - _„Slyšeli jste už o Snícím městě? Podle příběhů se nachází daleko na Hlubokém poledni v zemi Núr. Tam na čarodějném trůně sedí dávno mrtvý král v dávno mrtvém městě a sní sen bez konce. Trest bohů před staletím zahubil všechny, kteří v tom zlém místě žili, ale sny mrtvých jsou tak silné, že pronikají do snů živých. Dávno mrtví černokněžníci tak ze snů řídí celou svou říši a stále naplňují plán, který měl ztroskotat již před staletími..."_ 
 
