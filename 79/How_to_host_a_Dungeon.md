@@ -2,7 +2,11 @@
 layout: article
 title: How to host a Dungeon (2. edícia)
 authors: Antharon
-tags: Recenze
+tags: 'materiály a doplňky, inspirace, recenze'
+published: true
+summary: >-
+  Popis solitérové hry How to host a dungeon (2. edice) včetně příkladu
+  vyrtvořeného světa Skarland.
 ---
 
 ## How to host a Dungeon (2. edícia) 
