@@ -10,7 +10,7 @@ title: 'Rolové hry, válečné hry a jejich průsečíky'
 
 Wargaming není jen Warhammer a Warhammer 40,000\. Za posledních několik let jsem se vydatně věnoval válečným hrám (wargames). Stejně jako rolové hry mají různá specifika, vyhodnocovací systémy a různě také pracují s hráčskými preferencemi. Než abychom se bavili o tom, co a jak mají které válečné hry společného s rolovými (role-playing games), pojďme se podívat na pár zajímavých her, které prolínají role-playing a wargaming. 
 
-![DSC8132.jpg]({{site.baseurl}}/79/DSC8132.jpg)
+![]({{site.baseurl}}/79/DSC8132.jpg)
 
 
 ## Válečné hry s kampaňovým systémem 
@@ -23,7 +23,7 @@ Na druhou stranu historický Outremer: Faith and Blood (Jamie Gordon) z prostře
 
 Velice silný RP zážitek dodává taky parádní hra od Gods Eye Games - Steel and Steed. Jedná se o simulátor rytířských turnajů. Hra zpracovává klání na dřevce, lukostřelbu a pěší i jízdní buhurt. Autoři výslovně píší, že skutečné figurky potřebujete jenom na buhurt, ale proč si neudělat i jezdce a střelce. V této hře ovládáte pouze jeden model, jednoho rytíře. Tvorba postavy hodně připomíná RPG. Určujete základní atributy a pak další schopnosti. Vybíráte si typ luku, koně, dřevce…	 Kampaňový mód obsahuje pravidla pro dvoření se dámám a bonusy, které vám ta která dáma přináší v rámci jejího působení na tribuně ve váš prospěch. Dále můžete do své rytířské domácnosti přidávat vazaly, panoše, syny a dcery. Trochu jako RPG Pendragon. 
 
-![DSC8151.jpg]({{site.baseurl}}/79/DSC8151.jpg)
+![]({{site.baseurl}}/79/DSC8151.jpg)
 
 
 ## Společná tvorba příběhu 
@@ -40,7 +40,7 @@ Pak tady máme hry, které přináší tak zajímavé prostředí, že přímo v
 
 Taky mám jistotu, že kdybych někdy měl příležitost hrát westernové RPG, chtěl bych využít prostředí ze hry Dracula's America. Hra je zasazena do prostředí amerického západu kolem roku 1870\. Poté, co byl hrabě Dracula vyhnán Řádem Rozbřesku z Evropy, vydal se přes oceán do Ameriky, kde se jako bohatý Evropan se zájmem o rozvoj svobodné Ameriky vetřel do přízně Abrahama Lincolna. Ten dával Draculovi stále více a více pravomocí, až jednoho dne v divadle… zemřeli všichni z Lincolnova okolí. Tedy až na hraběte. Ten se prohlásil doživotním prezidentem USA (ano, je nesmrtelný) a začal dělat změny. Městy se teď prochází upíři a domorodí indiáni se vrátili ke svým starým způsobům, aby chránili rovnováhu světa. Proto přijímají podobu šelem a útočí na „vládní" zřízení. Křižáci z Řádu Rozbřesku se snaží konečně ulovit Draculu i všechny ostatní nelidské zrůdy a do toho všeho ještě vstupují železniční magnáti z Kultu Křižovatek, kteří se pomocí vzorců železnice v krajině pokouší otevřít pekelnou bránu, nebo Temná Konfederace složená z bývalých jižanských otrokářů, kteří se od haitských otroků naučili něco o nekromancii a nyní se hodlají postarat o to aby Jih znovu povstal. Tentokrát doslovně. 
 
-![Figurky]({{site.baseurl}}/79/DSC_1339_a.jpg)
+![]({{site.baseurl}}/79/DSC_1339_a.jpg)
 
 ## Závěrem 
 
