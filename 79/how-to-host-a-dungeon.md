@@ -52,7 +52,7 @@ Na začiatku kola sa všetky karty monštier zamiešajú a jedna za druhou sa vy
 
 Keď niektorá skupina monštier splní svoj cieľ prehupneme sa do doby zloduchov. Tu už sa monštrá nedokladajú každé kolo ale len keď je nejaká skupina úplne eradikovaná. 
 
-Zloduch v každom kole jedná ako prvý a potom ešte raz po tom ako ostatní odohrajú svoje ťahy. Okrem toho zloduch dostane nejaké špeciálne akcie. Podľa toho, čo skupina vyhrala na poklady alebo na populáciu máme v základnej knižke dostupné dva archetypy - hordu a impérium 
+Zloduch v každom kole jedná ako prvý a potom ešte raz po tom ako ostatní odohrajú svoje ťahy. Okrem toho zloduch dostane nejaké špeciálne akcie. Podľa toho, čo skupina vyhrala na poklady alebo na populáciu máme v základnej knižke dostupné dva archetypy -- hordu a impérium 
 
 Horda sa snaží znesvätiť postupne celý svet. Rýchlo sa množia, vedia vyraďovať súpera obetovaním veľkého množstva jedincov a keď ovládnu nejakú oblasť tak v nej svojím štýlom zmenia všetky budovy. Až zmenia celý svet tak vyhrali a hra končí. 
 
@@ -60,7 +60,7 @@ Impériom sa skupina stane ak získala dostatok pokladov. Impérium sa snaží s
 
 Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé dve, ale chápem, že je to potrebné pre doriešenie príbehu. Ak vás táto hra zaujala, určite po nej skočte v tomto osamelom období. V porovnaní s prvou edíciou sme sa dočkali množstva výborných zmien v oblasti hrateľnosti. Výsledkom hry je často veľmi pestré prostredie vhodné pre hranie RPG a práve preto som jednu zo svojich hier spracoval trochu hlbšie a nájdete ju na nasledujúcich stranách. 
 
-### Skarland - história 
+### Skarland -- história 
 
 ![Skarland]({{site.baseurl}}/79/hthad.png)
 
