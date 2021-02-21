@@ -1,6 +1,6 @@
 ---
 layout: article
-title: How to host a Dungeon (2. edícia)
+title: How to Host a Dungeon (2. edícia)
 authors: Antharon
 tags: 'materiály a doplňky, inspirace, recenze'
 published: true
@@ -9,10 +9,9 @@ summary: >-
   vyrtvořeného světa Skarland.
 ---
 
-![Obálka knihy.]({{site.baseurl}}/79/_obalka.jpg)
+V rámci hľadania nejakej zábavy počas lockdownu som si spomenul na drobnú solitérovú kratochvílu menom `How to Host a Dungeon`. Hra pre jedného hráča bola skôr generátorom herného sveta a mala veľké medzery, ktoré hráč musel doplniť vlastnou predstavivosťou a metagamovými rozhodnutiami. 
 
-
-V rámci hľadania nejakej zábavy počas lockdownu som si spomenul na drobnú solitérovú kratochvílu menom How to host a Dungeon. Hra pre jedného hráča bola skôr generátorom herného sveta a mala veľké medzery, ktoré hráč musel doplniť vlastnou predstavivosťou a metagamovými rozhodnutiami. 
+![How to Host a Dungeon, 2nd edition]({{site.baseurl}}/79/hthad2e.png)
 
 O čo milším prekvapením bolo keď som zistil, že nedávno vyšla nová ediícia tejto hry. Zvedavý ako to dopadlo som teda vysolil päť eur ako prejav vďaky za snahu autorovi. Hneď po otvorení dokumentu ma milo prekvapila premyslená pekná nová sadzba, ktorá definitívne prešla beta testingom a pripomienkami. Tak isto ako aj všetko v tejto knižke. Na the Trove som našiel aj testerskú verziu a je na míle ďaleko od výsledného produktu. 
 
@@ -20,11 +19,11 @@ Hra vyžaduje niekoľko hárkov papiera, polyhedrálny set kociek, vytlačené k
 
 Fázy hry sú rovnaké ako v prvej verzií. Na začiatku je primordiálna doba, kedy svet osadíme nejakou základnou geografiou, nasleduje fáza civilizácie, ktorá vedie k jej postupnému pádu, potom podzemie osídlia najrôznejšie skupiny obyvateľov v dobe monštier a potom jedna z týchto skupín získa takú moc, že sa stane hlavným zloduchom, ktorý postupne podzemie úplne ovládne. 
 
-#### Primordiálna doba 
+### Primordiálna doba 
 
-V primordiálnej dobe sa rýchlym hodom určí legenda o vzniku sveta a nexus, žierlo moci v oblasti. Mapa je rozdelená na niekoľko oblastí (hra ponúka viacero zaujímavých schém) a do každej oblasti sa vytvorí nejaký zaujímavý terén. Môžu to byť rôzne jaskyne, voda, magma, ruda, drahokamy, alebo niektorý z exotických biómov. V niektorých jaskyniach sa dokonca objavia primordiálne monštrá. Táto doba je rýchla a nezaberie nám veľa času, tiež nie je ničím špeciálna a odlišná od iných generátorov... 
+V primordiálnej dobe sa rýchlym hodom určí legenda o vzniku sveta a nexus, žierlo moci v oblasti. Mapa je rozdelená na niekoľko oblastí (hra ponúka viacero zaujímavých schém) a do každej oblasti sa vytvorí nejaký zaujímavý terén. Môžu to byť rôzne jaskyne, voda, magma, ruda, drahokamy, alebo niektorý z exotických biómov. V niektorých jaskyniach sa dokonca objavia primordiálne monštrá. Táto doba je rýchla a nezaberie nám veľa času, tiež nie je ničím špeciálna a odlišná od iných generátorov…
 
-#### Doba civilizácie 
+### Doba civilizácie 
 
 Tu máme prvú veľkú zmenu od prvej edície. Hra obsahuje hneď päť civilizácií a každá z nich má kompletne odlišné a zaujímavé pravidlá. Každá civilizácia má nejaký setup, potom pravidlá ako má postupovať v jednotlivých kolách a nakoniec podmienku pre koniec civilizácie. 
 
