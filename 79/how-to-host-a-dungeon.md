@@ -69,7 +69,7 @@ Tu sa nachádza interpretácia histórie skarlandu tak ako som odohrával hru v 
 
 Vravi sa, že svet Skarlandu vznikol tak, že sa stretlo nebo a more a výsledkom bola pevnina. Pre nás je dôležité, že jedného dňa sa tu objavila zem a na nej sa objavil život. Ešte pred životom tu však bola Trhlina. 
 
-#### Trhlina 
+### Trhlina 
 
 Trhlina je ako čierna jazva na tvári sveta, je to nexus miestnej magickej energie, z ktorého stúpajú ako chápadlá čierne cáry temnoty a zatieňujú nebo. Aj preto tu je väčšina zeme iba holá suchá hlina na ktorej nič nerastie. Trhlina je večná a nekonečná. 
 
