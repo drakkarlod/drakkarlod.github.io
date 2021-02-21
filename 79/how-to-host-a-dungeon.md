@@ -5,8 +5,8 @@ authors: Antharon
 tags: 'materiály a doplňky, inspirace, recenze'
 published: true
 summary: >-
-  Popis solitérové hry How to Host a Dungeon (2. edice) včetně příkladu
-  vyrtvořeného světa Skarland.
+  Popis solitérové hry `How to Host a Dungeon` (2. edice) včetně příkladu hrou
+  vytvořeného světa Skarland.
 ---
 
 V rámci hľadania nejakej zábavy počas lockdownu som si spomenul na drobnú solitérovú kratochvílu menom `How to Host a Dungeon`. Hra pre jedného hráča bola skôr generátorom herného sveta a mala veľké medzery, ktoré hráč musel doplniť vlastnou predstavivosťou a metagamovými rozhodnutiami. 
