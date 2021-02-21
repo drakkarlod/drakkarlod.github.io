@@ -1,4 +1,5 @@
 ---
 layout: issue
-number: 99
+number: 78
+published: true
 ---
