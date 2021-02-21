@@ -144,7 +144,7 @@ Evervesper je ľudská dedina na severozápade Skarlandu a zároveň najstaršie
 
 Zaručeným zdrojom informácií je miestny kňaz ktorý sem prišiel ešte s rytiermi. Jeho najpálčivejším problémom je chýbajúci oltár, ktorý odniesli pri jednom z nájazdov lúpeživé stirgy. Po získaní a navrátení oltáru poskytne postavám ubytovanie, aj stravu, ako aj kňažské služby. 
 
-Oltár si po genocíde stírg vzal spolu s ich pokladom drak a povaľuje sa niekde v hubovom lese. Krádež pokladu z dračieho hoardu však môže priniesť nechcený dračí hnev na postavy i dedinčanov. Možno by sa dal odkúpiť alebo dostať ako odmenu za prácičku... 
+Oltár si po genocíde stírg vzal spolu s ich pokladom drak a povaľuje sa niekde v hubovom lese. Krádež pokladu z dračieho hoardu však môže priniesť nechcený dračí hnev na postavy i dedinčanov. Možno by sa dal odkúpiť alebo dostať ako odmenu za prácičku... 
 
 V chrámovej márnici leží mladý muž ktorého nedávno našli ležať mŕtveho priamo v jeho dome, jeho rodičia umreli tiež za pochybných okolností. Na krku ná podivné uhryznutie, ktorým z neho vysali krv. Dedinčania sa obávajú, že sa vrátili stirgy. Absencia stôp v okolí domu by tomu nasvedčovala. Skutočnosť je taká, že hlboko pod jeho domom sa skrýva hlboká šachcta vedúca až do templárskeho tajného sídla. 
 
