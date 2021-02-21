@@ -13,7 +13,7 @@ Tisíce lidí z Říše, Císařství, z Ligy i z východu se každoročně sjí
 
 Hostitelem turnaje růží ve městě je tradičně rod Loch&shy;bearerů a starý Earl Malcolm slouží také jako závěrečný rozhodčí a sudí sporů soutěžících. Prvního dne turnaje je z řad nejkrásnějších svobodných dívek na turnaji zvolena Královna růží, která pak předsedá turnaji jako přední z dam, předává vítězům jejich trofeje a rytíři vítězí na její počest.  
 
-Postavy ale nemusí jen přihlížet a mohou se do turnaje samy zapojit. Do *tjostu* a *mêlée* se mohou zapisovat rytíři a šlechtici (zápisné jsou 2 zlaté gryfy pro rytíře bez léna, 6&nbsp;gryfů pro rytíře s lénem, tucet gryfů pro hraběte, 2 tucty gryfů pro barona nebo earla a kopa gryfů pro knížete nebo krále), *střelecké soutěže* jsou otevřené a prakticky nikdy se do nich nezapisují urození (zápisné činí jen 2&nbsp;groše). *Pěvecké* a *básnické soutěže* se mohou účastnit urození i neurození účastníci (zápisné je půl tuctu grošů do každé).  
+Postavy ale nemusí jen přihlížet a mohou se do turnaje samy zapojit. Do **tjostu** a **mêlée** se mohou zapisovat rytíři a šlechtici (zápisné jsou 2 zlaté gryfy pro rytíře bez léna, 6&nbsp;gryfů pro rytíře s lénem, tucet gryfů pro hraběte, 2&nbsp;tucty gryfů pro barona nebo earla a kopa gryfů pro knížete nebo krále), **střelecké soutěže** jsou otevřené a prakticky nikdy se do nich nezapisují urození (zápisné činí jen 2&nbsp;groše). **Pěvecké** a **básnické soutěže** se mohou účastnit urození i neurození účastníci (zápisné je půl tuctu grošů do každé).
 
 ![]({{site.baseurl}}/79/01.jpg)
 
@@ -122,4 +122,4 @@ Postavy procházejí městem během turnaje, když tu náhle…
 
 ## Využití ve hře 
 
-Turnaj může být dobrodružstvím sám o sobě, pokud se hráči chtějí některé z disciplín zúčastnit, nebo může být jen pozadím pro další vaše dobrodružství. Konání turnaje dočasně změní a oživí prostředí, ve kterém hrajete. Turnaj přiláká cizince a soutěžící zdaleka - udatní rytíři, krásné dámy, oslavy, růže v ulicích a domy vyzdobené květinovou výzdobou - to vše poskytuje příležitost pro neobvyklá dobrodružství a nezvyklé zápletky.
+Turnaj může být dobrodružstvím sám o sobě, pokud se hráči chtějí některé z disciplín zúčastnit, nebo může být jen pozadím pro další vaše dobrodružství. Konání turnaje dočasně změní a oživí prostředí, ve kterém hrajete. Turnaj přiláká cizince a soutěžící zdaleka&nbsp;-- udatní rytíři, krásné dámy, oslavy, růže v ulicích a domy vyzdobené květinovou výzdobou&nbsp;-- to vše poskytuje příležitost pro neobvyklá dobrodružství a nezvyklé zápletky.
