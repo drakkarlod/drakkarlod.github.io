@@ -5,6 +5,7 @@ title: Úvodní haiku
 tags: úvodník
 published: true
 summary: místo úvodu
+authors: redakce
 ---
 
 > Poslední havran!<br />
