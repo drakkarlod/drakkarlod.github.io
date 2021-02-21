@@ -8,13 +8,11 @@ tags: literatura
 title: 'Rolové hry, válečné hry a jejich průsečíky'
 ---
 
-## Rolové hry, válečné hry a jejich průsečíky 
-
 Wargaming není jen Warhammer a Warhammer 40,000\. Za posledních několik let jsem se vydatně věnoval válečným hrám (wargames). Stejně jako rolové hry mají různá specifika, vyhodnocovací systémy a různě také pracují s hráčskými preferencemi. Než abychom se bavili o tom, co a jak mají které válečné hry společného s rolovými (role-playing games), pojďme se podívat na pár zajímavých her, které prolínají role-playing a wargaming. 
 
 ![_DSC8151.jpg]({{site.baseurl}}/79/_DSC8151.jpg)
 
-### Válečné hry s kampaňovým systémem 
+## Válečné hry s kampaňovým systémem 
 
 Spousta her se tváří, že mají RP prvky v podobě kampaňového systému. V takových hrách obvykle vaši bojovníci získávají zkušenosti a úrovně a nové schopnosti. Takové hry obvykle patří do kategorie M2M (man-to-man) her, tedy takových, kde hráč ovládá pár individuálních bojovníků nezávisle na sobě -- třeba skupinka dobrodruhů. Jednotlivým modelům hrozí trvalá smrt nebo se mohou ověnčit slávou. Některé hry mají kampaňový systém bohatší, jiné chudší. 
 
@@ -26,13 +24,13 @@ Velice silný RP zážitek dodává taky parádní hra od Gods Eye Games - Steel
 
 ![_DSC8132.jpg]({{site.baseurl}}/79/_DSC8132.jpg)
 
-### Společná tvorba příběhu 
+## Společná tvorba příběhu 
 
 Můžeme namítnout, že RPG je přeci o něčem jiném. Že hráči nehrají proti sobě, ale spolupracují na tvorbě příběhu. A je to pravda. V této souvislosti bych rád zmínil jméno mého oblíbeného herního designéra: Andrea Sfiligoi. Kromě velice úspěšného Song of Blades and Heroes, který pak dostal i vlastní RPG založené na stejném systému (Tales of Blades and Heroes), vytvořil tento designér velkou spoustu inovativních herních systémů. Do tohoto článku určitě patří zmínka o 4 Against Darkness, což je kooperativní dungeon crawl bez nutnosti vypravěče. Systém umožňuje náhodně generované dungeony včetně monster a jejich chování. Hra je určena pro 4 postavy a je celkem jedno, jestli ji hraje 1-4 hráčů. Pokud máte rádi taktický boj a dungeon crawly, je to možná alternativní cesta. 
 
 Stejný autor také pro Osprey Games napsal A Fistful of Kung Fu - hru z prostředí hongkongského akčního filmu. Místo armád máte obsazení a hlavní postava každého hráče je Protagonista. Zbytek vašich bojovníků je komparz. Na téhle hře je skvělé, že aktivně podporuje vyprávění příběhu, šíleného a přitaženého za vlasy právě ve stylu hongkongské akce. Ninjové, démoni, hrdinní detektivové a mistři kung fu se střetávají na rybím trhu, v čajovně nebo na tajuplném hřbitově. Hra aktivně pracuje s prostředím a stanovuje, jaké rekvizity se kde mohou nacházet. Postavy tak po sobě mohou házet příbory, používat kusy židle jako improvizované zbraně a využívat i vlastností prostředí k vytvoření terénních překážek. Když jsem pravidla četl poprvé, část mi připadala jako vytváření aspektů scény ve FATE. 
 
-### Příběhy tam a zase zpátky 
+## Příběhy tam a zase zpátky 
 
 Pak tady máme hry, které přináší tak zajímavé prostředí, že přímo vybízí k překročení hranic. V RPG hraji Pathfinder první edice a jedna z nejkrásnějších věcí na Pathfinderu je jeho prostředí. Golarion pokrývají desítky zajímavých států, které jsou veskrze funkční a velice pestré. Ať už se bavíme o ďábly uctívajícím Cheliaxu, upírské Ustalavi, revolučním Galtu nebo Numerii, kde uprostřed barbarských pustin ztroskotala vesmírná loď. Můžete si vybrat jakékoli prostředí nebo cestovat a zkusit je všechny. Jednu věc dělají wargameři ještě radši, než hraní si s vojáčky a barvení vojáčků. Rádi vymýšlí nové armády. Když se rozhodnete svoje fantasy hry zasadit do prostředí Pathfinderu, můžete udělat zcela unikátní armády - numerijskou Technickou Ligu (organizace, která podniká cesty do útrob ztroskotané vesmírné lodi a metodou pokus/omyl používají sci-fi technologie), barbarské válečníky doplněné o roboty a elitní bojovníky oblečené v kožešinách s laserovými pistolemi. Nebo armádu Cheliaxu kombinující hrůzostrašné Hellknighty v plátových brněních a pekelné bytosti, bok po boku s běžnými lidskými bojovníky. 
 
@@ -42,7 +40,7 @@ Taky mám jistotu, že kdybych někdy měl příležitost hrát westernové RPG,
 
 ![DSC_1339_a.jpg]({{site.baseurl}}/79/DSC_1339_a.jpg)
 
-### Závěrem 
+## Závěrem 
 
 Nakonec je to všechno jen hra. Je to o tom, co vás baví, a v čem nacházíte radost. Měl jsem možnost zahrát si RPG, která se chovala mnohem víc jako wargame a naopak. Tenhle článek možná přiláká některé hráče RPG k figurkovým hrám. Možná už ten hráč figurku své postavy má, protože je zvyklý hrát RPG s figurkami. A možná teď jeho hrdina zažije nová dobrodružství z nového úhlu pohledu. 
 
