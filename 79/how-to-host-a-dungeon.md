@@ -9,8 +9,6 @@ summary: >-
   vyrtvořeného světa Skarland.
 ---
 
-## How to host a Dungeon (2. edícia) 
-
 ![Obálka knihy.]({{site.baseurl}}/79/_obalka.jpg)
 
 
@@ -64,7 +62,7 @@ Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé
 
 ### Skarland - história 
 
-![hthad.png]({{site.baseurl}}/79/hthad.png)
+![Skarland]({{site.baseurl}}/79/hthad.png)
 
 Tu sa nachádza interpretácia histórie skarlandu tak ako som odohrával hru v How to host a dungeon. Po dobe impéria mi ostala veľká voľné plocha na severe a tak som tam spustil ešte jednu dobu monštier a priniesla zaujímavé výsledky... 
 
