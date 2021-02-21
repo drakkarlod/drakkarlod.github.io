@@ -1,6 +1,6 @@
 ---
 neco: neco
-published: false
+published: true
 Title: 'Rolové hry, válečné hry a jejich průsečíky'
 layout: article
 authors: Jiron
