@@ -35,7 +35,7 @@ Golemové mohou být překážkou, nástrojem, i pokladem:
 
 - Robustní figura z kovu, kamene a hlíny bránící vstupu může být silným, a především těžko zranitelným protivníkem, který nikdy nejí, nespí, nepotřebuje vzduch, nehoří a jeho jedinou myšlenkou je nepustit nikoho dál. 
 
-- Golemova síla může být klíčem ke zvednutí těžké padací mříže, odvalení kamenné koule tarasící vchod, nebo může vchod zatarasit vlastním tělem. Golem může být na místě a pustit každého, kdo zná správné heslo a bránit každému, kdo heslo neřekne, aby se pokusil cestu otevřít sám. Nebo se můžete pokusit sehnat dostatečně velkého a silného golema. 
+- Golemova síla může být klíčem ke zvednutí těžké padací mříže, odvalení kamenné koule tarasící vchod, nebo může vchod zatarasit vlastním tělem. Golem může být na místě a pustit každého, kdo zná správné heslo a bránit každému, kdo heslo neřekne, aby se pokusil cestu otevřít sám. Nebo se můžete pokusit sehnat dostatečně velkého a silného golema. 
 
 - Malý golem může být schopen projít třeba odpadní rourou a přinést něco z domu na druhé straně. Pokud ovšem na ten předmět dosáhne a dokáže ho rourou protáhnout.
 
