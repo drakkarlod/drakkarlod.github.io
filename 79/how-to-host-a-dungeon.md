@@ -98,9 +98,9 @@ Po páde trpasličej državy ostala táto oblasť na dlhú dobu opustená. Postu
 
 Neďaľeko Trhliny si svoje hniezdo vybudoval obrovský exemplár insektoida, ktorý prilákala temná mágia prýštiaca z Trhliny. Keď ho rytieri pri prieskume spozorovali bolo jasné, že bude hrozbou pre ich dedinu a navyše by bol výbornou trofejou. Vybudovali teda Čiernu vežu, opevnenú pozorovateľňu ktorá mala varovať pred príchodom chrobáka. 
 
-V podzemí zatiaľ zo západu prišla trpasličia reklamačná spoločnosť, spoločenstvo dobrodruhov a učencov hľadajúca stratené mesto Jarla Grimnira, Založili malú prieskumnú základňu a začali kopať ďalej na východ podľa starých máp. 
+V podzemí zatiaľ zo západu prišla trpasličia reklamačná spoločnosť, spoločenstvo dobrodruhov a učencov hľadajúca stratené mesto Jarla Grimnira, Založili malú prieskumnú základňu a začali kopať ďalej na východ podľa starých máp. 
 
-Lov tieňového chrobáka sa ukázal ako horší oriešok, než rytieri čakali. Chrobák oplýval nečakanou inteligenciou a rytierov si podal jedného po druhom. Posledný preživší rytier si vybudoval podzemnú skrýšu, kde si mohol pripraviť útok na chrobáka a nakoniec uspel. Vystavil si ho vo svojom sídle ako trofej a vybudoval hrobku pre svojich priateľov. Nakoniec sa po ňom zľahla zem. 
+Lov tieňového chrobáka sa ukázal ako horší oriešok, než rytieri čakali. Chrobák oplýval nečakanou inteligenciou a rytierov si podal jedného po druhom. Posledný preživší rytier si vybudoval podzemnú skrýšu, kde si mohol pripraviť útok na chrobáka a nakoniec uspel. Vystavil si ho vo svojom sídle ako trofej a vybudoval hrobku pre svojich priateľov. Nakoniec sa po ňom zľahla zem. 
 
 Trhlina však prilákala aj iné mimozemské formy života. Jednou z nich bol Otyugh. Nevypočitateľný rastlinný bôžik, ktorý bol v tejto pustine závislý na prísune živočíšneho odpadu. Ten sa snažil obchodovať už s rytiermi z Evervesperu avšak jednania nešli uplne podľa plánu. 
 
