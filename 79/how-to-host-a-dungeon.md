@@ -56,9 +56,9 @@ Zloduch v každom kole jedná ako prvý a potom ešte raz po tom ako ostatní od
 
 Horda sa snaží znesvätiť postupne celý svet. Rýchlo sa množia, vedia vyraďovať súpera obetovaním veľkého množstva jedincov a keď ovládnu nejakú oblasť tak v nej svojím štýlom zmenia všetky budovy. Až zmenia celý svet tak vyhrali a hra končí. 
 
-Impériom sa skupina stane ak získala dostatok pokladov. Impérium sa snaží spriateliť sa s ostatnými skupinami monštier a postupne ich úplne anektovať. Slúži im k tomu ich veľký príjem pokladov a budovy ako napríklad getto, ktoré pridá impériu nový tag aby mohli lepšie komunikovať s nepriateľmi. 
+Impériom sa skupina stane ak získala dostatok pokladov. Impérium sa snaží spriateliť sa s ostatnými skupinami monštier a postupne ich úplne anektovať. Slúži im k tomu ich veľký príjem pokladov a budovy ako napríklad getto, ktoré pridá impériu nový tag aby mohli lepšie komunikovať s nepriateľmi. 
 
-Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé dve, ale chápem, že je to potrebné pre doriešenie príbehu. Ak vás táto hra zaujala, určite po nej skočte v tomto osamelom období. V porovnaní s prvou edíciou sme sa dočkali množstva výborných zmien v oblasti hrateľnosti. Výsledkom hry je často veľmi pestré prostredie vhodné pre hranie RPG a práve preto som jednu zo svojich hier spracoval trochu hlbšie a nájdete ju na nasledujúcich stranách. 
+Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé dve, ale chápem, že je to potrebné pre doriešenie príbehu. Ak vás táto hra zaujala, určite po nej skočte v tomto osamelom období. V porovnaní s prvou edíciou sme sa dočkali množstva výborných zmien v oblasti hrateľnosti. Výsledkom hry je často veľmi pestré prostredie vhodné pre hranie RPG a práve preto som jednu zo svojich hier spracoval trochu hlbšie a nájdete ju na nasledujúcich stranách. 
 
 ### Skarland -- história 
 
