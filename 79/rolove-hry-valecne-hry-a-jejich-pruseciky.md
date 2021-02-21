@@ -5,6 +5,7 @@ Title: 'Rolové hry, válečné hry a jejich průsečíky'
 layout: article
 authors: Jiron
 tags: literatura
+title: 'Rolové hry, válečné hry a jejich průsečíky'
 ---
 
 ## Rolové hry, válečné hry a jejich průsečíky 
