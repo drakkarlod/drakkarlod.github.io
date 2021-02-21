@@ -25,7 +25,7 @@ Myšlenka se v golemově hlavě zahřívá a čím je komplikovanější, tím s
 
 To vše jsou věci, na které si golemista musí při formulování myšlenky dát pozor. I se sebelepší myšlenkou však golem nikdy nebude schopen delikátních operací či tvůrčího přístupu, a tak se i ten nejnešikovnější tovaryš hodí na libovolné řemeslo lépe, než ten nejlepší golem. Golem bude v nejlepším případě nekvalifikovaná síla, nejčastěji však spíš tažné zvíře. 
 
-Myšlenka není golemovi vsazena napořád, lze ji vyjmout&nbsp;a nahradit jinou myšlenkou. U dobře postaveného golema jde však o náročnou operaci, aby myšlenka nemohla sama od sebe z hlavy vyklouznout, či aby ji nemohl jen tak někdo se zlým úmyslem zaměnit. 
+Myšlenka není golemovi vsazena napořád, lze ji vyjmout a nahradit jinou myšlenkou. U dobře postaveného golema jde však o náročnou operaci, aby myšlenka nemohla sama od sebe z hlavy vyklouznout, či aby ji nemohl jen tak někdo se zlým úmyslem zaměnit. 
 
 ### Co s tím ve hře 
 
