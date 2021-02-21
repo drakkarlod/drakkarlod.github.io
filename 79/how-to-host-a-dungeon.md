@@ -112,7 +112,7 @@ Trpaslíci medzitým vytvorili vstup do starého mesta a začali ho preskúmava�
 
 Do Evervesperu prišla skupina lovcov upírov, Strieborné helmy, a začali sa spytovať na stratených templárov. Miestni ich zaviedli k domu jedného z nich. Strieborné helmy v dome strávili noc a hneď na druhý deň odchádzali obťažkaní pokladmi. 
 
-Trpaslíkom sa podarilo preniknúť hlboko do starého mesta a získať jednu z relikvií Jarla Grimnira. Vybudovali zbrojnicu a veľkú halu, kde sa mohli zhromažďovať. Niekoľkokrát dokonca dokázali bosorku zahnať. Od trpaslíkov sa oddelila skupina expertov, ktorí nepozorovane prenikli na druhú stranu starého mesta. A začali budovať tajné sídlo pre svoje operácie. Podnikli niekoľko výprav a nahromadili malú časť obrovho pokladu. Ten ich však nakoniec pochytal a pozabíjal. 
+Trpaslíkom sa podarilo preniknúť hlboko do starého mesta a získať jednu z relikvií Jarla Grimnira. Vybudovali zbrojnicu a veľkú halu, kde sa mohli zhromažďovať. Niekoľkokrát dokonca dokázali bosorku zahnať. Od trpaslíkov sa oddelila skupina expertov, ktorí nepozorovane prenikli na druhú stranu starého mesta. A začali budovať tajné sídlo pre svoje operácie. Podnikli niekoľko výprav a nahromadili malú časť obrovho pokladu. Ten ich však nakoniec pochytal a pozabíjal. 
 
 #### Doba impéria (0-10 imperiálneho letopočtu) 
 
