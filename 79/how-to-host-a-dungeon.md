@@ -21,11 +21,11 @@ Fázy hry sú rovnaké ako v prvej verzií. Na začiatku je primordiálna doba, 
 
 ### Primordiálna doba 
 
-V primordiálnej dobe sa rýchlym hodom určí legenda o vzniku sveta a nexus, žierlo moci v oblasti. Mapa je rozdelená na niekoľko oblastí (hra ponúka viacero zaujímavých schém) a do každej oblasti sa vytvorí nejaký zaujímavý terén. Môžu to byť rôzne jaskyne, voda, magma, ruda, drahokamy, alebo niektorý z exotických biómov. V niektorých jaskyniach sa dokonca objavia primordiálne monštrá. Táto doba je rýchla a nezaberie nám veľa času, tiež nie je ničím špeciálna a odlišná od iných generátorov…
+V primordiálnej dobe sa rýchlym hodom určí legenda o vzniku sveta a nexus, žierlo moci v oblasti. Mapa je rozdelená na niekoľko oblastí (hra ponúka viacero zaujímavých schém)&nbsp;a do každej oblasti sa vytvorí nejaký zaujímavý terén. Môžu to byť rôzne jaskyne, voda, magma, ruda, drahokamy, alebo niektorý z exotických biómov. V niektorých jaskyniach sa dokonca objavia primordiálne monštrá. Táto doba je rýchla a nezaberie nám veľa času, tiež nie je ničím špeciálna a odlišná od iných generátorov…
 
 ### Doba civilizácie 
 
-Tu máme prvú veľkú zmenu od prvej edície. Hra obsahuje hneď päť civilizácií a každá z nich má kompletne odlišné a zaujímavé pravidlá. Každá civilizácia má nejaký setup, potom pravidlá ako má postupovať v jednotlivých kolách a nakoniec podmienku pre koniec civilizácie. 
+Tu máme prvú veľkú zmenu od prvej edície. Hra obsahuje hneď päť civilizácií a každá z nich má kompletne odlišné a zaujímavé pravidlá. Každá civilizácia má nejaký setup, potom pravidlá, ako má postupovať v jednotlivých kolách,&nbsp;a nakoniec podmienku pre koniec civilizácie. 
 
 Najjednoduchšou a podľa mňa najnudnejšou civilizáciou sú trpaslíci. Tí sa nepotýkajú so špeciálnymi situáciami, postupne ich populácia rastie, získavajú poklady a stavajú miestnosti. Každá miestnosť má nejaký limit aký počet populácie je potrebný a budovy sa vetvia na tri smery podľa technológií. Keď trpaslíci získajú desiatu populáciu, príde katastrofa a či už trpaslíci kopali príliš hlboko, alebo sa pozabíjali vo vojne, civilizácia končí. 
 
