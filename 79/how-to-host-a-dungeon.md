@@ -1,6 +1,6 @@
 ---
 layout: article
-title: How to Host a Dungeon (2. edícia)
+title: How to Host a Dungeon (2.&nbsp;edícia)
 authors: Antharon
 tags: 'materiály a doplňky, inspirace, recenze'
 published: true
