@@ -5,7 +5,7 @@ authors: Antharon
 tags: 'materiály a doplňky, inspirace, recenze'
 published: true
 summary: >-
-  Popis solitérové hry How to host a dungeon (2. edice) včetně příkladu
+  Popis solitérové hry How to Host a Dungeon (2. edice) včetně příkladu
   vyrtvořeného světa Skarland.
 ---
 
@@ -37,7 +37,7 @@ Kúzelníci sú jednou z najzábavnejších civilizácií. Začínajú a bývaj
 
 Moja obľúbená civilizácia sú mimozemšťania. Tí havarujú na povrchu so svojou loďou a stavajú rôzne budovy potrebné pre prežitie, ktoré im dávajú rôzne ability. Každé kolo však príde nejaká katastrofa ktorá im buď poškodí niektorú budovu alebo ich bude stáť ľudí či zásoby. Poškodená budova sa dá dostatočným hodom opraviť, ak je poškodená znova tak sa úplne zničí. Finálnou budovou je budova umožňujúca prosperovať na tejto planéte. Vtedy doba civilizácie končí. Mimozemšťania si hodia d6 a ak podhodia počet svojich fungujúcich budov, podarilo sa im prežiť a budú jednou zo skupín monštier v dobe monštier. 
 
-#### Doba monštier 
+### Doba monštier 
 
 Tento vek sa dočkal od prvej edície najväčších zmien a veľmi mu to prospelo. Na začiatku veku sa do dungeonu nasťahuje niekoľko skupín monštier a následne každé kolo príde jedna nová. Hrá sa kým jedna zo skupín nemá šesť tokenov populácie, pokladov, alebo nesplnila nejakú špeciálnu podmienku. 
 
@@ -47,11 +47,11 @@ Okrem toho tu majú akcie ktoré robia každé kolo. Jednu akciu robia vždy. Je
 
 Na začiatku kola sa všetky karty monštier zamiešajú a jedna za druhou sa vyhodnotia. Akcie sú štandardizované a je ich asi dvadsať. 
 
-#### Doba zloduchov 
+### Doba zloduchov 
 
-Keď niektorá skupina monštier splní svoj cieľ prehupneme sa do doby zloduchov. Tu už sa monštrá nedokladajú každé kolo ale len keď je nejaká skupina úplne eradikovaná. 
+Keď niektorá skupina monštier splní svoj cieľ, prehupneme sa do doby zloduchov. Tu už sa monštrá nedokladajú každé kolo, ale len keď je nejaká skupina úplne eradikovaná. 
 
-Zloduch v každom kole jedná ako prvý a potom ešte raz po tom ako ostatní odohrajú svoje ťahy. Okrem toho zloduch dostane nejaké špeciálne akcie. Podľa toho, čo skupina vyhrala na poklady alebo na populáciu máme v základnej knižke dostupné dva archetypy -- hordu a impérium 
+Zloduch v každom kole jedná ako prvý a potom ešte raz po tom ako ostatní odohrajú svoje ťahy. Okrem toho zloduch dostane nejaké špeciálne akcie. Podľa toho, čo skupina vyhrala na poklady alebo na populáciu máme v základnej knižke dostupné dva archetypy&nbsp;-- hordu a impérium 
 
 Horda sa snaží znesvätiť postupne celý svet. Rýchlo sa množia, vedia vyraďovať súpera obetovaním veľkého množstva jedincov a keď ovládnu nejakú oblasť tak v nej svojím štýlom zmenia všetky budovy. Až zmenia celý svet tak vyhrali a hra končí. 
 
@@ -59,13 +59,13 @@ Impériom sa skupina stane ak získala dostatok pokladov. Impérium sa snaží s
 
 Osobne sa mi zdá táto fáza zbytočne pomalá a menej zábavná ako predošlé dve, ale chápem, že je to potrebné pre doriešenie príbehu. Ak vás táto hra zaujala, určite po nej skočte v tomto osamelom období. V porovnaní s prvou edíciou sme sa dočkali množstva výborných zmien v oblasti hrateľnosti. Výsledkom hry je často veľmi pestré prostredie vhodné pre hranie RPG a práve preto som jednu zo svojich hier spracoval trochu hlbšie a nájdete ju na nasledujúcich stranách. 
 
-### Skarland -- história 
+## Skarland -- história 
 
 ![Skarland]({{site.baseurl}}/79/hthad.png)
 
-Tu sa nachádza interpretácia histórie skarlandu tak ako som odohrával hru v How to host a dungeon. Po dobe impéria mi ostala veľká voľné plocha na severe a tak som tam spustil ešte jednu dobu monštier a priniesla zaujímavé výsledky... 
+Tu sa nachádza interpretácia histórie skarlandu tak ako som odohrával hru v `How to Host a Dungeon`. Po dobe impéria mi ostala veľká voľné plocha na severe a tak som tam spustil ešte jednu dobu monštier a priniesla zaujímavé výsledky…
 
-#### Primordiálna doba 
+### Primordiálna doba 
 
 Vravi sa, že svet Skarlandu vznikol tak, že sa stretlo nebo a more a výsledkom bola pevnina. Pre nás je dôležité, že jedného dňa sa tu objavila zem a na nej sa objavil život. Ešte pred životom tu však bola Trhlina. 
 
@@ -73,11 +73,11 @@ Vravi sa, že svet Skarlandu vznikol tak, že sa stretlo nebo a more a výsledko
 
 Trhlina je ako čierna jazva na tvári sveta, je to nexus miestnej magickej energie, z ktorého stúpajú ako chápadlá čierne cáry temnoty a zatieňujú nebo. Aj preto tu je väčšina zeme iba holá suchá hlina na ktorej nič nerastie. Trhlina je večná a nekonečná. 
 
-#### Ostatné zdroje 
+### Ostatné zdroje 
 
 Na východe bývalo kedysi obrovské ložisko magnetitovej rudy avšak ostala po ňom iba gigantická kaverna. Na severe vo veľkej kaverne nájdeme primordiálny hríbový les, ktorý sa stal zdrojom rozsiahleho fungálneho hospodárstva v tejto oblasti. Kúsok na východ je podzemné jazero, ktoré zásobuje veľkú časť krasového systému vodou. Naopak ďaleko na juhu môžeme nájsť zdroj magmy, ktorý vyviera z hĺbok ktoré sa nikdy nepodarilo zmapovat. 
 
-#### Doba civilizácie (cca 500 pred imperiálnym letopočtom) 
+### Doba civilizácie (cca 500&nbsp;pred imperiálnym letopočtom) 
 
 Prvé známe osídlenie, ktoré sa podarilo v tejto oblasti identifikovať sú trpaslíci, ktorí pricestovali pred stovkami rokov v dobe tzv. prvej trpasličej expanzie. Trpasličia spoločnosť bola v tejto dobe veľmi feudálna a jeden z trpasličích Jarlov, Grimnir dostal od kráľa túto lokalitu a obrovské ložisko magnetitu do svojho držania. 
 
@@ -91,7 +91,7 @@ Mesto rozdelilo obyvateľstvo na dve skupiny. Nižšia kasta obývala mesto a ob
 
 Robotníci postupne začali pociťovať frustráciu. Každý deň museli prechádzať bezpečnostnými checkpointami pri ceste tam aj späť a boli držaní za bránami ako trestanecká kolónia. Zisky z ťažby sa navyše na ich živote prejavovali iba nepriamo. Iste jedlo bolo dobré a vína bolo koľko sa im žiadalo avšak Ich poklady od nich oddelovali brány a tucet bojovníkov. A tak vzniklo malé hnutie odporu. Jeho cieľom bolo prepadnúť nečakane šľachtu zo zálohy, vybieliť trezory a utiecť dialnicou. Vykopali teda tajne tunel, ktorý prepájal Staré mesto s baňou kadiaľ sa pokúsili vpadnúť Jarlovi do chrbta. Ten tam však už čakal so svojimi najvernejšími a strhla sa ohromná bratovražedná masakra. Nakoniec sa však podarilo povstalcom prelomiť obranu a postupne úplne vyhladiť Jarla s jeho ľuďmi. Povstalcov ostala iba hrstka. Nakoniec skutočne vybielili Jarlove pokladnice a odišli trpasličou ďiaľnicou niekde ďaleko. Mesto ostalo opustené a v Skarlande začala doba monštier. 
 
-#### Doba monštier (cca 100 pred imperiálnym letopočtom) 
+### Doba monštier (cca 100&nbsp;pred imperiálnym letopočtom) 
 
 Po páde trpasličej državy ostala táto oblasť na dlhú dobu opustená. Postupne sa tu ale stále viac začala objavovať civilizácia. Ako prví na toto územie privandrovali Templári, ktorí tú so svojím služobníctvom založili usadlosť. Malá dedinka menom Evervesper je tvorená iba pár domkami a templárskym kostolom. 
 
@@ -113,11 +113,11 @@ Do Evervesperu prišla skupina lovcov upírov, Strieborné helmy, a začali sa s
 
 Trpaslíkom sa podarilo preniknúť hlboko do starého mesta a získať jednu z relikvií Jarla Grimnira. Vybudovali zbrojnicu a veľkú halu, kde sa mohli zhromažďovať. Niekoľkokrát dokonca dokázali bosorku zahnať. Od trpaslíkov sa oddelila skupina expertov, ktorí nepozorovane prenikli na druhú stranu starého mesta. A začali budovať tajné sídlo pre svoje operácie. Podnikli niekoľko výprav a nahromadili malú časť obrovho pokladu. Ten ich však nakoniec pochytal a pozabíjal. 
 
-#### Doba impéria (0-10 imperiálneho letopočtu) 
+### Doba impéria (0--10&nbsp;imperiálneho letopočtu) 
 
 Trpaslíkom sa podarilo v baniach vyťažiť časť rudy a vyniesli nejaké poklady zo starého mesta. Napriek obrovským stratám využili bohatstvo a ich vodca Olaf Jorgsson sa vyhlásil miestokráľom a vyhlásil oblasť Skarlandu za svoje domínium. Olaf investoval množstvo peňazí do rozvoja oblasti. Vybudoval tu mestskú radu, univerzitu a pomerne chudobnú a tesnú napodobeninu starého mesta. Nové mesto boli skôr slumy. Trpaslíci sa roky snažili nadviazať spojenectvo s ogrou bosorkou, jediným výsledkom bola smrť Jorgssona a postupný rozpad impéria. 
 
-#### Druhá doba monštier (cca 50 pred imperiálnym letopočtom) 
+### Druhá doba monštier (cca 50&nbsp;pred imperiálnym letopočtom) 
 
 Sever Skarlanskej oblasti historicky úplne izolovaný od južných oblastí. Už dávno pred vznikom impéria sa tu objavila tichá priateľská dedinka, Crowtail, ktorej obyvatelia objavili prastarý stratený chrám v podzemí pod mestom. Tento chrám bol zasvätený temným bohom a obyvatelia Crowstailu robia všetko pre to, aby sa svojim bohom zavďačili a nestránia sa ani krvavých obetí. V podzemí pod chrámom postupne vybudovali miestnosť s oltárom i sochu svojho boha z čistého zlata. 
 
@@ -133,23 +133,23 @@ V oblasti sa nachádza aj malá banská osada, Hammerfall. Baníkov prilákali c
 
 Touto dobou už drak nahromadil značné množstvo pokladov. V oblasti ho všetci rešpektujú a ašpiruje na pozíciu superzloducha. Našťastie od incidentu so stirgami si všetci dávajú pozor aby ho neprebudili. 
 
-### Zápletky 
+## Zápletky 
 
 Tu máme výsledný svet ukázaný z trocha odlišného pokladu a to ako svet pre hranie RPG. Predstava je taká, že svet by mohol hráčov motivovať k proaktívnej explorácií a jednpduchými chýrmi by sa mohli prepracovať až ku kompletnému odhaleniu zaujímavostí v oblasti. 
 
-#### Evervesper 
+### Evervesper 
 
 Evervesper je ľudská dedina na severozápade Skarlandu a zároveň najstaršie známe osídlenie na povrchu v tejto oblasti. Založila ju skupina putujúcich rytierov rádu Templárov.  Celú osadu tvorí hrstka domčekov a jeden chrám, obyvatelia sú prevažne potomkovia služobníctva rytierov. 
 
 Zaručeným zdrojom informácií je miestny kňaz ktorý sem prišiel ešte s rytiermi. Jeho najpálčivejším problémom je chýbajúci oltár, ktorý odniesli pri jednom z nájazdov lúpeživé stirgy. Po získaní a navrátení oltáru poskytne postavám ubytovanie, aj stravu, ako aj kňažské služby. 
 
-Oltár si po genocíde stírg vzal spolu s ich pokladom drak a povaľuje sa niekde v hubovom lese. Krádež pokladu z dračieho hoardu však môže priniesť nechcený dračí hnev na postavy i dedinčanov. Možno by sa dal odkúpiť alebo dostať ako odmenu za prácičku... 
+Oltár si po genocíde stírg vzal spolu s ich pokladom drak a povaľuje sa niekde v hubovom lese. Krádež pokladu z dračieho hoardu však môže priniesť nechcený dračí hnev na postavy i dedinčanov. Možno by sa dal odkúpiť alebo dostať ako odmenu za prácičku…
 
 V chrámovej márnici leží mladý muž ktorého nedávno našli ležať mŕtveho priamo v jeho dome, jeho rodičia umreli tiež za pochybných okolností. Na krku ná podivné uhryznutie, ktorým z neho vysali krv. Dedinčania sa obávajú, že sa vrátili stirgy. Absencia stôp v okolí domu by tomu nasvedčovala. Skutočnosť je taká, že hlboko pod jeho domom sa skrýva hlboká šachcta vedúca až do templárskeho tajného sídla. 
 
-Tu sa nachádza mŕtvola tieňového chrobáka a starobylá templárska hrobka so štítmi štyroch rytierov na stene. Na zemi je obhoretý zvyšok rakvy a črepiny od akejsi viály. Hala skrýva aj tajné dvere vedúce do tajnej skrýše. V tej sa okrem zlatého pokladu nachádza druhá truhla a upír, ktorý určite zaútočí, otázkou je koľko hluku postavy urobili a koľko času mal na prípravu. Ak tajné dvere nenájdu, je možné, že upír sa ich vydá loviť na vlastnú päsť... Toto miesto je tiež jedným zo vstupov do trpasličích tunelov. 
+Tu sa nachádza mŕtvola tieňového chrobáka a starobylá templárska hrobka so štítmi štyroch rytierov na stene. Na zemi je obhoretý zvyšok rakvy a črepiny od akejsi viály. Hala skrýva aj tajné dvere vedúce do tajnej skrýše. V tej sa okrem zlatého pokladu nachádza druhá truhla a upír, ktorý určite zaútočí, otázkou je koľko hluku postavy urobili a koľko času mal na prípravu. Ak tajné dvere nenájdu, je možné, že upír sa ich vydá loviť na vlastnú päsť… Toto miesto je tiež jedným zo vstupov do trpasličích tunelov. 
 
-#### Umberville 
+### Umberville 
 
 Dedinka Umberville pochádza z trocha neskoršej doby než Evervesper a jej pôvodné obyvateľstvo tvoria farmári, ktorí na severe dediny postavili niekoľko domov a zasiali mŕtvožito, ktoré dodnes tvorí hlavný vývozný produkt. 
 
@@ -159,11 +159,11 @@ Dedina je malá, ale je možné v nej kúpiť základné vybavenie a ubytovanie.
 
 Na juhu od mestečka žije mierumilovný Otyugh. Táto rastlinná bytosť sa tu usadila dávno pred príchodom farmárov a jediné, čo chce je ǩludný život na jeho smetisku, ktoré cítiť až do Umbervillu. Tu postupne rozkladá ľudský odpad, ktorý mu ľudia nosia ako obete. Ľudia však obvykle nerozumejú jeho jayzku a tak len zriedkavo vyjedná nejaký obchod. Preto dochádza ku konfliktom, ktoré končia tak, že Otyugh zožerie niekoľko Umbervillčanov a ostatní utečú. Umbervillčania požadujú eradikáciu Otyugha, avšak možno by bolo lepšie naučiť ich proste žiť v mieri. 
 
-Za mestom sídli zločinecký syndikát, ktorý je v zúboženom stave. Umberville je chudobný a všetko, čo ušetrí odovzdajú radšej Otyughovi než aby radšej zaplatili výpalné miestnej mafií ktorá je vlastne úplne na smiech. Tvoria ju dvaja bratia, ktorí bývajú v polorozpadnutej chajde za bránami Umbervillu. Vedia však o poklade v Umbervillskej pevnosti a za podiel z lupu radi postavy zavedú na miesto... 
+Za mestom sídli zločinecký syndikát, ktorý je v zúboženom stave. Umberville je chudobný a všetko, čo ušetrí odovzdajú radšej Otyughovi než aby radšej zaplatili výpalné miestnej mafií ktorá je vlastne úplne na smiech. Tvoria ju dvaja bratia, ktorí bývajú v polorozpadnutej chajde za bránami Umbervillu. Vedia však o poklade v Umbervillskej pevnosti a za podiel z lupu radi postavy zavedú na miesto…
 
-#### Severná oblasť 
+### Severná oblasť 
 
-Severná oblasť je samostatný ekosystém, Tvrdou rukou tu vládne drak Gurmax, ktorý obýva hríbový les niekde pod touto oblasťou. Obhoreté úle Stírg na západe tejto oblasti sú mementom pre tých ktorí by premýšľali nad krádežou Gurmaxovho pokladu. Gurmax drží pod palcom obyvateľov tejto oblasti. A hľadá niekoho, kto by pre neho vyberal výpalné... 
+Severná oblasť je samostatný ekosystém, Tvrdou rukou tu vládne drak Gurmax, ktorý obýva hríbový les niekde pod touto oblasťou. Obhoreté úle Stírg na západe tejto oblasti sú mementom pre tých ktorí by premýšľali nad krádežou Gurmaxovho pokladu. Gurmax drží pod palcom obyvateľov tejto oblasti. A hľadá niekoho, kto by pre neho vyberal výpalné…
 
 V neďalekom podzemí žijú Antlingovia. Národ gigantických mravcov. Tí sa starajú o Gurmaxov hríbový les a udržujú vojnu s baníkmi z neďalekej banskej dedinky Hammerfall. Antlingovia obyčajne nie sú agresivni, ale komunikácia je s nimi komplikovaná. Je jasné, že ak útočia na baníkov, tak im baníci vzali niečo dôležité. 
 
@@ -179,7 +179,7 @@ Podzemné jazero tvorí zaujímavú križovatku v miestnom podzemí. Prepája ne
 
 Do podzemia sa dá dostať aj cez miestny lom, kde sa baníci prekopali až do obrovho paláca. Ten o tom zatiaľ nevie ale mohol by si to čoskoro všimnúť a podniknúť nejaké kroky. Inak je Hammerfall veľmi chudobná banská dedinka. Miestni sem prišli s vidinou, že nájdu pozostatky trpasličej magnetitovej žily. Tá je však už kompletne vyťažená a tak tu majú iba povrchový lom, kde ťažia okrasné kamene, pár drevených budov a mašinériu na spracovanie kameňa. Navyše neustále konflikty s antlingami, ktorým sa prekopali do hniezda sa podpísali na ich materiálnych i personálnych zdrojoch 
 
-#### Staré mesto 
+### Staré mesto 
 
 Do podzemia by sa postavy mali skôr či neskôr dostať, lebo je to hlavný cieľ tohto prostredia. Ak sa im to nepodarí nejakou alternatívnou cestou, môžu, ak majú medzi sebou trpaslíka, alebo nejakého niekde stretnú, použiť trpasličie diaľnice. Tie sú na rozdiel od bežnej predstavy dlhé nepríliš široké tunely ktoré vedú stovky kilometrov podzemím vstupy do trpasličej diaľnice môžu byť desiatky kilometrov ďaleko a málo používané staré tunely môžu obsahovať najrôznejšie tvory, alebo závaly. To je situácia aj v prípade starého mesta. Tunel, ktorý sem vedie od diaľnice je dávno zavalený a nikto ho nepoužil stovky rokov. Nájsť cestu bude pomerne náročné avšak nejaká stará kronika by mohla obsahovať aj informácie o tomto meste z čias pred jeho zpustnutím. 
 
@@ -191,7 +191,7 @@ Túto časť komplexu oddeľuje od zbytku citadela. Je to opevnený bunker, ktor
 
 Západne od citadely sú trpasličie brány. Stĺporadie poskytujúce taktické možnosti a neprehľadný terén, navyše je potrebné prejsť okolo stĺpov správnou cestou, ináč sa spustí niektorá smrtiaca pasca. Za bránami už sa nachádza schátrané trpasličie mesto. Je tu niekoľko domov a mohlo tu predtým žiť niekoľko tuctov trpaslíkov. Domy môžu dodnes skrývať okrem známok boja medzi trpaslíkmi a bosorkou aj kadejaké predmety, nečakaných obyvateľov a ako vždy pasce. Na severozápade je hrubo vytesané schodisko vedúce do bane a na západe zapečatený vchod do nového mesta, Mreže sú z hrubej ocele a niet nikoho kto by ich otvoril. 
 
-#### Okolie trpasličej bane 
+### Okolie trpasličej bane 
 
 V ohromnej kaverne sa kedysi nachádzal obrovský zdroj magnetitovej rudy. Tú však čiastočne vyťažili trpaslíci a čiastočne obor, ktorý tu sídli. Ten sa zrodil z kameňa v krasovej jaskyni na severe. Ako to už u dobrosrdečných obrov býva zamiloval sa do ogrej bosorky, ktorá mu jeho lásku opätuje len veľmi sporadicky. Aby si obor získal jej srdce, postavil v podzemí palác, ktorý obýva, pred ním vytvoril prekrásnu záhradu šľachtených hríbov avšak ani to nepomohlo. Sklamaný neskôr rozšíril svoju rodnú jaskyňu o svoju hrobku (ktorá môže prieskumníka mylne priviesť k názoru, že obor už je mŕtvy) a o chrám, kam chodí obetovať cennosti svojim bohom na vysokánskom oltári. Mreže vedúce do tejto jaskyne sú vykované z ocele avšak dostatočne útla postava by sa nimi mohla pretiahnuť. 
 
@@ -199,7 +199,7 @@ O poklad ktorý obor postupne nahromadil sa zaujímala aj výprava trpasličích
 
 Zbytok kaverny pokrýva prastaré bojisko, kde sa odohrala bitka medzi jarlom a rebelmi. Kostry trpaslíkov sú roztrúsené všade naokolo a povaľuje sa tu s nimi aj ich výzbroj. Niekde tu sa nachádza aj prekliate kladivo patriace jarlovi. 
 
-#### Nové mesto 
+### Nové mesto 
 
 Vstúpiť do nového mesta sa dá cez úplne inú časť trpasličích dialnic a cesta je dobre značená a všeobecne známa. Výprava, ktorá vybudovala nové mesto nikdy nedosiahla úspechu, ktorý očakávala. Ogria čarodejnica bola prekážkou, s ktorou dlho bojovali, snažili sa jú poraziť, uplatiť, avšak vždy sa jej podarilo ich nejak prekabátiť. 
 
