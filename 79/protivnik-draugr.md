@@ -4,7 +4,7 @@ title: 'Protivník: Draugr'
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace'
 summary: "Jeden z\_aptrganga, mrtvých, kteří opět kráčí světem živých."
-published: false
+published: true
 ---
 
 > _Haidzruno runu, falahak haidera, ginnarunaz. Arageu haeramalausz uti az. Weladaude, sa'z þat barutz. Uþarba spa. / „Já, vládce run zde ukrývám tyto runy moci. Ustavičně postihován zlobou, odsouzen k záludné smrti je ten, kdo naruší tento monument. Prorokuji zkázu.“_
