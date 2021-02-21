@@ -7,8 +7,6 @@ published: true
 title: Golemistika – nauka o výrobě a fungování golemů
 ---
 
-## Golemistika - nauka o výrobě a fungování golemů 
-
 Golem je tělo vyrobené z neživé hmoty, nejčastěji hlíny, kamene a kovů, oživené životným kamenem a poháněné myšlenkou, která je do něj zasazena. Golem je schopen vnímat své okolí, poznat svého pána a plnit jednoduché příkazy do té míry, jsou-li v souladu s myšlenkou či myšlenkami, které byly do golema vsazeny. 
 
 Tělo golema má zpravidla lidské proporce, tedy dvě ruce, dvě nohy, trup a hlavu. S golemy jiné konstrukce se můžeme setkat jen zřídka, protože takoví bývají nemotorní a často neví, co si se svými končetinami počít. Poměrně dobře fungují golemkočáry, kde přední část tvoří hlava a ruce golema, který pak kočár posunuje. Jelikož ale těžké tlapy poškozují cesty, nedočkaly se golemkočáry valného rozšíření. 
