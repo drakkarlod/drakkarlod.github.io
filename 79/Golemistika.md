@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: OnGe
-tags: Doplněk
+tags: Materiály a doplňky
 summary: Tvorba golemů pro vaše hry.
 published: true
 title: Golemistika – nauka o výrobě a fungování golemů
@@ -15,7 +15,7 @@ Velikostí jsou golemové nejčastěji srovnatelní s lidmi. Důvodem je, že ta
 
 Nezbytným základem pro výrobu golema jsou životné kameny. Právě ty dokážou rozpohybovat mrtvou hmotu. Jsou velmi vzácné a na první pohled nerozpoznatelné od obyčejných kamenů, jen mágové a osoby patřičného nadání mohou vycítit, že tyto kameny ukrývají tajemnou sílu. Je však téměř nemožné je jen tak najít, protože bývají vrostlé uvnitř skal. 
 
-V přírodě životné kameny dávají vzniknou skalním obrům, kteří se probouzejí, když v jejich blízkosti pracují horníci nebo dřevorubci. Vyrušený obr pak povstane, aby narušitele zahnal. Velikost skalních obrů závisí na velikosti životného kamene, který jim dodává sílu. Nejmenší měří kolem dvou metrů (trpaslíci jim říkají „kamenní obříci") a ti největší mohou být tvořeni celými kopci nebo horami. O tak velkých obrech jsou ale záznamy jen ve starých kronikách, sepsaných dávno před vynálezem golemistiky. Životné kameny se nacházejí v hlavách skalních obrů a pokud je takový obr poražen (a to často není lehký úkol ani pro celou armádu) mohou být kameny z hlav vylámány a posléze použity pro výrobu golemů. 
+V přírodě životné kameny dávají vzniknou skalním obrům, kteří se probouzejí, když v jejich blízkosti pracují horníci nebo dřevorubci. Vyrušený obr pak povstane, aby narušitele zahnal. Velikost skalních obrů závisí na velikosti životného kamene, který jim dodává sílu. Nejmenší měří kolem dvou metrů (trpaslíci jim říkají „kamenní obříci“) a ti největší mohou být tvořeni celými kopci nebo horami. O tak velkých obrech jsou ale záznamy jen ve starých kronikách, sepsaných dávno před vynálezem golemistiky. Životné kameny se nacházejí v hlavách skalních obrů a pokud je takový obr poražen (a to často není lehký úkol ani pro celou armádu) mohou být kameny z hlav vylámány a posléze použity pro výrobu golemů. 
 
 Stejně jako u skalních obrů i u golemů jsou životné kameny vloženy do hlavy, nejčastěji vsazeny mezi další kameny nebo do kovové schránky, aby se zabránilo nenechavcům v jejich odcizení. Velikost kamenů určuje sílu golema a velikost těla, kterým dokáže vládnout. Pro výrobu golema jsou třeba vždy dva životné kameny, které k sobě těsně přiléhají a nechávají mezi sebou jen úzkou štěrbinu. To je nezbytně důležité, protože právě do této štěrbiny je vložena myšlenka, která pak golema pohání. 
 
