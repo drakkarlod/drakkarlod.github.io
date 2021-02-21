@@ -38,7 +38,7 @@ Pak tady máme hry, které přináší tak zajímavé prostředí, že přímo v
 
 Taky mám jistotu, že kdybych někdy měl příležitost hrát westernové RPG, chtěl bych využít prostředí ze hry Dracula's America. Hra je zasazena do prostředí amerického západu kolem roku 1870\. Poté, co byl hrabě Dracula vyhnán Řádem Rozbřesku z Evropy, vydal se přes oceán do Ameriky, kde se jako bohatý Evropan se zájmem o rozvoj svobodné Ameriky vetřel do přízně Abrahama Lincolna. Ten dával Draculovi stále více a více pravomocí, až jednoho dne v divadle… zemřeli všichni z Lincolnova okolí. Tedy až na hraběte. Ten se prohlásil doživotním prezidentem USA (ano, je nesmrtelný) a začal dělat změny. Městy se teď prochází upíři a domorodí indiáni se vrátili ke svým starým způsobům, aby chránili rovnováhu světa. Proto přijímají podobu šelem a útočí na „vládní" zřízení. Křižáci z Řádu Rozbřesku se snaží konečně ulovit Draculu i všechny ostatní nelidské zrůdy a do toho všeho ještě vstupují železniční magnáti z Kultu Křižovatek, kteří se pomocí vzorců železnice v krajině pokouší otevřít pekelnou bránu, nebo Temná Konfederace složená z bývalých jižanských otrokářů, kteří se od haitských otroků naučili něco o nekromancii a nyní se hodlají postarat o to aby Jih znovu povstal. Tentokrát doslovně. 
 
-![DSC_1339_a.jpg]({{site.baseurl}}/79/DSC_1339_a.jpg)
+![Figurky]({{site.baseurl}}/79/DSC_1339_a.jpg)
 
 ## Závěrem 
 
