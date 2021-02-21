@@ -3,6 +3,8 @@ layout: article
 author: redakce
 title: Úvodní haiku
 tags: úvodník
+published: true
+summary: místo úvodu
 ---
 
 > Poslední havran!<br />
