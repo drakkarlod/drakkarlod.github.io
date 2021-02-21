@@ -6,6 +6,7 @@ tags: úvodník
 published: true
 summary: místo úvodu
 authors: redakce
+fulltext: true
 ---
 
 > Poslední havran!<br />
