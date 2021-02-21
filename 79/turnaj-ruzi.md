@@ -1,13 +1,13 @@
 ---
 layout: article
 authors: Ecthelion²
-tags: 'Ecthelion², Ravburgh, Doplněk, Drakkar #79'
+tags: 'materiály a doplňky, Ravnburgh'
 summary: >-
   Doplněk popisující Turnaj růži, jeden z pěti Velkých turnajů, který se koná
   každoročně v Ravnburghu.
 published: true
+title: 'Ravnburgh: Turnaj růží'
 ---
-## Ravnburgh: Turnaj růží 
 
 Tisíce lidí z Říše, Císařství, z Ligy i z východu se každoročně sjíždějí do Ravnburghu, aby byli svědky druhého z pěti Velkých turnajů - turnaje růží. Na polích za městem vyroste stanové městečko, které dočasně zvýší počet obyvatel města téměř o polovinu. Všechny hostince a pronájmy jsou nacpané k prasknutí a celé město je vyzbrojeno růžemi, které kvetou v okolí v době turnaje. Přes den se rytíři utkávají v tjostu, válečníci v zápasech, střelci zápasí o nejpřesnější střelu a po setmění se v ohni osvětlených stanech zápasí slovy v soutěžích zpěvu a poezie, které se často protáhnou do brzkých ranních hodin. Tanec, oslavování, sázky na soutěžící a všeobecné veselí probíhá v každou denní i noční hodinu. 
 
