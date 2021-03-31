@@ -12,6 +12,8 @@ O generaci později: Tvůj otec kdysi opus­til své rodné město, aby se vyhnu
 Pro mě je to velmi zajímavé téma, protože zkoumá to, na co obvykle v RPG hrách není moc prostoru, totiž velká roz­hodnutí a jejich vliv na můj život a na ži­vot těch, kteří přijdou po mně. Když to trochu přeženu, je to jako začít hrát D&D v okamžiku, kdy hrdina zvažuje, jestli chce být bojovníkem, paladinem nebo mnichem, a v okamžiku, kdy se rozhod­ne, se pohled přesune na to, jestli se do­žil vysokého levelu a jak se zpětně dívá na svoji dráhu dobrodruha, čili něco, co se ve hrách běžně neřeší, nebo k čemu se dojde teprve po dlouhém, dlouhém hraní.
 
 Pokud by i vás lákalo hraní zaměře­né na životy pojímané jako celek, jako velká rozhodnutí a jejich dlouhodobé důsledky, určitě to zkuste. Ale nepouží­vejte k tomu Hero’s Banner. Tahle hra, bohužel, totiž obrovský potenciál zvole­ného tématu vysloveně promrhá svým systémem.
+![Hero’s Banner: The Fury of Free Will; Tim C Koppang; TCK Roleplaying, 2006]({{site.baseurl}}/23/pic524448.jpg)
+
 
 ## Detailní kritika následuje.
 Tam, kde bych čekal, že hra popíše, jak vybírat životní cíle hrdiny a jak je sta­vět tak, aby byly proti sobě v opozici, aby docházelo ke krizím a třenicím mezi jednotlivými možnostmi, tam hra místo toho suše předepíše, že máte mít tři cíle, po jednom z „inspirace hrdinou nebo předchůdcem“, „cesta, kterou by od vás chtěla rodina“, a „soukromé přání stojící v opozici proti oběma předchozím“. Je to omezení hodně umělé, jako by se neda­ly vyprávět zajímavé příběhy, které jsou konfliktem mezi tím, k čemu mě tlačí různé části mé rodiny, nebo mezi dvěma různými láskami, mimo předepsanou strukturu.
