@@ -1,20 +1,42 @@
 ---
 layout: article
-title: 'Minirecenze – Hero‘s Banner'
-authors: 'Petr „Pieta“ Jonák'
+title: Minirecenze – Hero‘s Banner
+authors: Petr „Pieta“ Jonák
 tags: 'recenze, fantasy, hry, systémy, světy'
+published: true
 ---
+O generaci později: Tvůj otec kdysi opus­til své rodné město, aby se vyhnul krevní mstě, a vypracoval se na váženého ob­chodníka. Jeho životní osudy jsou pro tebe vzorem, ale ponaučení, které sis v nich našel, nejsou ta, která by si on přál, aby sis z nich vzal. A proto když po tobě chce, abys po něm převzal obchod­nickou živnost, připadá ti lákavé nechat ho i s jeho obchody za sebou a vydat se do světa...
 
-Vaše rodina a jistá rodina ze sousední
-vesnice mají mezi sebou dlouholetý
-spor, krevní mstu. Někdo z nich ti
-zabil bratra, a ty víš kdo. Co uděláš?
-Pomstíš svého bratra, i když víš, že
-to povede k dalšímu násilí? Pokusíš
-se usmířit obě rodiny, i když to bude
-znamenat, že si budeš muset podat
-ruce s vrahem svého bratra? Otočíš
-se k oběma rodinám zády a odejdeš,
-abys mohl žít svůj vlastní život, i když
-víš, že tví příbuzní a přátelé budou
-dál umírat?
+**Hero’s Banner** je hra s nesmírně zajíma­vým námětem. Staví vás do role člověka, který stojí před zásadním rozhodnutím o své další cestě životem. Má několik mož­ností, ale ví, že ať si vybere kteroukoliv, ostatní cesty se mu uzavřou. Poté, co si vybere, už nás jako hráče moc nezajímá, jeho vybraná cesta je epilogem jeho pří­běhu; po něm ale přichází nový hrdina, který stojí před svým vlastním rozhod­nutím, a rozhodnutí jeho předchůdce ho nějak ovlivňuje v jeho vlastní volbě.
+
+Pro mě je to velmi zajímavé téma, protože zkoumá to, na co obvykle v RPG hrách není moc prostoru, totiž velká roz­hodnutí a jejich vliv na můj život a na ži­vot těch, kteří přijdou po mně. Když to trochu přeženu, je to jako začít hrát D&D v okamžiku, kdy hrdina zvažuje, jestli chce být bojovníkem, paladinem nebo mnichem, a v okamžiku, kdy se rozhod­ne, se pohled přesune na to, jestli se do­žil vysokého levelu a jak se zpětně dívá na svoji dráhu dobrodruha, čili něco, co se ve hrách běžně neřeší, nebo k čemu se dojde teprve po dlouhém, dlouhém hraní.
+
+Pokud by i vás lákalo hraní zaměře­né na životy pojímané jako celek, jako velká rozhodnutí a jejich dlouhodobé důsledky, určitě to zkuste. Ale nepouží­vejte k tomu Hero’s Banner. Tahle hra, bohužel, totiž obrovský potenciál zvole­ného tématu vysloveně promrhá svým systémem.
+
+## Detailní kritika následuje.
+Tam, kde bych čekal, že hra popíše, jak vybírat životní cíle hrdiny a jak je sta­vět tak, aby byly proti sobě v opozici, aby docházelo ke krizím a třenicím mezi jednotlivými možnostmi, tam hra místo toho suše předepíše, že máte mít tři cíle, po jednom z „inspirace hrdinou nebo předchůdcem“, „cesta, kterou by od vás chtěla rodina“, a „soukromé přání stojící v opozici proti oběma předchozím“. Je to omezení hodně umělé, jako by se neda­ly vyprávět zajímavé příběhy, které jsou konfliktem mezi tím, k čemu mě tlačí různé části mé rodiny, nebo mezi dvěma různými láskami, mimo předepsanou strukturu.
+	
+Druhou mojí výtkou je, že ke každé ze tří motivací si má hráč vybrat jeden konkrétní cíl, ke kterému hrdina směřu­je. I když shledávám geniálním, že hráč vybírá a už přitom ví, že z cílů se může naplnit jen jediný, a radši bych, kdyby kniha ještě o něco jasněji řekla, že to mají být tři cíle, které jsou všechny hráči stejně sympatické, aby o to lépe prožíval dilema svého hrdiny, zároveň tu vidím i pro mě největší slabinu tohohle formátu hry: Cíl je od začátku jasný a během hry už se nemůže změnit.
+
+Je to hra s příliš otevřenými karta­mi, a opět to podle mě zbytečně a vel­mi výrazně omezuje příběhy, které se dají ve hře vyprávět – nejde tu hrát za hrdinu, který jako projev své touhy po svobodě podporuje organizaci za osvo­bození otroků, jen aby postupně zjistil, že jejím pravým cílem je situaci otočit, udělat otroky z bývalých pánů, a musel se s tím vyrovnat a najít si jinou cestu, jak podporovat svou ideu – leda by měl tohle dilema už jasně na začátku napsa­né mezi svými cíli. Nemůžete hrát za hr­dinu, který teprve hledá, jak své veliké, ale naivní myšlenky přetavit do reálných cílů. Nemůžete hrát tolik zajímavých pří­běhů...
+
+A není vám jasné, proč vlastně. Ne­můžete si zahrát Romea, protože ten na začátku nevěděl, že se zamiluje do Julie, že způsobí Mercutiovu smrt. Nemůžete si zahrát vlastně žádný příběh, ve kte­rém se průběžně mění nebo vznikají možnosti, které hrdina má.
+
+Není to škoda? Nebo ještě spíš, jaký má smysl takový systém, taková hra? Hero’s Banner se nijak netají očividnou inspirací v [My Life with Master](https://rpgforum.cz/anotace/my-life-master), kde je také předem jasné, že hra může skončit jen jedním z několika možných způsobů; ale tam, kde v MLwM teprve po konci hry v epilogu zjistíte, jak vaše postava dopadla, v HB se předem zvolené mož­nosti konce táhnou celou hru už od za­čátku, není dost dobře možné nevšim­nout si, že tam jsou. Ale to už se blížíme spíš k mechanické části systému.
+
+## Systém stručně
+Každý hrdina má, jak už bylo řečeno, tři cíle. Těm odpovídají tři hodnoty, je­jich celkový součet je sto. Během hry se nehraje hrdinův život plynule, ale skáče se jen po zásadních momentech. V konfliktu, ve kterém se hrdina pokouší o něco souvisejícího s jedním z cílů, se snaží jeho hodnotu podhodit; konflikty, které s cílem nesouvisejí, hra neřeší. Po­kud hrdina neuspěje, může se pokusit hodit znovu, dokonce s bonusem, ale to zároveň znamená, že se o cíl pokouší ze všech sil, a proto v takovém případě ros­te jeho čtvrtá vlastnost, Passion (řekně­me „zápal“, „vášeň“ nebo „posedlost“). S rostoucí Passion se od sebe vzdalují hodnoty jednotlivých cílů a blíží se oka­mžik, kdy padne definitivní rozhodnutí.
+
+Konečné rozhodnutí je čistě na hrá­či a po konečném rozhodnutí následu­je epilog, poslední ohlédnutí hrdiny za svým životem a jeho smrt. Podle toho, jak se během hry hýbaly hodnoty jeho cílů, může hrdina skončit populární nebo osamělý a zároveň spokojený nebo nespokojený se svým životem, v rámci těchto kategorií ale hráč odvypráví hr­dinův konec sám. Když všichni hrdinové zemřou, hra buď končí, nebo se hraje dál za novou várku hrdinů, kterých se všech nějak dotkla rozhodnutí minulých hrdinů.
+
+Ani pro systém nemám mnoho vlíd­ných slov. Je to dané z velké části také zklamaným očekáváním. Čekal jsem totiž, že ve hře bude hrdina především balancovat mezi jednotlivými možnost­mi, přiklánět se tu k té, tu k oné, aby se nakonec na základně nějaké zásadní události pro jednu z nich rozhodl, nebo třeba zjistil, že zatímco váhal, osud už ví­ceméně rozhodl za něj; a že i hráč bude balancovat mezi možnostmi a váhat, že bude prožívat dilemata spolu s posta­vou, a že systém ho v tom bude podpo­rovat.
+
+Hra ale míří úplně opačným směrem – zcela otevřeně dává najevo, že způsob, jak hrdina může skončit opravdu dobře (spokojený se svojí volbou a populární), je buď si zvolit jednu z možností a příliš se od ní neodklánět, nebo celou dobu hrát na jednu nebo dvě možnosti a v po­slední možné chvíli se přiklonit k té zbý­vající. Jedině s pečlivým plánováním se dá dosáhnout další možnosti (spokojený se svým rozhodnutím, ale nepopulární). Co­koliv jiného má velkou pravděpodobnost skončit hrdinou, který lituje své volby.
+
+Autor opět nijak nevysvětluje svůj důvod pro volbu takového mechanismu, a já si ani takový důvod představit ne­dovedu. Kdybych měl hrát hru o těžkých volbách, asi poslední, co bych chtěl, by bylo, aby mi při některých volbách v hla­vě zněl varovný hlásek: „Když tohle udě­láš, tvůj hrdina těžko skončí spokojený“. Naopak bych přivítal takový systém, ve kterém bych v tom rozhodně jasno ne­měl, abych se nemohl rozhodovat s vě­domím budoucích vlivů aktuální volby.
+
+Druhým, a možná ještě zásadnějším důvodem, proč se mi systém nelíbí, je to, že občas funguje vyloženě podivně. Kaž­dý ze tří cílů postavy má své hodnocení – jejich součet je vždy sto – a Passion, která určuje rozdíly mezi nimi. Při každé změně Passion je proto potřeba přepo­čítat také hodnoty cílů, což je netriviál­ní matematická operace (v jejím popisu najdete i mé velmi oblíbené „Pokud Pas­sion stoupla o lichý počet, budete mu­set odečíst nebo přičíst jedna od cíle s prostřední hodnotou, podle toho, jestli nejvyšší cíl stoupl o více, než nejnižší cíl klesl, nebo naopak“). Veškerá tahle ma­tematika ale postrádá nějaké opodstat­nění, které by se nedalo nahradit něja­kým výrazně jednodušším systémem. Navíc, a to jsem si musel přečíst více­krát, než jsem tomu uvěřil, po každém přepočtu můžete mezi sebou hodnoty jednotlivých cílů libovolně proházet.
+
+To znamená, že vývoj hrdinova roz­hodnutí postrádá jakoukoliv větší konti­nuitu a návaznost na příběh – ve scéně věnované cíli A si hrdina může proho­dit hodnoty cílů B a C, i když se ve hře vůbec neobjevily; a klidně i v poslední scéně může cíl klesnout ze sta na nulu či naopak. Perličkou na závěr, ke které už nebudu nic dodávat, je fakt, že čím víc postav se pokouší o společný cíl, tím pravděpodobnější je jejich selhání. Ne úspěch, selhání, nepřepsal jsem se.
+
+Lidé v mém okolí můžou pravidelně sly­šet, a je to už tradiční, že nějaká hra má výborný svět/atmosféru/nápad, ale sys­tém to strašně kazí. Hero’s Banner do­kazuje, že na to, abyste takovou hru vy­dali, se nemusíte jmenovat _White Wolf_.
