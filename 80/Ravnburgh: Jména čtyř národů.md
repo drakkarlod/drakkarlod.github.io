@@ -1,8 +1,9 @@
 ---
 layout: article
 title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: Ecthelion²
+tags: 'materiály a doplňky, inspirace'
+published: false
 ---
 
 ## Ravnburgh: Jména čtyř národů 
