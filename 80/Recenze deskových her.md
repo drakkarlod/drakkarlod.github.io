@@ -1,8 +1,9 @@
 ---
 layout: article
 title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: Petr „ilgir“ Chval
+tags: 'recenze, deskové hry'
+published: false
 ---
 
 ## Recenze deskových her 
