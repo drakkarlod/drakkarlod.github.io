@@ -1,8 +1,9 @@
 ---
 layout: article
 title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: Peter Skenderax
+tags: 'dobrodružství, další štítek'
+published: false
 ---
 
 ## Arthúd N´Thien alebo každý dobrý skutok, bude po správnosti potrestaný 
