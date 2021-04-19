@@ -7,7 +7,9 @@ published: false
 ---
 
 ## Recenze deskových her 
+V tomto Drakkaru vám přinášíme recenzi na dvojici deskových her.
 
+------------------
 
 ### Res Arcana 
 
@@ -17,6 +19,7 @@ _Rok vydání:_ 2019
 
 _Stručná charakteristika:_ 2-4 hráči, 25-50 minut, eurohra, karetní, fantasy, draft karet, management zdrojů 
 
+![](res-arcana.jpg)
 
 Tom Lehmann je zkušený autor, který se proslavil především karetní peckou Dobyvatelé vesmíru (Race for the Galaxy), která vyšla v roce 2007, dočkala se několika rozšíření a je hojně hraná dodnes. 
 
@@ -45,6 +48,7 @@ _Minusy:_ Slabší atmosféra, po nějaké době repetitivní
 
 _Celkem:_ 90 % 
 
+------------------------
 
 ### Praga Caput Regni 
 
@@ -54,6 +58,7 @@ _Rok vydání:_ 2020
 
 _Stručná charakteristika:_ 2-4 hráči, 45-90 minut, eurohra, budovatelská, volba akcí, point salad\* 
 
+![](praga-caput-regni.jpg)
 
 Praga Caput Regni je na první pohled velkolepou hrou. Bohatě ilustrovaná herní deska měří 56 x 84 cm, a neméně ohromující je množství a rozmanitost komponentů. Mezi nimi vynikají trojrozměrné kartonové „skládačky" představující Karlův most, katedrálu sv. Víta a Hladovou zeď. Už na první pohled je jasné, že hra je poctou slavné éře Prahy za krále Karla IV, a to i kdyby vám význam latinského názvu hry nebyl zřejmý. Hráči představují majitele stavebních hutí, které se podílejí na budování Prahy. 
 
