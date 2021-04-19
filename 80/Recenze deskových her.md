@@ -1,11 +1,9 @@
 ---
 layout: article
-title: Recenze deskových her
-authors: Petr „ilgir" Chval
-tags: recenze, deskové hry, 
-summary: "Jeden z\_aptrganga, mrtvých, kteří opět kráčí světem živých." 
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
 ---
-
 
 ## Recenze deskových her 
 
