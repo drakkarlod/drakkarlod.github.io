@@ -1,3 +1,10 @@
+---
+layout: article
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
+---
+
 ## Ravnburgh: Jména čtyř národů 
 
 Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Obsahuje návody na tvorbu jmen postav čtyř největších národů, které se ve světě vyskytuje a jejichž příslušníci se ve městě mohou objevit. Často se jim říká „čtyři civilizované národy" a jejich jazyky se považují za jediné, kterými by lidé měli mluvit. Ostatní národy a jazyky jsou vnímané jako „barbarské". 
