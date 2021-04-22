@@ -9,6 +9,8 @@ published: false
 ---
 ## A4 - Lužní les
 
+![A4 - Lužní les]({{site.baseurl}}/80/A4 luzni les.jpg) 
+
 _A) Číslo hexu:_
 A4  
   
