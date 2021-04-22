@@ -2,9 +2,10 @@
 layout: article
 title: B1 - Mokřiny s vesnicí žabího národa
 authors: radunamlejn
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex B1"
+summary: 'Malé hexy, hex B1'
+published: false
 ---
 
 ## B1 - Mokřiny s vesnicí žabího národa
