@@ -1,10 +1,11 @@
 ---
 layout: article
-title:  G1 - Serangeum, černé lázně, a krabi
+title: 'G1 - Serangeum, černé lázně, a krabi'
 authors: kin
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex G1"
+summary: 'Malé hexy, hex G1'
+published: false
 ---
 
 ## G1 - Serangeum, černé lázně, a krabi
