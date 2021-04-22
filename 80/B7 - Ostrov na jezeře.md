@@ -2,11 +2,11 @@
 layout: article
 title: B7 - Ostrov na jezeře
 authors: radunamlejn
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex B7"
+summary: 'Malé hexy, hex B7'
+published: false
 ---
-
 ## B7 - Ostrov na jezeře
 
 _A) Číslo hexu:_
