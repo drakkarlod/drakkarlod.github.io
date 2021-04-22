@@ -2,9 +2,10 @@
 layout: article
 title: B6 - Část velkého jezera
 authors: alladjex
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex B6"
+summary: 'Malé hexy, hex B6'
+published: false
 ---
 
 ## B6 - Část velkého jezera
