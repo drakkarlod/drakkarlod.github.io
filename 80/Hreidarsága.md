@@ -1,11 +1,11 @@
 ---
 layout: article
-title:  Hreidarsága
+title: Hreidarsága
 authors: Martin Dvořák
-tags: materiály a doplňky, zápis
-summary: "Zápis z hraní"
+tags: 'materiály a doplňky, zápis'
+summary: Zápis z hraní
+published: false
 ---
-
 ## Hreidarsaga
 
 Doménou démonů  proplouval drakkar, 
