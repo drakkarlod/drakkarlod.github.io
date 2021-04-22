@@ -2,11 +2,11 @@
 layout: article
 title: B4 - Hnízdo gryfů
 authors: Pepa
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex B4"
---- 
-
+summary: 'Malé hexy, hex B4'
+published: false
+---
 ## B4 - Hnízdo gryfů
 
 _A) Číslo hexu:_
