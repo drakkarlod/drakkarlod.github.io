@@ -1,12 +1,12 @@
 ---
 layout: article
-title:  G6 - Les spálených stromů
+title: G6 - Les spálených stromů
 authors: Sarsaparillos
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex G6"
+summary: 'Malé hexy, hex G6'
+published: false
 ---
-
 ## G6 - Les spálených stromů
 
 _A) Číslo hexu:_
