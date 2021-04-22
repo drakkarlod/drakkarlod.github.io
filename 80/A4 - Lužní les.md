@@ -2,11 +2,11 @@
 layout: article
 title: A4 - Lužní les
 authors: boubaque
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex A4"
---- 
-
+summary: 'Malé hexy, hex A4'
+published: false
+---
 ## A4 - Lužní les
 
 _A) Číslo hexu:_
