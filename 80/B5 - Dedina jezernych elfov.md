@@ -5,7 +5,7 @@ authors: Antharon
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B5'
-published: false
+published: true
 ---
  
 ## B5 - Dedina jazernych elfov
@@ -28,8 +28,8 @@ Elfskí starší pamätajú dávne doby pred prebudením sopky. Hladina jazera b
 V hlbinách jazera sú pochované ruiny starého elfského mesta, ktoré tu stálo pred prvým výbuchom sopky. Mesto je perfektne zakonzervované horúcim lávovým prachom. Doslova je možné vidieť tu ako sochy obyvateľov zvíjajúcich sa v utrpení. Mesto sa prepadlo do hlbokej prepadliny, ktorá neskôr utvorila toto jazero. Elfovia z dediny sú potomkami preživších, ktorí sa rozhodli začať nový, skromnejší jednoduchší život.  
   
 _E) Zápletky:_  
--Elfovia počas svojich rybárskych výprav prišli do kontaktu so žabím ľudom z morkradí na severe. Tieto tvory sú podľa nich primitívne a lovia ich ako potravu. Lov žabiakov je jednoduchší než lov rejnokov alebo obrích korytnačiek a žabiaci majú množstvo chutného mäsa. Ako by sa dala táto pomalá genocída inteligentnej rasy zastaviť? Je možné dojednať prímerie medzi elfami a žabím ľudom? Čo budú elfovia loviť ak prídu o tento zdroj potravy?  
+- Elfovia počas svojich rybárskych výprav prišli do kontaktu so žabím ľudom z morkradí na severe. Tieto tvory sú podľa nich primitívne a lovia ich ako potravu. Lov žabiakov je jednoduchší než lov rejnokov alebo obrích korytnačiek a žabiaci majú množstvo chutného mäsa. Ako by sa dala táto pomalá genocída inteligentnej rasy zastaviť? Je možné dojednať prímerie medzi elfami a žabím ľudom? Čo budú elfovia loviť ak prídu o tento zdroj potravy?  
   
--Sírové jazierka a láva sa nezadržateľne blížia k elfskej dedine. Nebude trvať dlho a skončí sa to pohromou. Elfovia sa otrávia jedovatými výparmi, dedina zhorí, alebo sa postupne začne rúcať vplyvom vrásnenia. Je možné presvedčiť elfov aby sa presídlili na iné miesto? Dá sa nejak zabrániť šíreniu sírových plání? Elfovia strážia svoje posvätné mesto nebudú ho chcieť opustiť.  
+- Sírové jazierka a láva sa nezadržateľne blížia k elfskej dedine. Nebude trvať dlho a skončí sa to pohromou. Elfovia sa otrávia jedovatými výparmi, dedina zhorí, alebo sa postupne začne rúcať vplyvom vrásnenia. Je možné presvedčiť elfov aby sa presídlili na iné miesto? Dá sa nejak zabrániť šíreniu sírových plání? Elfovia strážia svoje posvätné mesto nebudú ho chcieť opustiť.  
   
--Mesto na dne jazera obsahuje množstvo úžasných a nevídaných pokladov zo zlatej éry elfskej kultúry. Určite sa nájde množstvo ľudí ktorí by zo starého mesta chceli nejaký suvenír. Elfské šperky sú nadčasové, šľachta za ne rada zaplatí peknú sumu. Elfovia by sa iste potešili nejakému artefaktu, ale vstup do mesta je prísne zakázaný. Možno by bolo lepšie predať ho nejakému mágovi. Návšteva mesta však prináša aj množstvo úskalí, horúce pramene, elektrických rejnokov, či ešte horších obyvateľov dna, ktorí nevychádzajú na povrch, navyše to všetko hlboko pod hladinou, bez vzduchu, či svetla...
+- Mesto na dne jazera obsahuje množstvo úžasných a nevídaných pokladov zo zlatej éry elfskej kultúry. Určite sa nájde množstvo ľudí ktorí by zo starého mesta chceli nejaký suvenír. Elfské šperky sú nadčasové, šľachta za ne rada zaplatí peknú sumu. Elfovia by sa iste potešili nejakému artefaktu, ale vstup do mesta je prísne zakázaný. Možno by bolo lepšie predať ho nejakému mágovi. Návšteva mesta však prináša aj množstvo úskalí, horúce pramene, elektrických rejnokov, či ešte horších obyvateľov dna, ktorí nevychádzajú na povrch, navyše to všetko hlboko pod hladinou, bez vzduchu, či svetla...
