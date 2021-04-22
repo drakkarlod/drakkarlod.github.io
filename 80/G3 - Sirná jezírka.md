@@ -2,11 +2,11 @@
 layout: article
 title: G3 - Sirná jezírka
 authors: alladjex
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex G3"
+summary: 'Malé hexy, hex G3'
+published: false
 ---
-
 ## G3 - Sirná jezírka
 
 _A) Číslo hexu:_
