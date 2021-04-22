@@ -2,9 +2,10 @@
 layout: article
 title: G2 - Lávové pole nad jezerem
 authors: Ecthelion²
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex G2"
+summary: 'Malé hexy, hex G2'
+published: false
 ---
 
 ##G2 - Lávové pole nad jezerem
