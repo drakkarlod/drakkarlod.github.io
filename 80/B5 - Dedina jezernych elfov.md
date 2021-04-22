@@ -5,9 +5,8 @@ authors: Antharon
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B5'
-published: true
+published: false
 ---
- 
 ## B5 - Dedina jazernych elfov
 
 _A) Číslo hexu:_
