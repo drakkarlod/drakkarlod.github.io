@@ -2,11 +2,11 @@
 layout: article
 title: G7 - Kráter sopky
 authors: MarkyParky
-tags: materiály a doplňky, inspirace, Malé hexy
+tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: "Malé hexy, hex G7"
+summary: 'Malé hexy, hex G7'
+published: false
 ---
-
 ## G7 - Kráter sopky
 
 _A) Číslo hexu:_
