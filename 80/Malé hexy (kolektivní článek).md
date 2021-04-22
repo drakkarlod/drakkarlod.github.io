@@ -1,10 +1,13 @@
 ---
 layout: article
-title:  Malé hexy (Kolektivní článek)
+title: Malé hexy (Kolektivní článek)
 authors: Martin Dvořák
-tags: materiály a doplňky, zápis
+tags: 'materiály a doplňky, zápis'
 series: Malé hexy
-summary: "Kolektivní článek, který měl za cíl vytvořit mal= hexy (v průmeru asi 2x2 km) a zaplnit je zajímavým obsahem."
+summary: >-
+  Kolektivní článek, který měl za cíl vytvořit mal= hexy (v průmeru asi 2x2 km)
+  a zaplnit je zajímavým obsahem.
+published: false
 ---
 ## Malé hexy (Kolektivní článek)
 V minulých číslech Drakkaru se objevily kolektivní články s velkými hexy, které měřily asi 20 km vzdušnou čarou (vzdálenost, kterou urazí člověk pěšky při dobrém počasí za den). 
