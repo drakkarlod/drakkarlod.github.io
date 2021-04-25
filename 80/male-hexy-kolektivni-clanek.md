@@ -5,7 +5,7 @@ authors: Martin Dvořák
 tags: 'materiály a doplňky, zápis'
 series: Malé hexy
 summary: >-
-  Kolektivní článek, který měl za cíl vytvořit mal= hexy (v průmeru asi 2x2 km)
+  Kolektivní článek, který měl za cíl vytvořit malé hexy (v průmeru asi 2x2 km)
   a zaplnit je zajímavým obsahem.
 published: false
 ---
