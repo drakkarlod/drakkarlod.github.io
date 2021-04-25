@@ -6,476 +6,475 @@ tags: 'materiály a doplňky, zápis'
 summary: Zápis z hraní
 published: false
 ---
-## Hreidarsaga
 
-Doménou démonů  proplouval drakkar, 
+Doménou démonů &emsp; proplouval drakkar, 
 
-hlubokým vesmírem,  chaosem Warpu, 
+hlubokým vesmírem, &emsp; chaosem Warpu, 
 
-Adeptus Astartes  na planetu Aurum 
+Adeptus Astartes &emsp; na planetu Aurum 
 
-dopravil, brněním  oděné bratry. 
+dopravil, brněním &emsp; oděné bratry. 
 
-Pětice hrdinů   přistála v pustině, 
+Pětice hrdinů &emsp; přistála v pustině, 
 
-spěchala získat   Císaři slávu. 
+spěchala získat &emsp; Císaři slávu. 
 
-Válečník Hreidar,   vesmírný vlk, 
+Válečník Hreidar, &emsp; vesmírný vlk, 
 
-první vždy v boji,   prost všeho strachu. 
+první vždy v boji, &emsp; prost všeho strachu. 
 
-V literu Kodexu   velice věřil 
+V literu Kodexu &emsp; velice věřil 
 
-velitel Marcus,   mistrný taktik. 
+velitel Marcus, &emsp; mistrný taktik. 
 
-Další byl Darius,   důvtipný knihovník, 
+Další byl Darius, &emsp; důvtipný knihovník, 
 
-tajemství techu   taktéž byl znalý. 
+tajemství techu &emsp; taktéž byl znalý. 
 
-Léčitel Yilani,   jak Loki lstivý, 
+Léčitel Yilani, &emsp; jak Loki lstivý, 
 
-zabíjel neviděn   padouchy zdálky. 
+zabíjel neviděn &emsp; padouchy zdálky. 
 
-Odporné kacíře   očistil ohněm, 
+Odporné kacíře &emsp; očistil ohněm, 
 
-paladin Calderus,   plamenů vládce. 
+paladin Calderus, &emsp; plamenů vládce. 
 
-Nemohu nazvat   Auřanů národ 
+Nemohu nazvat &emsp; Auřanů národ 
 
-slabochy či zbabělci   bez srdnatosti. 
+slabochy či zbabělci &emsp; bez srdnatosti. 
 
-Stateční štítonoši   odvážnými skutky 
+Stateční štítonoši &emsp; odvážnými skutky 
 
-častokrát získali   velkou čest. 
+častokrát získali &emsp; velkou čest. 
 
-V ponurých časech však   na planetu přibyl, 
+V ponurých časech však &emsp; na planetu přibyl, 
 
-strašlivý nepřítel   nad jejich síly. 
+strašlivý nepřítel &emsp; nad jejich síly. 
 
-Zaživa žerou   muže i ženy 
+Zaživa žerou &emsp; muže i ženy 
 
-hordy tyranidů;   šíří teror. 
+hordy tyranidů; &emsp; šíří teror. 
 
-Zákeřní zloduši,   zloději genu, 
+Zákeřní zloduši, &emsp; zloději genu, 
 
-jsou jich horší.   Hanebně skrytí, 
+jsou jich horší. &emsp; Hanebně skrytí, 
 
-známé přátele   ve zrádce změní, 
+známé přátele &emsp; ve zrádce změní, 
 
-duše loupí   a důvěru ničí. 
+duše loupí &emsp; a důvěru ničí. 
 
-Statečnost samotná   přestává stačit 
+Statečnost samotná &emsp; přestává stačit 
 
-bez bolterů a laserů.   Luky a kopí 
+bez bolterů a laserů. &emsp; Luky a kopí 
 
-kostěným hrotem   kůži jak z kovu 
+kostěným hrotem &emsp; kůži jak z kovu 
 
-prorazí stěží.   Porážka hrozí. 
+prorazí stěží. &emsp; Porážka hrozí. 
 
-Rody se radí.   Jarl Rylus 
+Rody se radí. &emsp; Jarl Rylus 
 
-takto mluví:   Třeba se sklonit, 
+takto mluví: &emsp; Třeba se sklonit, 
 
-poslat zprávu.   O pomoc prosme 
+poslat zprávu. &emsp; O pomoc prosme 
 
-slovutné reky,   Císaře syny. 
+slovutné reky, &emsp; Císaře syny. 
 
-Nejprv' však nutno   neznámé muže 
+Nejprv' však nutno &emsp; neznámé muže 
 
-podrobit zkoušce,   prověřit sílu. 
+podrobit zkoušce, &emsp; prověřit sílu. 
 
-Přehnaná pověst   přinese často 
+Přehnaná pověst &emsp; přinese často 
 
-chvástalovi zmar,   i celé zemi. 
+chvástalovi zmar, &emsp; i celé zemi. 
 
-Synové Císaře   stopují saura, 
+Synové Císaře &emsp; stopují saura, 
 
-budou ho lovit  lukem a kopím. 
+budou ho lovit &emsp; lukem a kopím. 
 
-Brnění mocného   ni bolteru bratři 
+Brnění mocného &emsp; ni bolteru bratři 
 
-použít nesmí,   jak přísaha váže. 
+použít nesmí, &emsp; jak přísaha váže. 
 
-V dusivé džungli   stejně tak doma, 
+V dusivé džungli &emsp; stejně tak doma, 
 
-jak v lesích tajgy,   na ledových mořích, 
+jak v lesích tajgy, &emsp; na ledových mořích, 
 
-válečník Hreidar   jako vlk větří, 
+válečník Hreidar &emsp; jako vlk větří, 
 
-za pachem ještěra   patrolu vede. 
+za pachem ještěra &emsp; patrolu vede. 
 
-Sopečným svahem   pak sestoupí níže, 
+Sopečným svahem &emsp; pak sestoupí níže, 
 
-smrdutý kráter   páchne sírou. 
+smrdutý kráter &emsp; páchne sírou. 
 
-Ohněstrůjce Caldera   oblaží oči 
+Ohněstrůjce Caldera &emsp; oblaží oči 
 
-planetě rodné   podobný terén. 
+planetě rodné &emsp; podobný terén. 
 
-Děsivý drak   dýmá jak Fáfní, 
+Děsivý drak &emsp; dýmá jak Fáfní, 
 
-tyčí se výše   než bitevní titán. 
+tyčí se výše &emsp; než bitevní titán. 
 
-Běsní a během   se na bratry vrhá, 
+Běsní a během &emsp; se na bratry vrhá, 
 
-zadními běhy   otřásá zemí. 
+zadními běhy &emsp; otřásá zemí. 
 
-Výpadu saura   vyhnout se velí 
+Výpadu saura &emsp; vyhnout se velí 
 
-rozvážný Marcus,   mistrný taktik. 
+rozvážný Marcus, &emsp; mistrný taktik. 
 
-S Calderem kostěným  bodají kopím, 
+S Calderem kostěným &emsp; bodají kopím, 
 
-šupiny ještěra   toliko škrábnou. 
+šupiny ještěra &emsp; toliko škrábnou. 
 
-Léčitel Yilani,   jak Loki lstivý, 
+Léčitel Yilani, &emsp; jak Loki lstivý, 
 
-jedovou slinu   jistě míří. 
+jedovou slinu &emsp; jistě míří. 
 
-Oslepit ohromné   plazovo oko 
+Oslepit ohromné &emsp; plazovo oko 
 
-snaží se marně,   neb cíle mine. 
+snaží se marně, &emsp; neb cíle mine. 
 
-Knihovník Darius   důrazně draka 
+Knihovník Darius &emsp; důrazně draka 
 
-udeří v mordu   skloněnou mečem. 
+udeří v mordu &emsp; skloněnou mečem. 
 
-Nepřítel nezraněn,   rána však nazmar 
+Nepřítel nezraněn, &emsp; rána však nazmar 
 
-nepřijde pádná;   příšera váhá. 
+nepřijde pádná; &emsp; příšera váhá. 
 
-Tu útočí Hreidar,   hrdina hbitý, 
+Tu útočí Hreidar, &emsp; hrdina hbitý, 
 
-nad jiné zdatný   v boji zblízka. 
+nad jiné zdatný &emsp; v boji zblízka. 
 
-Zuřivý berserkr   jako blesk bodá, 
+Zuřivý berserkr &emsp; jako blesk bodá, 
 
-čepele zbraní   zbarví se krví. 
+čepele zbraní &emsp; zbarví se krví. 
 
-Podťatý pařát   plaza zradí, 
+Podťatý pařát &emsp; plaza zradí, 
 
-dopadem nestvůry   země duní. 
+dopadem nestvůry &emsp; země duní. 
 
-Proráží patro   a proniká v mozek 
+Proráží patro &emsp; a proniká v mozek 
 
-do chřtánu vržené   vlkovo kopí. 
+do chřtánu vržené &emsp; vlkovo kopí. 
 
-Triumfálně pak   z tyrana trofej 
+Triumfálně pak &emsp; z tyrana trofej 
 
-do Haistandu nesou,   hlavního města 
+do Haistandu nesou, &emsp; hlavního města 
 
-Adeptus Astartes.   Auřan Rylus 
+Adeptus Astartes. &emsp; Auřan Rylus 
 
-přesvědčen dosti,   o pomoc je žádá. 
+přesvědčen dosti, &emsp; o pomoc je žádá. 
 
-Čeká již člun   a přenese četu 
+Čeká již člun &emsp; a přenese četu 
 
-s motorů řevem;   mocně se třese. 
+s motorů řevem; &emsp; mocně se třese. 
 
-Vysokým skokem   skrz stratosféru 
+Vysokým skokem &emsp; skrz stratosféru 
 
-dosáhnou vbrzku   doliny Grensvayl. 
+dosáhnou vbrzku &emsp; doliny Grensvayl. 
 
-Soutěsky svahy   věčně tam stéká 
+Soutěsky svahy &emsp; věčně tam stéká 
 
-surové promethium,   palivo lodní. 
+surové promethium, &emsp; palivo lodní. 
 
-Plamenem Múspellu   přejasně plane, 
+Plamenem Múspellu &emsp; přejasně plane, 
 
-svazuje cizáky   v Surtrově říši. 
+svazuje cizáky &emsp; v Surtrově říši. 
 
-Xenoská nákaza   však nečina není. 
+Xenoská nákaza &emsp; však nečina není. 
 
-Přes stěnu ohně   i statečné bijce 
+Přes stěnu ohně &emsp; i statečné bijce 
 
-prorazit náhle   a planetu pozřít 
+prorazit náhle &emsp; a planetu pozřít 
 
-stále se příšerní   vetřelci snaží. 
+stále se příšerní &emsp; vetřelci snaží. 
 
-Vesmírní rekové   vylodí se vprostřed, 
+Vesmírní rekové &emsp; vylodí se vprostřed, 
 
-hotovi vyčistit   vražednou líheň. 
+hotovi vyčistit &emsp; vražednou líheň. 
 
-Palebnou pozici   připravit káže 
+Palebnou pozici &emsp; připravit káže 
 
-nejprve Marcus,   mistrný taktik. 
+nejprve Marcus, &emsp; mistrný taktik. 
 
-Barikádu hned   budují bratři, 
+Barikádu hned &emsp; budují bratři, 
 
-v předpolí Hreidar   pokládá minu. 
+v předpolí Hreidar &emsp; pokládá minu. 
 
-Tu zloději genu   zákeřně se zjeví 
+Tu zloději genu &emsp; zákeřně se zjeví 
 
-hrdiny vůkol,   hanebně skrytí. 
+hrdiny vůkol, &emsp; hanebně skrytí. 
 
-Přemíra pařátů   chystá se párat; 
+Přemíra pařátů &emsp; chystá se párat; 
 
-na plamenném batohu   vystoupá bratr, 
+na plamenném batohu &emsp; vystoupá bratr, 
 
-Adeptus Astartes,   jak anděl pomsty, 
+Adeptus Astartes, &emsp; jak anděl pomsty, 
 
-odpálí bombu   a obludy taví. 
+odpálí bombu &emsp; a obludy taví. 
 
-Současně z trosek   a sadů suchých 
+Současně z trosek &emsp; a sadů suchých 
 
-vyráží tyranidů   početné tlupy. 
+vyráží tyranidů &emsp; početné tlupy. 
 
-Strašlivou rychlostí,   jak samotný Sleipnir, 
+Strašlivou rychlostí, &emsp; jak samotný Sleipnir, 
 
-sprintují k bratrům   co zubatá stěna. 
+sprintují k bratrům &emsp; co zubatá stěna. 
 
-Bouřného bolteru   burácí palba, 
+Bouřného bolteru &emsp; burácí palba, 
 
-pečlivě Marcus   dávky míří. 
+pečlivě Marcus &emsp; dávky míří. 
 
-Tříštivé náboje   trhají těla, 
+Tříštivé náboje &emsp; trhají těla, 
 
-jak klasy obilí   bestie kosí. 
+jak klasy obilí &emsp; bestie kosí. 
 
-Přehradu plamenů   pokládá zavčas 
+Přehradu plamenů &emsp; pokládá zavčas 
 
-válečník Calderus  vrhačem ohně. 
+válečník Calderus &emsp; vrhačem ohně. 
 
-Salamandrův žár   stravuje stvůry, 
+Salamandrův žár &emsp; stravuje stvůry, 
 
-na dosah nepřítel   neprojde žádný. 
+na dosah nepřítel &emsp; neprojde žádný. 
 
-Ve svahu soutěsky  jeskyni spatří 
+Ve svahu soutěsky &emsp; jeskyni spatří 
 
-synové Císaře;   vejdou směle. 
+synové Císaře; &emsp; vejdou směle. 
 
-Stísněný prostor   srdce svírá, 
+Stísněný prostor &emsp; srdce svírá, 
 
-temnota zapáchá   zloduchů pižmem. 
+temnota zapáchá &emsp; zloduchů pižmem. 
 
-Ve vnitřním hnízdě   vytrhané visí 
+Ve vnitřním hnízdě &emsp; vytrhané visí 
 
-kabelů svazky   z jakéhos' stroje. 
+kabelů svazky &emsp; z jakéhos' stroje. 
 
-Thorovým bleskem   tam v podlahu bijí 
+Thorovým bleskem &emsp; tam v podlahu bijí 
 
-hybridi hnusní;   hemží se vůkol. 
+hybridi hnusní; &emsp; hemží se vůkol. 
 
-Zároveň zákeřní   zloději genu 
+Zároveň zákeřní &emsp; zloději genu 
 
-překvapí bratry.   Prostoru málo 
+překvapí bratry. &emsp; Prostoru málo 
 
-k účinné střelbě   v uličkách úzkých; 
+k účinné střelbě &emsp; v uličkách úzkých; 
 
-těžký boj zuří   v ztemnělé síni. 
+těžký boj zuří &emsp; v ztemnělé síni. 
 
-Rotomeč rudou   zbarví se rosou 
+Rotomeč rudou &emsp; zbarví se rosou 
 
-trhaje kusy   tyranidů hrozných, 
+trhaje kusy &emsp; tyranidů hrozných, 
 
-páteře přeráží   sekera pádná; 
+páteře přeráží &emsp; sekera pádná; 
 
-tak bojuje Hreidar,   hrdinný vlk. 
+tak bojuje Hreidar, &emsp; hrdinný vlk. 
 
-Ostatní bojaři   bijí se boltery, 
+Ostatní bojaři &emsp; bijí se boltery, 
 
-i meči zblízka   ohání se mocně. 
+i meči zblízka &emsp; ohání se mocně. 
 
-Zášlehy ohně   zalévá zrůdy 
+Zášlehy ohně &emsp; zalévá zrůdy 
 
-horlivý Calderus   a hnízdo čistí. 
+horlivý Calderus &emsp; a hnízdo čistí. 
 
-Tu protivník příšerný   obranou projde 
+Tu protivník příšerný &emsp; obranou projde 
 
-a smrští úderů   přilbu sráží 
+a smrští úderů &emsp; přilbu sráží 
 
-Marcusovi modrou.   Morda pak hrozná 
+Marcusovi modrou. &emsp; Morda pak hrozná 
 
-odhryzne vmžiku   obličej celý. 
+odhryzne vmžiku &emsp; obličej celý. 
 
-Pařáty vzápětí   prorazí pláty 
+Pařáty vzápětí &emsp; prorazí pláty 
 
-brnění mocného.   Bestie párá 
+brnění mocného. &emsp; Bestie párá 
 
-a strašlivou silou   salamandru urve 
+a strašlivou silou &emsp; salamandru urve 
 
-v rameni paži.   Calderus padne. 
+v rameni paži. &emsp; Calderus padne. 
 
-Hrdina Darius   v hrozivém hněvu 
+Hrdina Darius &emsp; v hrozivém hněvu 
 
-zloděje genu   zuřivě tepe. 
+zloděje genu &emsp; zuřivě tepe. 
 
-Údery mečem   mistrně míří, 
+Údery mečem &emsp; mistrně míří, 
 
-poslední stvůry   ve chvíli stíná. 
+poslední stvůry &emsp; ve chvíli stíná. 
 
-Léčitel Yilani,   jak Loki lstivý, 
+Léčitel Yilani, &emsp; jak Loki lstivý, 
 
-hned vrhá se ošetřit   obludné rány. 
+hned vrhá se ošetřit &emsp; obludné rány. 
 
-Synové Císaře   stavěni silně, 
+Synové Císaře &emsp; stavěni silně, 
 
-mariňák vydrží   zranění mnohá. 
+mariňák vydrží &emsp; zranění mnohá. 
 
-V podmínkách polních,   nemaje protéz, 
+V podmínkách polních, &emsp; nemaje protéz, 
 
-hůře však v boji   obstojí bratři. 
+hůře však v boji &emsp; obstojí bratři. 
 
-Plamenů vrhač   připevní pevně, 
+Plamenů vrhač &emsp; připevní pevně, 
 
-postačí ohněstrůjci   levačka pouhá. 
+postačí ohněstrůjci &emsp; levačka pouhá. 
 
-Duch diagnostiky,   druhého zraku, 
+Duch diagnostiky, &emsp; druhého zraku, 
 
-zaklet je v průzoru   lékařské přilby. 
+zaklet je v průzoru &emsp; lékařské přilby. 
 
-Tak Yilani vůdci   vidění vrací, 
+Tak Yilani vůdci &emsp; vidění vrací, 
 
-na nervy rozhraní   napojí přímo. 
+na nervy rozhraní &emsp; napojí přímo. 
 
-Níže pak naleznou   nečisté runy, 
+Níže pak naleznou &emsp; nečisté runy, 
 
-znaky Chaosu   zdobený přístroj. 
+znaky Chaosu &emsp; zdobený přístroj. 
 
-Tajemný teleport,   tyranidí pouta; 
+Tajemný teleport, &emsp; tyranidí pouta; 
 
-zrádci lidstva   jsou nákazy zdrojem. 
+zrádci lidstva &emsp; jsou nákazy zdrojem. 
 
-V Haistandu hostinu   k hrdinů poctě, 
+V Haistandu hostinu &emsp; k hrdinů poctě, 
 
-statečných bojarů,   vystrojí slavnou. 
+statečných bojarů, &emsp; vystrojí slavnou. 
 
-Vybraných pokrmů   a pohárů piva 
+Vybraných pokrmů &emsp; a pohárů piva 
 
-plny jsou stoly   v předlouhé síni. 
+plny jsou stoly &emsp; v předlouhé síni. 
 
-Hodují hojně   a honosné rohy 
+Hodují hojně &emsp; a honosné rohy 
 
-k přípitku zvedají   jarlové přední, 
+k přípitku zvedají &emsp; jarlové přední, 
 
-smělí válečníci   i výřeční vyslanci, 
+smělí válečníci &emsp; i výřeční vyslanci, 
 
-z hvězdného císařství   pozvaní hosté. 
+z hvězdného císařství &emsp; pozvaní hosté. 
 
-Planetu nyní   navrátit v náruč 
+Planetu nyní &emsp; navrátit v náruč 
 
-celého lidstva,   Císaře přijmout, 
+celého lidstva, &emsp; Císaře přijmout, 
 
-posvátnu přísahu   pronáší Rylus, 
+posvátnu přísahu &emsp; pronáší Rylus, 
 
-jarl Haistandu   a předák hlavní. 
+jarl Haistandu &emsp; a předák hlavní. 
 
-Pojednou je slyšet   příšerný praskot, 
+Pojednou je slyšet &emsp; příšerný praskot, 
 
-s tříštěním prken   se prolomí stěny. 
+s tříštěním prken &emsp; se prolomí stěny. 
 
-Vybuchnou dveře   a dovnitř se derou 
+Vybuchnou dveře &emsp; a dovnitř se derou 
 
-desítky tyranidů   dychtivých trhat. 
+desítky tyranidů &emsp; dychtivých trhat. 
 
-Hrozivá horda   žene se k hostům, 
+Hrozivá horda &emsp; žene se k hostům, 
 
-snůškopán v čele   tyčí se až k stropu. 
+snůškopán v čele &emsp; tyčí se až k stropu. 
 
-Zrádci země   v zapadlém dole 
+Zrádci země &emsp; v zapadlém dole 
 
-ukryli tu zrůdu;   tak unikla trestu. 
+ukryli tu zrůdu; &emsp; tak unikla trestu. 
 
-Ač zaskočeni,   zbabělci žádní 
+Ač zaskočeni, &emsp; zbabělci žádní 
 
-Auřané nejsou;  netvorů vprostřed 
+Auřané nejsou; &emsp; netvorů vprostřed 
 
-bijí se směle.   Bitevní bratři 
+bijí se směle. &emsp; Bitevní bratři 
 
-též chvátají přispět,   napravit chybu. 
+též chvátají přispět, &emsp; napravit chybu. 
 
-Tříštivou municí   mariňák Marcus 
+Tříštivou municí &emsp; mariňák Marcus 
 
-na kusy trhá   tyranidy mnohé. 
+na kusy trhá &emsp; tyranidy mnohé. 
 
-Paladin Calderus   pekelným plamenem 
+Paladin Calderus &emsp; pekelným plamenem 
 
-též nejednu stvůru   na uhel spálí. 
+též nejednu stvůru &emsp; na uhel spálí. 
 
-Na severním konci   slovutné síně 
+Na severním konci &emsp; slovutné síně 
 
-císařským hostům   nákaza hrozí. 
+císařským hostům &emsp; nákaza hrozí. 
 
-Zloděje genu však   zadržet zvládne, 
+Zloděje genu však &emsp; zadržet zvládne, 
 
-jak blesk je Yilani   s bojovým nožem. 
+jak blesk je Yilani &emsp; s bojovým nožem. 
 
-Nejlítější střet   u skvostného stolu 
+Nejlítější střet &emsp; u skvostného stolu 
 
-kde jarl Rylus   nepřátele rubá. 
+kde jarl Rylus &emsp; nepřátele rubá. 
 
-Zády pak k němu   zabíjí zrůdy 
+Zády pak k němu &emsp; zabíjí zrůdy 
 
-knihovník Darius,   krutě je tísněn. 
+knihovník Darius, &emsp; krutě je tísněn. 
 
-Válečník Hreidar,   vesmírný vlk, 
+Válečník Hreidar, &emsp; vesmírný vlk, 
 
-ni okamžik neváhá,   neznaje strachu, 
+ni okamžik neváhá, &emsp; neznaje strachu, 
 
-přesilou příšer   proseká si brázdu, 
+přesilou příšer &emsp; proseká si brázdu, 
 
-po boku přátel   stane hned bratr. 
+po boku přátel &emsp; stane hned bratr. 
 
-Odporný snůškopán   střemhlavým skokem 
+Odporný snůškopán &emsp; střemhlavým skokem 
 
-jarlovy družiny   dopadá vprostřed. 
+jarlovy družiny &emsp; dopadá vprostřed. 
 
-Statečné štítonoše   zběsile stíná 
+Statečné štítonoše &emsp; zběsile stíná 
 
-pařáty delšími   dřevcových zbraní. 
+pařáty delšími &emsp; dřevcových zbraní. 
 
-Vražedné údery   vykryje všechny 
+Vražedné údery &emsp; vykryje všechny 
 
-mistrně Hreidar   čepelí meče. 
+mistrně Hreidar &emsp; čepelí meče. 
 
-Sedmero seky   sekery mocné 
+Sedmero seky &emsp; sekery mocné 
 
-pak lovec rozpoltí   nestvůrnou lebku. 
+pak lovec rozpoltí &emsp; nestvůrnou lebku. 
 
-Tu zloději genu   zešílí ztrátou 
+Tu zloději genu &emsp; zešílí ztrátou 
 
-spojení s myslí   mateřského roje. 
+spojení s myslí &emsp; mateřského roje. 
 
-Zuřivost berserkrů  zmocní se jich zcela, 
+Zuřivost berserkrů &emsp; zmocní se jich zcela, 
 
-záchovy nedbají,   jen zabíjet touží. 
+záchovy nedbají, &emsp; jen zabíjet touží. 
 
-Nelze již bránit se   bestím běsným, 
+Nelze již bránit se &emsp; bestím běsným, 
 
-Hreidar i Darius   podlehnou drápům. 
+Hreidar i Darius &emsp; podlehnou drápům. 
 
-Mocný pancíř jim   pářou jak papír 
+Mocný pancíř jim &emsp; pářou jak papír 
 
-otevřou v trupech   obludné rány. 
+otevřou v trupech &emsp; obludné rány. 
 
-Tyranidi vlastní   pak trhají těla, 
+Tyranidi vlastní &emsp; pak trhají těla, 
 
-neschopni myšlení,   navzájem se vraždí. 
+neschopni myšlení, &emsp; navzájem se vraždí. 
 
-Ostatních obránců   odvetná palba 
+Ostatních obránců &emsp; odvetná palba 
 
-kosí ty zbylé;   klid nastane v síni. 
+kosí ty zbylé; &emsp; klid nastane v síni. 
 
-Takto zachránili   před zkázou a zmarem 
+Takto zachránili &emsp; před zkázou a zmarem 
 
-synové Císaře   planetu celou. 
+synové Císaře &emsp; planetu celou. 
 
-Ze silných Auřanů   Adeptus Astartes 
+Ze silných Auřanů &emsp; Adeptus Astartes 
 
-rekruti stanou se   nad jiné skvělí. 
+rekruti stanou se &emsp; nad jiné skvělí. 
 
-Marně však valkýru   vyhlížel viking, 
+Marně však valkýru &emsp; vyhlížel viking, 
 
-Yilani ošetřil   opět své bratry. 
+Yilani ošetřil &emsp; opět své bratry. 
 
-V pevnosti Erioch   plíce pak z plechu 
+V pevnosti Erioch &emsp; plíce pak z plechu 
 
-obdržel Hreidar,   hrdinný vlk. 
+obdržel Hreidar, &emsp; hrdinný vlk. 
 
-Zdobené veřeje   věhlasné Valhally 
+Zdobené veřeje &emsp; věhlasné Valhally 
 
-zůstaly tentokrát   zavřeny bratru. 
+zůstaly tentokrát &emsp; zavřeny bratru. 
 
-Ve službách Císaře   slavnější smrt 
+Ve službách Císaře &emsp; slavnější smrt 
 
-jistě mu souzena   až skončí se sága.
+jistě mu souzena &emsp; až skončí se sága.
