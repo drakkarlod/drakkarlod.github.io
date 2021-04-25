@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Název článku
+title: Arthúd N´Thien
 authors: Peter Skenderax
 tags: 'dobrodružství, další štítek'
 published: false
+summary: Dobrodružství připravené jako součást cestování hrdinů nebo širší kampaně.
 ---
 
 ## Arthúd N´Thien alebo každý dobrý skutok, bude po správnosti potrestaný 
