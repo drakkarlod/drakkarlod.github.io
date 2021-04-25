@@ -4,8 +4,10 @@ title: Název článku
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace'
 published: false
+summary: >-
+  Příklady jmen, která používají příslušníci čtyř hlavních národů světa
+  Ravnburghu.
 ---
-
 ## Ravnburgh: Jména čtyř národů 
 
 Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Obsahuje návody na tvorbu jmen postav čtyř největších národů, které se ve světě vyskytuje a jejichž příslušníci se ve městě mohou objevit. Často se jim říká „čtyři civilizované národy" a jejich jazyky se považují za jediné, kterými by lidé měli mluvit. Ostatní národy a jazyky jsou vnímané jako „barbarské". 
