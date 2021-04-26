@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex B4'
 published: false
 ---
-## B4 - Hnízdo gryfů
-
 _A) Číslo hexu:_
 B4   
   
