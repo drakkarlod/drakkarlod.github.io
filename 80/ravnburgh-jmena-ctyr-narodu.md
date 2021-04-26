@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Název článku
+title: null
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace'
 published: false
@@ -8,8 +8,6 @@ summary: >-
   Příklady jmen, která používají příslušníci čtyř hlavních národů světa
   Ravnburghu.
 ---
-## Ravnburgh: Jména čtyř národů 
-
 Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Obsahuje návody na tvorbu jmen postav čtyř největších národů, které se ve světě vyskytuje a jejichž příslušníci se ve městě mohou objevit. Často se jim říká „čtyři civilizované národy" a jejich jazyky se považují za jediné, kterými by lidé měli mluvit. Ostatní národy a jazyky jsou vnímané jako „barbarské". 
 
 Jsou to **obyvatelé království Arlatu** (ve kterých se Ravnburgh nachází) a mezi něž patří většina obyvatel města, **poddaní Lvího císařství** na západě, **jižané** z městských států Ligy a **purpuřané** z padlé Purpurové říše na východě. Menší národy, jezdci z Východu, Zaskapuřané ze Žhnoucích pouští, zlobři z ledových fjordů, horští skřeti z pohoří Vhre a další, mají svá vlastní jména a pravidla pojmenovávání, která se nezřídka často liší. 
