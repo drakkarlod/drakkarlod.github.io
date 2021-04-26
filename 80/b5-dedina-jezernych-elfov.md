@@ -1,14 +1,12 @@
 ---
 layout: article
-title: B5 - Dedina jezetnych elfov
+title: B5 - Dedina jazernych elfov
 authors: Antharon
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B5'
 published: false
 ---
-## B5 - Dedina jazernych elfov
-
 _A) Číslo hexu:_
 B5  
   
