@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex G7'
 published: false
 ---
-## G7 - Kráter sopky
-
 _A) Číslo hexu:_
 G7  
 
