@@ -21,7 +21,7 @@ Autoři měli za úkol je zaplnit zajímavým obsahem. Máme malé hexy z větš
 
 Struktura, podle které autoři psali:
 
-A) Číslo hexu!
+A) Číslo hexu
 
 
 B) Převládající krajina hexu
