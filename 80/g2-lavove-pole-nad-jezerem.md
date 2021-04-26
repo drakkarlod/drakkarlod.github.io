@@ -7,9 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex G2'
 published: false
 ---
-
-##G2 - Lávové pole nad jezerem
-
 ![volcano-lava-steam-cloud.jpg]({{site.baseurl}}/80/volcano-lava-steam-cloud.jpg)
 
 _A) Číslo hexu:_
