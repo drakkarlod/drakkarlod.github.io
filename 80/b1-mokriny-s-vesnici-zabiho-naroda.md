@@ -7,9 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex B1'
 published: false
 ---
-
-## B1 - Mokřiny s vesnicí žabího národa
-
 _A) Číslo hexu:_		
 B1  
 
