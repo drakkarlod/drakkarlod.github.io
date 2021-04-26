@@ -7,9 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex G1'
 published: false
 ---
-
-## G1 - Serangeum, černé lázně, a krabi
-
 _A) Číslo hexu:_
 G1  
   
