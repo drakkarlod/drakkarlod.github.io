@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex G3'
 published: false
 ---
-## G3 - Sirná jezírka
-
 _A) Číslo hexu:_
 G3  
   
