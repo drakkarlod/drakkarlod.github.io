@@ -7,9 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex B6'
 published: false
 ---
-
-## B6 - Část velkého jezera
-
 _A) Číslo hexu:_
 B6  
 
