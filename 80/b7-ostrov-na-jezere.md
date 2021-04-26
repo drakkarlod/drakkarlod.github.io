@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex B7'
 published: false
 ---
-## B7 - Ostrov na jezeře
-
 _A) Číslo hexu:_
 B7
 
