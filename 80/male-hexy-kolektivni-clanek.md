@@ -9,7 +9,6 @@ summary: >-
   a zaplnit je zajímavým obsahem.
 published: false
 ---
-## Malé hexy (Kolektivní článek)
 V minulých číslech Drakkaru se objevily kolektivní články s velkými hexy, které měřily asi 20 km vzdušnou čarou (vzdálenost, kterou urazí člověk pěšky při dobrém počasí za den). 
 
 Tentokrát jsme se rozhodli udělat něco menšího. Takové velké hexy lze snadno rozdělit na menší (z jednoho hexu je 7 hexů menších). Rozdělili jsme takový velký hex na sedm menších a každý z nich dál na 7 malých hexů. Z jednoho velkého hexu jsme tak dostali celkem 49 malých hexů, které jsou zhruba 2 km na 2 km velké. To je pěkná malá a mentálně dobře uchopitelná oblast. Je to třeba malá vesnice s pár chalupami, opevněným kostelem a tvrzí zemana, včetně kruhu o poloměru kilometr, ve kterém jsou obdělávaná pole. 
