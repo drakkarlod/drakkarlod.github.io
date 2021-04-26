@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex G6'
 published: false
 ---
-## G6 - Les spálených stromů
-
 _A) Číslo hexu:_
 G6  
   
