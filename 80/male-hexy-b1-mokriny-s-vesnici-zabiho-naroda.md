@@ -14,12 +14,10 @@ Mokřad
 
 ### C) Obsah hexu  
 
-#### Živé ostrovy  
-
+- **Živé ostrovy**<br>
 V mokřadu žijí obří masožravé želvy (vzhledem podobné kajmance supí). Dorůstají až 4 metrů. Za dobu jejich života jim krunýř porůstá malými rostlinami a starým i nízkými keři. Číhají maskovaní jako vlídný kousek pevné země v neustále podmáčené proměnlivé krajině. Hbitou hlavou na dlouhém krku rychlým pohybem útočí na vše živé co se k nim přiblíží. (Lze najít i větší množství mladých malých želv stejného druhu.)  
   
-#### Vesnice žabího národa  
-
+- **Vesnice žabího národa**<br>
 Lidé žabího národa se jako jediní zde díky schopnosti chodit i plavat dokáží bezpečně pohybovat. Jejich společnost je lovecko-sběračská a nástroje mají (kromě vyobchodovaných či nalezených) převážně dřevěné a kostěné. Díky nedostupnosti žijí relativně izolovaně. Sucho, hluboká nebo horká voda jim nedělá dobře a proto příliš neopouští bezpečí bažinatého mokřadu. Vzhledem připomínají hlavně ropuchy, jsou velcí asi jako hobiti. Z bradavic vylučují vzácnou látku, která je na jednu stranu jedem, ale po destilaci a v malých dávkách je vyhledávanou drogou (hlavně vědmami a věštci). Žabí duchovní vůdkyně mají velmi rozvinuté schopnosti předvídání budoucnosti. Ve vesnici se vyjma času páření vyskytují pouze ženy (jak sběračky, tak lovkyně a duchovní). Samci se osamoceně pohybují po mokřadu a v období páření vydávají strašidelné skřehotavé zvuky. Zpravidla svedou boj o to, který z nich se spáří s celou vesnicí a jedna generace je pak celá jeho dětmi. (Sám samec po páření umírá.) Vesnice je tvořena několika chýšemi spletenými z rákosu a několika krunýři obřích želv změněnými na obydlí.  
   
 ### D) Popis hexu
