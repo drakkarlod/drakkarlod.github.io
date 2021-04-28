@@ -1,10 +1,11 @@
 ---
 layout: article
 authors: redakce
-tags: úvodní haiku
-summary: Úvodní haiku
+tags: 'úvodní haiku, úvodník'
+summary: místo úvodníku
 fulltext: true
 published: true
+title: Úvodní haiku
 ---
 
 > S kapkou nektaru
