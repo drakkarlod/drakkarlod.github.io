@@ -5,7 +5,7 @@ authors: MarkyParky
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex G7'
-published: false
+published: true
 ---
 _A) Číslo hexu:_
 G7  
