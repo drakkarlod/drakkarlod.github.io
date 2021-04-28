@@ -3,7 +3,7 @@ layout: article
 title: Recenze deskových her
 authors: Petr „ilgir“ Chval
 tags: 'recenze, deskové hry'
-published: false
+published: true
 summary: Recenze dvojice deskových her.
 ---
 V tomto Drakkaru vám přinášíme recenzi na dvojici deskových her.
