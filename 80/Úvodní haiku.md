@@ -4,7 +4,8 @@ title: Úvodní haiku
 authors: boubaque
 tags: haiku
 published: true
+summary: Úvodní haiku
 ---
-> S kapkou nektaru<br />
-> pospíchají naplnit<br />
+> S kapkou nektaru
+> pospíchají naplnit
 > šestiúhelník.
