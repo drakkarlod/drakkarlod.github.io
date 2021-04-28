@@ -10,7 +10,7 @@ V tomto Drakkaru vám přinášíme recenzi na dvojici deskových her.
 
 ------------------
 
-### Res Arcana 
+## Res Arcana 
 
 > _Autor:_ Tom Lehmann<br>
 > _Rok vydání:_ 2019 <br>
@@ -37,7 +37,7 @@ Profesionální gamedesign je korunován profesionálním provedením. Obrázky 
 Přestože se jedná o karetní hru, je faktor náhody nepříliš podstatný. V balíčku, se kterým hrajete, je poměrně malý počet karet (artefaktů). Takže v průběhu hry máte možnost, pokud využijete příslušné mechaniky, dostat do hry jakoukoli z nich. Pro ty, kdo chtějí omezit náhodu i v počátečním rozdělení balíčků, je k dispozici varianta draft. Celkově malý počet karet zároveň znamená, že po odehrání několika (desítek) partií už se hra stává repetitivní. Dá se tedy očekávat, že rozšíření `Res Arcana` budou stejně úspěšná, jako hra samotná, a že jich bude hodně... 
 
 
-#### Shrnutí
+### Shrnutí
 
 > _Plusy:_ Krásné a funkční provedení, možnost interakce, skvěle vyladěný systém, napínavá gradace 
 
@@ -47,7 +47,7 @@ Přestože se jedná o karetní hru, je faktor náhody nepříliš podstatný. V
 
 ------------------------
 
-### Praga Caput Regni 
+## Praga Caput Regni 
 
 > _Autor:_ Vladimír Suchý <br>
 > _Rok vydání:_ 2020 <br>
@@ -70,7 +70,7 @@ Hra je pozoruhodně vyvážená a nutí vás do provádění všech typů dostup
 Grafické zpracování musím pochválit. Přestože na začátku se může zdát příliš nepřehledné, rychle si na ně zvyknete a orientujete se bez problémů. Autoři vsadili možná trochu odvážně na styl napodobující středověké ilustrace, a výsledek je podle mě velice zdařilý. Rozložená hra se všemi komponenty se dá s nadsázkou označit za umělecké dílo. Esteticky založení hráči, stejně jako milovníci středověké Prahy, si můžou k hodnocení přidat 20&nbsp;%. 
 
 
-#### Shrnutí
+### Shrnutí
 
 >_Plusy:_ Velkolepé (nejen) grafické zpracování 
 
