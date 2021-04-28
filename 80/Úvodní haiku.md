@@ -3,7 +3,7 @@ layout: article
 title: Úvodní haiku
 authors: boubaque
 tags: haiku
-published: false
+published: true
 ---
 > S kapkou nektaru<br />
 > pospíchají naplnit<br />
