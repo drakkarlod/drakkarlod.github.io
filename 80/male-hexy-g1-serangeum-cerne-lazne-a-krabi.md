@@ -24,7 +24,7 @@ Serangeum je trpasličí lázeňské město vytesané do okolních skal. Je vyhl
 &emsp;Trpaslíci zde sice nejsou moc početní, ale jsou velmi vzdělaní, oddaní požitkáři, kteří si složitě zaplétají vousy i vlasy a používají make-up. Svá opálená těla zdobí drahými šperky, nosí lehké (většinou bílé a vždy dokonale čisté) oblečení a nenosí boty. To vše je v očích ostatních trpaslíků dělá dosti zženštilé, čemuž ani nepomáhá to, že vůdkyní města je vědma Manta Tiresia.<br>
 &emsp;Zdejší trpaslicí jsou taktéž dokonalými perfuméry a říká se, že čich jejich mistrů Vůně je lepší než jaký mají královští lovečtí ohaři.  
   
-### E) Zápletky:_  
+### E) Zápletky
 - Po vyhoření lesíku na hexu G-6 přišli lávový krabi o svůj největší lovný revír a tak stovky dětí WainuKiwy hledá obživu jinde. Oblíbená pochoutka Serangeuských trpaslíků se nyní stává velkým problémem a už se jim podařilo ulovit pár jejich otroků i hostů. Trpaslíci výrazně navýšili cenu za kterou vykupují mrtvé lávové kraby, aby motivovali lidi k jejich odchytu.  
   
 - Serangeuští trpaslíci nejsou úplně nadšení ze zvýšené aktivity gobliních kmenů v hexu G-2, ale jsou moc malý na to, aby proti nim vstoupili do otevřené války. Proto se tajně snaží zásobovat jejich otroky zbraněmi a motivací ke vzpouře. Co ale netuší je to, že jejich otroci (často pocházející ze stejných kmenů jako skřetí otroci) si všímají této aktivity a sice se mají výrazně lépe než skřetí otroci, ale i je láká představa svobody. Možná se to celé zvrtne v dvojitou vzpouru/revoluci.  
