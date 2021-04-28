@@ -7,8 +7,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex A4'
 published: true
 ---
-![A4 - Lužní les]({{site.baseurl}}/80/A4 luzni les.jpg) 
-
 ### A) Číslo hexu: A4  
   
 ### B) Převládající krajina hexu
@@ -21,6 +19,8 @@ published: true
 - Obrovský lišejníkem porostlý obelisk  
   
 ### D) Popis hexu  
+
+![A4 - Lužní les]({{site.baseurl}}/80/A4 luzni les.jpg)
 
 Skrz lužní les (vrby, olše, topoly) a stovky říčních ostrůvků vede bezpečná cesta k trpasličím lázním. Dřevěné mostky a lávky jsou udržované a cesta je dobře značená, i když je klikatější a delší, než by být mohla, veliké dravé chobotnice a lávoví krabi se na cestu neodvažují. Cestu totiž chrání, udržují a značí vodní goblini, inteligentní nízké bytosti, které skvěle plavou, skáčou i šplhají, ale především jsou velmi plaché. Za průchod jejich územím je však třeba zaplatit -- především jídlem, ale nepohrdnou žabím slizem nebo obsidiánem, které se kladou na kamenné stolce na každé straně řeky. Pokud se goblinům nabízené zboží nelíbí nebo je ho málo, značky na cestě se ztratí či zamotají, mostky zpráchniví nebo úplně zmizí a nikdo neodhání predátory.  
   
