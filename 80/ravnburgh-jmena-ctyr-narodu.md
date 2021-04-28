@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Jména čtyř národů '
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace'
-published: false
+published: true
 summary: >-
   Příklady jmen, která používají příslušníci čtyř hlavních národů světa
   Ravnburghu.
