@@ -1,13 +1,13 @@
 ---
 layout: article
 title: Arthúd N´Thien
-authors: Peter Skenderax
-tags: 'dobrodružství, další štítek'
+authors: Skenderax
+tags: 'dobrodružství, materiály a doplňky'
 published: true
 summary: Dobrodružství připravené jako součást cestování hrdinů nebo širší kampaně.
 ---
 
-## Arthúd N´Thien alebo každý dobrý skutok, bude po správnosti potrestaný 
+## Arthúd N´Thien alebo každý dobrý skutok bude po správnosti potrestaný 
 
 ### Úvod 
 
@@ -15,7 +15,7 @@ Dobrodružstvo je vymyslené ako súčasť cestovania hrdinov alebo širšej kam
 
 Arthúd N´Thien je synom panovníka menšieho kráľovstva Fey, ktorý unikol do nášho sveta pred svojimi povinnosťami - svadbou s nejakou neznámou prastarou bytosťou. Je menšej, chatrnejšej postavy. Vyzerá ako priemerný desaťročný chlapec. I keď je duševne vyvinutý približne ako desať - dvanásťročný, je zodpovedný, ochotný, verný, naivný a nerozhodný. I keď to nie je na prvý pohľad vidieť, je nezmerne silný a odnesie, vyzdvihne, utiahne toľko, ako tucet silákov ak to dokáže rozumne chytiť. Je tiež nesmrteľný a veľmi odolný voči mágii v nášho sveta. Je mu možné spôsobiť bolesť i smrteľné zranenie. Ale miesto toho, aby padol na zem a nevstal, zmizne a objaví sa niekde opodiaľ. Arthúd, ktorý si nie je vedomí svojej sily, má i jednu zlú stránku, skôr prekliatie svojho otca, prekliatie Fey. Prináša smolu. Ak sa pri niekom bude zdržovať, bude mať dotyčný postihy na všetky hody (celá družina). Ešte horšie na tom je, že ak sa k nemu nebudú správať „dobre", budú ho biť, urážať a podobne, postihy sa budú zväčšovať. 
 
-### Scéna 1\. Zoznámenie 
+### Scéna 1: Zoznámenie 
 
 _Účel scény:_ Pripútanie Arthúda N´Thiena k družine prísahou. 
 
