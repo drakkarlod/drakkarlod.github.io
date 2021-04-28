@@ -8,8 +8,6 @@ published: true
 title: Úvodní haiku
 ---
 
-> S kapkou nektaru
->
-> pospíchají naplnit
->
+> S kapkou nektaru<br>
+> pospíchají naplnit<br>
 > šestiúhelník.
