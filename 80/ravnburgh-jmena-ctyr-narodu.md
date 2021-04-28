@@ -36,16 +36,14 @@ Albyn, Alfraye, Ardalle,Ballard, Barnes, Bartelot, Bernewelt, Bownell, Brystowe,
 
 #### Šlechtická jména: 
 
-Šlechtici používají před jménem titul ‚sir' pro muže a ‚lady' pro ženy a za jménem uvádí svůj přesný titul (s číslováním, kolikátý držitel tohoto titulu je). V běžné řeči se pak často oslovení zkracuje jen na titul a křestní jméno (‚sir Thomas') nebo příjmení (‚Eaterby'). 
+Šlechtici používají před jménem titul ‚sir' pro muže a ‚lady' pro ženy a za jménem uvádí svůj přesný titul (s&nbsp;číslováním, kolikátý držitel tohoto titulu je). V běžné řeči se pak často oslovení zkracuje jen na titul a křestní jméno (‚sir Thomas') nebo příjmení (‚Eaterby'). 
 
 #### Příklady jmen: 
 
-_Thomas Eaterby_ 
+> _Thomas Eaterby_<br>
+Kupec Thomas je z kupecké rodiny Easterbyů (známých podél celého pobřeží pro prodej kvalitní medoviny).
 
-Kupec Thomas je z kupecké rodiny Easterbyů (známých podél celého pobřeží pro prodej kvalitní medoviny). 
-
-_lady Philippa Warde, 3\. hraběnka z Whitsfieldu_ 
-
+> _lady Philippa Warde, 3\. hraběnka z Whitsfieldu_<br>
 Phillipa je šlechtična z rodiny Warde a je třetí držitelkou titulu hraběte/hraběnky na Whitsfieldu. 
 
 ---------------------------------------------
@@ -74,16 +72,13 @@ Císařská šlechta používá před jménem jeden z následujících přídomk
 
 #### Příklady jmen: 
 
-_chevaleresse Adélaïde lis Villequier_ 
-
+> _chevaleresse Adélaïde lis Villequier_ <br>
 Rytířka Adélaïde pochází z rodu lis Villequier, sama ale nespravuje žádná léna. 
 
-_chevalier Blaise lis-á-lis Channeau, comté de Channeau et Ivoire_ 
-
+> _chevalier Blaise lis-á-lis Channeau, comté de Channeau et Ivoire_ <br>
 Urozený rytíř z rodu lis Channeau je hrabětem v domovském sídle své rodiny Channeau a také v hrabství Ivoire. 
 
-_chevalier Jehan Castadour_ 
-
+> _chevalier Jehan Castadour_ <br>
 Rytíř Castadour byl sice pasován na rytíře, není ale z urozeného rodu a ani nespravuje žádné léno.  
 
 ---------------------------------------------
@@ -110,12 +105,10 @@ Příjmení šlechticů se vyznačují přítomností předpony **se'** nebo **s
 
 #### Příklady jmen: 
 
-_Onesto Inoffio Tadio_ 
-
+> _Onesto Inoffio Tadio_ <br>
 Onesto z rodiny Tadiů má dvojici křestních jmen (jak je módní ve státech Ligy) -- Onesto a Inoffio. Obě používá zpravidla najednou a jen úzcí přátelé mu říkají jedním z nich.  
 
-_dama Solavita Tullia se'Gritti, baronesa di Feanza_ 
-
+> _dama Solavita Tullia se'Gritti, baronesa di Feanza_ <br>
 Šlechtična Solavita Tullia z rodiny se'Gritti je baronkou ve Feanze. 
 
 ---------------------------------------------
@@ -146,12 +139,10 @@ Nástupnické státy Purpurové říše jsou příliš slabé na udržení půvo
 
 #### Příklady jmen: 
 
-_hypertimos Garidas Lascaris, spatharios kai kentarchos_ 
-
+> _hypertimos Garidas Lascaris, spatharios kai kentarchos_ <br>
 Podle čestného oslovení a absence titulu _archōna_ je jasné, že jde o _patrikia_ , příslušníka jedné z mocných magnátských rodin bývalé říše. Byl-li by zároveň _archōnem_ , jeho čestné oslovení by bylo _dishypertimos_ (‚dvojnásob víc než ctihodný'). Garidas je také _spatharios_ („nositel meče", jeden z tělesných strážců vladaře) a _kentarchos_ (velitel _kentarchie_ , oddílu o 100 mužích). 
 
-_magistrissa Thecla Photia_ 
-
+> _magistrissa Thecla Photia_ <br>
 _Magistrissa/Magistros_ je čestný úřad dvora a jeden z nejvyšších takových úřadů. Ti, kteří jej zastávají, jsou poradci vládce. U císařského dvora bylo zpravidla 12 držitelů titulu, dnešní nástupnické státy jich mají obvykle jen 3-4, což znamená, že _magistrissa_ Photia je vlivná osoba (navzdory tomu, že nepatří mezi _patrikioi_ ). 
 
 ---------------------------------------------
