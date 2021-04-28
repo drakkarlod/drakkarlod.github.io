@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Malé hexy (Kolektivní článek)
-authors: Martin Dvořák
-tags: 'materiály a doplňky, zápis'
+authors: různí autoři
+tags: materiály a doplňky
 series: Malé hexy
 summary: >-
   Kolektivní článek, který měl za cíl vytvořit malé hexy (v průmeru asi 2x2 km)
