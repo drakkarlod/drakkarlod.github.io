@@ -12,15 +12,13 @@ V tomto Drakkaru vám přinášíme recenzi na dvojici deskových her.
 
 ### Res Arcana 
 
-_Autor:_ Tom Lehmann 
-
-_Rok vydání:_ 2019 
-
-_Stručná charakteristika:_ 2-4 hráči, 25-50 minut, eurohra, karetní, fantasy, draft karet, management zdrojů 
-
-![](res-arcana.jpg)
+> _Autor:_ Tom Lehmann<br>
+> _Rok vydání:_ 2019 <br>
+> _Stručná charakteristika:_ 2-4 hráči, 25-50 minut, eurohra, karetní, fantasy, draft karet, management zdrojů 
 
 Tom Lehmann je zkušený autor, který se proslavil především karetní peckou Dobyvatelé vesmíru (Race for the Galaxy), která vyšla v roce 2007, dočkala se několika rozšíření a je hojně hraná dodnes. 
+
+![](res-arcana.jpg)
 
 V kartovce Res Arcana vás zavede do fantasy světa, kde v roli mága soupeříte se svými protivníky o to, kdo jako první dosáhne pomyslného vrcholu moci, reprezentovaného ve hře ziskem 10 vítězných bodů. Jedná se o svižnou strategickou eurohru, takže rozhodně nečekejte hluboký ponor do příběhu. Nepříliš hluboko pod líbivým fantasy hávem se skrývá robustní matematický model. 
 
@@ -41,21 +39,19 @@ Přestože se jedná o karetní hru, je faktor náhody nepříliš podstatný. V
 
 **Shrnutí**
 
-_Plusy:_ Krásné a funkční provedení, možnost interakce, skvěle vyladěný systém, napínavá gradace 
+> _Plusy:_ Krásné a funkční provedení, možnost interakce, skvěle vyladěný systém, napínavá gradace 
 
-_Minusy:_ Slabší atmosféra, po nějaké době repetitivní 
+> _Minusy:_ Slabší atmosféra, po nějaké době repetitivní 
 
-_Celkem:_ 90 % 
+> _Celkem:_ 90 % 
 
 ------------------------
 
 ### Praga Caput Regni 
 
-_Autor:_ Vladimír Suchý 
-
-_Rok vydání:_ 2020 
-
-_Stručná charakteristika:_ 2-4 hráči, 45-90 minut, eurohra, budovatelská, volba akcí, point salad\* 
+> _Autor:_ Vladimír Suchý <br>
+> _Rok vydání:_ 2020 <br>
+> _Stručná charakteristika:_ 2-4 hráči, 45-90 minut, eurohra, budovatelská, volba akcí, point salad\* 
 
 ![](praga-caput-regni.jpg)
 
@@ -76,10 +72,10 @@ Grafické zpracování musím pochválit. Přestože na začátku se může zdá
 
 **Shrnutí**
 
-_Plusy:_ Velkolepé (nejen) grafické zpracování 
+>_Plusy:_ Velkolepé (nejen) grafické zpracování 
 
-_Minusy:_ Repetitivní navzdory modifikacím, postrádá napětí ve finále, bez interakce 
+>_Minusy:_ Repetitivní navzdory modifikacím, postrádá napětí ve finále, bez interakce 
 
-_Celkem:_ 50 % 
+> _Celkem:_ 50 % 
 
-_\*Point salad: Herní princip, v jehož rámci hráči získávají vítězné body za rozmanité akce, obvykle po troškách a v průběhu celé herní partie._
+\* _Point salad: Herní princip, v jehož rámci hráči získávají vítězné body za rozmanité akce, obvykle po troškách a v průběhu celé herní partie._
