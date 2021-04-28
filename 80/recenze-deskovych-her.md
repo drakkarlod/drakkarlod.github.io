@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Recenze deskových her
+title: 'Recenze deskových her: Res Arcana a Praga Caput Regni'
 authors: Petr „ilgir“ Chval
 tags: 'recenze, deskové hry'
 published: true
