@@ -5,7 +5,7 @@ authors: alladjex
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B6'
-published: false
+published: true
 ---
 _A) Číslo hexu:_
 B6  
