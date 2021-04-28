@@ -5,7 +5,7 @@ authors: Antharon
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B5'
-published: false
+published: true
 ---
 _A) Číslo hexu:_
 B5  
