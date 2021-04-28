@@ -5,7 +5,7 @@ authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex G2'
-published: false
+published: true
 ---
 ![volcano-lava-steam-cloud.jpg]({{site.baseurl}}/80/volcano-lava-steam-cloud.jpg)
 
