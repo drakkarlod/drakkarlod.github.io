@@ -21,10 +21,9 @@ Autoři měli za úkol je zaplnit zajímavým obsahem. Máme malé hexy z větš
 
 Struktura, podle které autoři psali:
 
-A) Číslo hexu
+#### A) Číslo hexu
 
-
-B) Převládající krajina hexu
+#### B) Převládající krajina hexu
 - Hory
 - Kopce
 - Skály a útesy
@@ -34,7 +33,7 @@ B) Převládající krajina hexu
 - Bažiny
 - Ostrov
 
-C) Obsah hexu (jeden nebo dva nejdůležitější body v hexu)
+#### C) Obsah hexu (jeden nebo dva nejdůležitější body v hexu)
 - vesnice
 - druidský kruh
 - čarodějova věž
@@ -43,6 +42,6 @@ C) Obsah hexu (jeden nebo dva nejdůležitější body v hexu)
 - jeskyně, kde sídlí obří netopýři
 - …
 
-D) Popis hexu (maximálně odstavec až dva)
+#### D) Popis hexu (maximálně odstavec až dva)
 
-E) Zápletky (nejméně 2-3 nápady na zápletky/bangy, které se k hexu vztahují)
+#### E) Zápletky (nejméně 2-3 nápady na zápletky/bangy, které se k hexu vztahují)
