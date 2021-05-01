@@ -1,9 +1,10 @@
 ---
 layout: article
 title: Dobývacie stroje pre DrD II
-authors: Ján „Crowen“ Rosa
-tags: doplňky, Dračí doupě 2
-summary: V tomto článku popíšem niekoľko bojových strojov a ako ich môžete využiť vo vašej hre. Tak isto v stručnosti naznačím niekoľko najpoužívanejších typov opevnení, proti ktorým sa bojové stroje používajú.
+authors: Crowen
+tags: 'doplňky, Dračí doupě 2'
+summary: "V tomto článku popíšem niekoľko bojových strojov a ako ich môžete využiť vo vašej hre. Tak isto v\_stručnosti naznačím niekoľko najpoužívanejších typov opevnení, proti ktorým sa bojové stroje používajú."
+published: true
 ---
 
 ## Bojové stroje
