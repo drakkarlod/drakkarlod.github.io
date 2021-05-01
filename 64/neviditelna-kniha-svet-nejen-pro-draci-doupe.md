@@ -1,9 +1,10 @@
 ---
 layout: article
-title: "Neviditelná kniha: Svět nejen pro Dračí doupě"
-authors: Martina „Sparkle“ Magdová
+title: "Neviditelná\_kniha: Svět nejen pro\_Dračí doupě"
+authors: Sparkle
 tags: promo
-summary: Cesty do záhuby dlážděné čistými úmysly. Jiskry naděje tam, kde byste je nejméně čekali. Protivníci, kteří jsou vám podobnější, než byste byli rádi. Obtížná rozhodnutí. Morální dilemata. Intriky a emoce. Tragédie a triumfy.		 Vítejte v Taurilu.
+summary: "Cesty do záhuby dlážděné čistými úmysly. Jiskry naděje tam, kde byste je nejméně čekali. Protivníci, kteří jsou vám podobnější, než byste byli rádi. Obtížná rozhodnutí. Morální dilemata. Intriky a\_emoce. Tragédie a triumfy.\t\t Vítejte v\_Taurilu."
+published: true
 ---
 
 ## Co je Neviditelná kniha?
