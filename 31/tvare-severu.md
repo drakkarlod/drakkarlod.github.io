@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Tváre severu'
-authors: 'Ján „crowen“ Rosa'
+title: Tváre severu
+authors: Crowen
 tags: 'Dračí doupě 2, tvorba postav, Sever, doplňky, materiály'
+published: true
 ---
 
 Našli ste si partiu kamarátov, s ktorými si chcete zahrať Dračí Doupě II,
