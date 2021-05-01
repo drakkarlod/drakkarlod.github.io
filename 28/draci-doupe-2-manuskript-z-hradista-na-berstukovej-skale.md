@@ -1,8 +1,9 @@
 ---
 layout: article
 title: 'Dračí doupě 2: Manuskript z hradišťa na Berstukovej skale'
-authors: 'Ján „crowen“ Rosa'
+authors: Crowen
 tags: 'Dračí doupě 2, doplňky, materiály, znamení'
+published: true
 ---
 
 Rozšírenie povolania Vedmák v podobe
