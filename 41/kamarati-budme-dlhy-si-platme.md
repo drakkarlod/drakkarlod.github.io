@@ -1,9 +1,15 @@
 ---
 layout: article
-title: Kamaráti buďme, dlhy si plaťme!
-authors: Ján „Crowen“ Rosa
+title: 'Kamaráti buďme, dlhy si plaťme!'
+authors: Crowen
 tags: o hraní obecně
-summary: Ako napovedá podtitul článku, na nasledujúcich riadkoch nájdete popísanú relatívne jednoduchú metódu, ako do vašej hry uviesť postavu, ktorá má nejaké spojenie s herným svetom, a nie je len ďalšou tajomnou sirotou. Popri tom zároveň obohatíte herný svet,  a dáte vašemu Pánovi hry niekoľko tipov, akým smerom by ste asi chceli, aby sa hra uberala. 
+summary: >-
+  Ako napovedá podtitul článku, na nasledujúcich riadkoch nájdete popísanú
+  relatívne jednoduchú metódu, ako do vašej hry uviesť postavu, ktorá má nejaké
+  spojenie s herným svetom, a nie je len ďalšou tajomnou sirotou. Popri tom
+  zároveň obohatíte herný svet,  a dáte vašemu Pánovi hry niekoľko tipov, akým
+  smerom by ste asi chceli, aby sa hra uberala.
+published: true
 ---
 
 > alebo Ako do vašej hry uviesť postavu tak, aby to nebola ďalšia sirota z inej planéty.
