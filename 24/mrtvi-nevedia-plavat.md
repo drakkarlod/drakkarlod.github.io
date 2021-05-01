@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Mŕtvi nevedia plávať'
-authors: 'Ján „crowen“ Rosa'
+title: Mŕtvi nevedia plávať
+authors: Crowen
 tags: 'zombie, postapo'
+published: true
 ---
 
 Súhrn nápadov a materiálov pre postapokalyptický
