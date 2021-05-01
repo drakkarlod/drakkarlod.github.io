@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Odvaha, vítězství a porážka ve Středozemi
-authors: Jonáš Ferenc
+title: 'Odvaha, vítězství a porážka ve Středozemi'
+authors: Ecthelion²
 tags: herní světy
-summary: J. R. R. Tolkien bojoval v první světové válce a ztratil během ní až na jednoho všechny blízké přátele. Přesto vytvořil dílo, které je prodchnuté tématy odvahy, války a překonání strachu, v němž odvážní muži a ženy riskují své životy v boji za své ideály. Jak tedy na ně nahlížel a jak se tyto témata projevují v jeho knihách?
+summary: "J. R. R. Tolkien bojoval v\_první světové válce a ztratil během ní až na jednoho všechny blízké přátele. Přesto vytvořil dílo, které je prodchnuté tématy odvahy, války a překonání strachu, v\_němž odvážní muži a ženy riskují své životy v\_boji za své ideály. Jak tedy na ně nahlížel a jak se tyto témata projevují v\_jeho knihách?"
+published: true
 ---
 
 Před rokem jsme začali připravovat hru ze Středozemě a to mě donutilo, abych si přečetl znovu všechny knihy a zamyslel se nad tématy, které se v Tolkienově díle nacházejí, abych se pokusil vystavět svět a příběh s podobnou atmosférou. Stálým a výrazným tématem, jež se v knihách o Středozemi objevuje a na které jsem narážel znovu a znovu, je „odvaha tváří v tvář neodvratné porážce“. Hrdinové nemají šanci uspět nebo je jejich naděje naprosto mizivá.
@@ -30,7 +31,7 @@ Tváří v tvář této porážce ale projeví hrdinové odvahu a postaví se o
 
 ![](tolkien-1916-opt.jpg)
 
-Tom Shippey (autor životopisu o J. R. R. Tolkienovi) zahájil jednou přednášku, ve které řešil právě toto téma odvahy a porážky, zpěvem hymny školy krále Edwarda (kterou on i Tolkien jako děti navštěvovali), kde vyzdvihl slova: „Mnohokrát vítězství je velkolepé! Vítězství stále může být zahanbující.“ Tato slova možná nejlépe vystihují Tolkienovu filozofii, která se promítá v jeho dílech. Tolkien totiž věřil, že „vítězství a porážka nemají co dělat s tím, co je správné a co špatné“ (Tom Shippey: _J. R. R. Tolkien_, str. 150). Hrdinové ze starých dob ví, že stojí na správné straně, a i když nezvítězí, bojují za správnou věc. Ilustruje to pak pěkně i velmi důležitá věta „už i dávných věků / hrdinové pod nebem / vytrvali a bojovali až do konce“ (J. R. R.Tolkien: _Beowulf; nestvůry a kritikové_).
+Tom Shippey (autor životopisu o J. R. R. Tolkienovi) zahájil jednou přednášku, ve které řešil právě toto téma odvahy a porážky, zpěvem hymny školy krále Edwarda (kterou on i Tolkien jako děti navštěvovali), kde vyzdvihl slova: „Mnohokrát porážka je velkolepá! Vítězství stále může být zahanbující.“ Tato slova možná nejlépe vystihují Tolkienovu filozofii, která se promítá v jeho dílech. Tolkien totiž věřil, že „vítězství a porážka nemají co dělat s tím, co je správné a co špatné“ (Tom Shippey: _J. R. R. Tolkien_, str. 150). Hrdinové ze starých dob ví, že stojí na správné straně, a i když nezvítězí, bojují za správnou věc. Ilustruje to pak pěkně i velmi důležitá věta „už i dávných věků / hrdinové pod nebem / vytrvali a bojovali až do konce“ (J. R. R.Tolkien: _Beowulf; nestvůry a kritikové_).
 
 Člověk z těchto vět cítí význam, jaký Tolkien přikládal cti a odvaze. Je v nich obsažena povinnost, která oněm dávným mužům bránila odejít a vzdát se, i když se věc nevyvíjela dobře. _Vytrvání_ je zde chápáno jako největší ctnost. Nejde o to se vrhnout se do beznadějného útoku. To je jistě odvaha, ale často je silně podpořena tím, že takový muž nedokáže příliš odhadnout, co ho čeká. Ale když už to ví, protože v tom boji dostává rány a je to stále horší, tam se teprve objevuje hrdinství. Hrdina je ten, kdo vytrvá až do konce, ať už je jakýkoli. Hrdina je ten, kdo ví, jak špatné to bude, a přesto jde.
 
