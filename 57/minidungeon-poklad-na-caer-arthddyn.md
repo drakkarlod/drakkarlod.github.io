@@ -1,9 +1,10 @@
 ---
 layout: article
-title: "Minidungeon: Poklad na Caer Arthddyn"
-authors: Ján „Crowen“ Rosa
+title: 'Minidungeon: Poklad na Caer Arthddyn'
+authors: Crowen
 tags: 'doplňky a materiály, minidungeon'
 series: Minidungeony
+published: true
 ---
 
 ## Legenda o Caer Arthddyn
