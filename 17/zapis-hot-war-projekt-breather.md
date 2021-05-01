@@ -1,8 +1,9 @@
 ---
 layout: article
 title: 'Zápis: Hot War: Projekt Breather'
-authors: 'Ján „crowen“ Rosa'
+authors: Crowen
 tags: 'zápis z hry, Hot War'
+published: true
 ---
 
 Toto je zápis z hry Hot War, ktorú som odohral na Gaelcone v Dubline
