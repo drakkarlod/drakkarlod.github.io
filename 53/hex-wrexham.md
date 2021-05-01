@@ -1,9 +1,10 @@
 ---
 layout: article
 title: 'Hex: Wrexham'
-authors: 'Ján „Crowen“ Rosa'
-tags: 'doplňky a materiály'
+authors: Crowen
+tags: doplňky a materiály
 series: Hexy
+published: true
 ---
 
 ## Rieka Alyn
