@@ -1,9 +1,17 @@
 ---
 layout: article
 title: Ako píšem experi­mentálne hry do RPG Kuchyne
-authors: Ján „Crowen“ Rosa
+authors: Crowen
 tags: gamedesign
-summary: Často dostávam otázky, ako píšem hry do RPG Kuchyne, a ako je možné, že za taký krátky čas (dva týždne, tri víkendy) zvyčajne stihnem napísať také dlhé texty. Namiesto čiastkových odpovedí jednotlivcom som sa rozhodol spísať moje skúsenosti a postup, ako k tvorbe pristupujem. Zatiaľ som sa zúťastnil všetkých deviatich ročníkov RPG Kuchyne, a môj prístup k písaniu sa od živelného prepracoval k relatívne štruktúrovanému, čo značne pomáha, hlavne pri nedostatku času.
+summary: >-
+  Často dostávam otázky, ako píšem hry do RPG Kuchyne, a ako je možné, že za
+  taký krátky čas (dva týždne, tri víkendy) zvyčajne stihnem napísať také dlhé
+  texty. Namiesto čiastkových odpovedí jednotlivcom som sa rozhodol spísať moje
+  skúsenosti a postup, ako k tvorbe pristupujem. Zatiaľ som sa zúťastnil
+  všetkých deviatich ročníkov RPG Kuchyne, a môj prístup k písaniu sa od
+  živelného prepracoval k relatívne štruktúrovanému, čo značne pomáha, hlavne
+  pri nedostatku času.
+published: true
 ---
 
 ## Technológie
