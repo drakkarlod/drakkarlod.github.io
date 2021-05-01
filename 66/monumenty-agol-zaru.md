@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Monumenty Agol Zaru
-authors: Fulius Karajos, Vojtěch Přibyl, Martina magdová
+title: "Monumenty Agol\_Zaru"
+authors: 'Fulius Karajos, Vojtěch Přibyl, Sparkle'
 tags: doplňky a materiály
-summary: Tato tabulka popisuje zajímavé monumenty v ze­mi Agol Zar ze světa Neviditelné knihy. Půjdou však snadno převzít i do jiných fantasy krajin.
+summary: "Tato tabulka popisuje zajímavé monumenty v\_ze­mi Agol Zar ze světa Neviditelné knihy. Půjdou však snadno převzít i do jiných fantasy krajin."
+published: true
 ---
 
 Pokud chcete monument, který se ve vaší hře objeví, losovat náhodně, hoďte nejdříve k6 kostkou pro určení sudá–lichá a pak ještě jednou pro určení čísla 1 až 6. Můžete házet najednou dvojicí různě barevných kostek, kde jedna barva určuje paritu čísla (sudá–lichá) a druhá číslo v tabulce.
