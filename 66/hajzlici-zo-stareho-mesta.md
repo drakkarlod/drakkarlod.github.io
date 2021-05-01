@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Hajzlíci zo Starého Mesta
-authors: Ján „Crowen“ Rosa
+title: "Hajzlíci zo\_Starého\_Mesta"
+authors: Crowen
 tags: doplňky a materiály
-summary: Hajzlíci zo Starého Mesta je doplnok pre Príbehy Impéria. Popisuje prostredie detských gangov v Starom Meste viktoriánskeho Edinburgu a bol inšpirovaný článkom o detských kriminálnikoch z viktoriánskeho obdobia.
+summary: "Hajzlíci zo Starého Mesta je doplnok pre Príbehy Impéria. Popisuje prostredie detských gangov v\_Starom Meste viktoriánskeho Edinburgu a bol inšpirovaný článkom o detských kriminálnikoch z\_viktoriánskeho obdobia."
+published: true
 ---
 
 ## Edinburgh, 1867
