@@ -1,9 +1,10 @@
 ---
 layout: article
 title: Fiasco – príručka otvoreného hrania
-authors: Michal „morech“ Viskup
+authors: Michal „Morech“ Viskup
 tags: recenze
-summary: Zdalo by sa, že o Fiascu už som povedal všetko, čo šlo. Niekedy to vyzerá, že ľudí nekonečnným rozprávaním o ňom nudím. Je to ale hra, ktorá ponúka úplne iný zážitok než ostatné systémy a nováčikovia na otvorených hraniach odchádzajú do posledného nadšení. Čím to je? A ako môžme z hry vytrieskať úplné maximum?
+summary: "Zdalo by sa, že o\_Fiascu už som povedal všetko, čo šlo.\_Niekedy to vyzerá, že ľudí nekonečnným rozprávaním o\_ňom nudím. Je to ale hra, ktorá ponúka úplne iný zážitok než ostatné systémy a\_nováčikovia na otvorených hraniach odchádzajú do posledného nadšení. Čím to je? A\_ako môžme z\_hry vytrieskať úplné maximum?"
+published: true
 ---
 
 ## Prečo by ma malo zaujímať?
