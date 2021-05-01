@@ -1,9 +1,10 @@
 ---
 layout: article
 title: Údolie vrán
-authors: Ján „Crowen“ Rosa
+authors: Crowen
 tags: inspirace
-summary: Tento článok je určený pre Rozprávačov, GM, DM alebo kohokoľvek, kto vedie a pripravuje hry. Popíšem tu postup, ako si ľahko mozete vytvoriť herné pomôcky s popisom rôznych lokácií do vašej hry tak, aby sa dali viacnásobne použiť. Vzhľadom na čas, ktorý s ich tvorbou strávite, sa viacej hodia do dlhodobej kampane, ale pri určitom zjednodušení sa dajú použiť aj pri kratších alebo jednorázových hrách. Ako príklad použijem Údolie vrán, ktoré sa nachádza vo Vysočine (prostredie pre Dračí Doupě II, o ktorom sa viac dočítate v predchádzajúcich číslach Drakkaru).
+summary: "Tento článok je určený pre Rozprávačov, GM, DM alebo kohokoľvek, kto vedie a pripravuje hry. Popíšem tu postup, ako si ľahko mozete vytvoriť herné pomôcky s popisom rôznych lokácií do vašej hry tak, aby sa dali viacnásobne použiť. Vzhľadom na čas, ktorý s ich tvorbou strávite, sa viacej hodia do dlhodobej kampane, ale pri určitom zjednodušení sa dajú použiť aj pri kratších alebo jednorázových hrách. Ako príklad použijem Údolie vrán, ktoré sa nachádza vo Vysočine (prostredie pre Dračí Doupě II, o ktorom sa viac dočítate v\_predchádzajúcich číslach Drakkaru)."
+published: true
 ---
 
 ## Tvorba hernej lokácie
