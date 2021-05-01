@@ -1,8 +1,9 @@
 ---
 layout: article
 title: 'Dobrodružstvo: Železo pre čiernu ruku'
-authors: 'Ján „crowen“ Rosa'
+authors: Crowen
 tags: 'Dračí doupě 2, dobrodružství, fantasy'
+published: true
 ---
 
 Železo pre Čiernu Ruku je fantasy dobrodružstvo
