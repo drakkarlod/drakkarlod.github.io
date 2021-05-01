@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Nástrahy Severu'
-authors: 'Ján „crowen“ Rosa'
+title: Nástrahy Severu
+authors: Crowen
 tags: 'Sever, cestování, postavy, inspirace'
+published: true
 ---
 
 Nástrahy Severu je článok o nástrahách
