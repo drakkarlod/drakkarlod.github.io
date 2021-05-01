@@ -1,9 +1,10 @@
 ---
 layout: article
 title: Mercijská Kráľovská Služba
-authors: Ján „Crowen“ Rosa
+authors: Crowen
 tags: doplňky
-summary: V dnešnom článku, ďalšom zo série o Vysočine, hernom prostredí pre Dračí Doupě II, nájdete vzorovú organizáciu z Mercijského kráľovstva, ktoré sa nachádza ďaleko na juh od Vysočiny. Mercijská Kráľovská Služba bola prvý krát spomenutá v článku Vetrnætr u Železného orla v Drakkare č. 33, na nasledujúcich článkoch o nej nádete viac informácií.
+summary: "V dnešnom článku, ďalšom zo série o Vysočine, hernom prostredí pre Dračí Doupě II, nájdete vzorovú organizáciu z Mercijského kráľovstva, ktoré sa nachádza ďaleko na juh od Vysočiny. Mercijská Kráľovská Služba bola prvý krát spomenutá v článku Vetrnætr u Železného orla v Drakkare č.\_33, na nasledujúcich článkoch o nej nádete viac informácií."
+published: true
 ---
 
 ## Mercijská Kráľovská Služba
