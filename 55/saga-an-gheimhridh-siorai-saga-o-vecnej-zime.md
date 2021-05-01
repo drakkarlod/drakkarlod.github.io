@@ -1,9 +1,13 @@
 ---
 layout: article
-title: Saga an Gheimhridh Síoraí [Sága o Večnej Zime]
-authors: Ján „Crowen“ Rosa
+title: 'Saga an Gheimhridh Síoraí [Sága o Večnej Zime]'
+authors: Crowen
 tags: materiály a doplňky
-summary: Tento mikro-setting pre Fate Rozcestí pôvodne vznikol v anglickej verzii ako 200slovný setting v rámci 200 Word RPG Challenge. Pre potreby Drakkaru som ho mierne upravil a rozšíril.
+summary: >-
+  Tento mikro-setting pre Fate Rozcestí pôvodne vznikol v anglickej verzii ako
+  200slovný setting v rámci 200 Word RPG Challenge. Pre potreby Drakkaru som ho
+  mierne upravil a rozšíril.
+published: true
 ---
 
 Zimní démoni, Ľadová čarodejnica Cailleach, a jej šampión, Ľadový obor Bláinn, prišli do krajiny Aes Sídhe, elfov, a zahalili ju Večnou zimou. Áine, bohyňa leta, vyslyšala prosby elfov, a vysla svoje dcéry, letné víly, aby zimných démonov vyhnali. Každá víla dostala dva dary.
