@@ -1,8 +1,9 @@
 ---
 layout: article
 title: 'Vesmírni korzári: 2441'
-authors: 'Ján „crowen“ Rosa'
+authors: Crowen
 tags: 'upoutávka, herní doplňky, Fate, Fate Rozcestí'
+published: true
 ---
 
 Vesmírni Korzári je pripravovaný doplnok
