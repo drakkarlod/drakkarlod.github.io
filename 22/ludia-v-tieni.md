@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Ľudia v tieni'
-authors: 'Ján „crowen“ Rosa'
+title: Ľudia v tieni
+authors: Crowen
 tags: 'doplňky, materiály, NPC, postavy'
+published: true
 ---
 
 Témou tohto čísla Drakkaru sú pochmúrne
