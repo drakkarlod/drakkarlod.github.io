@@ -1,7 +1,7 @@
 ---
 Title: Jarošova šlamastika
 layout: article
-authors: Ján „Crowen“ Rosa
+authors: Crowen
 tags: 'literatura, povídka'
 published: true
 title: Jarošova šlamastika
