@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Špeciálne jednotky'
-authors: 'Ján „crowen“ Rosa'
+title: Špeciálne jednotky
+authors: Crowen
 tags: 'speciální jednotky, commandos'
+published: true
 ---
 
 V dnešnom článku sa budem venovať
