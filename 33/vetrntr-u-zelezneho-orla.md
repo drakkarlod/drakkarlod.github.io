@@ -1,8 +1,9 @@
 ---
 layout: article
-title: 'Vetrnætr u Železného orla'
-authors: 'Ján „crowen“ Rosa'
+title: Vetrnætr u Železného orla
+authors: Crowen
 tags: 'Dračí doupě 2, doplňky, materiály, svět'
+published: true
 ---
 
 Toto je ďalší článok zo série o Vysočine, prostredia
