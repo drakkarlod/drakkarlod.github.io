@@ -168,7 +168,7 @@ Markovi bylo ovšem rázem jasné, že Gordon Howitt je přesně ten typ hráče
 
 Nad dalším tahem přemýšlel Marek půl hodiny. Víc se neodvážil; věděl, že čas bude zoufale potřebovat. Po té půlhodině nakonec Marek nevymyslel nic lepšího než svoje slabší hrozby všechny splnit. A na šachovnici se objevila hodně napínavá série tahů
 
-5\. Jxf7 Sxf2+ 6. Kxf2 Jxe4+ 7. Ke3 Dd7
+5\. Jxf7 Sxf2+ 6. Kxf2 Jxe4+ 7. Ke3 De7
 
 Marek měl v té chvíli střelce navíc, mohl si vzít zadarmo ještě věž, ale jeho král byl v sedmém tahu málem uprostřed šachovnice. Léčka v zahájení a mat někde ve dvanáctém tahu, na který se bude v Brně ještě dlouho vzpomínat. Přesně to, co nechtěl. A tak ho nějak uklidnilo, že černý to zjevně nemá přesně spočítané až do konce, protože dámu přece jen zachraňoval a neobětoval ji.
 
