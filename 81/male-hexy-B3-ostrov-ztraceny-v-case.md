@@ -47,6 +47,5 @@ Náhodné změny epoch nemá vliv na cestovatele zvenčí – ti vždycky zůst�
 
 ### E) Zápletky
 
-- Roztržitý alchymista před nedávnem omylem vyhodil klíčovou část svého projektu na skládku. Podaří se najatým dobrodruhům dostat až k Čertově skále, či dokonce odnést hledaný kousek zpátky?
-- Lesní goblini by rádi vyčistili les od skládky i trolla, který jim v tom zatím úspěšně brání. Zaujmou je dobrodruhové něčím natolik, aby se s nimi pokusili domluvit?
-- Troll by rád zvýšil své tržby, ale brání mu v tom goblini rozlezlí v lese. Budou dobrodruhové ochotní je pobít nebo vyhnat, když jim troll nabídne část svého pokladu?
+- **Mnichové času:** Magickou se nehodou dostali do _Pravěku_, kde Chrám ještě nestojí, a teď se nemohou vrátit. Jejich stroj bez údržby náhodně pohazuje ostrovem sem a tam. Pokud se postavy rozhodnou pomoci, předají jim seznam věcí, které potřebují přivézt z různých časů a částí ostrova a naučí je stroj ovládat, aby je mohly získat.
+- **Předmět z budoucnosti:** Vůdci pobřežní osady se do rukou nedopatřením dostala zbraň z budoucnosti. Díky ní před ostatními obyvateli předstírá, že je nadaný mimořádnou magickou mocí a drží tak silou své postavení. Možná i tuší, co se ve skutečnosti děje, ale status quo mu vyhovuje a nechce, aby se mniši vrátili a o zbraň (a moc z ní pramenící) ho připravili.
