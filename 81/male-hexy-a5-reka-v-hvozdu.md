@@ -20,7 +20,7 @@ Kelpie se tu ráda jako klisna prohání po hladině nebo v lidské podobě slun
 ### D) Popis hexu
 
 Tento úsek řeky si oblíbila kelpie, říční nadpřirozená bytost. Objevuje se v podobě nádherného bujné vranky*, která umí běhat po vodě a jejíž hříva je stále mokrá, nebo krásné dívky. Pokud na klisnu někdo nasedne, rozběhne se neskutečnou rychlostí a zmizí v hlubině. Pokud se někdo pokusí dívku obejmout proti její vůli, promění se do své zvířecí podoby, stáhne je hlubin, utopí a pozře. Jen jejich vnitřnosti vyvrhne na břeh.
-> Vranka je ženská forma od vraníka.
+>Vranka je ženská forma od vraníka.
 
 
 Několik mnichů z kláštera a trpaslíků z blízkých lázní se tu ztratilo, a proto se tímhle směrem málokdy vydávají. Nachází se tu ale zúžení a brod, kde se dá řeka překonat, takže sem poutníci občas zavítají.
