@@ -15,7 +15,8 @@ Slatina, rašelinisko
   
 ### C) Obsah hexu
 
-Dom ježibaby, hniezdo baziliška
+- Dom ježibaby
+- Hniezdo baziliška
   
 ### D) Popis hexu
 
