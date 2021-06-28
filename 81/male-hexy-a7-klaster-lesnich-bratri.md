@@ -6,7 +6,6 @@ series: Malé hexy
 summary: 'Malé hexy, hex A7'
 published: true
 ---
-
 ### A) Číslo hexu: A7  
 
 ### B) Převládající krajina hexu
