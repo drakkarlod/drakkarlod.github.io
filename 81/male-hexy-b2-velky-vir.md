@@ -29,4 +29,4 @@ Na skalnatých březích jezera, v korunách mohutných stromů, dění kolem v�
 
 - Obě ze znesvářených stran hledají podporu s protáhnutím/ucpáním víru. Kdo více zaplatí a komu dobrodruhové pomohou?
 - Někdo přijde s nápadem, že by spor o vír mohla rozhodnout lidská oběť. Kde tu ale sehnat člověka? Nebyl by k mání nějaký z dobrodruhů?
-- Mudrc tvrdí, že vír je ve skutečnosti portálem do jiného světa. Najde se někdo tak šílený, kdo by byl ochotný dostat se bez úhony až k víru a pak se podívat "na druhou stranu"?
+- Mudrc tvrdí, že vír je ve skutečnosti portálem do jiného světa. Najde se někdo tak šílený, kdo by byl ochotný dostat se bez úhony až k víru a pak se podívat „na druhou stranu"?
