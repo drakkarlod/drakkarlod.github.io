@@ -11,7 +11,7 @@ published: true
 
 ### B) Převládající krajina hexu
 
-
+Ostrov ztracený v čase
   
 ### C) Obsah hexu
 
