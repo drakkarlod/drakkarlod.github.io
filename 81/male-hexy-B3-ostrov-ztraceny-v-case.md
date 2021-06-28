@@ -21,12 +21,30 @@ published: true
   
 ### D) Popis hexu
 
-Smíšený les se táhne od kláštera (A7) až do těchto končin, dál houstne a střecha korun staletých stromů pouští až k zemi jen málo světla. Četným skalním věžím vévodí široký masiv na západním konci lesa. Vede k němu jen několik úzkých, mechem a kapradím vyšlapaných stezek, které se občas doslova ztrácí před očima.
+Ostrov je obklopený mlhou. Většina jeho břehů jsou strmé a neprostupné skály, jen na jihozápadním břehu je malá zátoka. Uprostřed ostrova pokrytého divočinou je přírodní propast přibližně ve tvaru spirály, do které padají četné vodopády a v jejímž středu (srdci) stojí chrám Mnichů času.
 
-Všechny pěšiny se sbíhají u tak řečené Čertovy skály, pod kterou leží na rozlehlém palouku zapadlá skládka. Vznikla kdysi možná skutečně díky nějakým pletkám s ďáblem a dodnes se rozrostla do netušených rozměrů. Na vcelku uspořádaných hromadách se povaluje často magií nasáklý odpad, který sem tajně sváží kouzelníci, alchymisté a další kutilové ze širokého kraje. Vše, co je příliš nebezpečné k likvidaci doma nebo zakopání na dvorku, končí zde. Skládku střeží lesní troll, který ji považuje za své panství a od příchozích nevybíravě vybírá tučné poplatky za její další rozšiřování. Je to ale v jádru dobrák a případné spory se snaží zažehnat srdceryvnou historkou o tom, jak se mu rozpadl starý most a on tak skončil, bez domova.
+Při příjezdu a následně po každém spánku/odpočinku se náhodným hodem 2d4 určí, v jaké epoše se zrovna ostrov nachází.
+- 2: Pravěk
+- 3: Starověk
+- 4: Ranný středověk
+- 5: Vrcholný středověk
+- 6: Renesance
+- 7: Průmyslová revoluce
+- 8: Doba elektrická
 
-Dostat se až ke skládce a jejímu hlídači ovšem není jen tak. Kolem pěšin se hemží lesní goblini, inteligentní nízké bytosti a vzdálení bratranci vodních goblinů z lužního lesa (A4). Goblini jsou nedůvěřiví a cizincům se snaží jakkoliv zkomplikovat cestu lesem. Hemží se v křoví i větvích stromů jako veverky a pokud u někoho zahlédnou jakýkoliv předmět, který by mohl mířit na skládku, pokusí se vetřelce v lese ztratit navždy.
-  
+Náhodné změny epoch nemá vliv na cestovatele zvenčí – ti vždycky zůstávají sami sebou. Také nedokáží přenést **Mnichy času** – ti vždycky musí cestovat v chrámu + změnám nepodléhá **Předmět z budoucnosti** (viz zápletky). Všechny ostatní části ostrova proměňují následovně:
+- Podoba osady se mění podle doby, společné prvky jsou: přístav, tržiště, svatyně a opevnění na kopci
+- Obyvatelné osady si zachovávají své vztahy a postavení, ale jejich vzpomínky a znalosti se upravují a neuvědomují si, že každý den žijí v jiném čase.
+- Cesta z přístavu do propasti mění svou podobu (a tím i podobu překážek, které na ní jsou), ale je vždy zanedbaná a neudržováná.
+- Chrám času je minidungeon, který (díky nepřítomnosti mnichů) obsadili lapkové či nestvůry. Postupně se rozšiřuje, cca následovně:
+- 2: Ještě nestojí (viz zápletky).
+- 3: Kruh s menhirů kolem srdce propasti, opodál chatrče mnichů.
+- 4: Rotunda vestavěná menhirům, obytné a hospodářské stavení ze dřeva.
+- 5: Chrám na místě rotundy, obytná a hospodářská část z kamene, přistavěna knihovna, přístup obehnaný zdmi.
+- 6: Přístavba alchymistické laboratoře a mlýna/hamru/kovárny za zdmi, polem cesty.
+- 7: Vodou poháněný hamr nahrazen parním pohonem, šachta dolu na uhlí. Uvnitř laboratoř expanduje do chrámového prostoru.
+- 8: Elektrárna, všude dráty, uvnitř zcela přestavěno na tajnou laboratoř.
+
 ### E) Zápletky
 
 - Roztržitý alchymista před nedávnem omylem vyhodil klíčovou část svého projektu na skládku. Podaří se najatým dobrodruhům dostat až k Čertově skále, či dokonce odnést hledaný kousek zpátky?
