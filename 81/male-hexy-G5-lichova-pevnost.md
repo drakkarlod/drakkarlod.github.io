@@ -15,7 +15,8 @@ Lichova pevnosť, lávové polia
   
 ### C) Obsah hexu
 
-Lichova pevnosť, lávové polia 
+- Lichova pevnosť
+- Lávové polia 
   
 ### D) Popis hexu
 
