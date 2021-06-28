@@ -6,7 +6,7 @@ series: Malé hexy
 summary: 'Malé hexy, hex A7'
 published: true
 name: 'Malé hexy: A7 - Klášter lesních bratří'
-title: 'Malé hexy: A7 - Klášter lesních bratří'
+title: 'Malé hexy: A7 – Klášter lesních bratří'
 ---
 ### A) Číslo hexu: A7  
 
