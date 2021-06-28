@@ -22,7 +22,6 @@ Lichova pevnosť, lávové polia
 
 - **Lichova pevnosť**<br>
 Nemŕtvi postupne pretvorili dedinu na obdivuhodný labyrint múrov a uličiek, ktoré tvoria obrovský labyrint v podhradí lichovej pevnosti. Tá rastie do výšky desiatky metrov a je zmesou podivnej ozdobnej architektúry a surovej funkcionality. Odtieľto prichádzajú na svet noví nemŕtvi a rôzne alchymistické výtvory nemŕtveho mága. Ľudia vravia, že na obranu využíva vodopády lávy armádu nemŕtvych i samotných salamandrov, ale ktovie ako to je.
-
 - **Lávové polia**<br>
 Okolie mesta je pokryté kedysi poľnohospodárskou krajinou, dnes je to nehostinná pustina. Obilie, rovnako ako všetko živé je pokryté čiernym popolom a ostré ako žiletka, pomedzi polia tečú nekonečné potôčky horúcej lávy. Len málokto sa pokúci cez takúto nehostinnú krajinu cestovať, no aj tu nájdeme obyvateľov. Miestni nemŕtvi si zachovali časť svojho zdravého rozumu a odišli od nekromanta. Nemajú žiadny zmysel života. Potĺkajú sa krajinou a okolo svojich domov, nezmyselne opakujú činnosti zo svojho života a zaseknutý v časovej sľučke čakajú na finálnu smrť.
 
