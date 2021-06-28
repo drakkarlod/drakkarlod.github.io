@@ -32,11 +32,12 @@ Při příjezdu a následně po každém spánku/odpočinku se náhodným hodem 
 - 7: Průmyslová revoluce
 - 8: Doba elektrická
 
-Náhodné změny epoch nemá vliv na cestovatele zvenčí – ti vždycky zůstávají sami sebou. Také nedokáží přenést **Mnichy času** – ti vždycky musí cestovat v chrámu + změnám nepodléhá **Předmět z budoucnosti** (viz zápletky). Všechny ostatní části ostrova proměňují následovně:
-- Podoba osady se mění podle doby, společné prvky jsou: přístav, tržiště, svatyně a opevnění na kopci
+Náhodné změny epoch nemají vliv na cestovatele zvenčí – ti vždycky zůstávají sami sebou. Také nedokáží přenést _Mnichy času_ – ti vždycky musí cestovat v chrámu + změnám nepodléhá _Předmět z budoucnosti_ (viz zápletky). Všechny ostatní části ostrova proměňují následovně:
+- Podoba osady se mění podle doby, společné prvky jsou: přístav, tržiště, svatyně a opevnění na kopci.
 - Obyvatelné osady si zachovávají své vztahy a postavení, ale jejich vzpomínky a znalosti se upravují a neuvědomují si, že každý den žijí v jiném čase.
 - Cesta z přístavu do propasti mění svou podobu (a tím i podobu překážek, které na ní jsou), ale je vždy zanedbaná a neudržováná.
-- Chrám času je minidungeon, který (díky nepřítomnosti mnichů) obsadili lapkové či nestvůry. Postupně se rozšiřuje, cca následovně:
+
+Chrám času je minidungeon, který (díky nepřítomnosti mnichů) obsadili lapkové či nestvůry. Postupně se rozšiřuje, cca následovně:
 - 2: Ještě nestojí (viz zápletky).
 - 3: Kruh s menhirů kolem srdce propasti, opodál chatrče mnichů.
 - 4: Rotunda vestavěná menhirům, obytné a hospodářské stavení ze dřeva.
