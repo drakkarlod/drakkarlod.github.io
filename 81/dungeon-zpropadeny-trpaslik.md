@@ -349,11 +349,11 @@ __Uvnitř:__ Místnost je dokonale čistá, uklizená a osvětlená světlem sto
 
 Džin nabídne dobrodruhům obchod: Každému splní přání v hodnotě do 50 zl, pokud zlatou lampu, ke které je připoutaný, rozbijí a tím ho osvobodí. Lampu lze ale rozbít jen magickým předmětem (nejlépe palicí z ►E1; pokud to postavy zkusí hůlkou z ►F5, lampu sice zničí, ale zlomí se i hůlka). Váhající postavy bude džin přesvědčovat následujícími argumenty:
 
-    • Když ho neosvobodí oni, osvobodí ho první lupiči, kteří se do věže vydají a je dost jisté, že se existence věže neutají.
-    • Džina spoutal Flórin Schattenbach, nebude sloužit nikomu jinému („pohádky o leštění lampy si nechte pro… no pro děti radši ani ne“).
-    • Dobrodruzi určitě chtějí raději démona, který jejim vděčný, než který se jim může chtít mstít.
-    • Lampa je sice krásná, ale jen to zlato, ze kterého je vyrobená, má hodnotu 30 zl.
-    • Postavy nemají sílu démona zranit, a to ani pokud ovládnou všechna oživlá brnění. (A je to, mimochodem, pravda.)
+- Když ho neosvobodí oni, osvobodí ho první lupiči, kteří se do věže vydají a je dost jisté, že se existence věže neutají.
+- Džina spoutal Flórin Schattenbach, nebude sloužit nikomu jinému („pohádky o leštění lampy si nechte pro… no pro děti radši ani ne“).
+- Dobrodruzi určitě chtějí raději démona, který jejim vděčný, než který se jim může chtít mstít.
+- Lampa je sice krásná, ale jen to zlato, ze kterého je vyrobená, má hodnotu 30 zl.
+- Postavy nemají sílu démona zranit, a to ani pokud ovládnou všechna oživlá brnění. (A je to, mimochodem, pravda.)
 
 Démon postavy nezradí, a pokud lampu rozbijí, odmění se jim podle dohody a zmizí. Celá místnost okamžitě potemní a pokryje se řasou a slizem. Brnění zreziví a sesypou se k zemi.
 Jenom Toník si bude stěžovat, že pryč nechce, protože on je přece dědicem věže! (Je totiž vnukem dcery Árniho Schattenbacha.)
