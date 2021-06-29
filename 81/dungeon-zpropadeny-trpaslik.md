@@ -3,8 +3,8 @@ layout: article
 title: 'Dungeon: (Z)propadený trpaslík'
 authors: Jakub „boubaque“ Maruš
 tags: materiály a doplňky
-summary: 'Hledání ztraceného chlapce v několikapatrovém podzemí pro tradiční dobrodružné fantasy RPG. –
-Po ulici zakodrcal těžce naložený vůz, pod jeho koly se propadla dlažba a do díry sklouzl desetiletý syn trpaslického konšela. Je to sotva pár minut. Konšel postavy požádá, aby slezly do díry a chlapce našly – po krátké úvaze slíbí odměnu, hlavně když chlapce přivedou živého. Sesuvem odkrytá krypta je ale prázdná. Určitě je to jen zástěrka pro hluboký podzemní komplex…'
+summary: "Hledání ztraceného chlapce v\_několikapatrovém podzemí pro tradiční dobrodružné fantasy RPG. – Po ulici zakodrcal těžce naložený vůz, pod jeho koly se propadla dlažba a do díry sklouzl desetiletý syn trpaslického konšela. Je to sotva pár minut. Konšel postavy požádá, aby slezly do díry a chlapce našly – po krátké úvaze slíbí odměnu, hlavně když chlapce přivedou živého. Sesuvem odkrytá krypta je ale prázdná. Určitě je to jen zástěrka pro hluboký podzemní komplex…"
+published: true
 ---
 
 (Na totmto místě brzy přibude odkaz na tiskovou verzi v PDF.)
@@ -21,7 +21,7 @@ Po ulici zakodrcal těžce naložený vůz, pod jeho koly se propadla dlažba a 
 > Odkazy na jiné lokace jsou označeny šipkou a kombinací písmene označujícího patro a upřesňující číslice: Např. odkaz ►A0 znamená, že cesta vede k lokaci „díra v dlažbě“ nebo je vhodné vzít v úvahu popis této lokace kvůli prvku, který má na ni vazbu (např. konšel Schönstein).
 Šipky na schodištích ukazují směr dolů.
 >
-> Poznámky kurzívou v závorkách (takto) podávají informace a kontext důležité pro Vypravěče, ale postavy je nemusí zjistit ani při cíleném průzkumu. Rozhodnutí, zda tyto informace hráčům předat a za jakých podmínek, je vždy na Vypravěči, alespoň odhad cen nacházených cenností by ovšem měli hráči dostat vždy.
+> Poznámky kurzívou v závorkách (_takto_) podávají informace a kontext důležité pro Vypravěče, ale postavy je nemusí zjistit ani při cíleném průzkumu. Rozhodnutí, zda tyto informace hráčům předat a za jakých podmínek, je vždy na Vypravěči, alespoň odhad cen nacházených cenností by ovšem měli hráči dostat vždy.
 
 ## Krátké shrnutí (spoilery!)
 
@@ -40,10 +40,8 @@ Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž troch
 
 ## Jak se sem můžou postavy dostat?
 
-- Postavy se k propadlé dlažbě nachomýtnou náhodou a konšel Ólin Schönstein je osloví, aby se vydaly do podzemí a našly a přivedly jeho syna Toníka, protože vypadají schopně a nesou lucerny a lana. (S touto variantou počítá popis ulice a krypty.)
-
-- Méně „náhodnou“ variantou může být toto: Konšelé města Moosberg najímají potulné dobrodruhy do městské gardy, aby se s nimi nemuseli dohadovat o odevzdávání zbraní. Počítají s tím, že když dají dobrodruhům vydělat a svěří jim zodpovědnost, vyhnou se výtržnostem a sporům s místními obyvateli. Postavy tak budou přivolány k sesuvu jakožto nejbližší hlídka a konšelem budou přímo zaúkolovány najít jeho syna. (Vhodné pro jednorázové hry nebo seznamovací dobrodružství.)
-
+- Postavy se k propadlé dlažbě nachomýtnou náhodou a konšel Ólin Schönstein je osloví, aby se vydaly do podzemí a našly a přivedly jeho syna Toníka, protože vypadají schopně a nesou lucerny a lana. (_S touto variantou počítá popis ulice a krypty._)
+- Méně „náhodnou“ variantou může být toto: Konšelé města Moosberg najímají potulné dobrodruhy do městské gardy, aby se s nimi nemuseli dohadovat o odevzdávání zbraní. Počítají s tím, že když dají dobrodruhům vydělat a svěří jim zodpovědnost, vyhnou se výtržnostem a sporům s místními obyvateli. Postavy tak budou přivolány k sesuvu jakožto nejbližší hlídka a konšelem budou přímo zaúkolovány najít jeho syna. (_Vhodné pro jednorázové hry nebo seznamovací dobrodružství._)
 - Pokud budou dobrodruzi záhadu zmizelého chlapce řešit až po delší době (najatí konšelem, přihlásí se na inzerát…), je třeba počítat s tím, že oživlý chrlič již bude zpět na svém místě v kryptě (►B0).
 
 > __Jaké obtížnosti? V jakých patrech?__
@@ -52,7 +50,7 @@ Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž troch
 >
 > Podzemní patra B a C nejsou v zásadě nebezpečná, ale je potřeba, aby hráči poměrně podrobně popisovali konání svých postav. Funkční nápady odměňuj úspěchem bez hodu, nefunkční hráčům rozmluv – jejich dobrodruzi nejsou hloupí a nějaké zkušenosti už určitě mají. Házet může být potřeba jen v případě, že usoudíš, že se postavy pustily do něčeho, kde jim opravdu hrozí újma (např. jezení starých zavařenin ve sklepě) a úspěch není jistý. Patra D a E (obě patra společenského sálu) jsou také z většiny bezpečná – ovšem hráčský popis je nutný a nějaká nebezpečí už můžou na postavy číhat.
 >
-> V nižších patrech (►E5 – chodba, F – zázemí a hloub) už na postavy čeká několik pastí a přímých nebezpečí. Tady postupuj podle pravidel, která používáte, a nezapomeň brát v úvahu popis jednání postav – pokud máš sebemenší pochybnosti o postupu postav, jeho smysluplnosti, nebo se ti zdá, že hráči zanedbávají nebezpečí, kterých by si postavy byly vědomy, neboj se vyžádat si detailní popis jednání postav, a hlavně se ujisti přímou otázkou, zda berou v úvahu všechny zjevné varovné signály (případně je zopakuj). S varovnými signály nešetři a vždy dej hráčům okamžik na zareagování, i kdyby ve spěchu a bez dlouhého rozmýšlení. Postavy jsou totiž na rozdíl od hráčů sice začínající, ale schopní dobrodruzi, určitě by nepřehlédly smrtelné nebezpečí, které není opravdu pečlivě zamaskované.
+> V nižších patrech (►E5 – chodba, F – zázemí a hloub) už na postavy čeká několik pastí a přímých nebezpečí. Tady postupuj podle pravidel, která používáte, a nezapomeň brát v úvahu popis jednání postav – pokud máš sebemenší pochybnosti o postupu postav, jeho smysluplnosti, nebo se ti zdá, že hráči zanedbávají nebezpečí, kterých by si postavy byly vědomy, neboj se _vyžádat si detailní popis jednání postav_, a hlavně se ujisti přímou otázkou, zda berou v úvahu všechny zjevné varovné signály (případně je zopakuj). S varovnými signály nešetři a vždy dej hráčům okamžik na zareagování, i kdyby ve spěchu a bez dlouhého rozmýšlení. Postavy jsou totiž na rozdíl od hráčů sice začínající, ale schopní dobrodruzi, určitě by nepřehlédly smrtelné nebezpečí, které není opravdu pečlivě zamaskované.
 >
 > Pokud používáš náhodné tabulky pro zvýšení napětí, obtížnosti apod., na konci dokumentu jednu najdeš. Házej si na ni od okamžiku, kdy se postavy dostanou do patra E (příp. D), a to 1k6 za každé dvě 6minutové směny (nebo 1k10 za každou desetiminutovou směnu, pokud počítáš směny klasicky po 10 minutách). Pokud ti padne na kostce jednička, urči hodem kostkou setkání/hrozbu z tabulky – kdybys měl pocit, že se zrovna tematicky nehodí, vyber jinou hrozbu dle svého uvážení. Pokud počítáš směny, podívej se na popis chrliče (►B0) a poznamenej si, kdy vyrazí na cestu zpět nahoru do krypty.
 
@@ -71,12 +69,13 @@ __Uvnitř:__ Stará, zaprášená hrobka asi 4×4 m. Hrobka není úplně tmav�
 
 ### B0 – krypta
 
-__Uvnitř:__ Schody příkře klesají z výšky po kamenné plošině (obrázek 1) do silně zaprášené místnosti cca 4×8 m, 2 m na výšku. Na jižní stěně je obratně vytesaný reliéf, před reliéfem leží na zemi sarkofág nohama ke schodům. Do obou bočních stěn jsou ve výšce 1 m vsazené půlkuželové podstavce, na pravém je okřídlený kamenný chrlič (tento je už jen socha), pravý je prázdný (pokud uběhly od zmizení Toníka víc než dvě hodiny, sedí chrlič i na tomto podstavci). Mezi podlahou a skloněnou rovinou schodů je volný prostor. Okolo západní, východní a severní stěny (pod schody) jsou v rozestupech vyskládány malé olejové lampičky, všechny vyschlé, s rozpadlými knoty.
+__Uvnitř:__ Schody příkře klesají z výšky po kamenné plošině (obrázek 1) do silně zaprášené místnosti cca 4×8 m, 2 m na výšku. Na jižní stěně je obratně vytesaný reliéf, před reliéfem leží na zemi sarkofág nohama ke schodům. Do obou bočních stěn jsou ve výšce 1 m vsazené půlkuželové podstavce, na pravém je okřídlený kamenný chrlič (tento je už jen socha), pravý je prázdný (_pokud uběhly od zmizení Toníka víc než dvě hodiny, sedí chrlič i na tomto podstavci_). Mezi podlahou a skloněnou rovinou schodů je volný prostor. Okolo západní, východní a severní stěny (pod schody) jsou v rozestupech vyskládány malé olejové lampičky, všechny vyschlé, s rozpadlými knoty.
 
 __Průzkum/CP:__ Na zemi krypty je suť a dlažební kostky, v prachu lze vysledovat stopy ležícího chlapce a dlouhé obloukové čáry, dokonce s čerstvými jemnými rýhami v kameni dlažby (stopy konců křídel oživlého chrliče).
 
-Sarkofág má dlátem pozurážené části spodní hrany víka, díry obnažují vnitřní kovovou konstrukci, která drží víko pevně na těle sarkofágu. Díry po dlátu jsou desítky let staré a z nejhlubších z nich sálá nepřirozený chlad (uvnitř je zmražená mrtvola Járina Schattenbacha, původního majitele věže, otce dvou rozkmotřených synů). Sarkofág nebyl přes 200 let otevřený, a pokud tu byl nějaký otvírací mechanismus, už určitě nefunguje.
-V prachu pod schody lze najít tenkou rýhu ve tvaru obdélníku cca 2×1 m. Deska je tak kamenicky zpracovaná, že bez rýhy v prachu by nebyla v podlaze rozeznatelná. Mechanismus se spouští vertikálním posunutím alespoň jednoho z podstavců chrličů (následující odst.) nebo zatlačením na jeden z kamenů ze strany plošiny schodů (hledání dle pravidel vaší hry). Tajný vchod vede po schodech do nižšího patra (►C0) a mechanismus ho automaticky po minutě zavře. 
+Sarkofág má dlátem pozurážené části spodní hrany víka, díry obnažují vnitřní kovovou konstrukci, která drží víko pevně na těle sarkofágu. Díry po dlátu jsou desítky let staré a z nejhlubších z nich sálá nepřirozený chlad (_uvnitř je zmražená mrtvola Járina Schattenbacha, původního majitele věže, otce dvou rozkmotřených synů_). Sarkofág nebyl přes 200 let otevřený, a pokud tu byl nějaký otvírací mechanismus, už určitě nefunguje.
+
+V prachu pod schody lze najít tenkou rýhu ve tvaru obdélníku cca 2×1 m. Deska je tak kamenicky zpracovaná, že bez rýhy v prachu by nebyla v podlaze rozeznatelná. Mechanismus se spouští vertikálním posunutím alespoň jednoho z podstavců chrličů (následující odst.) nebo zatlačením na jeden z kamenů ze strany plošiny schodů (_hledání dle pravidel tvé hry_). Tajný vchod vede po schodech do nižšího patra (►C0) a mechanismus ho automaticky po minutě zavře. 
 
 Okřídlený chrlič je zaprášený a nehybný, na podstavci je pouze položený. Pokud s ním postavy začnou manipulovat, zjistí, že podstavec se vertikálně posouvá na pružině asi 5 cm nahoru a dolů. Když na něm sedí chrlič, je ve spodní pozici, když se dostane zcela do horní pozice, otevřou se tajné padací dveře pod schody (je to slyšet, ale schody zakrývají přímý pohled). Prázdný podstavec na druhé straně je v horní pozici (lze najít škrábance kamene o kámen na zdi) a na jeho horní ploše je místo bez prachu po druhém chrliči).
 
@@ -84,7 +83,7 @@ Okřídlený chrlič je zaprášený a nehybný, na podstavci je pouze položen�
 
 > Trpaslík v suknici a kápi, drží válečnou palici a hůlku zdobenou pentagramem. Je stylizovaný do tvaru věže, nad hlavou (kápí) je vytesané cimbuří věže, na kterém sedí dva okřídlení chrliči nápadně podobní chrliči na podstavci ve zdi. Okolo věže je až ke stěnám vytesaná krajina okolo města Moosberg (zde vodopád a zalesněné hory). Reliéf nic neskrývá, je to jen několik spojených kamenných bloků.
 >
-> Až (pokud) dobrodruhové potkají oživlého chrliče, bude nepřátelsky vyžadovat pozvánku, ale snadno se nechá podvést, je poměrně hloupý. (Případný boj s chrličem by byl zdlouhavý kvůli jeho kamenné přirozené zbroji a slabým útokům.) Cesta s Toníkem v pařátech až do salónu ve spodním patře a následná diskuse s džinem mu zabrala 18 šestiminutových směn (desetiminutových směn doporučuji 15), poté letí zpět do krypty rychlostí dvou pater (H+G, F+E, C+B) za 1 směnu.
+> Až (pokud) dobrodruhové potkají oživlého chrliče, bude nepřátelsky vyžadovat pozvánku, ale snadno se nechá podvést, je poměrně hloupý. (_Případný boj s chrličem by byl zdlouhavý kvůli jeho kamenné přirozené zbroji a slabým útokům._) Cesta s Toníkem v pařátech až do salónu ve spodním patře a následná diskuse s džinem mu zabrala 18 šestiminutových směn (desetiminutových směn doporučuji 15), poté letí zpět do krypty rychlostí dvou pater (H+G, F+E, C+B) za 1 směnu.
 
 ### C0 – sklepní chodba
 
@@ -94,7 +93,7 @@ Hned vedle vstupu je ke zdi přinýtovaná silná kovová lamela, na její konec
 
 Na každé straně této větve chodby jsou jedny dveře, v dalších větvích jsou také dvoje dveře naproti sobě (vedou do místností ►C1, ►C2, ►C3, ►C4).
 
-__Průzkum:__ Dveře nejsou zamknuté, nebyly dlouho otevírány kromě dveří nalevo od schodů (ve východní stěně) vedoucích do skladu (►C4, tudy proletěl chrlič s Toníkem). Lamely jsou složené ze dvou vrstev různě barevných kovů (tvoří bimetalický pásek), pod základnou sloupu je dutý prostor – pokud se do všech tří držáků vloží hořící pochodně, začne se ozývat slabé skřípání kovu a po minutě se lamely se zaduněním propnou do oblouku otočeného k zemi a zdvihnou sloup až ke stropu. Pod ním se objeví točité schodiště vedoucí dolů dvě patra (►E0). Sloup je možné zespodu vyšroubovat pomocí kovových madel, vyšroubovaný sloup se svou vahou po jedné směně sám zašroubuje. 
+__Průzkum:__ Dveře nejsou zamknuté, nebyly dlouho otevírány kromě dveří nalevo od schodů (ve východní stěně) vedoucích do skladu (►C4, _tudy proletěl chrlič s Toníkem_). Lamely jsou složené ze dvou vrstev různě barevných kovů (tvoří bimetalický pásek), pod základnou sloupu je dutý prostor – pokud se do všech tří držáků vloží hořící pochodně, začne se ozývat slabé skřípání kovu a po minutě se lamely se zaduněním propnou do oblouku otočeného k zemi a zdvihnou sloup až ke stropu. Pod ním se objeví točité schodiště vedoucí dolů dvě patra (►E0). Sloup je možné zespodu vyšroubovat pomocí kovových madel, vyšroubovaný sloup se svou vahou po jedné směně sám zašroubuje. 
 
 ### C1 – velká márnice
 
@@ -112,8 +111,9 @@ __Průzkum:__ Dřevěné rakve 16, 19, 20 obsahují staré, rozložené a seschl
 
 __Uvnitř:__ Trojúhelníková místnost, v ní je socha držící kliku k mechanismu ve zdi. Od země do výšky pasu je jen kamenný blok, od pasu je do kamene vytesaná socha svalnatého orka. Na východní stěně je křivá dřevěná polička se 4 nepopsanými flakóny: Jeden voskem zapečetěný flakón obsahuje fialovou tekutinu. Jeden flakón je prázdný, nezazátkovaný. Jeden flakón je špatně zazátkovaný a vyschlý, dno pokrývá fialový povlak. Poslední flakón je naprasklý a obsahuje jen polovinu fialové tekutiny, polička pod tímto flakónem je zprohýbaná.
 
-__Průzkum:__ V rukou drží pevně kliku napojenou na hřídel se silným převodním řetězem vedoucím do podlahy. S klikou kvůli soše nejde pohnout, silná kovová západka držící pohyb řetězu jedním směrem je povolená, tahání za řetěz je beznadějné: Na jednu stranu drží řetěz klika, na druhou stranu nelze vytáhnout (je napojený na žulový blok ve vstupních dvěřích předsálí ►E2).
-Nalití obsahu flakónu na neživou věc způsobí, že věc na okamžik ožije. Pokud někdo vylije celý flakón na sochu orka, ta vytáhne klikou kamenný blok (►E2) do pohotovostní pozice. Kdyby jí v tom někdo bránil, bude agresivní. Nalití tekutiny na živou hmotu způsobí brnění a lehké křeče. Vypití alespoň půl flakónu způsobí okamžité zvracení a akutní průjem. (Není problém, že postavy nezjistí, k čemu lektvar slouží. Zjistí to dost určitě u výtahu ►F1.)
+__Průzkum:__ V rukou drží pevně kliku napojenou na hřídel se silným převodním řetězem vedoucím do podlahy. S klikou kvůli soše nejde pohnout, silná kovová západka držící pohyb řetězu jedním směrem je povolená, tahání za řetěz je beznadějné: Na jednu stranu drží řetěz klika, na druhou stranu nelze vytáhnout (_je napojený na žulový blok ve vstupních dvěřích předsálí_ ►E2).
+
+Nalití obsahu flakónu na neživou věc způsobí, že věc na okamžik ožije. Pokud někdo vylije celý flakón na sochu orka, ta vytáhne klikou kamenný blok (►E2) do pohotovostní pozice. Kdyby jí v tom někdo bránil, bude agresivní. Nalití tekutiny na živou hmotu způsobí brnění a lehké křeče. Vypití alespoň půl flakónu způsobí okamžité zvracení a akutní průjem. (_Není problém, že postavy nezjistí, k čemu lektvar slouží. Zjistí to dost určitě u výtahu_ ►F1.)
 
 ### C4 – sklad
 
@@ -127,7 +127,7 @@ __Zvenku:__ Z parketu stoupají na zábradlím lemovanou galerii tři schodišt�
 
 ### D1 – dámský salon
 
-__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená červeným závěsem. V západní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě červeném koberci je uprostřed čtvercový stůl cca 1,5 metru široký, okolo něj 7 polstrovaných židlí, u stěn potažených brokátovou tapetou stojí několik prázdných vysokých stolečků. V severovýchodním rohu místnosti je vitrína s tenkými broušenými sklenicemi (velmi křehké, cca 10 zl) a jednou prázdnou a plnou lahví zkažené sherry.
+__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená červeným závěsem. V západní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě červeném koberci je uprostřed čtvercový stůl cca 1,5 metru široký, okolo něj 7 polstrovaných židlí, u stěn potažených brokátovou tapetou stojí několik prázdných vysokých stolečků. V severovýchodním rohu místnosti je vitrína s tenkými broušenými sklenicemi (_velmi křehké, cca 10 zl_) a jednou prázdnou a plnou lahví zkažené sherry.
 
 ### D2 – pánský salon
 
@@ -135,15 +135,15 @@ __Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) odděl
 
 ### D3 – balkon
 
-__Zvenku:__ Za dvoukřídlými posuvnými dveřmi je velký balkon s pobořenou balustrádou. Dveře jsou ze strany od balkonu poškrábané nepravidelnými hlubokými rýhami (od brouků žijících v hlubině, ►I0, ►G1). Za balkonem zeje hluboká temnota podzemního dómu, ozývá se tady zvuk malého vodopádu, zjevně podzemního potoka (viz i lázně ►G4).
+__Zvenku:__ Za dvoukřídlými posuvnými dveřmi je velký balkon s pobořenou balustrádou. Dveře jsou ze strany od balkonu poškrábané nepravidelnými hlubokými rýhami (_od brouků žijících v hlubině,_ ►I0, ►G1). Za balkonem zeje hluboká temnota podzemního dómu, ozývá se tady zvuk malého vodopádu, zjevně podzemního potoka (_viz i lázně_ ►G4).
 
 __Průzkum:__ Jeskyně je hluboká, široká, a zcela tmavá. Asi 7 m pod balkonem a 4 m na západ od balustrády se ke skalní stěně přimyká kamenné odpočívadlo (►F7), ze kterého vycházejí schody vedoucí dolů okolo obloukové stěny pod balkonem a mizí ve tmě. Stěna komplexu (věže) z kamenných bloků kopíruje tvar hlavního sálu, resp. galerie (►D0), a mizí ve tmě na východní straně. Vodopád v hlubinách není vidět, ale jeho zvuk jde z východní, resp. jihovýchodní strany (►F8, ►G4).
 
 __E0 – kuchyňka__
 
-__Uvnitř__ (_vstup po schodech z_ ►C0): Točité schody přímo ústí do podlouhlé místnosti – po pravé straně (západ) je obloukovitě se rozšiřující kredenc s policemi, za ním dveře vedoucí do nákladní šachty (sem vede šachta z ►C4, a na první pohled není zřejmé, že pokračuje i níž do ►E5). Na levé straně (východ) od schodů jsou ve stěně malá dvířka do šachty kuchyňského výtahu s rezavějící kladkou (►F2, ►G5, ►H3), krátká chodbička ke dveřím do sálu (►E1) a naproti schodům na druhém konci místnosti jsou police s kameninovými škopky, sklenicemi se zavařeninami, lahvemi apod. – všechno jídlo i pití je zkažené. 
+__Uvnitř__ (_vstup po schodech z_ ►C0): Točité schody přímo ústí do podlouhlé místnosti – po pravé straně (západ) je obloukovitě se rozšiřující kredenc s policemi, za ním dveře vedoucí do nákladní šachty (_sem vede šachta z_ ►C4, _a na první pohled není zřejmé, že pokračuje i níž do_ ►E5). Na levé straně (východ) od schodů jsou ve stěně malá dvířka do šachty kuchyňského výtahu s rezavějící kladkou (►F2, ►G5, ►H3), krátká chodbička ke dveřím do sálu (►E1) a naproti schodům na druhém konci místnosti jsou police s kameninovými škopky, sklenicemi se zavařeninami, lahvemi apod. – všechno jídlo i pití je zkažené. 
 
-__Průzkum:__ V zásuvkách kredence jsou stříbrné příbory (15 zl) a keramické talíře, hrnky, misky, plechové poháry apod. (bez větší ceny).
+__Průzkum:__ V zásuvkách kredence jsou stříbrné příbory (15 zl) a keramické talíře, hrnky, misky, plechové poháry apod. (_bez větší ceny_).
 
 Za dveřmi do nákladní šachty je malá místnost s dřevěnou podlahou. Nahoru vede asi metr široká, od země 6 m vysoká šachta (►C4). Když jsou otevřené dveře, lze podlahu vyklopit ke zdi a zajistit na háček za očko skryté pod jedním z prken, pod podlahou je asi metr široká šachta, hluboká ke dnu cca 4 m, ústí zjevně do nějaké chodby (►E3).
 
@@ -151,13 +151,13 @@ Dveře v chodbičce na západě jsou lítačky, ovšem těsně doléhají ke st�
 
 ### E1 – parket
 
-__Uvnitř:__ Rozlehlá, zaprášená a vlhká místnost s 5 m vysokým stropem, obehnaná vyvýšenou galerií (►D0), na kterou vedou tři schodiště a jejíž stěny zdobí fresky. Na zábradlích jsou kovové klícky, a pokud do prostoru zasvítí světlo, začnou vzduchem s cvrlikáním létat oživlí ptáčci z kamene. Přímo naproti dveřím do kychyňky jsou další dveře v západní zdi pod galerií (►E3). Téměř uprostřed parketu stojí kulečníkový stůl s pěti slonovinovými koulemi (celkem 5 zl). Na jižní straně je průchod do předsálí (►E2) bez dveří či závěsu. Vedle tohoto průchodu visí nalevo obraz staršího trpaslického páru s jedním mladším trpaslíkem, napravo visí obraz tohoto trpaslíka ve vyšším věku, jak objímá dva trpaslické chlapce: Chlapec napravo drží hůlku zdobenou pentagramem, chlapec nalevo drží válečnou palici, ale skrz jeho obličej vede hluboký řez a deformuje obraz – obličej je k nerozeznání od podobizny Toníka, kterou dobrodruhům ukazoval Ólin Schönstein (viz ►A0).
+__Uvnitř:__ Rozlehlá, zaprášená a vlhká místnost s 5 m vysokým stropem, obehnaná vyvýšenou galerií (►D0), na kterou vedou tři schodiště a jejíž stěny zdobí fresky. Na zábradlích jsou kovové klícky, a pokud do prostoru zasvítí světlo, začnou vzduchem s cvrlikáním létat oživlí ptáčci z kamene. Přímo naproti dveřím do kychyňky jsou další dveře v západní zdi pod galerií (►E3). Téměř uprostřed parketu stojí kulečníkový stůl s pěti slonovinovými koulemi (_celkem 5 zl_). Na jižní straně je průchod do předsálí (►E2) bez dveří či závěsu. Vedle tohoto průchodu visí nalevo obraz staršího trpaslického páru s jedním mladším trpaslíkem, napravo visí obraz tohoto trpaslíka ve vyšším věku, jak objímá dva trpaslické chlapce: Chlapec napravo drží hůlku zdobenou pentagramem, chlapec nalevo drží válečnou palici, ale skrz jeho obličej vede hluboký řez a deformuje obraz – obličej je k nerozeznání od podobizny Toníka, kterou dobrodruhům ukazoval Ólin Schönstein (viz ►A0).
 
 __Průzkum:__ Z děr kulečníku vylezou dvě obří stonožky a budou se snažit otrávit některou z postav svými kusadly. V jedné z děr kulečníku je schovaný váček s 6 zlatými mincemi.
 
-Ptáky lze nalákat do klícky na sříbrnou lžičku, kterou pták ovšem ovšem zničí (–1 zl), oživlého ptáčka můžou zkusit dobrodruzi na povrchu prodat (podle kupce/překupníka 5–50 zl).
+Ptáky lze nalákat do klícky na sříbrnou lžičku, kterou pták ovšem ovšem zničí (_–1 zl_), oživlého ptáčka můžou zkusit dobrodruzi na povrchu prodat (_podle kupce/překupníka 5–50 zl_).
 
-Pohled do předsálí (►E2) odhalí pootevřené vstupní dveře na jihu, ozbrojenou figuru (oživlé brnění bez života), závěs ve zdi na východě a dvoje dveře ve zdi na západě.
+Pohled do předsálí (►E2) odhalí pootevřené vstupní dveře na jihu, ozbrojenou figuru (_oživlé brnění bez života_), závěs ve zdi na východě a dvoje dveře ve zdi na západě.
 
 > __Bytosti v sálu a okolí jako nestvůry__
 
@@ -173,15 +173,15 @@ __Uvnitř:__ U pootevřených dveří stojí zašlé, prorezavělé brnění, na
 
 Uprostřed východní stěny visí těžký, zaprášený, lehce plesnivý závěs, v západní stěně jsou dvoje dveře.
 
-__Průzkum:__ Pootevřené vstupní dveře skrývají z původně vnější strany v zámku svazek paklíčů, vstup kompletně vyplňuje obrovský žulový blok, zpod kterého vyčuhuje ke dvěřím ruka, přesněji už jen kosti zloděje, který kdysi skončil pod žulovým blokem. Kdyby se podařilo blok vytáhnout (ve strojovně ►C3) nebo odstranit, chodba za ním bude končit zazděná ve sklepení některého z měšťanských domů.
+__Průzkum:__ Pootevřené vstupní dveře skrývají z původně vnější strany v zámku svazek paklíčů, vstup kompletně vyplňuje obrovský žulový blok, zpod kterého vyčuhuje ke dvěřím ruka, přesněji už jen kosti zloděje, který kdysi skončil pod žulovým blokem. Kdyby se podařilo blok vytáhnout (_ve strojovně_ ►C3) nebo odstranit, chodba za ním bude končit zazděná ve sklepení některého z měšťanských domů.
 
 Brnění je nehybné a není nebezpečné, i když kdysi bývalo neživým strážcem. Když někdo srazí přilbu na zem nebo vytrhne palici z rukavic, celé brnění se naráz sesype na zem. Pokud ho dobrodruzi povalí, bez odporu spadne, ale zůstane vcelku. Palice je magická (viz rámeček). 
 
-Za závěsem je malá šatna, na věšácích jsou dva plesnivé brokátové trpaslické hábity (pokud se vyperou, někdo je ještě bude ochotný koupit za 2 zl za kus).
+Za závěsem je malá šatna, na věšácích jsou dva plesnivé brokátové trpaslické hábity (_pokud se vyperou, někdo je ještě bude ochotný koupit za 2 zl za kus_).
 
-Dveře na jihozápadě ukrývají reprezentativně pojatou latrínu se stolečkem, starým zreznutým ocelovým zrcadlem, džbánem a lavorem z růžového porcelánu (sada má dohromady cenu 6 zl, kus jen za 2 zl). Celá místnost je ale pokrytá silnými vlákny pavučin, ve kterých se skrývá hnízdo podivných brouků: při vyrušení dva z nich zaútočí, dokud vetřelce nezaženou.
+Dveře na jihozápadě ukrývají reprezentativně pojatou latrínu se stolečkem, starým zreznutým ocelovým zrcadlem, džbánem a lavorem z růžového porcelánu (_sada má dohromady cenu 6 zl, kus jen za 2 zl_). Celá místnost je ale pokrytá silnými vlákny pavučin, ve kterých se skrývá hnízdo podivných brouků: při vyrušení dva z nich zaútočí, dokud vetřelce nezaženou.
 
-Dveře na severozápadě skrývají krátkou chodbičku a tmavou šachtu (3 m v průměru) oddělenou od ní zarezlou, ale pootevřenou zatahovací bránou. Světlo může (ale nemusí) odhalit 5 m v hluboko v šachtě nezřetelné odlesky oblých ploch a dvou hrotů (obří brouk přestavěný na výtah, kusadly nahoru ►F1). Kdo sleze šachtou (do ►F1), musí se vyhnout nebezpečí zranění od kusadel stále napuštěných paralytyckým jedem.
+Dveře na severozápadě skrývají krátkou chodbičku a tmavou šachtu (3 m v průměru) oddělenou od ní zarezlou, ale pootevřenou zatahovací bránou. Světlo může (ale nemusí) odhalit 5 m v hluboko v šachtě nezřetelné odlesky oblých ploch a dvou hrotů (_obří brouk přestavěný na výtah, kusadly nahoru_ ►F1). Kdo sleze šachtou (do ►F1), musí se vyhnout nebezpečí zranění od kusadel stále napuštěných paralytyckým jedem.
 
 > __Ostnitá palice__
 
@@ -376,4 +376,3 @@ Východy odsud jsou dva: Po točitých schodech z ochozu dvě patra do útrob v�
 7–8  Hejno nedospělých obřích brouků (►G1)
 9      Obří brouk (►G1)
 10    Oživlé šlahouny růže (v květináči), pokusí se někoho omotat a udusit
-
