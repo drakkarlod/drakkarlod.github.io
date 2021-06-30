@@ -118,13 +118,13 @@ Kamenná pootevřená mušle z obsidiánu velikosti manželské postele, v její
 ### (14) Rituální kruh
 Do kamenné podlahy je zde vytesán rituální kruh, po obvodu jej lemují obsidiánové věčně hořící pochodně a uprostřed jsou okovy z černého kovu přibité k podlaze. Sem Trochdvarg nosí obětiny WainuKiwě a zde vyvolal portál do Říší ohně, odkud chtěl WainuKiwě přivolat vhodného partnera. Bohužel se mu to nepovedlo a místo toho přivolal mocného Ohnivého elementála z hexu (G7). Ten nyní ovládl sopku a většinu salamandrů, kteří v ní žili a jal se ovládnout i okolí. Portál se zde občas znovu zjeví a vychrlí něco z Ohnivých říší. Trochdvarg jej již nemá pod kontrolou a snaží se přijít na to, jak jej opět ovládnout.
 
-</br>Co zde je, když sem postavy přijdou:
-- **1** - Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
-- **2** - Pár přivázaných skřetů kvílejících s prosbami o milost.
-- **3** - Otevřený portál do říší ohně.
-- **4** - Nic tu není.
-- **5** - WainuKiwa, akorát žere nějakého nešťastníka.
-- **6** - Zmatený efreet, který ještě před chvílí odpočíval s dýmkou ve své letní zahradě, a kterého sem vtáhl portál, jež se před chvílí zavřel.
+</br> Co zde je, když sem postavy přijdou:
+- **1** — Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
+- **2** — Pár přivázaných skřetů kvílejících s prosbami o milost.
+- **3** — Otevřený portál do říší ohně.
+- **4** — Nic tu není.
+- **5** — WainuKiwa, akorát žere nějakého nešťastníka.
+- **6** — Zmatený efreet, který ještě před chvílí odpočíval s dýmkou ve své letní zahradě, a kterého sem vtáhl portál, jež se před chvílí zavřel.
 
 ### (15) Podzemní jezero
 Tato větší místnost je celá plná horké vody, dosti kalné, takže není dobře vidět na dno, které je provrtané spoustou děr. Od menších až po takové, kterými se protáhne samotná WainuKiwa. Občas zde číhá na kořist  a může mezi jednotlivými dírami proplouvat. Mezi rizika zde spadají hlavně gejzíry vařící vody, pak ale i hejna krabích larev skrývajících se v hluboké vodě a průlezech.
@@ -132,10 +132,10 @@ Tato větší místnost je celá plná horké vody, dosti kalné, takže není d
 ### (16) Doupě WainuKiwy
 Konec jeskyně využívá WainuKiwa jako své doupě. Je plný sypkého černého písku, ostrých obsidiánových kamenů a s pečlivě uspořádanými a naaranžovaný pozůstatky předchozích návštěv po okolí.
 
-</br>Co dělá WainuKiwa:
-- **1-3** - Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
-- **4-5** - Přerovnává si své kameny a srovnává poklady.
-- **6** - Krmí se krabími larvami.
+</br> Co dělá WainuKiwa:
+- **1-3** — Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
+- **4-5** — Přerovnává si své kameny a srovnává poklady.
+- **6** — Krmí se krabími larvami.
 
 ## Trochdvarg, ohnivý trpasličí kněz
 Tento trpaslík, zhnusen tím jak zženštile se chovají trpaslíci z Sargonea, odešel skončit svůj život v sopce. Cestou se ale propadl do sídla WainuKiwy a v té úctyhodné mohutné bestii uviděl svého boha. Svůj úděl. Přestěhoval se do jejího sídla, dal se na víru v oheň, černý kámen a lávu. Chtěl sloužit své bohyni, ale zároveň ji požádat o zničení Sargonea. Během jednoho rituálu, když se pokusil přivolat jí partnera z Říší ohně, udělal pár chyb a přivolal  místo toho silného ohnivého elementála, jenž se mu vymkl z kontroly, vysmál se mu a rozhodl se, že si zde udělá svou kolonii v hexu (G7). To se Trochdvargovi nelíbí, a proto by jej chtěl nějak zastavit. Sám to nezvládne, ale má na něj důležité informace (pravé jméno, možnost jej odvolat zpět, pokud získá část jeho věčného plamene, atd.), které rád někomu předá. 
