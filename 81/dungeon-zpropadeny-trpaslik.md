@@ -16,27 +16,33 @@ published: true
 - pro postavy na první, případně jiné nízké úrovni
 - asi 4–6 hodin hraní – zvýšená zvědavost a opatrnost hráčů může hru ještě o něco protáhnout
 
-> __Formátování__
+<div class="sidebar" markdown="1">
+### Formátování
 
-> Odkazy na jiné lokace jsou označeny šipkou a kombinací písmene označujícího patro a upřesňující číslice: Např. odkaz ►A0 znamená, že cesta vede k lokaci „díra v dlažbě“ nebo je vhodné vzít v úvahu popis této lokace kvůli prvku, který má na ni vazbu (např. konšel Schönstein).
+Odkazy na jiné lokace jsou označeny šipkou a kombinací písmene označujícího patro a upřesňující číslice: Např. odkaz ►A0 znamená, že cesta vede k lokaci „díra v dlažbě“ nebo je vhodné vzít v úvahu popis této lokace kvůli prvku, který má na ni vazbu (např. konšel Schönstein).
 Šipky na schodištích ukazují směr dolů.
->
-> Poznámky kurzívou v závorkách (_takto_) podávají informace a kontext důležité pro Vypravěče, ale postavy je nemusí zjistit ani při cíleném průzkumu. Rozhodnutí, zda tyto informace hráčům předat a za jakých podmínek, je vždy na Vypravěči, alespoň odhad cen nacházených cenností by ovšem měli hráči dostat vždy.
+
+Poznámky kurzívou v závorkách (_takto_) podávají informace a kontext důležité pro Vypravěče, ale postavy je nemusí zjistit ani při cíleném průzkumu. Rozhodnutí, zda tyto informace hráčům předat a za jakých podmínek, je vždy na Vypravěči, alespoň odhad cen nacházených cenností by ovšem měli hráči dostat vždy.
+
+</div>
 
 ## Krátké shrnutí (spoilery!)
 
 Trpasličí chlapec Tónni se z ulice propadl do krypty skrývající vstup do dávno zchátralé podzemní věže trpaslického alchymisty. Oživlý chrlič chlapce skrz tajný vstup odnesl do spodních pater k ošetření, protože si ho spletl s jedním z bývalých obyvatel. Chlapec je teď v bezpečí v luxusním salónu, v péči džina spoutaného původním majitelem, který ne náhodou zemřel při svých experimentech s oživováním mrtvol a neživých věcí. Věž se dá projít vcelku rychle a bezpečně, ale chrlič nezanechal mnoho stop, a tak musí dobrodruzi věž prohledat. Podzemí je vytvořené s myšlenkou, že hráči se musí rozhodovat mezi rychlým průchodem (záchranou chlapce) a průzkumem, který jim může přinést výdělek navíc.
 
-> __Co se tady událo?__
+<div class="sidebar" markdown="1">
+### Co se tady událo?
 
-> Město Moosberg stojí na kraji skalní plošiny u vodopádu a do jeho podloží byla kdysi tajně vytesána obytná věž pro trpaslickou rodinu Schattenbachů. V poslední generaci (před cca 300 lety) ji obývali otec Járin se dvěma syny – Árniho lákal dobrodružný život na povrchu, Flórin se oddával studiu tajemných nauk v podzemní věži. Po smrti Járina se bratři rozkmotřili, protože Flórin se nesmířil s jeho smrtí a zbytek svého života zasvětil studiu oživování, aby mohl vrátit otce mezi živé. Aby zvýšil šance na budoucí úspěch, jeho mrtvolu zmrazil v sarkofágu (►B0).
->
-> Árni už žil jen na povrchu, ale zplodil jen dcery a jméno Schattenbachů se ztratilo. Flórinovi se v jeho studiu poměrně dařilo, ale vrátit skutečný život zemřelému nebylo v jeho silách. Z odpadních látek z pokusů zmutovali v hluboké jeskyni pavouci a brouci, a vzniklí nezvaní návštěvníci začali napadat věž. Flórin věž částečně přestavěl, a protože se jeho zbrojnošům podařilo jeden velký exemplář brouka zabít, přetvořil ho pán věže na výtah.
->
-> Nakonec Flórin získal příležitost spoutat džina a vynutil si na něm několik přání: První bylo impulzivní rozhodnutí – věčně krásnou a mladou partnerku, a tak mu džin přivolal sukubu (►H1). Na druhém přání už si dal záležet, i po zkušenostech se sukubou. Chtěl, aby cokoli, čeho se dotkne (a zároveň vyřkne magickou formuli!), ožilo skutečným životem – formulace byla skutečně zdařilá, ale Flórina zradila potřeba vyzkoušet si svou novou schopnost. Ruka skřeta, které se dotknul na golemovi sešitém z různých těl, ožila, chytila ho drápy pod bradou a protrhla mu krkavici.
->
-> Když se Toník propadl do krypty (►B0), oživlý chrlič si ho spletl s Árnim a odnesl ho k ošetření do věže – celou cestu letěl a nikde Toníka nepustil. Nejdřív se zkoušel dostat do pracovny (►F5), ale protože byla zamknutá, odnesl Toníka do salónu, kde ho po dlouhé diskusi nechal džinovi. Džin mezitím Toníkovi vysvětlil, že je jediným žijícím mužským potomkem Schattenbachů, a věž by tedy měla patřit jemu.
+Město Moosberg stojí na kraji skalní plošiny u vodopádu a do jeho podloží byla kdysi tajně vytesána obytná věž pro trpaslickou rodinu Schattenbachů. V poslední generaci (před cca 300 lety) ji obývali otec Járin se dvěma syny – Árniho lákal dobrodružný život na povrchu, Flórin se oddával studiu tajemných nauk v podzemní věži. Po smrti Járina se bratři rozkmotřili, protože Flórin se nesmířil s jeho smrtí a zbytek svého života zasvětil studiu oživování, aby mohl vrátit otce mezi živé. Aby zvýšil šance na budoucí úspěch, jeho mrtvolu zmrazil v sarkofágu (►B0).
+
+Árni už žil jen na povrchu, ale zplodil jen dcery a jméno Schattenbachů se ztratilo. Flórinovi se v jeho studiu poměrně dařilo, ale vrátit skutečný život zemřelému nebylo v jeho silách. Z odpadních látek z pokusů zmutovali v hluboké jeskyni pavouci a brouci, a vzniklí nezvaní návštěvníci začali napadat věž. Flórin věž částečně přestavěl, a protože se jeho zbrojnošům podařilo jeden velký exemplář brouka zabít, přetvořil ho pán věže na výtah.
+
+Nakonec Flórin získal příležitost spoutat džina a vynutil si na něm několik přání: První bylo impulzivní rozhodnutí – věčně krásnou a mladou partnerku, a tak mu džin přivolal sukubu (►H1). Na druhém přání už si dal záležet, i po zkušenostech se sukubou. Chtěl, aby cokoli, čeho se dotkne (a zároveň vyřkne magickou formuli!), ožilo skutečným životem – formulace byla skutečně zdařilá, ale Flórina zradila potřeba vyzkoušet si svou novou schopnost. Ruka skřeta, které se dotknul na golemovi sešitém z různých těl, ožila, chytila ho drápy pod bradou a protrhla mu krkavici.
+
+Když se Toník propadl do krypty (►B0), oživlý chrlič si ho spletl s Árnim a odnesl ho k ošetření do věže – celou cestu letěl a nikde Toníka nepustil. Nejdřív se zkoušel dostat do pracovny (►F5), ale protože byla zamknutá, odnesl Toníka do salónu, kde ho po dlouhé diskusi nechal džinovi. Džin mezitím Toníkovi vysvětlil, že je jediným žijícím mužským potomkem Schattenbachů, a věž by tedy měla patřit jemu.
 Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž trochu zkoumat a její historie je zaujeme, domyslí si to všechno snadno sami.
+
+</div>
 
 ## Jak se sem můžou postavy dostat?
 
@@ -44,15 +50,18 @@ Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž troch
 - Méně „náhodnou“ variantou může být toto: Konšelé města Moosberg najímají potulné dobrodruhy do městské gardy, aby se s nimi nemuseli dohadovat o odevzdávání zbraní. Počítají s tím, že když dají dobrodruhům vydělat a svěří jim zodpovědnost, vyhnou se výtržnostem a sporům s místními obyvateli. Postavy tak budou přivolány k sesuvu jakožto nejbližší hlídka a konšelem budou přímo zaúkolovány najít jeho syna. (_Vhodné pro jednorázové hry nebo seznamovací dobrodružství._)
 - Pokud budou dobrodruzi záhadu zmizelého chlapce řešit až po delší době (najatí konšelem, přihlásí se na inzerát…), je třeba počítat s tím, že oživlý chrlič již bude zpět na svém místě v kryptě (►B0).
 
-> __Jaké obtížnosti? V jakých patrech?__
+<div class="sidebar" markdown="1">
+### Jaké obtížnosti? V jakých patrech?
 
-> V nadzemním patře (lokace označené písmenem A) nemusíš po hráčích chtít žádný hod ani zdlouhavé popisy, není tu nic nebezpečného a nemělo by se nic zvrtnout.
->
-> Podzemní patra B a C nejsou v zásadě nebezpečná, ale je potřeba, aby hráči poměrně podrobně popisovali konání svých postav. Funkční nápady odměňuj úspěchem bez hodu, nefunkční hráčům rozmluv – jejich dobrodruzi nejsou hloupí a nějaké zkušenosti už určitě mají. Házet může být potřeba jen v případě, že usoudíš, že se postavy pustily do něčeho, kde jim opravdu hrozí újma (např. jezení starých zavařenin ve sklepě) a úspěch není jistý. Patra D a E (obě patra společenského sálu) jsou také z většiny bezpečná – ovšem hráčský popis je nutný a nějaká nebezpečí už můžou na postavy číhat.
->
-> V nižších patrech (►E5 – chodba, F – zázemí a hloub) už na postavy čeká několik pastí a přímých nebezpečí. Tady postupuj podle pravidel, která používáte, a nezapomeň brát v úvahu popis jednání postav – pokud máš sebemenší pochybnosti o postupu postav, jeho smysluplnosti, nebo se ti zdá, že hráči zanedbávají nebezpečí, kterých by si postavy byly vědomy, neboj se _vyžádat si detailní popis jednání postav_, a hlavně se ujisti přímou otázkou, zda berou v úvahu všechny zjevné varovné signály (případně je zopakuj). S varovnými signály nešetři a vždy dej hráčům okamžik na zareagování, i kdyby ve spěchu a bez dlouhého rozmýšlení. Postavy jsou totiž na rozdíl od hráčů sice začínající, ale schopní dobrodruzi, určitě by nepřehlédly smrtelné nebezpečí, které není opravdu pečlivě zamaskované.
->
-> Pokud používáš náhodné tabulky pro zvýšení napětí, obtížnosti apod., na konci dokumentu jednu najdeš. Házej si na ni od okamžiku, kdy se postavy dostanou do patra E (příp. D), a to 1k6 za každé dvě 6minutové směny (nebo 1k10 za každou desetiminutovou směnu, pokud počítáš směny klasicky po 10 minutách). Pokud ti padne na kostce jednička, urči hodem kostkou setkání/hrozbu z tabulky – kdybys měl pocit, že se zrovna tematicky nehodí, vyber jinou hrozbu dle svého uvážení. Pokud počítáš směny, podívej se na popis chrliče (►B0) a poznamenej si, kdy vyrazí na cestu zpět nahoru do krypty.
+V nadzemním patře (lokace označené písmenem A) nemusíš po hráčích chtít žádný hod ani zdlouhavé popisy, není tu nic nebezpečného a nemělo by se nic zvrtnout.
+
+Podzemní patra B a C nejsou v zásadě nebezpečná, ale je potřeba, aby hráči poměrně podrobně popisovali konání svých postav. Funkční nápady odměňuj úspěchem bez hodu, nefunkční hráčům rozmluv – jejich dobrodruzi nejsou hloupí a nějaké zkušenosti už určitě mají. Házet může být potřeba jen v případě, že usoudíš, že se postavy pustily do něčeho, kde jim opravdu hrozí újma (např. jezení starých zavařenin ve sklepě) a úspěch není jistý. Patra D a E (obě patra společenského sálu) jsou také z většiny bezpečná – ovšem hráčský popis je nutný a nějaká nebezpečí už můžou na postavy číhat.
+
+V nižších patrech (►E5 – chodba, F – zázemí a hloub) už na postavy čeká několik pastí a přímých nebezpečí. Tady postupuj podle pravidel, která používáte, a nezapomeň brát v úvahu popis jednání postav – pokud máš sebemenší pochybnosti o postupu postav, jeho smysluplnosti, nebo se ti zdá, že hráči zanedbávají nebezpečí, kterých by si postavy byly vědomy, neboj se _vyžádat si detailní popis jednání postav_, a hlavně se ujisti přímou otázkou, zda berou v úvahu všechny zjevné varovné signály (případně je zopakuj). S varovnými signály nešetři a vždy dej hráčům okamžik na zareagování, i kdyby ve spěchu a bez dlouhého rozmýšlení. Postavy jsou totiž na rozdíl od hráčů sice začínající, ale schopní dobrodruzi, určitě by nepřehlédly smrtelné nebezpečí, které není opravdu pečlivě zamaskované.
+
+Pokud používáš náhodné tabulky pro zvýšení napětí, obtížnosti apod., na konci dokumentu jednu najdeš. Házej si na ni od okamžiku, kdy se postavy dostanou do patra E (příp. D), a to 1k6 za každé dvě 6minutové směny (nebo 1k10 za každou desetiminutovou směnu, pokud počítáš směny klasicky po 10 minutách). Pokud ti padne na kostce jednička, urči hodem kostkou setkání/hrozbu z tabulky – kdybys měl pocit, že se zrovna tematicky nehodí, vyber jinou hrozbu dle svého uvážení. Pokud počítáš směny, podívej se na popis chrliče (►B0) a poznamenej si, kdy vyrazí na cestu zpět nahoru do krypty.
+
+</div>
 
 ## Popisy lokací
 
@@ -79,11 +88,14 @@ V prachu pod schody lze najít tenkou rýhu ve tvaru obdélníku cca 2×1 m. D
 
 Okřídlený chrlič je zaprášený a nehybný, na podstavci je pouze položený. Pokud s ním postavy začnou manipulovat, zjistí, že podstavec se vertikálně posouvá na pružině asi 5 cm nahoru a dolů. Když na něm sedí chrlič, je ve spodní pozici, když se dostane zcela do horní pozice, otevřou se tajné padací dveře pod schody (je to slyšet, ale schody zakrývají přímý pohled). Prázdný podstavec na druhé straně je v horní pozici (lze najít škrábance kamene o kámen na zdi) a na jeho horní ploše je místo bez prachu po druhém chrliči).
 
-> __Reliéf v kryptě, oživlý chrlič__
+<div class="sidebar" markdown="1">
+### Reliéf v kryptě, oživlý chrlič
 
-> Trpaslík v suknici a kápi, drží válečnou palici a hůlku zdobenou pentagramem. Je stylizovaný do tvaru věže, nad hlavou (kápí) je vytesané cimbuří věže, na kterém sedí dva okřídlení chrliči nápadně podobní chrliči na podstavci ve zdi. Okolo věže je až ke stěnám vytesaná krajina okolo města Moosberg (zde vodopád a zalesněné hory). Reliéf nic neskrývá, je to jen několik spojených kamenných bloků.
->
-> Až (pokud) dobrodruhové potkají oživlého chrliče, bude nepřátelsky vyžadovat pozvánku, ale snadno se nechá podvést, je poměrně hloupý. (_Případný boj s chrličem by byl zdlouhavý kvůli jeho kamenné přirozené zbroji a slabým útokům._) Cesta s Toníkem v pařátech až do salónu ve spodním patře a následná diskuse s džinem mu zabrala 18 šestiminutových směn (desetiminutových směn doporučuji 15), poté letí zpět do krypty rychlostí dvou pater (H+G, F+E, C+B) za 1 směnu.
+Trpaslík v suknici a kápi, drží válečnou palici a hůlku zdobenou pentagramem. Je stylizovaný do tvaru věže, nad hlavou (kápí) je vytesané cimbuří věže, na kterém sedí dva okřídlení chrliči nápadně podobní chrliči na podstavci ve zdi. Okolo věže je až ke stěnám vytesaná krajina okolo města Moosberg (zde vodopád a zalesněné hory). Reliéf nic neskrývá, je to jen několik spojených kamenných bloků.
+
+Až (pokud) dobrodruhové potkají oživlého chrliče, bude nepřátelsky vyžadovat pozvánku, ale snadno se nechá podvést, je poměrně hloupý. (_Případný boj s chrličem by byl zdlouhavý kvůli jeho kamenné přirozené zbroji a slabým útokům._) Cesta s Toníkem v pařátech až do salónu ve spodním patře a následná diskuse s džinem mu zabrala 18 šestiminutových směn (desetiminutových směn doporučuji 15), poté letí zpět do krypty rychlostí dvou pater (H+G, F+E, C+B) za 1 směnu.
+
+</div>
 
 ### C0 – sklepní chodba
 
@@ -159,13 +171,16 @@ Ptáky lze nalákat do klícky na sříbrnou lžičku, kterou pták ovšem ovše
 
 Pohled do předsálí (►E2) odhalí pootevřené vstupní dveře na jihu, ozbrojenou figuru (_oživlé brnění bez života_), závěs ve zdi na východě a dvoje dveře ve zdi na západě.
 
-> __Bytosti v sálu a okolí jako nestvůry__
+<div class="sidebar" markdown="1">
+### Bytosti v sálu a okolí jako nestvůry
 
-> Kamenní slavíci by neměli být moc nebezpeční, ale nemají ani moc důvodů být agresivní. Mají silnou přirozenou zbroj, snadno se vyhýbají, ale jejich útok je velmi slabý.
->
-> Obří stonožky, bledé, asi 50 cm dlouhé, mají slabá kusadla s paralytickým jedem, ale jsou zranitelné a poměrně pomalé. Jsou agresivní a jejich cílem je ulovit někoho z příchozích.
->
-> Záchodoví brouci brání své teritorium. Mají pevné krovky a dokážou hbitě střílet lepivá vlákna a za ně se přitahovat ke stěnám. Jejich kusadla jsou ostrá a odpovídají útoku bojovníka na 1. úrovni krátkým mečem.
+Kamenní slavíci by neměli být moc nebezpeční, ale nemají ani moc důvodů být agresivní. Mají silnou přirozenou zbroj, snadno se vyhýbají, ale jejich útok je velmi slabý.
+
+Obří stonožky, bledé, asi 50 cm dlouhé, mají slabá kusadla s paralytickým jedem, ale jsou zranitelné a poměrně pomalé. Jsou agresivní a jejich cílem je ulovit někoho z příchozích.
+
+Záchodoví brouci brání své teritorium. Mají pevné krovky a dokážou hbitě střílet lepivá vlákna a za ně se přitahovat ke stěnám. Jejich kusadla jsou ostrá a odpovídají útoku bojovníka na 1. úrovni krátkým mečem.
+
+</div>
 
 ### E2 – předsálí
 
@@ -183,19 +198,22 @@ Dveře na jihozápadě ukrývají reprezentativně pojatou latrínu se stolečke
 
 Dveře na severozápadě skrývají krátkou chodbičku a tmavou šachtu (3 m v průměru) oddělenou od ní zarezlou, ale pootevřenou zatahovací bránou. Světlo může (ale nemusí) odhalit 5 m v hluboko v šachtě nezřetelné odlesky oblých ploch a dvou hrotů (_obří brouk přestavěný na výtah, kusadly nahoru_ ►F1). Kdo sleze šachtou (do ►F1), musí se vyhnout nebezpečí zranění od kusadel stále napuštěných paralytyckým jedem.
 
-> __Ostnitá palice__
+<div class="sidebar" markdown="1">
+### Ostnitá palice
 
-> Magická palice (přidává +1 do útoku a zranění), každý zásah způsobí, že okolo zasaženého vyrostou na okamžik růžové šlahouny.
+Magická palice (_přidává +1 do útoku a zranění_), každý zásah způsobí, že okolo zasaženého vyrostou na okamžik růžové šlahouny.
+
+</div>
 
 ### E3 – svažující se chodba
 
-__Od vstupu__ (_cesta z parketu_ ►E1): Krátká chodbička za dveřmi se lomí na sever a rozšiřuje, dál pokračuje dlouhá oblouková chodba, která se v širokém kruhu stáčí vpravo a znatelně klesá (nakonec chodba opíše téměř celý kruh a zároveň klesne do nižšího patra ►F0). Hned proti vstupu visí tapiserie (s obrazem oživení trpaslíků z kamene podle jejich mytologie) a v rovnoměrných rozestupech je zde celkem 6 tapiserií (jejich popisy viz odd. Průzkum). Chodba je tmavá, vlhká, po kamenných stěnách se částečně rozlézá plíseň. V místě, kde chodba opíše půlkruh, tedy na severovýchodě komplexu, stojí ve výklenku funkční oživlé brnění (téměř shodné s brněním v předsálí ►E2), s kopím v ruce bude bránit dobrodruhům v průchodu. Brnění je méně prorezlé, plně funkční, na přilbě má písmeno/runu B. Asi 3 m za brněním je ve stropě vysoká šachta uzavřená zvrchu dřevěným poklopem (►E0). Poslední část chodby na jihu je samostatnou lokací (►F0).
+__Od vstupu__ (_cesta z parketu_ ►E1): Krátká chodbička za dveřmi se lomí na sever a rozšiřuje, dál pokračuje dlouhá oblouková chodba, která se v širokém kruhu stáčí vpravo a znatelně klesá (_nakonec chodba opíše téměř celý kruh a zároveň klesne do nižšího patra_ ►F0). Hned proti vstupu visí tapiserie (s obrazem oživení trpaslíků z kamene podle jejich mytologie) a v rovnoměrných rozestupech je zde celkem 6 tapiserií (jejich popisy viz odd. Průzkum). Chodba je tmavá, vlhká, po kamenných stěnách se částečně rozlézá plíseň. V místě, kde chodba opíše půlkruh, tedy na severovýchodě komplexu, stojí ve výklenku funkční oživlé brnění (téměř shodné s brněním v předsálí ►E2), s kopím v ruce bude bránit dobrodruhům v průchodu. Brnění je méně prorezlé, plně funkční, na přilbě má písmeno/runu B. Asi 3 m za brněním je ve stropě vysoká šachta uzavřená zvrchu dřevěným poklopem (►E0). Poslední část chodby na jihu je samostatnou lokací (►F0).
 
 (_Cesta šachtou z_ ►E0): Na jih a na sever vede oblouková chodba, přímo na stěně pod šachtou visí zašlá a plesnivá tapiserie. Na sever chodba stoupá do svahu a asi 3 m odsud stojí brnění s kopím, které přešlápne, když dobrodruhy uvidí, ale dál si jich nevšímá. Na jihu se v oblouku stáčí na západ a přechází v následující lokaci ►F0.
 
 __Průzkum:__ Oživlé brnění (se značkou B) bude bránit v průchodu dolů každému, kdo na sobě nebude mít hábit z šatny (►E2). Nepohne se ovšem od svého stanoviště víc než tři kroky (cca 2 m). Střelecké útoky proti brnění mají nevýhodu (malý postih), útoky na přilbu výhodu (malý bonus), sražení přilby nebo vytržení zbraně z rukavic způsobí, že se brnění rozsype a oživovací kouzlo vyprchá.
 
-Všechny tapiserie (rozměry cca 2×3 m) jsou poškozené vlhkostí a plísní, váží cca 15 kg každá (kdyby se je podařilo vyčistit a opravit, měla by každá cenu cca 15 zl, vše jsou výjevy vzniku života či oživlé neživé věci). Naproti každé tapiserii je ve zdi malá olejová lampička se žluklým, vyschlým olejem a znehodnoceným knotem. Postupně od vstupu do chodby tapiserie zobrazují:
+Všechny tapiserie (rozměry cca 2×3 m) jsou poškozené vlhkostí a plísní, váží cca 15 kg každá (_kdyby se je podařilo vyčistit a opravit, měla by každá cenu cca 15 zl, vše jsou výjevy vzniku života či oživlé neživé věci_). Naproti každé tapiserii je ve zdi malá olejová lampička se žluklým, vyschlým olejem a znehodnoceným knotem. Postupně od vstupu do chodby tapiserie zobrazují:
 
 - (a) Probuzení prvního trpaslíka z kamene božským dotekem,
 - (b) sochařského mistra vytesávajícího si nevěstu z bílého mramoru,
@@ -208,27 +226,32 @@ Všechny tapiserie (rozměry cca 2×3 m) jsou poškozené vlhkostí a plísní,
 
 __Uvnitř:__ Naproti tapiserii s asketou (►E3–f) je výklenek, v němž je na malé dřevěné desce namalovaný stylizovaný obraz ruky, jak vkládá minci do štěrbiny v porcelánovém prasátku (x). Stylem sem obraz vůbec nezapadá, zběžný průzkum odhalí, že štěrbina není jen namalovaná, ale vede hluboko do zdi.
 
-Zcela na jihu se 3 m vysoká chodba dvakrát stáčí zpět o 180 °, nejprve doprava, potom doleva. V první otočce je pověšená ještě jedna tapiserie (y) zobrazující trpaslické sympózium nad nedokončeným frankensteinovským monstrem (variace na Rembrandtovu Anatomii dr. Tulpa), v duhé otáčce visí přes celou stěnu dřevěný reliéf (z) zobrazující boj trpaslíků a lidí uvnitř městkých hradeb proti velikému drakovi. Lidé jsou ozbrojeni pouze luky, trpaslíci pouze kušemi.
+Zcela na jihu se 3 m vysoká chodba dvakrát stáčí zpět o 180 °, nejprve doprava, potom doleva. V první otočce je pověšená ještě jedna tapiserie (y) zobrazující _trpaslické sympózium nad nedokončeným frankensteinovským monstrem_ (variace na Rembrandtovu _Anatomii dr. Tulpa_), v duhé otáčce visí přes celou stěnu dřevěný reliéf (z) zobrazující boj trpaslíků a lidí uvnitř městkých hradeb proti velikému drakovi. Lidé jsou ozbrojeni pouze luky, trpaslíci pouze kušemi.
 
 (_Nenechávej hráče jen tak odejít od reliéfu a čti dál v odd. Průzkum._)
 
 Z chodby od reliéfu je vidět malá předsíň se zatahovací bránou podobnou té v předchozím patře v předsálí (►E2), za touhle něco velkého je. Na jižní stěně jsou dveře.
 
-__Průzkum:__ Vhodí-li do štěrbiny v obrazu někdo minci, propadne a někde za zdí se ozve zvuk dopadnutí na plechovou misku a nic víc (později platba jedné mince zablokuje past v reliéfu pro jedno sešlápnutí, více mincí více sešlápnutí). 
+__Průzkum:__ Vhodí-li do štěrbiny v obrazu někdo minci, propadne a někde za zdí se ozve zvuk dopadnutí na plechovou misku a nic víc (_později platba jedné mince zablokuje past v reliéfu pro jedno sešlápnutí, více mincí více sešlápnutí_). 
 
-V místech naznačených ve vypravěčské mapě jsou ve zdech vertikální rýhy ve zdech, asi 2 cm hluboké i široké. Mezi nimi je vždy ve stropě podobná rýha, ta ovšem končí začerněnou kovovou plochou (je to spodní hrana padací mříže; že je to kov, lze poznat jen dotekem rukou nebo kovovým nástrojem, např. hrotem kopí).
-Čtyři na reliéfu vyobrazení trpaslíci mají místo očí temné otvory zhruba na šířku prstu, hluboké tak, že šíp z dlouhého luku lze zatlačit až po letky. (Jsou to ústí šipkové pasti.) 
+V místech naznačených ve vypravěčské mapě jsou ve zdech vertikální rýhy ve zdech, asi 2 cm hluboké i široké. Mezi nimi je vždy ve stropě podobná rýha, ta ovšem končí začerněnou kovovou plochou (_je to spodní hrana padací mříže; že je to kov, lze poznat jen dotekem rukou nebo kovovým nástrojem, např. hrotem kopí_).
+
+Čtyři na reliéfu vyobrazení trpaslíci mají místo očí temné otvory zhruba na šířku prstu, hluboké tak, že šíp z dlouhého luku lze zatlačit až po letky. (_Jsou to ústí šipkové pasti._) 
 
 Uprostřed poslední části chodby (označeno křížkem, mezi reliéfem a předsíňkou ►F1) je v šířce celé chodby asi 1metrová dlaždice (maskovaná jako soustava více menších dlaždic nerozeznatelných od ostatních v chodbě). Kdo na ni vstoupí, ucítí, že se s mírným pružinovým odporem propadla asi o 2 cm a za reliéfem se ozve zvuk – buď krátkého zakřípění dřeva o kov a cvaknutí (jako natažení nějakého mechanismu), pokud nikdo nevhodil minci do prasátka; anebo opět cinknutí mince o plechovou misku. Stejně i v případě, že by dlaždici někdo zatížil aspoň 5kg předmětem, nebo na dlaždici zatlačil např. holí. Uvolnění dlaždice bez zaplacení sputí padací mříže, které se s rachotem během vteřiny spustí k zemi a pevně drží v rýhách ve zdech; a zároveň přijde z reliéfu výstřel (z kuše) směrem k dlaždici. Poté každé bojové kolo přijdou další čtyři výstřely, střídavě k tapiserii a k dlaždici.
 
-Ke zvednutí spadnuté mříže je potřeba síla alespoň dvou mužů, navíc svou vahou stále padá k zemi. (Mříže se zvedají klikou umístěnou u východní stěny latríny ►F1.)
+Ke zvednutí spadnuté mříže je potřeba síla alespoň dvou mužů, navíc svou vahou stále padá k zemi. (_Mříže se zvedají klikou umístěnou u východní stěny latríny_ ►F1.)
 
-> __Jak signalizovat past v reliéfu? Jak funguje?__
+<div class="sidebar" markdown="1">
+### Jak signalizovat past v reliéfu? Jak funguje?
 
-> Pokud hráči nebudou reliéf nebo podlahu v chodbě zkoumat a šlápnou na dlaždici spouštějící past, zastav jejich pohyb a popiš jim, že dlaždice se při došlápnutí propadla asi o 2 cm a za reliéfem se buď ozvalo plechové cinknutí, anebo natáhnutí mechanismu. V tuto chvíli klidně postavám řekni o rýhách ve zdech a nech hráče se se situací vyrovnat, ale mysli na dvě věci: Zaprvé, past vystřelí, až když tlak na dlaždici povolí. Zadruhé, sešlápnutá dlaždice je trochu vratká a může se spustit, pokud se přes ni někdo pokusí přeběhnout, a to i když na ní právě stojí jiný dobrodruh – opatrné popošlapování ale může být v tomto případě bezpečné.
->
-> Chceš-li být na hráče mírnější a včas je varovat, můžeš v tapiserii trpaslického sympózia hráčům odhalit několik děr od šipek, případně nechat jednu ztrouchnivělou šipku stále zaraženou do hlavy jednoho z mudrců. Směr výstřelu pochopitelně vychází z reliéfu. Pak ovšem může vyvstat otázka, kdo past spustil a kdo nakonec opět vytáhl bránu, ale už se neobtěžoval s vytahováním šipky. Tuto záhadu snad může vysvětlit jen přítomnost koster zbrojnošů ve strážnici ►I0, kteří mohli přežít svého pána jen o několik hodin a zemřít na stráži.
+Pokud hráči nebudou reliéf nebo podlahu v chodbě zkoumat a šlápnou na dlaždici spouštějící past, zastav jejich pohyb a popiš jim, že dlaždice se při došlápnutí propadla asi o 2 cm a za reliéfem se buď ozvalo plechové cinknutí, anebo natáhnutí mechanismu. V tuto chvíli klidně postavám řekni o rýhách ve zdech a nech hráče se se situací vyrovnat, ale mysli na dvě věci: Zaprvé, past vystřelí, až když tlak na dlaždici povolí. Zadruhé, sešlápnutá dlaždice je trochu vratká a může se spustit, pokud se přes ni někdo pokusí přeběhnout, a to i když na ní právě stojí jiný dobrodruh – opatrné popošlapování ale může být v tomto případě bezpečné.
+
+Chceš-li být na hráče mírnější a včas je varovat, můžeš v tapiserii trpaslického sympózia hráčům odhalit několik děr od šipek, případně nechat jednu ztrouchnivělou šipku stále zaraženou do hlavy jednoho z mudrců. Směr výstřelu pochopitelně vychází z reliéfu. Pak ovšem může vyvstat otázka, kdo past spustil a kdo nakonec opět vytáhl bránu, ale už se neobtěžoval s vytahováním šipky. Tuto záhadu snad může vysvětlit jen přítomnost koster zbrojnošů ve strážnici ►I0, kteří mohli přežít svého pána jen o několik hodin a zemřít na stráži.
+
 Jak vlastně past funguje? V malé místnosti mezi dřevěným reliéfem a obrazem s pokladničkou je zazděný oživený kamenný strážce s pěti mechanismy podobnými kuším. Dvěma otvory hledí do chodby a vybírá pro střely otvory s nejvhodnějším směřováním. Automaticky blokuje spuštění pasti, pokud na kontrolní misku dopadne mince. Po minutě klidu přesune obětované mince do pokladničky, kterou lze otevřít z kuchyně (►F2) vedle ohniště.
+
+</div>
 
 ### F1 – předsíňka
 __Uvnitř:__ Tato místnost a celé patro už jsou nejen zaprášené, ale i poměrně vlhké. Malá místnost ústí na severu ve větvící se chodbu s několika dveřmi. Na jižní stěně jsou dřevěné dveře, na západní stěně je zatahovací kovová brána, za ní je nějaký velký lesknoucí se stroj či mechanismus.
@@ -241,7 +264,7 @@ __Průzkum:__ Stroj za bránou je podivný třímetrový osminohý (!) brouk vyv
 
 (_Jedno kapátko žluté tekutiny posune již oživeného brouka o jedno patro nahoru, jiné oživené předměty budou postupovat dopředu, vypití lektvaru způsobí pocit lehké euforie a na minutu mírně urychlí pohyb živého tvora._)
 
-Za dveřmi na jihu je místnost zčásti zaplněná silnými pavučinovými vlákny. Je to latrína, přímo proti dveřím je kameninov lavor (bezcenný), na východní stěně je velká kovová klika. (Klika zvedá padací brány ►F0, protáčí se, pokud jsou brány zvednuté.) 
+Za dveřmi na jihu je místnost zčásti zaplněná silnými pavučinovými vlákny. Je to latrína, přímo proti dveřím je kameninov lavor (bezcenný), na východní stěně je velká kovová klika. (_Klika zvedá padací brány_ ►F0, _protáčí se, pokud jsou brány zvednuté._) 
 
 ### F2 – kuchyně
 
@@ -263,7 +286,7 @@ __Zvenku:__ Okolo obou dveří prosvítá zevnitř světlo, dveře z chodby jsou
 
 __Uvnitř:__ Nepravidelná místnost je narozdíl od zbytku patra docela zachovalá a dobře osvětlená, po stropě lezou sem a tam desítky asi 15cm brouků, jejichž zadečky vydávají silné světlo (a zblízka i žár).
 
-Uprostřed místnosti je velký ocelový stůl, na něm leží kostra zjevně poskládaná z různých těl různých humanoidů, kostře chybí levá ruka. Ta je pod stolem, prsty zaklíněná pod čelistí lebky další kostry, která leží v brokátovém hábitu vedle stolu (druhá mrtvola je Flórin Schattenbach, poslední pán věže).
+Uprostřed místnosti je velký ocelový stůl, na něm leží kostra zjevně poskládaná z různých těl různých humanoidů, kostře chybí levá ruka. Ta je pod stolem, prsty zaklíněná pod čelistí lebky další kostry, která leží v brokátovém hábitu vedle stolu (_druhá mrtvola je Flórin Schattenbach, poslední pán věže_).
 
 Na stole u severní stěny jsou skleněné a měděné alchymické (chemické) aparatury. U zdi leží na stole rozevřený deník zasažený fialovou plísní.
 
@@ -271,7 +294,7 @@ Celá východní stěna je porostlá tenkou vrstvou fialové plísně. Dveře na
 
 V jihovýhodním rohu místnosti je výklenek s policemi a vitrínou. Severovýchodní roh místnosti zakrývá závěs.
 
-__Průzkum:__ Kostra pod stolem patřila trpaslíkovi, byl oblečený v brokátovém hábitu (15 zl), který stačí jen dobře vyprat. Kolem zápěstí má stříbrný náramek, na kterém je malý klíček (od pokladničky v kuchyni) a 30 cm dlouhá ebenová hůlka zdobená stříbrným vykládáním ve tvaru pentagramu (je to magický předmět – kouzelné ohnisko se silou +1, díky kterému lze ovládat funkční oživlá brnění v této věži).
+__Průzkum:__ Kostra pod stolem patřila trpaslíkovi, byl oblečený v brokátovém hábitu (_15 zl_), který stačí jen dobře vyprat. Kolem zápěstí má stříbrný náramek, na kterém je malý klíček (_od pokladničky v kuchyni_) a 30 cm dlouhá ebenová hůlka zdobená stříbrným vykládáním ve tvaru pentagramu (_je to magický předmět – kouzelné ohnisko se silou +1, díky kterému lze ovládat funkční oživlá brnění v této věži_).
 
 Alchymické aparatury jsou křehké a ne zcela zachovalé, ale cenné (2 × 10 zl).
 
@@ -279,7 +302,7 @@ Poslední popsaná stránka deníku lze částečně přečíst: _„Konečně j
 
 Za závěsem je palanda s polštáři a přikrývkou.
 
-Na policích a ve vitríně je plno flakónů, většinou prázdných. Z použitelných jeden flakónek obsahuje fialovou tekutinou, tři flakónky bledě modrou tekutinu (léčivý lektvar, vyléčí zranění, jaké by způsobil útok válečníka na 1. úrovni krátkým mečem).
+Na policích a ve vitríně je plno flakónů, většinou prázdných. Z použitelných jeden flakónek obsahuje fialovou tekutinou, tři flakónky bledě modrou tekutinu (_léčivý lektvar, vyléčí zranění, jaké by způsobil útok válečníka na 1. úrovni krátkým mečem_). Je tu také velká sklenice, ve které zbývá ještě jedna dávka žlutého lektvaru (viz ►F1).
 
 ### F6 – kamrlíky
 
@@ -295,33 +318,39 @@ __Uvnitř:__ Za dvěřmi ze zbrojnice (►F7) je malá plošina, z níž vycház
 
 (_Pokud je čas na hod na náhodné setkání, hoď dvakrát, ale nevybírej z tabulky: Setkáním je tu vždy Obří brouk, ať už příchozí z hlubiny_ (_srovnej_ ►I0), _nebo z jídelny_ (►G1). _Brouk neprojde dveřmi do zbrojnice_ (►F7) _a shození do hlubiny vyžaduje od dobrodruhů dva úspěšné cílené útoky v jednom bojovém kole.)
 
-> __Opravdu mám nechat postavy umřít pádem do hlubiny?__
+<div class="sidebar" markdown="1">
+### Opravdu mám nechat postavy umřít pádem do hlubiny?
 
-> Takhle – šance na spadnutí by neměla být až tak vysoká, resp. měla by být šance na zachycení. Ale pokud hráčům popíšeš, jak schody vypadají a co dobrodruhům hrozí, a přesto je vyšlou po kluzkých schodech bez jištění, pak si svých postav příliš neváží a jejich smrt si zaslouží. Nezapomeň, že dobré nápady bys měl odměnit, klidně úspěchem úplně bez hodu.
+Takhle – šance na spadnutí by neměla být až tak vysoká, resp. měla by být šance na zachycení. Ale pokud hráčům popíšeš, jak schody vypadají a co dobrodruhům hrozí, a přesto je vyšlou po kluzkých schodech bez jištění, pak si svých postav příliš neváží a jejich smrt si zaslouží. Nezapomeň, že dobré nápady bys měl odměnit, klidně úspěchem úplně bez hodu.
+
+</div>
 
 ### G0 – chodba plná pavučin
 
-__Uvnitř:__ Schody z vyššího patra (F) ústí do chodby, která je od po třech metrech od hrany schodů překřížená silnými pavučinovými vlákny (silnějšími než v latrínách ►E2, ►F1). Vlákna jsou částečně potrhaná a spadlá na zem (proletěl tudy chrlič s Toníkem). V rozšíření chodby je několik dvěří, včetně dvou dvoukřídlých. Oboje dvoukřídlé dveře jsou vyvrácené.
+__Uvnitř:__ Schody z vyššího patra (F) ústí do chodby, která je od po třech metrech od hrany schodů překřížená silnými pavučinovými vlákny (silnějšími než v latrínách ►E2, ►F1). Vlákna jsou částečně potrhaná a spadlá na zem (_proletěl tudy chrlič s Toníkem_). V rozšíření chodby je několik dvěří, včetně dvou dvoukřídlých. Oboje dvoukřídlé dveře jsou vyvrácené.
 
 Chodbou lze projít, ale postup je pomalý (3 m za dvě bojová kola) a je šance (1/6 za 3 m pohybu), že se do vláken zachytí nějaký předmět, který postava nese a bude ho dlouho vytrhávat. Prosekávání se ostrou zbraní je stejně pomalé, předměty se nezachycují, ale sekání po 3 bojových kolech zburcuje osminohého Obřího brouka z jídelny (►G1) a ten zaútočí dobrodruhy. Pokud je v ničení zapojený oheň, Obří brouci z obou místností vyrazí do útoku.
 
-Na jihozápadě je opět vidět zatahovací kovová brána do šachty a dvoje schody: točité na jihu vedou přes dvě patra do strážnice (►I0), rovné na západě do předsíně luxusního patra (►H0). (Pokud nehraješ na počítání směn, tady je ideální příležitost potkat vracejícího se oživlého chrliče, viz ►B0.)
+Na jihozápadě je opět vidět zatahovací kovová brána do šachty a dvoje schody: točité na jihu vedou přes dvě patra do strážnice (►I0), rovné na západě do předsíně luxusního patra (►H0). (_Pokud nehraješ na počítání směn, tady je ideální příležitost potkat vracejícího se oživlého chrliče, viz_ ►B0.)
 
 __Průzkum:__ Místnosti za vyvrácenými dveřmi (►G1, ►G2) jsou plné vláken a kokonů, v každé je jeden nehybný osminohý Obří brouk (pokud je neprobralo ničení vláken). V jídelně (►G1) se na stole pod vlákny lesknou stříbrné příbory. V herně (►G2) jsou občas ve vláknech vidět vybělené kosti a u dvěří se pod vlákny na zemi válí stará plesnivá kuchařská čepice. 
 
-> __Obří brouci_
+<div class="sidebar" markdown="1">
+### Obří brouci
 
-> Jsou poměrně pomalí a velcí (jen nesnadno se vejdou do úzkých chodeb), ale mají pevné krovky (= střední či lehké brnění), ostré bodce na konci každé z osmi nohou (zaútočí dvakrát za bojové kolo s dosahem 3 m) a jedem v kusadlech dokážou paralyzovat.
+Jsou poměrně pomalí a velcí (jen nesnadno se vejdou do úzkých chodeb), ale mají pevné krovky (= střední či lehké brnění), ostré bodce na konci každé z osmi nohou (zaútočí dvakrát za bojové kolo s dosahem 3 m) a jedem v kusadlech dokážou paralyzovat.
+
+</div>
 
 ### G1 – jídelna
 
-__Uvnitř:__ V jídelně je v krátkodobé letargii osminohý Obří brouk (pokud nevyšel na lov/obranu teritoria), hluk, kouř nebo ničení vláken (mimo vlastní prodírání se) ho probere a brouk bude agresivně bránit kokony. Místnost je naplněná silnými pavučinovými vlákny, v rozích místnosti a pod velkým jídelním stolem uprostřed místnosti jsou kokony. Na stole pod vlákny se lesknou stříbrné příbory (20 zl celkem).
+__Uvnitř:__ V jídelně je v krátkodobé letargii osminohý Obří brouk (pokud nevyšel na lov/obranu teritoria), hluk, kouř nebo ničení vláken (mimo vlastní prodírání se) ho probere a brouk bude agresivně bránit kokony. Místnost je naplněná silnými pavučinovými vlákny, v rozích místnosti a pod velkým jídelním stolem uprostřed místnosti jsou kokony. Na stole pod vlákny se lesknou stříbrné příbory (_20 zl celkem_).
 
-__Průzkum:__ Rozříznutí kokonů způsobí vyrojení desítek nedospělých Obřích brouků velkých jako dlaň. Napadnou nejbližšího živého tvora a začnou ko kousat a štípat (automatické zranění jako dýkou každé kolo do setřesení a okamžitého útěku). Víc zajímavého tu není.
+__Průzkum:__ Rozříznutí kokonů způsobí vyrojení desítek nedospělých Obřích brouků velkých jako dlaň. Napadnou nejbližšího živého tvora a začnou ko kousat a štípat (_automatické zranění jako dýkou každé kolo do setřesení a okamžitého útěku_). Víc zajímavého tu není.
 
 ### G2 – herna
 
-__Uvnitř a průzkum:__ Totéž, co v jídelně (►G1), jen místo příborů je na stole pod vlákny vyřezávaná krabička se sadou zlatem vykládaných karet (sada vč. krabičky 20 zl).
+__Uvnitř a průzkum:__ Totéž, co v jídelně (►G1), jen místo příborů je na stole pod vlákny vyřezávaná krabička se sadou zlatem vykládaných karet (_sada včetně krabičky 20 zl_).
 
 ### G3 – hostinské pokoje
 
@@ -341,16 +370,16 @@ __Uvnitř:__ Čvachtá to tu, na zemi se mísí plíseň a hnědé řasy. Do př
 
 ### H1 – ložnice
 
-__Uvnitř:__ Jen se otevřou dveře do vlhké, plesnivé, řasou potažené místnosti, ozve se z postele s nebesy: _„To jsi ty, Flórine? Tolik jsi mi chyběl! Pojď za mnou do postele.“_ Je to krásná sukuba (první přání Flórina Schattenbacha). Je ověšená zlatými šperky, které by po vyčištění mohly být opět krásné, ale sukuba je nedá dobrovolně. (Její síla přesahuje měřítka postav na první úrovni a může být nad možnosti dobrodruhů.)
+__Uvnitř:__ Jen se otevřou dveře do vlhké, plesnivé, řasou potažené místnosti, ozve se z postele s nebesy: _„To jsi ty, Flórine? Tolik jsi mi chyběl! Pojď za mnou do postele.“_ Je to krásná sukuba (_první přání Flórina Schattenbacha_). Je ověšená zlatými šperky, které by po vyčištění mohly být opět krásné, ale sukuba je nedá dobrovolně. (_Její síla přesahuje měřítka postav na 1. úrovni a může být nad možnosti dobrodruhů._)
 
 ### H2 – luxusní salón
 
 __Uvnitř:__ Místnost je dokonale čistá, uklizená a osvětlená světlem stovky svící. Okolo stěny stojí 7 oživlých brnění s písmeny C–I (přestože jsou naleštěná a dokonale funkční, nehýbou se, a pokud na ně nebo Toníka někdo nezaútočí, nepohnou se). Uprostřed salónu stojí na peršanu malý stlek s šachovnicí na desce a rozehranou hrou. Na židlích sedí džin a Toník, na odkládacích stolečcích je mísa s ovocem (u Toníka) a zlatá aladdinovská lampa (u džina). Džin je skutečně démon ve tvaru člověka, tvořený kouřem. Příchozí přivítá slovy: _„No to je dost, že jdete!“_ Toník je nezraněný, má jen velkou bouli na čele.
 
-Džin nabídne dobrodruhům obchod: Každému splní přání v hodnotě do 50 zl, pokud zlatou lampu, ke které je připoutaný, rozbijí a tím ho osvobodí. Lampu lze ale rozbít jen magickým předmětem (nejlépe palicí z ►E1; pokud to postavy zkusí hůlkou z ►F5, lampu sice zničí, ale zlomí se i hůlka). Váhající postavy bude džin přesvědčovat následujícími argumenty:
+Džin nabídne dobrodruhům obchod: Každému splní přání v hodnotě do 50 zl, pokud zlatou lampu, ke které je připoutaný, rozbijí a tím ho osvobodí. Lampu lze ale rozbít jen magickým předmětem (_nejlépe palicí z_ ►E1; _pokud to postavy zkusí hůlkou z_ ►F5, _lampu sice zničí, ale zlomí se i hůlka_). Váhající postavy bude džin přesvědčovat následujícími argumenty:
 
-- Když ho neosvobodí oni, osvobodí ho první lupiči, kteří se do věže vydají a je dost jisté, že se existence věže neutají.
-- Džina spoutal Flórin Schattenbach, nebude sloužit nikomu jinému („pohádky o leštění lampy si nechte pro… no pro děti radši ani ne“).
+- Když ho neosvobodí oni, osvobodí ho první lupiči, kteří se do věže vydají, a je dost jisté, že se existence věže neutají.
+- Džina spoutal Flórin Schattenbach, nebude sloužit nikomu jinému. (_„Pohádky o leštění lampy si nechte pro… no pro děti radši ani ne.“_)
 - Dobrodruzi určitě chtějí raději démona, který jejim vděčný, než který se jim může chtít mstít.
 - Lampa je sice krásná, ale jen to zlato, ze kterého je vyrobená, má hodnotu 30 zl.
 - Postavy nemají sílu démona zranit, a to ani pokud ovládnou všechna oživlá brnění. (A je to, mimochodem, pravda.)
@@ -360,7 +389,7 @@ Jenom Toník si bude stěžovat, že pryč nechce, protože on je přece dědice
 
 ### H3 – zázemí salónu
 
-__Uvnitř:__ Je tu malá předsíňka, latrína a přípravna, ve které končí šachta kuchyňského výtahu. Na podlaze je víc než centimetrová vrstva řasnatého slizu, plísní a řasou jsou prolezlé i zdi. Na latríně je džbán a lavor z růžového porcelánu (sada má dohromady cenu 6 zl, kus jen za 2 zl), i ty jsou ale pokryté vrstvou hnědé řasy.
+__Uvnitř:__ Je tu malá předsíňka, latrína a přípravna, ve které končí šachta kuchyňského výtahu. Na podlaze je víc než centimetrová vrstva řasnatého slizu, plísní a řasou jsou prolezlé i zdi. Na latríně je džbán a lavor z růžového porcelánu (_sada má dohromady cenu 6 zl, kus jen za 2 zl_), i ty jsou ale pokryté vrstvou hnědé řasy.
 
 ### I0 – strážnice
 
@@ -370,9 +399,14 @@ Východy odsud jsou dva: Po točitých schodech z ochozu dvě patra do útrob v�
 
 ## Náhodná tabulka
 
-1–2  Nejbližší nestvůra z tohoto patra (D ptáčci, E stonožka, F záchodový brouk, G obří brouk)
-3–4  Dva záchodoví brouci (►E2)
-5–6  Jedovatá stonožka (►E1)
-7–8  Hejno nedospělých obřích brouků (►G1)
-9      Obří brouk (►G1)
-10    Oživlé šlahouny růže (v květináči), pokusí se někoho omotat a udusit
+> 1–2 :: Nejbližší nestvůra z tohoto patra (D ptáčci, E stonožka, F záchodový brouk, G obří brouk)
+
+> 3–4 :: Dva záchodoví brouci (►E2)
+
+> 5–6 :: Jedovatá stonožka (►E1)
+
+> 7–8 :: Hejno nedospělých obřích brouků (►G1)
+
+> 9&nbsp;&nbsp;&nbsp; :: Obří brouk (►G1)
+
+> 10&nbsp;&nbsp; :: Oživlé šlahouny růže (v květináči), pokusí se někoho omotat a udusit.
