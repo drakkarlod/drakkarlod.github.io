@@ -150,7 +150,7 @@ __Zvenku:__ Za dvoukřídlými posuvnými dveřmi je velký balkon s pobořenou 
 
 __Průzkum:__ Jeskyně je hluboká, široká, a zcela tmavá. Asi 7 m pod balkonem a 4 m na západ od balustrády se ke skalní stěně přimyká kamenné odpočívadlo (►F7), ze kterého vycházejí schody vedoucí dolů okolo obloukové stěny pod balkonem a mizí ve tmě. Stěna komplexu (věže) z kamenných bloků kopíruje tvar hlavního sálu, resp. galerie (►D0), a mizí ve tmě na východní straně. Vodopád v hlubinách není vidět, ale jeho zvuk jde z východní, resp. jihovýchodní strany (►F8, ►G4).
 
-__E0 – kuchyňka__
+### E0 – kuchyňka
 
 __Uvnitř__ (_vstup po schodech z_ ►C0): Točité schody přímo ústí do podlouhlé místnosti – po pravé straně (západ) je obloukovitě se rozšiřující kredenc s policemi, za ním dveře vedoucí do nákladní šachty (_sem vede šachta z_ ►C4, _a na první pohled není zřejmé, že pokračuje i níž do_ ►E5). Na levé straně (východ) od schodů jsou ve stěně malá dvířka do šachty kuchyňského výtahu s rezavějící kladkou (►F2, ►G5, ►H3), krátká chodbička ke dveřím do sálu (►E1) a naproti schodům na druhém konci místnosti jsou police s kameninovými škopky, sklenicemi se zavařeninami, lahvemi apod. – všechno jídlo i pití je zkažené. 
 
