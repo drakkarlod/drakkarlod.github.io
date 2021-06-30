@@ -39,7 +39,7 @@ Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt be
 ## Místa v doupěti
 
 ### (1) Vstup do Doupěte
-Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
+Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
 
 ### (2) Sestup do Doupěte
 Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
@@ -89,7 +89,7 @@ Dvojitá kruhová místnost s vytesaným bazénkem plným horké minerální vod
 ### (9) Trochdvargovo vězení
 Tato chodba, která končí tajným vchodem k rituálnímu kruhu v místnosti _(14)_, má na své jižní straně dvoje masivní kamenné dveře s malým okénkem vyplněným ocelovými mřížemi. Za nimi se nachází dvě cely, které Trochdvarg využívá pro vězně, jenž plánuje obětovat WainuKiwě. 
 
-</br>Momentálně je zde:
+</br> Momentálně je zde:
 - **1** - 1k6 goblinů kmene Stínochodců v jedné cele a 1k6 goblinů z kmene Požíračů v druhé cele. Navzájem se nesnáší. Hex (G2)
 - **2** - Trpaslík Lorm z lázeňského města Sargonea. Na duši zlomený zženštilý homosexuál, Trochdvarg se mu chodí smát a fyzicky i psychicky jej týrá. Už je tu uvězněný skoro rok. Dřímá v něm žhnoucí nenávist k Trochdvargovi. Hex (G1)
 - **3** - Dva lidští lovci, Tonza a Jurok, kteří šli prozkoumat vyhořelý lovecký zámeček v blízkém lese. Tonza chce Juroka podrazit a chce se přidat k Trochdvargovi jako učeň. Jurok ví o tajné cestě do loveckého zámečku. Hex (G6)
