@@ -33,8 +33,16 @@ Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt be
 
 ## Místa v doupěti
 
-### 1 – Vstup do Doupěte
+### 1 — Vstup do Doupěte
 Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
 
-### 2 – Sestup do Doupěte
+### 2 — Sestup do Doupěte
 Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
+
+### 3 — Hlavní jeskyně
+Dole se nachází několik stalagnátů a mezi nimi se pohybuje Lávový krab velký jako kozel. Šel do doupěte s cílem stát se otcem další snůšky WainuKiwy, ale její chvíle ještě nepřišla. Tak se zatím bezcílně potuluje jejím doupětem a jí její děti z minulé snůšky, své sourozence.
+
+### 4 — Pukliny
+V této části doupěte přechází menší pukliny v zemi v rokli lemovanou tenkými přírodními kamennými můstky. Dole je horká voda a spousta ostrých kamenů. Navíc cestu skrz znesnadňuje několik gejzírů stříkajících s dostatečnou vervou, že neopatrnou a nezajištěnou osobu lehce smetou dolů. 
+
+Na konci stráží kameno-ocelový konstrukt vypodobněný jako trpasličí válečník s dlouhým trojzubcem. Ten zde stráží jeden ze vstupů do Trochdvargova sídla a shazuje dolů každou bytost, která se pokusí přes rokli projít.
