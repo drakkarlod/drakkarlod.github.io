@@ -94,3 +94,13 @@ Momentálně je zde:
 - **2** - Trpaslík Lorm z lázeňského města Sargonea. Na duši zlomený zženštilý homosexuál, Trochdvarg se mu chodí smát a fyzicky i psychicky jej týrá. Už je tu uvězněný skoro rok. Dřímá v něm žhnoucí nenávist k Trochdvargovi. Hex (G1)
 - **3** - Dva lidští lovci, Tonza a Jurok, kteří šli prozkoumat vyhořelý lovecký zámeček v blízkém lese. Tonza chce Juroka podrazit a chce se přidat k Trochdvargovi jako učeň. Jurok ví o tajné cestě do loveckého zámečku. Hex (G6)
 - **4** - Někdo, koho znají postavy z okolí a pár dní jej neviděly. Přítel či nepřítel, tvá volba.
+
+### (10) Kovadlina Lávy
+Zde protéká lávová řeka, která se po chvílí ztrácí v hlubinách země. Uprostřed řeky je malý ostrůvek, v jehož středu je krásná černá kovadlina, která vypadá ne vyrobená, ale jakoby přímo vyrostla ze země. U ní je i pár kousků mistrovského trpasličího kovářského vybavení.
+
+Kolem ostrůvku se usídlilo několik Salamandrů, kteří ještě nepatří pod vliv Ohnivého elementála ze Sopky z hexu (G7) a zdejší ostrůvek si vybrali jako své nové sídlo. Nejsou agresivní, většinou se snaží ustoupit, ale nejdál k ostrůvku s kovadlinou. Pokud by jste je napadli, nebo se nedejbože pokusili vydat do chřtánu lávy, kde mají svá vejce, tak Vás napadnou bez jakéhokoliv pudu sebezáchovy. K ostrůvku nevede žádný most a nejkratší vzdálenost jsou čtyři metry od břehu (z druhé strany jsou to pouze dva metry). Trochdvarg umí chodit po lávě, ale salamandři ho k jeho kovadlině nechtějí pustit a on je z toho naštvaný. Pokud je postavy vyženou, nebo mu alespoň přinesou jeho nářadí, tak jim vyková na nějaký předmět či zbraň magickou runu. Počet zvol dle toho, jak s ním postavy jednali. 
+
+1 - zbraň dává navíc drobné zranění ohněm.
+2 - předmět se může rozsvítit/zhasnout na povel, svítivost má jako pochodeň.
+3 - předmět dokáže na dálku zhasnout jakýkoliv plamen do velikosti ohniště.
+4 - předmět dá nositeli schopnost vidět ve tmě, ale jeho oči budou slabě žhnout vnitřním plamenem.
