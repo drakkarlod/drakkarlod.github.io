@@ -18,12 +18,12 @@ Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky mon
 - Zachránit Trochdvargovy vězně
 
 ## Náhodná setkání
-- **1** - hejno malých lávových krabů
-- **2**- Velký lávový krab
-- **3** - Pár skřetů z tunelů _(6)_ lovu krabů
-- **4** - Srývající se zajatec, utekl z _(9)_
-- **5** - Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_
-- **6** - Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
+- **1** – hejno malých lávových krabů
+- **2** – Velký lávový krab
+- **3** – Pár skřetů z tunelů _(6)_ lovu krabů
+- **4** – Srývající se zajatec, utekl z _(9)_
+- **5** – Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_
+- **6** – Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
 
 ### Speciální setkání
 WainuKiwa samotná. Ta většinou neopouští své doupě v místnosti _(16)_, když už tak se jde vykoupat do místnosti _(15)_ a nebo najíst k oltáři v místnosti _(14)_. Ale pokud postavy budou vydávat nadměrný hluk, přiláká ji to. Kdy? To nechám na tobě a tvém úsudku.
@@ -31,3 +31,10 @@ WainuKiwa samotná. Ta většinou neopouští své doupě v místnosti _(16)_, k
 ## Atmosféra
 Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt bez tekutin, nebo ve zbroji může být vysilující. Černý kámen s ostrými hranami, o které se dá lehce říznout. Pukliny v kamenech. Občasná láva. Spousta silně slané mineralizované horké vody v menších i větších objemech. Gejzíry vařící vody. Pára. Krabi všech velikostí.
 
+## Místa v doupěti
+
+### 1 – Vstup do Doupěte
+Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
+
+### 2 – Sestup do Doupěte
+Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
