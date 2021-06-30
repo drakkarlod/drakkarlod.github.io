@@ -4,11 +4,16 @@ authors: Kin
 title: 'Malé hexy: Doupě WainuKiwy - Klepeta Lávy'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
-summary: 'Malé hexy, hex G7'
+summary: >-
+  Malé hexy, hex G7 Klepeta lávy je malá kobka nacházející se v kořenech aktivní
+  sopky, které jako své doupě využívá obří lávová krabí matka - WainuKiwa. Vchod
+  se nachází za obsidiánovou planinou pokrytou kalužemi minerální vody a horkými
+  gejzíry v hexu (G7). Uvnitř naleznete nejen samotnou WainuKiwu a její
+  potomstvo, ale i otevřený portál do ohnivých říší, rudou ohnivou perlu,
+  ztracené gobliní válečníky a v neposlední řadě trpaslíka Trochdvarga, uctívače
+  WainuKiwy.
 published: true
 ---
-> Klepeta lávy je malá kobka nacházející se v kořenech aktivní sopky, které jako své doupě využívá obří lávová krabí matka - WainuKiwa. Vchod se nachází za obsidiánovou planinou pokrytou kalužemi minerální vody a horkými gejzíry v hexu (G7). Uvnitř naleznete nejen samotnou WainuKiwu a její potomstvo, ale i otevřený portál do ohnivých říší, rudou ohnivou perlu, ztracené gobliní válečníky a v neposlední řadě trpaslíka Trochdvarga, uctívače WainuKiwy.
-> 
 > Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete a celkově si se zde popsanou kobkou dělejte co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
 
 ## Proč by se sem postavy chtěly vydat?
@@ -55,3 +60,15 @@ Poté, co jich několik snědla, se pokusili utéct, ale v tu chvíli už byl u 
 Jsou zde navíc tunely vedoucí do různých částí Doupěte. Na mapě jsou propojené tunely označené Velkými písmeny a šipkou _(A/B/C/D)_.
 Některé tunely jsou dost úzké a dospělý lidský muž se v nich bude muset plazit a nebude se moci příliš roztahovat. Sice se skrz ně mohou poměně nepozorovaně dostat do mnoha částí Doupěte, ale hrozí tam nebezpečí, že se postavy dostanou do nepříjemného stísněného boje, kde bude moci hrdina využít sotva dýku, zatímco proti jeho obličeji poleze vyděšený a zuřivý goblin, nebo nedejbože hladový Lávový krab.
 
+### 6 — Trochdvargovo sídlo
+Zde Trochdvarg pracuje, spí a jí. Všechen nábytek je zde z kamene a většinou je ten i součástí skály, ze které je místnost vysekaná, takže nejde odnést. I ta postel je z kamene a žádná matrace, ani přikrývka na ní není. Celé je to docela spartansky zařízené, ale to co tu je, je nádherně zdobené a ryté klasickými trpasličími geometrickými motivy s ohnivou tématikou. Je zde i knihovna, kde knihy jsou nahrazeny kamennými deskami s vyrytými informacemi. 
+V knihovně lze nalézt několik kouzel spojených s ohněm a rituály pro vyvolávání ohnivých elementálů. 
+
+V místnosti je velká rudá perla, hořící vnitřním ohněm v kamenném piedestalu a slouží jako světlo. Tu se Trochdvargovy povedlo před lety kořistit z Obsidiánové škeble.
+V místnosti je pak ještě spousta kamenný činek a dalšího cvičícího náčiní, místo na tesání trpasličích sošek z obsidiánu a kuchyně s lávovým krbem.
+
+Je zde i kamenná truhlice, ve které se nachází: 
+8 ohnivých smaragdů velikosti ořechu.
+“Sněhový” orb - skleněná koule s modelem Sargonea [hex G-1], s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
+Model sopky, od které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
+Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
