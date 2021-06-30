@@ -39,7 +39,7 @@ Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt be
 ## Místa v doupěti
 
 ### (1) Vstup do Doupěte
-Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
+Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
 
 ### (2) Sestup do Doupěte
 Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
