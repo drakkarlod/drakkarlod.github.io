@@ -36,6 +36,10 @@ WainuKiwa samotná. Ta většinou neopouští své doupě v místnosti _(16)_, k
 ## Atmosféra
 Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt bez tekutin, nebo ve zbroji může být vysilující. Černý kámen s ostrými hranami, o které se dá lehce říznout. Pukliny v kamenech. Občasná láva. Spousta silně slané mineralizované horké vody v menších i větších objemech. Gejzíry vařící vody. Pára. Krabi všech velikostí.
 
+{:map}
+![Mapa doupěte]({{site.baseurl}}/81/doupe_wainukiwy.jpg)
+
+
 ## Místa v doupěti
 
 ### (1) Vstup do Doupěte
