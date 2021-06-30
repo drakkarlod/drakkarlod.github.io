@@ -44,6 +44,8 @@ Trpasličí chlapec Tónni se z ulice propadl do krypty skrývající vstup do d
 >
 > Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž trochu zkoumat a její historie je zaujme, domyslí si to všechno snadno sami.
 
+![zPT_A.jpg]({{site.baseurl}}/81/zPT_A.jpg)
+
 ## Jak se sem můžou postavy dostat?
 
 - Postavy se k propadlé dlažbě nachomýtnou náhodou a konšel Ólin Schönstein je osloví, aby se vydaly do podzemí a našly a přivedly jeho syna Toníka, protože vypadají schopně a nesou lucerny a lana. (_S touto variantou počítá popis ulice a krypty._)
@@ -71,8 +73,6 @@ __Zvenku a uvnitř:__ Asi 1×1 m propadlé dlažby na široké ulici, vedle hř
 
 __Průzkum/CP:__ Okolo díry stojí shluk lidí a trpaslický konšel _Ólin Schönstein_. Schönstein je vyděšený ze zmizení syna, ale stále převažuje jeho zvyk rozkazovat. Přikazuje dobrodruhům vlézt dolů a najít jeho 10letého syna _Toníka (Tónni)_, který do díry spadl, když se pod ním zhroutila dlažba. Ukáže jim jeho podobiznu, kterou nosí v hábitu. Propad způsobilo, když po ulici přejel těžce naložený vůz. Konšel nabízí každému z dobrodruhů odměnu 20 zl za navrácení syna, po chvíli může slíbit bonusy (max. 10 zl navíc), když bude Toník živý a zdravý.
 
-![zPT_A.jpg]({{site.baseurl}}/81/zPT_A.jpg)
-
 ### A1 – hrobka
 __Zvenku:__ Na hřbitově se dá snadno odhadnout, že schody (►A0) stoupají do staré trpaslické hrobky. Je zarostlá a pokrytá lišejníkem, nejméně 50 let ji nikdo neudržuje, spíš déle. Je neoznačená bez viditelných nápisů. Vchod je v severní stěně hrobky. Řetěz zajišťující vstup je silný, ale rezavý, zámek je odemčený, ale nastražený tak, aby to nebylo na první pohled vidět, zároveň je přirezlý k řetězu. Řetěz jde snadno odstranit, kamenné dveře ale vyžadují trochu síly, nashromáždily se za nimi prach a suť.
 Průzkum/CP: Starší obyvatelé města si vzpomenou na vyprávění, že hrobku využívala rodina Schattenbachů, ze které už nikdo víc než sto let nežije. Schattenbachové byli kdysi spřízněni skrze nějakou dceru s Schönsteiny.
@@ -83,9 +83,9 @@ __Uvnitř:__ Stará, zaprášená hrobka asi 4×4 m. Hrobka není úplně tmav�
 
 __Uvnitř:__ Schody příkře klesají z výšky po kamenné plošině (obrázek 1) do silně zaprášené místnosti cca 4×8 m, 2 m na výšku. Na jižní stěně je obratně vytesaný reliéf, před reliéfem leží na zemi sarkofág nohama ke schodům. Do obou bočních stěn jsou ve výšce 1 m vsazené půlkuželové podstavce, na pravém je okřídlený kamenný chrlič (tento je už jen socha), pravý je prázdný (_pokud uběhly od zmizení Toníka víc než dvě hodiny, sedí chrlič i na tomto podstavci_). Mezi podlahou a skloněnou rovinou schodů je volný prostor. Okolo západní, východní a severní stěny (pod schody) jsou v rozestupech vyskládány malé olejové lampičky, všechny vyschlé, s rozpadlými knoty.
 
-![zPT_B.jpg]({{site.baseurl}}/81/zPT_B.jpg)
-
 __Průzkum/CP:__ Na zemi krypty je suť a dlažební kostky, v prachu lze vysledovat stopy ležícího chlapce a dlouhé obloukové čáry, dokonce s čerstvými jemnými rýhami v kameni dlažby (stopy konců křídel oživlého chrliče).
+
+![zPT_B.jpg]({{site.baseurl}}/81/zPT_B.jpg)
 
 Sarkofág má dlátem pozurážené části spodní hrany víka, díry obnažují vnitřní kovovou konstrukci, která drží víko pevně na těle sarkofágu. Díry po dlátu jsou desítky let staré a z nejhlubších z nich sálá nepřirozený chlad (_uvnitř je zmražená mrtvola Járina Schattenbacha, původního majitele věže, otce dvou rozkmotřených synů_). Sarkofág nebyl přes 200 let otevřený, a pokud tu byl nějaký otvírací mechanismus, už určitě nefunguje.
 
@@ -110,9 +110,9 @@ Hned vedle vstupu je ke zdi přinýtovaná silná kovová lamela, na její konec
 
 Na každé straně této větve chodby jsou jedny dveře, v dalších větvích jsou také dvoje dveře naproti sobě (vedou do místností ►C1, ►C2, ►C3, ►C4).
 
-![zPT_C.jpg]({{site.baseurl}}/81/zPT_C.jpg)
-
 __Průzkum:__ Dveře nejsou zamknuté, nebyly dlouho otevírány kromě dveří nalevo od schodů (ve východní stěně) vedoucích do skladu (►C4, _tudy proletěl chrlič s Toníkem_). Lamely jsou složené ze dvou vrstev různě barevných kovů (tvoří bimetalický pásek), pod základnou sloupu je dutý prostor – pokud se do všech tří držáků vloží hořící pochodně, začne se ozývat slabé skřípání kovu a po minutě se lamely se zaduněním propnou do oblouku otočeného k zemi a zdvihnou sloup až ke stropu. Pod ním se objeví točité schodiště vedoucí dolů dvě patra (►E0). Sloup je možné zespodu vyšroubovat pomocí kovových madel, vyšroubovaný sloup se svou vahou po jedné směně sám zašroubuje. 
+
+![zPT_C.jpg]({{site.baseurl}}/81/zPT_C.jpg)
 
 ### C1 – velká márnice
 
@@ -126,23 +126,23 @@ __Uvnitř:__ Trojúhelníková místnost, uvnitř leží na zemi 5 rakví označ
 
 __Průzkum:__ Dřevěné rakve 16, 19, 20 obsahují staré, rozložené a seschlé mrtvoly, jednotlivé údy jsou zjevně z různých jedinců různých ras. Větší dřevěná rakev obsahuje deformovanou kostru mrtvoly se čtyřmi pažemi (zjevně frankensteinovský experiment). Kovová rakev 22 je chladnější než okolní prostředí, mrtvola není na rozdíl od ostatních ještě zcela rozložená, je to starý člověk.
 
-![zPT_Obr2.jpg]({{site.baseurl}}/81/zPT_Obr2.jpg)
-
 ### C3 – strojovna brány
 
 __Uvnitř:__ Trojúhelníková místnost, v ní je socha držící kliku k mechanismu ve zdi. Od země do výšky pasu je jen kamenný blok, od pasu je do kamene vytesaná socha svalnatého orka. Na východní stěně je křivá dřevěná polička se 4 nepopsanými flakóny: Jeden voskem zapečetěný flakón obsahuje fialovou tekutinu. Jeden flakón je prázdný, nezazátkovaný. Jeden flakón je špatně zazátkovaný a vyschlý, dno pokrývá fialový povlak. Poslední flakón je naprasklý a obsahuje jen polovinu fialové tekutiny, polička pod tímto flakónem je zprohýbaná.
 
+![zPT_Obr2.jpg]({{site.baseurl}}/81/zPT_Obr2.jpg)
+
 __Průzkum:__ V rukou drží pevně kliku napojenou na hřídel se silným převodním řetězem vedoucím do podlahy. S klikou kvůli soše nejde pohnout, silná kovová západka držící pohyb řetězu jedním směrem je povolená, tahání za řetěz je beznadějné: Na jednu stranu drží řetěz klika, na druhou stranu nelze vytáhnout (_je napojený na žulový blok ve vstupních dvěřích předsálí_ ►E2).
 
 Nalití obsahu flakónu na neživou věc způsobí, že věc na okamžik ožije. Pokud někdo vylije celý flakón na sochu orka, ta vytáhne klikou kamenný blok (►E2) do pohotovostní pozice. Kdyby jí v tom někdo bránil, bude agresivní. Nalití tekutiny na živou hmotu způsobí brnění a lehké křeče. Vypití alespoň půl flakónu způsobí okamžité zvracení a akutní průjem. (_Není problém, že postavy nezjistí, k čemu lektvar slouží. Zjistí to dost určitě u výtahu_ ►F1.)
-
-![zPT_C_DM.jpg]({{site.baseurl}}/81/zPT_C_DM.jpg)
 
 ### C4 – sklad
 
 __Uvnitř:__ Trojúhelníková místnost s podlahou z dřevěných bloků. Na jihovýchodní straně je několik polic plných už před sto lety zkažených potravin a beden se zničemými hadry. Na severní straně je ve stropě kladka a pod ní, ale až u zdi, na dřevěné podlaze rozložené zbytky lana.
 
 __Průzkum:__ Pod kladkou je podlaha dutá a méně zaprášená, jedno z prken se dá nadzvednout a objeví se kovové oko, za které lze zdvihnout padací dveře nad šachtou (1 m v průměru) asi 6 m hlubokou, dole je dřevěná podlaha (►E0).
+
+![zPT_C_DM.jpg]({{site.baseurl}}/81/zPT_C_DM.jpg)
 
 ### D0 – galerie
 
