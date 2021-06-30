@@ -73,3 +73,9 @@ Je zde i kamenná truhlice, ve které se nachází:
 - “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
 - Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
 - Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
+
+### (7) Schody ven
+Zde vedou vytesané schody vedoucí na stráň sopky, kudy Trochdvarg chodí ven, když si jde lovit jídlo, nebo chytit nějakého obětního beránka pro WainuKiwu. Uprostřed schodiště je kruhová místnost, ve které je lávové jezírko, ve kterém číhá Magmatická chobotnice. Ta se pokusí kohokoliv, kdo přes něj projde, stáhnout do lávy. Sama o sobě dává jen lehké zranění ohněm, pokud někoho chytí, ale má dostatečnou sílu někoho stáhnout dolů, do lávy. Jezírko nemá žádnou jasně viditelnou cestu skrz, protože Trochdvarg má imunitu na oheň a tak jej normálně prochází s vysunutou suknicí.
+
+Vchod zvenku je kvalitně zamaskován a není jednoduché jej objevit bez znalosti toho, že tam je.
+
