@@ -79,3 +79,10 @@ Zde vedou vytesané schody vedoucí na stráň sopky, kudy Trochdvarg chodí ven
 
 Vchod zvenku je kvalitně zamaskován a není jednoduché jej objevit bez znalosti toho, že tam je.
 
+### (8) Trochdvargovy lázně
+Dvojitá kruhová místnost s vytesaným bazénkem plným horké minerální vody. Ve stěně je malý krb, ve kterém je nádrž s vroucí lávou, kam hází bylinky a lije vodu pro vytvoření aromatického kouře. V místnosti vedle je uvězněný Nesmrtelný ledový sumec, kterého chytil Trochdvarg na dně jezera z multi-hexu (B). Do spodní tlamy má vražený ocelový kroužek s řetízkem, za který když někdo zatáhne, tak Sumec otevře svou mohutnou tlamu a vytryskne z něj proud ledově studené vody. Sumec by se chtěl shledat se svým sumčím harémem v jezeru. Pokud mu to někdo splní, jako odměnu mu dá Ledovou Perlu, která se skrývá v hlubinách jezera.
+
+Je zde navíc i police vytesaná do skály a s kamennými dvířky, ve které má Trochdvarg schované vonné bylinky. Jejich kouř má zvláštní efekt na kohokoliv, kdo se ho nadýchá:
+- Chrámová bylinka z hexu (B7): Navozuje příjemnou atmosféru a pocit bezpečí. Postava ztrácí zábrany, víc se baví, je ochotná sdělovat i věci, co by jinak nikomu neřekla.
+- Mech z krunýře želv z hexu (B1): Vysoce halucinogenní bylina, postava slyší neexistující hudbu, barvy se bez přestání mění, tvary tancují, chutě ohromují a každý dotek je elektrizující. 
+- Sušené inteligentní řasy z hexu (B6): Uklidňující kouř, uvolňuje svaly i mysl, zbavuje bolesti a nemocí. Navíc po inhalaci dokážete slyšet myšlenky ostatních inteligentních řas. Takže stačí vykouřit jejich sourozence, abyste si s nimi mohli pokecat.
