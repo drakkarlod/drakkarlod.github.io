@@ -14,7 +14,7 @@ summary: >-
   WainuKiwy.
 published: true
 ---
-> Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete a celkově si se zde popsanou kobkou dělejte co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
+> Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete a celkově si se zde popsanou kobkou dělejte co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
 
 ## Proč by se sem postavy chtěly vydat?
 - Chtějí získat cennou Ohnivou Perlu.
