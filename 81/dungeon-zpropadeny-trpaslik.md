@@ -394,16 +394,11 @@ __Uvnitř:__ Schody ústí na kamenný ochoz s horizontálně vystavěným cimbu
 
 Východy odsud jsou dva: Po točitých schodech z ochozu dvě patra do útrob věže (►G0) a po jiných točitých schodech, kluzkých a tekoucí vodou ohlzených, z vnější strany obvodové zdi a tři patra po nechráněném schodišti (►F8).
 
-## Náhodná tabulka
+## Náhodná tabulka (k10)
 
-> 1–2 :: Nejbližší nestvůra z tohoto patra (D ptáčci, E stonožka, F záchodový brouk, G obří brouk)
-
-> 3–4 :: Dva záchodoví brouci (►E2)
-
-> 5–6 :: Jedovatá stonožka (►E1)
-
-> 7–8 :: Hejno nedospělých obřích brouků (►G1)
-
-> 9&nbsp;&nbsp;&nbsp; :: Obří brouk (►G1)
-
-> 10&nbsp;&nbsp; :: Oživlé šlahouny růže (v květináči), pokusí se někoho omotat a udusit.
+- 1–2&nbsp; ::&nbsp; Nejbližší nestvůra z tohoto patra (D ptáčci, E stonožka, F záchodový brouk, G obří brouk)
+- 3–4&nbsp; ::&nbsp; Dva záchodoví brouci (►E2)
+- 5–6&nbsp; ::&nbsp; Jedovatá stonožka (►E1)
+- 7–8&nbsp; ::&nbsp; Hejno nedospělých obřích brouků (►G1)
+- 9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ::&nbsp; Obří brouk (►G1)
+- 10&nbsp;&nbsp;&nbsp; ::&nbsp; Oživlé šlahouny růže (v květináči), pokusí se někoho omotat a udusit.
