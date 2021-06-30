@@ -61,14 +61,14 @@ Jsou zde navíc tunely vedoucí do různých částí Doupěte. Na mapě jsou pr
 Některé tunely jsou dost úzké a dospělý lidský muž se v nich bude muset plazit a nebude se moci příliš roztahovat. Sice se skrz ně mohou poměně nepozorovaně dostat do mnoha částí Doupěte, ale hrozí tam nebezpečí, že se postavy dostanou do nepříjemného stísněného boje, kde bude moci hrdina využít sotva dýku, zatímco proti jeho obličeji poleze vyděšený a zuřivý goblin, nebo nedejbože hladový Lávový krab.
 
 ### (6) Trochdvargovo sídlo
-Zde Trochdvarg pracuje, spí a jí. Všechen nábytek je zde z kamene a většinou je ten i součástí skály, ze které je místnost vysekaná, takže nejde odnést. I ta postel je z kamene a žádná matrace, ani přikrývka na ní není. Celé je to docela spartansky zařízené, ale to co tu je, je nádherně zdobené a ryté klasickými trpasličími geometrickými motivy s ohnivou tématikou. Je zde i knihovna, kde knihy jsou nahrazeny kamennými deskami s vyrytými informacemi. 
+Zde Trochdvarg pracuje, spí a jí. Všechen nábytek je zde z kamene a většinou je i ten součástí skály, ze které je místnost vysekaná, takže nejde odnést. I ta postel je z kamene a žádná matrace, ani přikrývka na ní není. Celé je to docela spartansky zařízené, ale to co tu je, je nádherně zdobené a ryté klasickými trpasličími geometrickými motivy s ohnivou tématikou. Je zde i knihovna, kde knihy jsou nahrazeny kamennými deskami s vyrytými informacemi. 
 V knihovně lze nalézt několik kouzel spojených s ohněm a rituály pro vyvolávání ohnivých elementálů. 
 
-V místnosti je velká rudá perla, hořící vnitřním ohněm v kamenném piedestalu a slouží jako světlo. Tu se Trochdvargovy povedlo před lety kořistit z Obsidiánové škeble.
-V místnosti je pak ještě spousta kamenný činek a dalšího cvičícího náčiní, místo na tesání trpasličích sošek z obsidiánu a kuchyně s lávovým krbem.
+V místnosti je velká rudá perla, hořící vnitřním ohněm v kamenném piedestalu a slouží jako světlo. Tu se Trochdvargovi povedlo před lety ukořistit z Obsidiánové škeble.
+V místnosti je pak ještě spousta kamenných činek a dalšího cvičícího náčiní, místo na tesání trpasličích sošek z obsidiánu a kuchyně s lávovým krbem.
 
 Je zde i kamenná truhlice, ve které se nachází: 
-8 ohnivých smaragdů velikosti ořechu.
-“Sněhový” orb - skleněná koule s modelem Sargonea [hex G-1], s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
-Model sopky, od které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
-Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
+- 8 ohnivých smaragdů velikosti ořechu.
+- - “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
+- Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
+- Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
