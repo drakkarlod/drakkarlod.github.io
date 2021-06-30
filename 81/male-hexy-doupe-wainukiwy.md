@@ -46,3 +46,12 @@ Dole se nachází několik stalagnátů a mezi nimi se pohybuje Lávový krab ve
 V této části doupěte přechází menší pukliny v zemi v rokli lemovanou tenkými přírodními kamennými můstky. Dole je horká voda a spousta ostrých kamenů. Navíc cestu skrz znesnadňuje několik gejzírů stříkajících s dostatečnou vervou, že neopatrnou a nezajištěnou osobu lehce smetou dolů. 
 
 Na konci stráží kameno-ocelový konstrukt vypodobněný jako trpasličí válečník s dlouhým trojzubcem. Ten zde stráží jeden ze vstupů do Trochdvargova sídla a shazuje dolů každou bytost, která se pokusí přes rokli projít.
+
+### 5 — Gobliní díry
+Menší tunely, které využívali mladí krabi jako skrýše, jsou nyní obsazené gobliny z hexu (G2), kteří sem přišli uctívat WainuKiwu a donutit ji k tomu, aby probudila sopku (to sice ona neumí, ale to goblini netuší. Ale naštvat ji se jim časem podaří a ta pak vyleze do okolí a bude jej devastovat). 
+
+Poté, co jich několik snědla, se pokusili utéct, ale v tu chvíli už byl u vchodu zabydlený velký Lávový krab z Místnosti _(3)_, a tak ani neměli kam utéct. Nyní loví mladší kraby na maso, jejich krunýře na zbroje a těží ostrý obsidián na zbraně. Doufají, že se jim brzy podaří utéct, protože je tu navíc zlý ohnivý trpasličí duch (Trochdvarg), který je loví a unáší neznámo kam. 
+
+Jsou zde navíc tunely vedoucí do různých částí Doupěte. Na mapě jsou propojené tunely označené Velkými písmeny a šipkou _(A/B/C/D)_.
+Některé tunely jsou dost úzké a dospělý lidský muž se v nich bude muset plazit a nebude se moci příliš roztahovat. Sice se skrz ně mohou poměně nepozorovaně dostat do mnoha částí Doupěte, ale hrozí tam nebezpečí, že se postavy dostanou do nepříjemného stísněného boje, kde bude moci hrdina využít sotva dýku, zatímco proti jeho obličeji poleze vyděšený a zuřivý goblin, nebo nedejbože hladový Lávový krab.
+
