@@ -10,8 +10,8 @@ summary: >-
   se nachází za obsidiánovou planinou pokrytou kalužemi minerální vody a horkými
   gejzíry v hexu (G7). Uvnitř naleznete nejen samotnou WainuKiwu a její
   potomstvo, ale i otevřený portál do ohnivých říší, rudou ohnivou perlu,
-  ztracené gobliní válečníky a v neposlední řadě trpaslíka Trochdvarga, uctívače
-  WainuKiwy.
+  ztracené gobliní válečníky a v neposlední řadě trpaslíka Troch&shy;dvarga,
+  uctívače WainuKiwy.
 published: true
 ---
 > Je psáno bezsystémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete, a celkově si se zde popsanou kobkou dělejte, co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
