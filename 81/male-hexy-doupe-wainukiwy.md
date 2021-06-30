@@ -67,8 +67,9 @@ V knihovně lze nalézt několik kouzel spojených s ohněm a rituály pro vyvol
 V místnosti je velká rudá perla, hořící vnitřním ohněm v kamenném piedestalu a slouží jako světlo. Tu se Trochdvargovi povedlo před lety ukořistit z Obsidiánové škeble.
 V místnosti je pak ještě spousta kamenných činek a dalšího cvičícího náčiní, místo na tesání trpasličích sošek z obsidiánu a kuchyně s lávovým krbem.
 
+
 Je zde i kamenná truhlice, ve které se nachází: 
 - 8 ohnivých smaragdů velikosti ořechu.
-- - “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
+- “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
 - Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
 - Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
