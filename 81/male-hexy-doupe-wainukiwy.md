@@ -118,7 +118,7 @@ Kamenná pootevřená mušle z obsidiánu velikosti manželské postele, v její
 ### (14) Rituální kruh
 Do kamenné podlahy je zde vytesán rituální kruh, po obvodu jej lemují obsidiánové věčně hořící pochodně a uprostřed jsou okovy z černého kovu přibité k podlaze. Sem Trochdvarg nosí obětiny WainuKiwě a zde vyvolal portál do Říší ohně, odkud chtěl WainuKiwě přivolat vhodného partnera. Bohužel se mu to nepovedlo a místo toho přivolal mocného Ohnivého elementála z hexu (G7). Ten nyní ovládl sopku a většinu salamandrů, kteří v ní žili a jal se ovládnout i okolí. Portál se zde občas znovu zjeví a vychrlí něco z Ohnivých říší. Trochdvarg jej již nemá pod kontrolou a snaží se přijít na to, jak jej opět ovládnout.
 
-Co zde je, když sem postavy přijdou:
+</br>Co zde je, když sem postavy přijdou:
 - **1** - Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
 - **2** - Pár přivázaných skřetů kvílejících s prosbami o milost.
 - **3** - Otevřený portál do říší ohně.
