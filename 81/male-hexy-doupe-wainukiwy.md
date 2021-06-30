@@ -104,3 +104,14 @@ Kolem ostrůvku se usídlilo několik Salamandrů, kteří ještě nepatří pod
 - **3** - Předmět dokáže na dálku zhasnout jakýkoliv plamen do velikosti ohniště.
 - **4** - Předmět dá nositeli schopnost vidět ve tmě, ale jeho oči budou slabě žhnout vnitřním plamenem.
 
+### (11) Chřtán lávy
+Nad malým lávovým vodopádem je místo, kde salamandři nakladli svá vejce. Čekají, až se vylíhnou. Ohnivý elementál ovládající sopku by je rád získal a zotročil pro své potřeby. Alchymisté by za ně zaplatili slušnou částku, kvůli jejich ohnivé energii života.
+
+Lávová řeka, která tudy protéká, vede přímo do sídla Ohnivého elementála na hexu (G7).
+
+### (12) Hrobka Krunýřů
+Tato velká místnost je plná starých krunýřů WainuKiwy, jak si je postupně sundavala, když rostla. Zdejší místo může být dobrou indicií k tomu, aby si družina uvědomila, jak moc VELKÁ WainuKiwa je, protože některými krunýři může bez problémů projít dospělý muž, aniž by se musel sklonit. Mezi krunýři číhají jak Lávoví krabi, tak i goblini na vhodnou kořist.
+
+### (13) Černá mušle a Ohnivá perla
+Kamenná pootevřená mušle z obsidiánu velikosti manželské postele, v jejímž bledém mase je zaklíněná velká rudá perla zářící vnitřním ohněm. Stejná jako má Trochdvarg ve své místnosti _(6)_. Kolem ní je spousta kostí a krunýřů. Jakmile se něco dotkne oné perly, tak sklapne a neotevře se, dokud to celé nestráví. Ohnivá perla je velmi cenná a je možné ji využít při rituálech či k výrobě magických předmětů.  
+
