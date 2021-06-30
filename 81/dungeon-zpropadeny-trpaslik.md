@@ -216,7 +216,7 @@ Dveře na severozápadě skrývají krátkou chodbičku a tmavou šachtu (3 m v
 <div class="sidebar" markdown="1">
 ### Ostnitá palice
 
-Magická palice (_přidává +1 do útoku a zranění_), každý zásah způsobí, že okolo zasaženého vyrostou na okamžik růžové šlahouny.
+Magická palice (_přidává +1 do útoku a zranění_), každý zásah způsobí, že okolo zasaženého vyrostou na okamžik růžové šlahouny. Oběť si může vybrat, zda má na jedno bojové kolo postih k pohybu a útoku, nebo dostane zranění od růžových ostnů (stejné jako při zásahu). Pokud nebude bojovat fyzicky, může být až minutu krásná a získat bonusy na vyjednávání/reakce (charisma).
 
 </div>
 
