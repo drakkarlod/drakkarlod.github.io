@@ -30,19 +30,16 @@ Poznámky kurzívou v závorkách (_takto_) podávají informace a kontext důle
 
 Trpasličí chlapec Tónni se z ulice propadl do krypty skrývající vstup do dávno zchátralé podzemní věže trpaslického alchymisty. Oživlý chrlič chlapce skrz tajný vstup odnesl do spodních pater k ošetření, protože si ho spletl s jedním z bývalých obyvatel. Chlapec je teď v bezpečí v luxusním salónu, v péči džina spoutaného původním majitelem, který ne náhodou zemřel při svých experimentech s oživováním mrtvol a neživých věcí. Věž se dá projít vcelku rychle a bezpečně, ale chrlič nezanechal mnoho stop, a tak musí dobrodruzi věž prohledat. Podzemí je vytvořené s myšlenkou, že hráči se musí rozhodovat mezi rychlým průchodem (záchranou chlapce) a průzkumem, který jim může přinést výdělek navíc.
 
-<div class="sidebar" markdown="1">
-### Co se tady událo?
+> __Co se tady událo?__
 
-Město Moosberg stojí na kraji skalní plošiny u vodopádu a do jeho podloží byla kdysi tajně vytesána obytná věž pro trpaslickou rodinu Schattenbachů. V poslední generaci (před cca 300 lety) ji obývali otec Járin se dvěma syny – Árniho lákal dobrodružný život na povrchu, Flórin se oddával studiu tajemných nauk v podzemní věži. Po smrti Járina se bratři rozkmotřili, protože Flórin se nesmířil s jeho smrtí a zbytek svého života zasvětil studiu oživování, aby mohl vrátit otce mezi živé. Aby zvýšil šance na budoucí úspěch, jeho mrtvolu zmrazil v sarkofágu (►B0).
-
-Árni už žil jen na povrchu, ale zplodil jen dcery a jméno Schattenbachů se ztratilo. Flórinovi se v jeho studiu poměrně dařilo, ale vrátit skutečný život zemřelému nebylo v jeho silách. Z odpadních látek z pokusů zmutovali v hluboké jeskyni pavouci a brouci, a vzniklí nezvaní návštěvníci začali napadat věž. Flórin věž částečně přestavěl, a protože se jeho zbrojnošům podařilo jeden velký exemplář brouka zabít, přetvořil ho pán věže na výtah.
-
-Nakonec Flórin získal příležitost spoutat džina a vynutil si na něm několik přání: První bylo impulzivní rozhodnutí – věčně krásnou a mladou partnerku, a tak mu džin přivolal sukubu (►H1). Na druhém přání už si dal záležet, i po zkušenostech se sukubou. Chtěl, aby cokoli, čeho se dotkne (a zároveň vyřkne magickou formuli!), ožilo skutečným životem – formulace byla skutečně zdařilá, ale Flórina zradila potřeba vyzkoušet si svou novou schopnost. Ruka skřeta, které se dotknul na golemovi sešitém z různých těl, ožila, chytila ho drápy pod bradou a protrhla mu krkavici.
-
-Když se Toník propadl do krypty (►B0), oživlý chrlič si ho spletl s Árnim a odnesl ho k ošetření do věže – celou cestu letěl a nikde Toníka nepustil. Nejdřív se zkoušel dostat do pracovny (►F5), ale protože byla zamknutá, odnesl Toníka do salónu, kde ho po dlouhé diskusi nechal džinovi. Džin mezitím Toníkovi vysvětlil, že je jediným žijícím mužským potomkem Schattenbachů, a věž by tedy měla patřit jemu.
+> Město Moosberg stojí na kraji skalní plošiny u vodopádu a do jeho podloží byla kdysi tajně vytesána obytná věž pro trpaslickou rodinu Schattenbachů. V poslední generaci (před cca 300 lety) ji obývali otec Járin se dvěma syny – Árniho lákal dobrodružný život na povrchu, Flórin se oddával studiu tajemných nauk v podzemní věži. Po smrti Járina se bratři rozkmotřili, protože Flórin se nesmířil s jeho smrtí a zbytek svého života zasvětil studiu oživování, aby mohl vrátit otce mezi živé. Aby zvýšil šance na budoucí úspěch, jeho mrtvolu zmrazil v sarkofágu (►B0).
+>
+> Árni už žil jen na povrchu, ale zplodil jen dcery a jméno Schattenbachů se ztratilo. Flórinovi se v jeho studiu poměrně dařilo, ale vrátit skutečný život zemřelému nebylo v jeho silách. Z odpadních látek z pokusů zmutovali v hluboké jeskyni pavouci a brouci, a vzniklí nezvaní návštěvníci začali napadat věž. Flórin věž částečně přestavěl, a protože se jeho zbrojnošům podařilo jeden velký exemplář brouka zabít, přetvořil ho pán věže na výtah.
+>
+> Nakonec Flórin získal příležitost spoutat džina a vynutil si na něm několik přání: První bylo impulzivní rozhodnutí – věčně krásnou a mladou partnerku, a tak mu džin přivolal sukubu (►H1). Na druhém přání už si dal záležet, i po zkušenostech se sukubou. Chtěl, aby cokoli, čeho se dotkne (a zároveň vyřkne magickou formuli!), ožilo skutečným životem – formulace byla skutečně zdařilá, ale Flórina zradila potřeba vyzkoušet si svou novou schopnost. Ruka skřeta, které se dotknul na golemovi sešitém z různých těl, ožila, chytila ho drápy pod bradou a protrhla mu krkavici.
+>
+> Když se Toník propadl do krypty (►B0), oživlý chrlič si ho spletl s Árnim a odnesl ho k ošetření do věže – celou cestu letěl a nikde Toníka nepustil. Nejdřív se zkoušel dostat do pracovny (►F5), ale protože byla zamknutá, odnesl Toníka do salónu, kde ho po dlouhé diskusi nechal džinovi. Džin mezitím Toníkovi vysvětlil, že je jediným žijícím mužským potomkem Schattenbachů, a věž by tedy měla patřit jemu.
 Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž trochu zkoumat a její historie je zaujeme, domyslí si to všechno snadno sami.
-
-</div>
 
 ## Jak se sem můžou postavy dostat?
 
