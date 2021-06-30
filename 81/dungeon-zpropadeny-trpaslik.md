@@ -41,7 +41,8 @@ Trpasličí chlapec Tónni se z ulice propadl do krypty skrývající vstup do d
 > Nakonec Flórin získal příležitost spoutat džina a vynutil si na něm několik přání: První bylo impulzivní rozhodnutí – věčně krásnou a mladou partnerku, a tak mu džin přivolal sukubu (►H1). Na druhém přání už si dal záležet, i po zkušenostech se sukubou. Chtěl, aby cokoli, čeho se dotkne (a zároveň vyřkne magickou formuli!), ožilo skutečným životem – formulace byla skutečně zdařilá, ale Flórina zradila potřeba vyzkoušet si svou novou schopnost. Ruka skřeta, které se dotknul na golemovi sešitém z různých těl, ožila, chytila ho drápy pod bradou a protrhla mu krkavici.
 >
 > Když se Toník propadl do krypty (►B0), oživlý chrlič si ho spletl s Árnim a odnesl ho k ošetření do věže – celou cestu letěl a nikde Toníka nepustil. Nejdřív se zkoušel dostat do pracovny (►F5), ale protože byla zamknutá, odnesl Toníka do salónu, kde ho po dlouhé diskusi nechal džinovi. Džin mezitím Toníkovi vysvětlil, že je jediným žijícím mužským potomkem Schattenbachů, a věž by tedy měla patřit jemu.
-Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž trochu zkoumat a její historie je zaujme, domyslí si to všechno snadno sami.
+>
+> Musí se tohle dozvědět hráči? Ne! Ale věřím, že pokud budou věž trochu zkoumat a její historie je zaujme, domyslí si to všechno snadno sami.
 
 ## Jak se sem můžou postavy dostat?
 
@@ -67,7 +68,8 @@ Pokud používáš náhodné tabulky pro zvýšení napětí, obtížnosti apod.
 ### A0 – díra v dlažbě
 
 __Zvenku a uvnitř:__ Asi 1×1 m propadlé dlažby na široké ulici, vedle hřbitovní zdi (viz ►A1). V hloubce 4 m jsou kamenné schody, na nich suť a dlažební kostky. Slézt na schody je triviální úkol. Schody pod povrchem klesají na jih do tmy (►B0) a stoupají na sever za hřbitovní zeď – ve stropě u vrcholu schodů je u zdi úzká štěrbina a šeré světlo, kamennou desku lze snadno posunout stranou za kovové madlo zapuštěné do kamene.
-Průzkum/CP: Okolo díry stojí shluk lidí a trpaslický konšel _Ólin Schönstein_. Schönstein je vyděšený ze zmizení syna, ale stále převažuje jeho zvyk rozkazovat. Přikazuje dobrodruhům vlézt dolů a najít jeho 10letého syna _Toníka (Tónni)_, který do díry spadl, když se pod ním zhroutila dlažba. Ukáže jim jeho podobiznu, kterou nosí v hábitu. Propad způsobilo, když po ulici přejel těžce naložený vůz. Konšel nabízí každému z dobrodruhů odměnu 20 zl za navrácení syna, po chvíli může slíbit bonusy (max. 10 zl navíc), když bude Toník živý a zdravý.
+
+__Průzkum/CP:__ Okolo díry stojí shluk lidí a trpaslický konšel _Ólin Schönstein_. Schönstein je vyděšený ze zmizení syna, ale stále převažuje jeho zvyk rozkazovat. Přikazuje dobrodruhům vlézt dolů a najít jeho 10letého syna _Toníka (Tónni)_, který do díry spadl, když se pod ním zhroutila dlažba. Ukáže jim jeho podobiznu, kterou nosí v hábitu. Propad způsobilo, když po ulici přejel těžce naložený vůz. Konšel nabízí každému z dobrodruhů odměnu 20 zl za navrácení syna, po chvíli může slíbit bonusy (max. 10 zl navíc), když bude Toník živý a zdravý.
 
 ### A1 – hrobka
 __Zvenku:__ Na hřbitově se dá snadno odhadnout, že schody (►A0) stoupají do staré trpaslické hrobky. Je zarostlá a pokrytá lišejníkem, nejméně 50 let ji nikdo neudržuje, spíš déle. Je neoznačená bez viditelných nápisů. Vchod je v severní stěně hrobky. Řetěz zajišťující vstup je silný, ale rezavý, zámek je odemčený, ale nastražený tak, aby to nebylo na první pohled vidět, zároveň je přirezlý k řetězu. Řetěz jde snadno odstranit, kamenné dveře ale vyžadují trochu síly, nashromáždily se za nimi prach a suť.
