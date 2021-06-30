@@ -38,21 +38,21 @@ Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt be
 
 ## Místa v doupěti
 
-### 1 — Vstup do Doupěte
+### (1) Vstup do Doupěte
 Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
 
-### 2 — Sestup do Doupěte
+### (2) Sestup do Doupěte
 Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
 
-### 3 — Hlavní jeskyně
+### (3) Hlavní jeskyně
 Dole se nachází několik stalagnátů a mezi nimi se pohybuje Lávový krab velký jako kozel. Šel do doupěte s cílem stát se otcem další snůšky WainuKiwy, ale její chvíle ještě nepřišla. Tak se zatím bezcílně potuluje jejím doupětem a jí její děti z minulé snůšky, své sourozence.
 
-### 4 — Pukliny
+### (4) Pukliny
 V této části doupěte přechází menší pukliny v zemi v rokli lemovanou tenkými přírodními kamennými můstky. Dole je horká voda a spousta ostrých kamenů. Navíc cestu skrz znesnadňuje několik gejzírů stříkajících s dostatečnou vervou, že neopatrnou a nezajištěnou osobu lehce smetou dolů. 
 
 Na konci stráží kameno-ocelový konstrukt vypodobněný jako trpasličí válečník s dlouhým trojzubcem. Ten zde stráží jeden ze vstupů do Trochdvargova sídla a shazuje dolů každou bytost, která se pokusí přes rokli projít.
 
-### 5 — Gobliní díry
+### (5) Gobliní díry
 Menší tunely, které využívali mladí krabi jako skrýše, jsou nyní obsazené gobliny z hexu (G2), kteří sem přišli uctívat WainuKiwu a donutit ji k tomu, aby probudila sopku (to sice ona neumí, ale to goblini netuší. Ale naštvat ji se jim časem podaří a ta pak vyleze do okolí a bude jej devastovat). 
 
 Poté, co jich několik snědla, se pokusili utéct, ale v tu chvíli už byl u vchodu zabydlený velký Lávový krab z Místnosti _(3)_, a tak ani neměli kam utéct. Nyní loví mladší kraby na maso, jejich krunýře na zbroje a těží ostrý obsidián na zbraně. Doufají, že se jim brzy podaří utéct, protože je tu navíc zlý ohnivý trpasličí duch (Trochdvarg), který je loví a unáší neznámo kam. 
@@ -60,7 +60,7 @@ Poté, co jich několik snědla, se pokusili utéct, ale v tu chvíli už byl u 
 Jsou zde navíc tunely vedoucí do různých částí Doupěte. Na mapě jsou propojené tunely označené Velkými písmeny a šipkou _(A/B/C/D)_.
 Některé tunely jsou dost úzké a dospělý lidský muž se v nich bude muset plazit a nebude se moci příliš roztahovat. Sice se skrz ně mohou poměně nepozorovaně dostat do mnoha částí Doupěte, ale hrozí tam nebezpečí, že se postavy dostanou do nepříjemného stísněného boje, kde bude moci hrdina využít sotva dýku, zatímco proti jeho obličeji poleze vyděšený a zuřivý goblin, nebo nedejbože hladový Lávový krab.
 
-### 6 — Trochdvargovo sídlo
+### (6) Trochdvargovo sídlo
 Zde Trochdvarg pracuje, spí a jí. Všechen nábytek je zde z kamene a většinou je ten i součástí skály, ze které je místnost vysekaná, takže nejde odnést. I ta postel je z kamene a žádná matrace, ani přikrývka na ní není. Celé je to docela spartansky zařízené, ale to co tu je, je nádherně zdobené a ryté klasickými trpasličími geometrickými motivy s ohnivou tématikou. Je zde i knihovna, kde knihy jsou nahrazeny kamennými deskami s vyrytými informacemi. 
 V knihovně lze nalézt několik kouzel spojených s ohněm a rituály pro vyvolávání ohnivých elementálů. 
 
