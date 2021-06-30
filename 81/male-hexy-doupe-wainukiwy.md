@@ -28,7 +28,7 @@ published: true
 - **3** – Pár skřetů z tunelů _(6)_ lovu krabů.
 - **4** – Srývající se zajatec, utekl z _(9)_.
 - **5** – Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_.
-- **6** – Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
+- **6** – Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
 
 ### Speciální setkání
 WainuKiwa samotná. Ta většinou neopouští své doupě v místnosti _(16)_, když už tak se jde vykoupat do místnosti _(15)_ a nebo najíst k oltáři v místnosti _(14)_. Ale pokud postavy budou vydávat nadměrný hluk, přiláká ji to. Kdy? To nechám na tobě a tvém úsudku.
@@ -39,7 +39,7 @@ Horký vlhký vzduch, šaty i vlasy se lepí na zpocená těla. Delší pobyt be
 ## Místa v doupěti
 
 ### (1) Vstup do Doupěte
-Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
+Vstup do doupěte vede skrz horkou vodu po kolena. V té se skrývají Lávoví krabi. Většina z nich jsou malí, čekají až dorostou a budou se moci vydat na lov. Tudíž nejsou nijak nebezpeční, spíš otravní. Ale je tam i pět dospělých krabů, kteří čekají skrytí pod hladinou a klidně napadnou procházející postavy (a pokusí se jim uštípnout nohy v kotníku). Navíc je zde několik gejzírů horké vody, které čas od času vytrysknou vařící vodu, která může nepozornou postavu nepříjemně překvapit a popálit (šance 2 z 6).
 
 ### (2) Sestup do Doupěte
 Mírně svažující se kamenný vstup do hlubin doupěte pod sopkou. Podlaha je vlhká od vody stékající od vstupu. Není problém zde uklouznout a pořezat se o ostré kamení.
@@ -68,7 +68,7 @@ V místnosti je velká rudá perla, hořící vnitřním ohněm v kamenném pied
 V místnosti je pak ještě spousta kamenných činek a dalšího cvičícího náčiní, místo na tesání trpasličích sošek z obsidiánu a kuchyně s lávovým krbem.
 
 <br/> Je zde i kamenná truhlice, ve které se nachází: 
-- 8 ohnivých smaragdů velikosti ořechu.
+- Osm ohnivých smaragdů velikosti ořechu.
 - “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
 - Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
 - Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
