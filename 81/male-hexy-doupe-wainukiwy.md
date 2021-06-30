@@ -69,7 +69,7 @@ V místnosti je pak ještě spousta kamenných činek a dalšího cvičícího n
 
 <br/> Je zde i kamenná truhlice, ve které se nachází: 
 - Osm ohnivých smaragdů velikosti ořechu.
-- "Sněhový" orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
+- „Sněhový“ orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
 - Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
 - Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
 
