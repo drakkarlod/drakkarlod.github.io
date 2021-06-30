@@ -17,17 +17,17 @@ published: true
 > Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete a celkově si se zde popsanou kobkou dělejte co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
 
 ## Proč by se sem postavy chtěly vydat?
-- Chtějí získat cennou Ohnivou Perlu
-- Chtějí zabít nebo zklidnit WainuKiwu, poté co jí gobliní kmeny vyrušily
-- Zjistit něco o Ohnivém elementálovi, který vládne sopce
-- Zachránit Trochdvargovy vězně
+- Chtějí získat cennou Ohnivou Perlu.
+- Chtějí zabít nebo zklidnit WainuKiwu poté, co ji gobliní kmeny vyrušily.
+- Zjistit něco o Ohnivém elementálovi, který vládne sopce.
+- Zachránit Trochdvargovy vězně.
 
 ## Náhodná setkání
-- **1** – hejno malých lávových krabů
-- **2** – Velký lávový krab
-- **3** – Pár skřetů z tunelů _(6)_ lovu krabů
-- **4** – Srývající se zajatec, utekl z _(9)_
-- **5** – Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_
+- **1** – Hejno malých lávových krabů.
+- **2** – Velký lávový krab.
+- **3** – Pár skřetů z tunelů _(6)_ lovu krabů.
+- **4** – Srývající se zajatec, utekl z _(9)_.
+- **5** – Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_.
 - **6** – Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
 
 ### Speciální setkání
