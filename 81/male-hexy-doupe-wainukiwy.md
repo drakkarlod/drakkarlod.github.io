@@ -89,7 +89,7 @@ Dvojitá kruhová místnost s vytesaným bazénkem plným horké minerální vod
 ### (9) Trochdvargovo vězení
 Tato chodba, která končí tajným vchodem k rituálnímu kruhu v místnosti _(14)_, má na své jižní straně dvoje masivní kamenné dveře s malým okénkem vyplněným ocelovými mřížemi. Za nimi se nachází dvě cely, které Trochdvarg využívá pro vězně, jenž plánuje obětovat WainuKiwě. 
 
-</br> Momentálně je zde:
+<br/> Momentálně je zde:
 - **1** — 1k6 goblinů kmene Stínochodců v jedné cele a 1k6 goblinů z kmene Požíračů v druhé cele. Navzájem se nesnáší. Hex (G2)
 - **2** — Trpaslík Lorm z lázeňského města Sargonea. Na duši zlomený zženštilý homosexuál, Trochdvarg se mu chodí smát a fyzicky i psychicky jej týrá. Už je tu uvězněný skoro rok. Dřímá v něm žhnoucí nenávist k Trochdvargovi. Hex (G1)
 - **3** — Dva lidští lovci, Tonza a Jurok, kteří šli prozkoumat vyhořelý lovecký zámeček v blízkém lese. Tonza chce Juroka podrazit a chce se přidat k Trochdvargovi jako učeň. Jurok ví o tajné cestě do loveckého zámečku. Hex (G6)
@@ -118,7 +118,7 @@ Kamenná pootevřená mušle z obsidiánu velikosti manželské postele, v její
 ### (14) Rituální kruh
 Do kamenné podlahy je zde vytesán rituální kruh, po obvodu jej lemují obsidiánové věčně hořící pochodně a uprostřed jsou okovy z černého kovu přibité k podlaze. Sem Trochdvarg nosí obětiny WainuKiwě a zde vyvolal portál do Říší ohně, odkud chtěl WainuKiwě přivolat vhodného partnera. Bohužel se mu to nepovedlo a místo toho přivolal mocného Ohnivého elementála z hexu (G7). Ten nyní ovládl sopku a většinu salamandrů, kteří v ní žili a jal se ovládnout i okolí. Portál se zde občas znovu zjeví a vychrlí něco z Ohnivých říší. Trochdvarg jej již nemá pod kontrolou a snaží se přijít na to, jak jej opět ovládnout.
 
-</br> Co zde je, když sem postavy přijdou:
+<br/> Co zde je, když sem postavy přijdou:
 - **1** — Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
 - **2** — Pár přivázaných skřetů kvílejících s prosbami o milost.
 - **3** — Otevřený portál do říší ohně.
@@ -132,7 +132,7 @@ Tato větší místnost je celá plná horké vody, dosti kalné, takže není d
 ### (16) Doupě WainuKiwy
 Konec jeskyně využívá WainuKiwa jako své doupě. Je plný sypkého černého písku, ostrých obsidiánových kamenů a s pečlivě uspořádanými a naaranžovaný pozůstatky předchozích návštěv po okolí.
 
-</br> Co dělá WainuKiwa:
+<br/> Co dělá WainuKiwa:
 - **1-3** — Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
 - **4-5** — Přerovnává si své kameny a srovnává poklady.
 - **6** — Krmí se krabími larvami.
