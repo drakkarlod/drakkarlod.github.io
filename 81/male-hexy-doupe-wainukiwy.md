@@ -6,7 +6,7 @@ tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: >-
   Malé hexy, hex G7 Klepeta lávy je malá kobka nacházející se v kořenech aktivní
-  sopky, které jako své doupě využívá obří lávová krabí matka - WainuKiwa. Vchod
+  sopky, které jako své doupě využívá obří lávová krabí matka – WainuKiwa. Vchod
   se nachází za obsidiánovou planinou pokrytou kalužemi minerální vody a horkými
   gejzíry v hexu (G7). Uvnitř naleznete nejen samotnou WainuKiwu a její
   potomstvo, ale i otevřený portál do ohnivých říší, rudou ohnivou perlu,
@@ -14,7 +14,7 @@ summary: >-
   WainuKiwy.
 published: true
 ---
-> Je psáno bez systémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete a celkově si se zde popsanou kobkou dělejte co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
+> Je psáno bezsystémově a bez uvedení obtížnosti. Chybí zde statistiky monster, pastí i předmětů; jejich počty i pravidlové aplikace. Použijte takové, jaké se Vám hodí, jak moc nebezpečné zdejší místo chcete, a celkově si se zde popsanou kobkou dělejte, co chcete. Něco se Vám nelíbí? Vyhoďte to! Líbí se Vám jen něco a ne zbytek? Vykradněte to pro svou vlastní tvorbu! Berte to jako hromadu souvisejících nápadů, takové pískoviště, z kterého si postavíte co, po čem vaše srdce touží. Přeji příjemné počtení i zábavu.
 
 ## Proč by se sem postavy chtěly vydat?
 - Chtějí získat cennou Ohnivou Perlu.
@@ -23,12 +23,12 @@ published: true
 - Zachránit Trochdvargovy vězně.
 
 ## Náhodná setkání
-- **1** – Hejno malých lávových krabů.
-- **2** – Velký lávový krab.
-- **3** – Pár skřetů z tunelů _(6)_ lovu krabů.
-- **4** – Srývající se zajatec, utekl z _(9)_.
-- **5** – Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_.
-- **6** – Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
+1. Hejno malých lávových krabů.
+2. Velký lávový krab.
+3. Pár skřetů z tunelů _(6)_ lovu krabů.
+4. Skrývající se zajatec, utekl z _(9)_.
+5. Malý magmatický elementál, zmatený, přivolaný omylem z _(14)_.
+6. Trochdvarg, buď 1) vede zajatce v řetězech ke kruhu, 2) loví kraby, 3) hraje kostky se skřety o jejich život, 4) nadává salamandrům ať táhnou zpátky, odkud přišli! 5) zkoumá kruh a to, jak ho dostat zpět pod kontrolu 6) čeká maskovaný jako obsidián a přemýšlí, zda-li se pokusí nějakou z postav zajmout, nebo si s nimi promluví
 
 ### Speciální setkání
 WainuKiwa samotná. Ta většinou neopouští své doupě v místnosti _(16)_, když už tak se jde vykoupat do místnosti _(15)_ a nebo najíst k oltáři v místnosti _(14)_. Ale pokud postavy budou vydávat nadměrný hluk, přiláká ji to. Kdy? To nechám na tobě a tvém úsudku.
@@ -69,7 +69,7 @@ V místnosti je pak ještě spousta kamenných činek a dalšího cvičícího n
 
 <br/> Je zde i kamenná truhlice, ve které se nachází: 
 - Osm ohnivých smaragdů velikosti ořechu.
-- “Sněhový” orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
+- "Sněhový" orb — skleněná koule s modelem Sargonea — hex (g1), s kterou když zatřepete, tak v ní nelétají sněhové vločky, ale malé ohnivé meteority.
 - Model sopky, do které když se nalije voda, tak začne vydávat neskutečné množství hustého černého kouře, který během chvil zaplní i velkou hodovní místnost.
 - Svazek sirek masivních jako tužka. Hoří pod vodou i v prudkém větru.
 
@@ -90,19 +90,19 @@ Dvojitá kruhová místnost s vytesaným bazénkem plným horké minerální vod
 Tato chodba, která končí tajným vchodem k rituálnímu kruhu v místnosti _(14)_, má na své jižní straně dvoje masivní kamenné dveře s malým okénkem vyplněným ocelovými mřížemi. Za nimi se nachází dvě cely, které Trochdvarg využívá pro vězně, jenž plánuje obětovat WainuKiwě. 
 
 <br/> Momentálně je zde:
-- **1** — 1k6 goblinů kmene Stínochodců v jedné cele a 1k6 goblinů z kmene Požíračů v druhé cele. Navzájem se nesnáší. Hex (G2)
-- **2** — Trpaslík Lorm z lázeňského města Sargonea. Na duši zlomený zženštilý homosexuál, Trochdvarg se mu chodí smát a fyzicky i psychicky jej týrá. Už je tu uvězněný skoro rok. Dřímá v něm žhnoucí nenávist k Trochdvargovi. Hex (G1)
-- **3** — Dva lidští lovci, Tonza a Jurok, kteří šli prozkoumat vyhořelý lovecký zámeček v blízkém lese. Tonza chce Juroka podrazit a chce se přidat k Trochdvargovi jako učeň. Jurok ví o tajné cestě do loveckého zámečku. Hex (G6)
-- **4** — Někdo, koho znají postavy z okolí a pár dní jej neviděly. Přítel či nepřítel, tvá volba.
+1. 1k6 goblinů kmene Stínochodců v jedné cele a 1k6 goblinů z kmene Požíračů v druhé cele. Navzájem se nesnáší. Hex (G2)
+2. Trpaslík Lorm z lázeňského města Sargonea. Na duši zlomený zženštilý homosexuál, Trochdvarg se mu chodí smát a fyzicky i psychicky jej týrá. Už je tu uvězněný skoro rok. Dřímá v něm žhnoucí nenávist k Trochdvargovi. Hex (G1)
+3. Dva lidští lovci, Tonza a Jurok, kteří šli prozkoumat vyhořelý lovecký zámeček v blízkém lese. Tonza chce Juroka podrazit a chce se přidat k Trochdvargovi jako učeň. Jurok ví o tajné cestě do loveckého zámečku. Hex (G6)
+4. Někdo, koho znají postavy z okolí a pár dní jej neviděly. Přítel či nepřítel, tvá volba.
 
 ### (10) Kovadlina Lávy
 Zde protéká lávová řeka, která se po chvílí ztrácí v hlubinách země. Uprostřed řeky je malý ostrůvek, v jehož středu je krásná černá kovadlina, která vypadá ne vyrobená, ale jakoby přímo vyrostla ze země. U ní je i pár kousků mistrovského trpasličího kovářského vybavení.
 
 Kolem ostrůvku se usídlilo několik Salamandrů, kteří ještě nepatří pod vliv Ohnivého elementála ze Sopky z hexu (G7) a zdejší ostrůvek si vybrali jako své nové sídlo. Nejsou agresivní, většinou se snaží ustoupit, ale nejdál k ostrůvku s kovadlinou. Pokud by jste je napadli, nebo se nedejbože pokusili vydat do chřtánu lávy, kde mají svá vejce, tak Vás napadnou bez jakéhokoliv pudu sebezáchovy. K ostrůvku nevede žádný most a nejkratší vzdálenost jsou čtyři metry od břehu (z druhé strany jsou to pouze dva metry). Trochdvarg umí chodit po lávě, ale salamandři ho k jeho kovadlině nechtějí pustit a on je z toho naštvaný. Pokud je postavy vyženou, nebo mu alespoň přinesou jeho nářadí, tak jim vyková na nějaký předmět či zbraň magickou runu. Počet zvol dle toho, jak s ním postavy jednaly: 
-- **1** — Zbraň dává navíc drobné zranění ohněm.
-- **2** — Předmět se může rozsvítit/zhasnout na povel, svítivost má jako pochodeň.
-- **3** — Předmět dokáže na dálku zhasnout jakýkoliv plamen do velikosti ohniště.
-- **4** — Předmět dá nositeli schopnost vidět ve tmě, ale jeho oči budou slabě žhnout vnitřním plamenem.
+1. Zbraň dává navíc drobné zranění ohněm.
+2. Předmět se může rozsvítit/zhasnout na povel, svítivost má jako pochodeň.
+3. Předmět dokáže na dálku zhasnout jakýkoliv plamen do velikosti ohniště.
+4. Předmět dá nositeli schopnost vidět ve tmě, ale jeho oči budou slabě žhnout vnitřním plamenem.
 
 ### (11) Chřtán lávy
 Nad malým lávovým vodopádem je místo, kde salamandři nakladli svá vejce. Čekají, až se vylíhnou. Ohnivý elementál ovládající sopku by je rád získal a zotročil pro své potřeby. Alchymisté by za ně zaplatili slušnou částku, kvůli jejich ohnivé energii života.
@@ -119,12 +119,12 @@ Kamenná pootevřená mušle z obsidiánu velikosti manželské postele, v její
 Do kamenné podlahy je zde vytesán rituální kruh, po obvodu jej lemují obsidiánové věčně hořící pochodně a uprostřed jsou okovy z černého kovu přibité k podlaze. Sem Trochdvarg nosí obětiny WainuKiwě a zde vyvolal portál do Říší ohně, odkud chtěl WainuKiwě přivolat vhodného partnera. Bohužel se mu to nepovedlo a místo toho přivolal mocného Ohnivého elementála z hexu (G7). Ten nyní ovládl sopku a většinu salamandrů, kteří v ní žili a jal se ovládnout i okolí. Portál se zde občas znovu zjeví a vychrlí něco z Ohnivých říší. Trochdvarg jej již nemá pod kontrolou a snaží se přijít na to, jak jej opět ovládnout.
 
 <br/> Co zde je, když sem postavy přijdou:
-- **1** — Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
-- **2** — Pár přivázaných skřetů kvílejících s prosbami o milost.
-- **3** — Otevřený portál do říší ohně.
-- **4** — Nic tu není.
-- **5** — WainuKiwa, akorát žere nějakého nešťastníka.
-- **6** — Zmatený efreet, který ještě před chvílí odpočíval s dýmkou ve své letní zahradě, a kterého sem vtáhl portál, jež se před chvílí zavřel.
+1. Hromada mrtvých krabů, opodál je skupina skřetů, která je chce ukradnout.
+2. Pár přivázaných skřetů kvílejících s prosbami o milost.
+3. Otevřený portál do říší ohně.
+4. Nic tu není.
+5. WainuKiwa, akorát žere nějakého nešťastníka.
+6. Zmatený efreet, který ještě před chvílí odpočíval s dýmkou ve své letní zahradě, a kterého sem vtáhl portál, jež se před chvílí zavřel.
 
 ### (15) Podzemní jezero
 Tato větší místnost je celá plná horké vody, dosti kalné, takže není dobře vidět na dno, které je provrtané spoustou děr. Od menších až po takové, kterými se protáhne samotná WainuKiwa. Občas zde číhá na kořist  a může mezi jednotlivými dírami proplouvat. Mezi rizika zde spadají hlavně gejzíry vařící vody, pak ale i hejna krabích larev skrývajících se v hluboké vodě a průlezech.
@@ -133,8 +133,8 @@ Tato větší místnost je celá plná horké vody, dosti kalné, takže není d
 Konec jeskyně využívá WainuKiwa jako své doupě. Je plný sypkého černého písku, ostrých obsidiánových kamenů a s pečlivě uspořádanými a naaranžovaný pozůstatky předchozích návštěv po okolí.
 
 <br/> Co dělá WainuKiwa:
-- **1-3** — Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
-- **4-5** — Přerovnává si své kameny a srovnává poklady.
+- **1–3** — Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
+- **4–5** — Přerovnává si své kameny a srovnává poklady.
 - **6** — Krmí se krabími larvami.
 
 ## Trochdvarg, ohnivý trpasličí kněz
