@@ -132,7 +132,7 @@ Tato větší místnost je celá plná horké vody, dosti kalné, takže není d
 ### (16) Doupě WainuKiwy
 Konec jeskyně využívá WainuKiwa jako své doupě. Je plný sypkého černého písku, ostrých obsidiánových kamenů a s pečlivě uspořádanými a naaranžovaný pozůstatky předchozích návštěv po okolí.
 
-Co dělá WainuKiwa:
+</br>Co dělá WainuKiwa:
 - **1-3** - Je zahrabaná v sypkém písku, není vidět a čeká na kořist/odpočívá.
 - **4-5** - Přerovnává si své kameny a srovnává poklady.
 - **6** - Krmí se krabími larvami.
