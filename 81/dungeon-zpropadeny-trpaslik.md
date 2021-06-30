@@ -11,7 +11,7 @@ published: true
 
 ## Základní charakteristiky
 
-- dungeon v lehce oldschoolovém stylu, využitelný v jakékoli dobrodružné fantasy hře
+- dungeon v lehce [oldschoolovém](https://zpatky.wordpress.com/2019/11/24/tak-vy-chcete-hrat-oldschoolove/) stylu, využitelný v jakékoli dobrodružné fantasy hře
 - hra je postavená převážně na průzkumu; příležitostí k vyjednávání je málo
 - pro postavy na první, případně jiné nízké úrovni
 - asi 4–6 hodin hraní – zvýšená zvědavost a opatrnost hráčů může hru ještě o něco protáhnout
