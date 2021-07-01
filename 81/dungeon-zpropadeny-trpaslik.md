@@ -75,7 +75,8 @@ __Průzkum/CP:__ Okolo díry stojí shluk lidí a trpaslický konšel _Ólin Sch
 
 ### A1 – hrobka
 __Zvenku:__ Na hřbitově se dá snadno odhadnout, že schody (►A0) stoupají do staré trpaslické hrobky. Je zarostlá a pokrytá lišejníkem, nejméně 50 let ji nikdo neudržuje, spíš déle. Je neoznačená bez viditelných nápisů. Vchod je v severní stěně hrobky. Řetěz zajišťující vstup je silný, ale rezavý, zámek je odemčený, ale nastražený tak, aby to nebylo na první pohled vidět, zároveň je přirezlý k řetězu. Řetěz jde snadno odstranit, kamenné dveře ale vyžadují trochu síly, nashromáždily se za nimi prach a suť.
-Průzkum/CP: Starší obyvatelé města si vzpomenou na vyprávění, že hrobku využívala rodina Schattenbachů, ze které už nikdo víc než sto let nežije. Schattenbachové byli kdysi spřízněni skrze nějakou dceru s Schönsteiny.
+
+__Průzkum/CP:__ Starší obyvatelé města si vzpomenou na vyprávění, že hrobku využívala rodina Schattenbachů, ze které už nikdo víc než sto let nežije. Schattenbachové byli kdysi spřízněni skrze nějakou dceru s Schönsteiny.
 
 __Uvnitř:__ Stará, zaprášená hrobka asi 4×4 m. Hrobka není úplně tmavá, ve zdech jsou skrytá malá okýnka, která uvnitř vytvářejí mírné příšeří. Po stranách na kamenných stolcích 4 sarkofágy, resp. monolity bez víka napodobující sarkofágy. Uprostřed hrobky u zadní zdi (směrem k ulici ►A0) je do země zapuštěný neoznačený „hrob“ s kamennou deskou posunutou tak, že otvírá úzkou škvíru na schody do podzemí (►A0, ►B0). Desku lze vzhledem k její váze překvapivě snadno odsunout stranou.
 
@@ -146,15 +147,15 @@ __Průzkum:__ Pod kladkou je podlaha dutá a méně zaprášená, jedno z prken 
 
 ### D0 – galerie
 
-__Zvenku:__ Z parketu stoupají na zábradlím lemovanou galerii tři schodiště, severní část galerie (u vstupu na balkon ►D3) je o metr níž. Na galerii je několik dřevěných stolečků a polstrovaných židlí nebo křesílek. V rozestupech jsou okolo zdi vysoké kovové svícny pro 9 svíček. Fresky na zdech zobrazují výjevy z trpaslické mytologie a mytologie města Moosbergu. Na několika místech je v malbě viditelná plíseň. Chybí všechny doplňky, nádobí apod. Na obou jižních koncích jsou za závěsy (červený na východě, zelený na západě) průchody do salonů (►D1, ►D2), na severu velké dvoukřídlé posuvné dveře vedou na balkon (►D3), madla jsou svázaná zteřelou šňůrou od závěsu.
+__Zvenku:__ Z parketu stoupají na zábradlím lemovanou galerii tři schodiště, severní část galerie (u vstupu na balkon ►D3) je o metr níž. Na galerii je několik dřevěných stolečků a polstrovaných židlí nebo křesílek. V rozestupech jsou okolo zdi vysoké kovové svícny pro 9 svíček. Fresky na zdech zobrazují výjevy z trpaslické mytologie a mytologie města Moosbergu. Na několika místech je v malbě viditelná plíseň. Chybí všechny doplňky, nádobí apod. Na obou jižních koncích jsou za závěsy (červený na západě, zelený na východě) průchody do salonů (►D1, ►D2), na severu velké dvoukřídlé posuvné dveře vedou na balkon (►D3), madla jsou svázaná zteřelou šňůrou od závěsu.
 
 ### D1 – dámský salon
 
-__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená červeným závěsem. V západní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě červeném koberci je uprostřed čtvercový stůl cca 1,5 metru široký, okolo něj 7 polstrovaných židlí, u stěn potažených brokátovou tapetou stojí několik prázdných vysokých stolečků. V severovýchodním rohu místnosti je vitrína s tenkými broušenými sklenicemi (_velmi křehké, cca 10 zl_) a jednou prázdnou a plnou lahví zkažené sherry.
+__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená červeným závěsem. Ve východní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě červeném koberci je uprostřed čtvercový stůl cca 1,5 metru široký, okolo něj 7 polstrovaných židlí, u stěn potažených brokátovou tapetou stojí několik prázdných vysokých stolečků. V severovýchodním rohu místnosti je vitrína s tenkými broušenými sklenicemi (_velmi křehké, cca 10 zl_) a jednou prázdnou a plnou lahví zkažené sherry.
 
 ### D2 – pánský salon
 
-__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená zeleným závěsem. Ve východní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě zeleném koberci jsou u stěn čtyři polstrované sedačky s odkládacími stolky. Na spodní polici jednoho z odkládacích stolků je zavoskovaná láhev se zašlou etiketou se značkou moosberského výrobce whisky a ročníkem starým 250 let (_cca 10 zl_).
+__Uvnitř:__ Čtvercová místnost o stěně cca 5 m, od galerie (►D0) oddělená zeleným závěsem. V západní stěně jsou polstrované dveře. Na zašlém, zaprášeném tmavě zeleném koberci jsou u stěn čtyři polstrované sedačky s odkládacími stolky. Na spodní polici jednoho z odkládacích stolků je zavoskovaná láhev se zašlou etiketou se značkou moosberského výrobce whisky a ročníkem starým 250 let (_cca 10 zl_).
 
 ![zPT_DE.jpg]({{site.baseurl}}/81/zPT_DE.jpg)
 
