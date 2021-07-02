@@ -5,7 +5,7 @@ title: 'Malé hexy: A2 – Skládka na konci světa'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex A2'
-published: false
+published: true
 ---
 ### A) Číslo hexu: A2 
 
