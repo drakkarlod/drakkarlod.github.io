@@ -6,7 +6,7 @@ tags: 'Ravnburgh, materiály a doplňky'
 summary: >-
   Tento článek obsahuje popis vojska padlé Purpurové říše na východě a jeho
   struktury, stejně jako popis vojsk jejích nástupnických států
-published: false
+published: true
 ---
 
 Na východ od severních království Arlatu (kde leží Ravnburgh) se nacházela _Basileía tōn Porphyríōn_, známá v obecné řeči jako Purpurová říše. Byl to mocný a rozlehlý stát, který dlouho bohatl z kontroly dálkového obchodu s exotickými zeměmi daleko za branami Kani-kara. Před 112 lety, v Roce padajících hvězd, bylo hlavní město Purpurové říše dobyto a poslední _basileos_ zahynul v jeho troskách. Většinu území pro sebe uchvátili jezdci z Východu a vytvořili si zde vlastní státy. Po mocné říši zůstaly dva nástupnické státy kontrolující jen zlomek původní území říše – Tartasský despotát a Vadjarak.
