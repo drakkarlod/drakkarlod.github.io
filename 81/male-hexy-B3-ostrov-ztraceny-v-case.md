@@ -5,7 +5,7 @@ title: 'Malé hexy: B3 – Ostrov ztracený v čase'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex B3'
-published: true
+published: false
 ---
 ### A) Číslo hexu: B3
 
