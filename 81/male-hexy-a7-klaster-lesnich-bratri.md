@@ -4,7 +4,7 @@ authors: Vitus
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex A7'
-published: true
+published: false
 name: 'Malé hexy: A7 - Klášter lesních bratří'
 title: 'Malé hexy: A7 – Klášter lesních bratří'
 ---
