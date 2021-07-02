@@ -8,7 +8,7 @@ summary: >-
   pln bezbožné zbabělosti, jsem vyhnat nedokázal.“ – poslední slova Pádraiga
   (sv. Patrika) – druhý den po idách v měsíci Martu roku konzulů Severina a
   Dagalaipha (451 AD)
-published: false
+published: true
 ---
 
 …nikdo neví, kdy se objevil v Irsku poprvé, snad zde žil od pradávných věků. Drak Paiste je jedním z posledních velkých draků britských ostrovů. Dle Knihy Armaghovy (Codex Ardmachanus)  původně dlel ve Banagherském hvozdu, majíc svou skrýš v jezírku, tvořeném pramenem řeky Owenreagh. Hrůzostrašný drak, děsící svým ohnivým dechem daleké okolí, pravidelně požadoval lidské oběti, a to v podobě mladých panen, urozeného původu. Nikdo neví, proč tak činil. Snad z pýchy a ve snaze pokořit všechny ostatní. Pokud se rozhodl někdo klást odpor, sežehl celé město plameny.
