@@ -6,7 +6,7 @@ tags: 'Ravnburgh, materiály a doplňky'
 summary: >-
   Tento článek obsahuje informace o jezdcích z Východu, kteří rozvrátili
   Purpurovou říši, jejich původu a státech, které si pro sebe vytvořili.
-published: false
+published: true
 ---
 
 Na západě je jen málo důvěryhodných zpráv o událostech na dalekém východě a následující řádky je proto brát s rezervou, protože byly poskládány ze střípků a zpráv často pochybného charakteru.
