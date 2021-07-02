@@ -4,7 +4,7 @@ title: 'Dungeon: (Z)propadený trpaslík'
 authors: Jakub „boubaque“ Maruš
 tags: materiály a doplňky
 summary: "Hledání ztraceného chlapce v\_několikapatrovém podzemí pro tradiční dobrodružné fantasy RPG. – Po ulici zakodrcal těžce naložený vůz, pod jeho koly se propadla dlažba a do díry sklouzl desetiletý syn trpaslického konšela. Je to sotva pár minut. Konšel postavy požádá, aby slezly do díry a chlapce našly – po krátké úvaze slíbí odměnu, hlavně když chlapce přivedou živého. Sesuvem odkrytá krypta je ale prázdná. Určitě je to jen zástěrka pro hluboký podzemní komplex…"
-published: false
+published: true
 ---
 
 (Na totmto místě brzy přibude odkaz na tiskovou verzi v PDF.)
