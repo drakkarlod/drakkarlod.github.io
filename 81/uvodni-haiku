@@ -1,8 +1,10 @@
 ---
 layout: article
-title: Úvodní haiku
-authors: Jméno autora
-tags: štítek, další štítek
+author: redakce
+tags: úvodník
+summary: místo úvodu
+authors: redakce
+fulltext: true
 ---
 
 > Žár slunce snášet<br>
