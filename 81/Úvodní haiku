@@ -5,6 +5,7 @@ authors: redakce
 tags: 'úvodní haiku, úvodník'
 summary: místo úvodníku
 published: true
+fulltext: true
 ---
 > Žár slunce snášet<br>
 > s vějířem a plánovat<br>
