@@ -44,3 +44,6 @@ Uprostřed hexu stojí na kamenné planině hostinec U ztracených snů. Do šir
 - V některém z okolních hexů postavy narazí na prapodivné stopy, které vedou hlouběji do pouště. Jak se vypořádají s monstrem, na které nejspíš brzy narazí?  
 - Postavy prozkoumávající hex narazí na hostinec U ztracených snů. V něm se jistě nachází mimo jiné právě ten hrdina, který má tu nejlepší možnou sadu schopností pro důležitý úkol. Pokusí se ho hráči zrekrutovat? A jak dlouho s nimi hrdina na výpravě vydrží?  
 - Postavy na zcela jiném hexu vyhledá zmatený hrdina s prazvláštní nemocí. Tvrdí, že se ztratil, pamatuje si jen matně jakousi hospodu obklopenou pískem a zoufale prosí postavy o pomoc s jejím nalezením.
+
+![Hostinec U ztracených snů]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/4/41/The_desert_castle_Qasr_Kharana_in_Jordan.JPG)
+_Zdroj: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_desert_castle_Qasr_Kharana_in_Jordan.JPG)_
