@@ -26,7 +26,7 @@ Neďaleká slatina prechádza postupne v dokonale mrtvu zem. Je dokonale rovná 
 #### Mesto stratených duší
 Na soľnej pláni sa vyskytujú kryštály. Najprv iba drobné a nenápadné no smerom k stredu hexu sú stále väčšie a prominentnejšie. Samotné srdce pláne obsahuje obrovskú kryštalickú štruktúru zvanú mesto stratených duší.  
   
-Každý kryštál má svoju dušu, najmenšie sú primitívne a tiché ako rastliny. Čím je duša mocnejšia, tým väčší je kryštál a tým bližšie k mestu býva. Kryštály majú rôzne agendy. Niektoré chcú od návštevníkov pokoj, iné pomoc. Niektoré im chcú jednoducho iba ublížiť. Ovládajú rôzne jednoduché čary ilúzie, telepatiu, niektoré dokážu prehovárať do snov. Pozor! Pri dotyku však dokážu dušu preniesť do svojho sveta. Záchrana nemusí byť ľahká. Je potrebná spolupráca na oboch stranách.  
+Každý kryštál má svoju dušu, najmenšie sú primitívne a tiché ako rastliny. Čím je duša mocnejšia, tým väčší je kryštál a tým bližšie k mestu býva. Kryštály majú rôzne agendy. Niektoré chcú od návštevníkov pokoj, iné pomoc. Niektoré im chcú jednoducho iba ublížiť. Ovládajú rôzne jednoduché čary ilúzie, telepatiu, niektoré dokážu prehovárať do snov. Pozor! Pri dotyku však dokážu dušu preniesť do svojho sveta. Záchrana nemusí byť ľahká. Je potrebná spolupráca na oboch stranách.  
   
 Dôvody pre lapenie môžu byť najrôznejšie. Niektoré duše chcú od dobrodruha pomoc. Tie horšie ho chcú darovať ako otroka svojmu vládcovi. Mesto stratených duší vyzerá tak trochu ako kráľovstvo krivých zrkadiel. Stabilnejšie časti vyzerajú ako soľná jaskyňa. Nestabilné ako miesto za zrkadlom kde sa láme realita. Len hlupák sa sem vydá dobrovoľne. S riadnou odmenou však možno presvedčiť aj tých menej náchylnejších.
 
