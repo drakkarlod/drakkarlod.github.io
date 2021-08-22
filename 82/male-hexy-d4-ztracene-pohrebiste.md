@@ -20,7 +20,7 @@ Opuštěné a pískem zaváté hroby a hrobky, které jsou pozůstatkem dávnéh
 
 ### D) Popis hexu
 
-Pískem zaváté svatyně, hrobky a hroby, které postavil před dávnou dobou neznámý národ, jehož jméno je dávno zapomenuto. Nápisy na hrobkách nedokáže nikdo přečíst a smysl některých staveb a důvod jejich vzniku je nejasný. Nevíme, kdo leží v pradávných hrobech, jejichž tajemství jsou chráněna důmyslnými a smrtícími pastmi.  
+Pískem zaváté svatyně, hrobky a hroby, které postavil před dávnou dobou neznámý národ, jehož jméno je dávno zapomenuto. Nápisy na hrobkách nedokáže nikdo přečíst a smysl některých staveb a důvod jejich vzniku je nejasný. Nevíme, kdo leží v pradávných hrobech, jejichž tajemství jsou chráněna důmyslnými a smrtícími pastmi.  
   
 Všechny výpravy, které tudy musí projít, se snaží projít přes den. V noci totiž vylézají ze svých úkrytů _ghūleh_, kterým lidé říkají ghůlové. Jsou to nadpřirození tvorové obývající pouště a pohřebiště. Umí měnit podobu, převzít na sebe podobu zvířete (nejčastěji hyeny) nebo podobu mrtvého, jehož krev vypil a maso sežral. Lákají lidi do pouště, aby je pozřeli, kradou malé děti a vykrádají hroby, které rádi používají, aby se ukryli přes den před sluncem.
   
