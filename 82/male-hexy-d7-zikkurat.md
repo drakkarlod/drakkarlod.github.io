@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: radunamlejn
-title: 'Malé hexy: Zikkurat'
+title: 'Malé hexy: D7 – Zikkurat'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex D7'
