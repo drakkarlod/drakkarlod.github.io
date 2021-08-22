@@ -28,18 +28,13 @@ Kdo ve snu umře, umře na zástavu srdce v realitě. V jeden okamžik funguje v
 
 
 Tabulka nočních můr a jak z nich ven.  
-1) Běh labyrintem, kamenné stěny, strašlivé zvuky, zabitelné příšery.
-Útěk: Zastavit se a sednout si na zem.  
-2) Nekončící noční les, neporazitelné monstrum v podobě vlka.
-Útěk: Hodit vlkovi klacek jako psu.  
-3) Neproniknutelná mlha v mokřadech, nemrtvé ruce chytající z bahna a vtahující.
-Útěk: Podat některé nemrtvé ruce svou ruku a stisknout.  
-4) Nekonečně vysoká věž s římsami a chyty, v polovině lezení nahoru.
-Útěk: Vědomě skočit do hlubiny.  
-5) Polapený v pavoučí síti, kolem spousta jiných lidí, obří pavouk, který postupně žere různé lidi, když se člověk hýbe, tak ho přiláká.
-Útěk: Upoutat pozornost a podívat se pavoukovi zpříma do očí.  
-6) Dům s nekonečně místnostmi, ve kterém hoří, každá místnost, do které vběhnete, se za chvíli začne plnit kouřem a plameny.
-Útěk: Přestat utíkat a vstoupit do plamenů.
+- 1: Běh labyrintem, kamenné stěny, strašlivé zvuky, zabitelné příšery. Útěk: Zastavit se a sednout si na zem.  
+- 2: Nekončící noční les, neporazitelné monstrum v podobě vlka. Útěk: Hodit vlkovi klacek jako psu.  
+- 3: Neproniknutelná mlha v mokřadech, nemrtvé ruce chytající z bahna a vtahující. Útěk: Podat některé nemrtvé ruce svou ruku a stisknout.  
+- 4: Nekonečně vysoká věž s římsami a chyty, v polovině lezení nahoru. Útěk: Vědomě skočit do hlubiny.  
+- 5: Polapený v pavoučí síti, kolem spousta jiných lidí, obří pavouk, který postupně žere různé lidi, když se člověk hýbe, tak ho přiláká. Útěk: Upoutat pozornost a podívat se pavoukovi zpříma do očí.
+- 6: Dům s nekonečně místnostmi, ve kterém hoří, každá místnost, do které vběhnete, se za chvíli začne plnit kouřem a plameny. Útěk: Přestat utíkat a vstoupit do plamenů.
+
  
   
 ### E) Zápletky  
