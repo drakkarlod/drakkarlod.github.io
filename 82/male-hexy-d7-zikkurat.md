@@ -25,7 +25,8 @@ Krajina se jen mírně vlní. Celá zem je pokryta kameny, mezi kterými sem tam
 Zikkurat je ve středu hexu a ze všech stran je vidět jako maják. Každé patro je netypicky tvořeno jedním vstupem vedle druhého. Po celém zikkuratu se objevuje jediný dekorační motiv v tisících proměnách a to je symbol oka. Zikkurat nemá vnitřek ve své fyzické rovině. Každý vstup je jen výklenkem, avšak kdo do něj vstoupí, propadne se do divoké noční můry. V některých výklencích lze nalézt kostry. V zikkuratu dlí tajemná síla (možná bytost) z prastarých časů. Nikdo netuší, jestli je zikkurat její vězení nebo útočiště. Svou sílu čerpá ze strachu snících bytostí. Na samém vrcholu zikkuratu je obrovská lesknoucí se mozaika představující oko.
   
 Kdo ve snu umře, umře na zástavu srdce v realitě. V jeden okamžik funguje vždy jen jeden sen. Každý kdo usne, tak se do něj připojí. Z každého snu je jen jedna cesta ven, když jí spáči najdou, celý sen se zhroutí a všichni se probudí. Spícího nelze probudit z reálného světa. Když se podaří zničit všechny sny, zikkurat se rozpadne a z jeho trosek vyletí gigantická můra s nádhernou kresbou očí na křídlech, zastíní slunce a pak zmizí.  
-  
+
+
 Tabulka nočních můr a jak z nich ven.  
 1) Běh labyrintem, kamenné stěny, strašlivé zvuky, zabitelné příšery.
 Útěk: Zastavit se a sednout si na zem.  
@@ -38,7 +39,8 @@ Tabulka nočních můr a jak z nich ven.
 5) Polapený v pavoučí síti, kolem spousta jiných lidí, obří pavouk, který postupně žere různé lidi, když se člověk hýbe, tak ho přiláká.
 Útěk: Upoutat pozornost a podívat se pavoukovi zpříma do očí.  
 6) Dům s nekonečně místnostmi, ve kterém hoří, každá místnost, do které vběhnete, se za chvíli začne plnit kouřem a plameny.
-Útěk: Přestat utíkat a vstoupit do plamenů.  
+Útěk: Přestat utíkat a vstoupit do plamenů.
+ 
   
 ### E) Zápletky  
 - V místě kolem zikkuratu procházela karavana a někdo významný usnul. Je třeba ho probudit.
