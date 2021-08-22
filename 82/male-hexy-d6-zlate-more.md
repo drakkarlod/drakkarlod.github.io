@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: Jessa Daeh
-title: 'Malé hexy: D6 - Zlaté moře'
+title: 'Malé hexy: D6 – Zlaté moře'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex D6'
