@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Název článku
+title: 'Ravnburgh: Zaskapur'
 authors: Ecthelion²
 tags: 'Ravnburgh, materiály a doplňky'
 summary: >-
