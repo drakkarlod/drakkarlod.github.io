@@ -24,6 +24,8 @@ Lví císařství, do té doby se svářící s královstvími Arlatu, uzavřelo
 
 ### Obyvatelé zemí Zaskapuru 
 
+![Obyvatelé zemí Zaskapuru]({{site.baseurl}}/82/zaskapur1.png)
+
 Zaskapuřané jsou snědí a tmavovlasí, mají silný pocit vztahu k rodině, širšímu klanu, rodinným spojenectvím, křivdám a vyřizování účtů a krevní msty. Pro cizince je téměř nemožné vyznat se v jejich vzájemných vztazích, neustále se měnících spojenectvích, nepřátelstvích, vendetách a zapůjčených službách. Jejich kultura oceňuje nade vše odvahu, pohostinnost, držení daného slova a pomstu. Zaskapuřané věří, že duch zavražděné osoby kvílí z hrobu, dokud není jejich žízeň po krvi jejich vraha utišena. 
 
 Často zdobí svou kůži a tváře složitými tetováními a malovanými vzory. Preferují volná a pestrobarevná oblečení, která dávají na odiv jejich bohatství. Nosí šperky jako známku přízně rodiny a přátel a tyto předměty vetkané do oblečení slouží jako viditelný symbol dobrých vztahů a závazků, které učinili. Využívají k tomu zvláštní šperky zvané _tiihad_. Dávají se jako viditelná zástava dobré vůle a obdarovaný se na něj může odvolat. Mohou být použity k výměně za pohostinství nebo splnění závazku dávného slibu. Některé jsou zvlášť vytvářeny ze dvou kusů, aby mohly být rozděleny a jedna polovina darována. Po splnění služby bude opět spojen a darován celý (v druhé polovině jsou zpravidla drahé kameny nebo cenné zlato jako odměna za vykonanou službu). 
@@ -77,6 +79,8 @@ Kapitáni korzárských galér, _naa'qibi_ (sg. _naa'qib_ ), vedou své operace 
 Korzárské galéry jsou zakoupeny investory (většinou _amiri_ klanů, bohatými obchodníky nebo samotnými _waziri_ měst) , kteří mají pevný zisk z veškeré naloupené kořisti. _Wazir_ města dostává deset procent ze všeho, co projde jeho přístavy a výměnou korzárům poskytuje ochranu. Tyto kořistní operace jsou vedeny jako bezskrupulózní obchodní investice a ve městech je provozují bezohledné korzárské korporace. 
 
 ### Zaskapurské vojsko 
+
+![Zlobr ze Sarraje]({{site.baseurl}}/82/zaskapur2.jpg)
 
 Většinu zaskapurského vojska tvoří jízda postavená do pole pouštními a pobřežními klany, doplněná o elitní oddíly jízdy a pěchoty věrné vládnoucímu _malekovi_ , které slouží jako jejich protiváha v případné občanské válce. 
 
