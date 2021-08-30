@@ -16,7 +16,7 @@ Kamenná poušť s občasnými trsy suché trávy a mrtvými stromy
 
 ### C) Obsah hexu
 
-Zikkurat - chrám prastarého tvora 
+Zikkurat – chrám prastarého tvora 
 
 ### D) Popis hexu
 
