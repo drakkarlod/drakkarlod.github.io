@@ -4,9 +4,13 @@ title: Masky pustiny
 authors: Lorwyn
 tags: 'doplňky a materiály, inspirace'
 published: true
-summary: Masky vytvořené ve vražedných pustinách.
+summary: >-
+  Artefakty vytvořené v pustinách neoplývají zlatem a nejsou vybrušované z
+  vonných dřev ani odlévané z nejvzácnějších kovů. Tam, kde je třeba každý
+  ždibec jídla, každý doušek vody a každý nový den vyrvat surovému prostředí,
+  musí mágové, šamani a zaříkávači materiály volit mezi každodenními předměty,
+  nebo rovnou tvořit ze smetí.
 ---
-Artefakty vytvořené v pustinách neoplývají zlatem a nejsou vybrušované z vonných dřev ani odlévané z nejvzácnějších kovů. Tam, kde je třeba každý ždibec jídla, každý doušek vody a každý nový den vyrvat surovému prostředí, musí mágové, šamani a zaříkávači materiály volit mezi každodenními předměty, nebo rovnou tvořit ze smetí.  
 
 Každá z masek musí být nošena alespoň tři dny, než je nositel schopen používat její moc.  
 
@@ -21,14 +25,14 @@ Umožňuje nositeli dívat se jednou denně očima hyen, supů nebo jiných mrch
   
 ## Žíznivec
 
-Maska ze střepů džbánů a amfor pospojovaných zauzlovanými provázky, popruhy a madly z travin. Dává moc proklínat nepřátele slabostí, horkem, žízní a samotnému nositeli propůjčuje schopnost přežít mnoho dní bez vody.Delší nošení umožňuje kletby cílit přesněji, časem je i sesílat na více lidí naráz nebo dokonce na celé vodní zdroje - studny zapadají pískem, napajedla se kazí a vysychají.  
+Maska ze střepů džbánů a amfor pospojovaných zauzlovanými provázky, popruhy a madly z travin. Dává moc proklínat nepřátele slabostí, horkem, žízní a samotnému nositeli propůjčuje schopnost přežít mnoho dní bez vody. Delší nošení umožňuje kletby cílit přesněji, časem je i sesílat na více lidí naráz nebo dokonce na celé vodní zdroje – studny zapadají pískem, napajedla se kazí a vysychají.  
 
 Dlouhé nošení prý vyvolává touhu masku používat stále více a mluví se i o úplné ztrátě osobnosti, touze zabíjet, nebo schopnosti šířit nemoci, ale vzhledem tomu, že žádná z masek není tak nenáviděná jako Žíznivec a nekoluje o ní tolik zlých příběhů je spolehlivý popis jejích účinků těžké najít. 
 
   
 ## Hledač  
 
-Maska složená z drobností ztracených v pustině. Drobné korálky, kus uzdy, útržky vyšisovaných látek, ztupený nožík, ztracený amulet...a desítky dalších.  
+Maska složená z drobností ztracených v pustině. Drobné korálky, kus uzdy, útržky vyšisovaných látek, ztupený nožík, ztracený amulet... a desítky dalších.  
 
 O autorovi není zpráv, maska vystřídala mnoho a mnoho nositelů. Není "ráda" ztracená a nebude jen tak někde ležet desítky let. 
 
