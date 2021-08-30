@@ -10,7 +10,7 @@ Príbeh bol vytvorený na motíve povesti o hrade Slanec na Východnom Slovensku
 
 _„Páni, nespokojní s mladou vladárkou, zosnovali vzburu. Gróf Forgách v spare letnej noci s dýkou v ruke vnikol do spálne kráľovnej, no ona zobudená šramotom vyskočila z lôžka. Muž, oslnený krásou nahotinky, z kata sa stal jej záchrancom. Za odmenu dostal Slanec a do znaku obraz kráľovnej, tak, ako ju zočil onej osudnej noci."_ 
 
-**ÚVOD** 
+## ÚVOD 
 
 Dobrodružstvo je vymyslené ako súčasť putovania hrdinov, ktorý by sa mali dozvedieť prastarú povesť (napríklad  v hostinci), ktorá vysvetľovala každému z návštevníkov hrôzy, ktoré ich čakajú v pustatinách na sever od dediny. 
 
@@ -24,7 +24,7 @@ _Hovorí sa, že v krvavej bitke umrel Wurbag, Gunnam, klanový vodcovia, ale i 
 
 _Od tých čias, na pustinách severne od dediny nežije živá duša humanoida, zvieraťa ani nikoho iného..."_ 
 
-**SCÉNA 1: PUSTINA** 
+## SCÉNA 1: PUSTINA
 
 _Účel scény:_ Vyriešiť rébus, ako nájsť hrad Nek´La. 
 
@@ -40,13 +40,13 @@ Prekliatie však nepôsobí o polnoci, keď sa hrad zhmotní na menšom zalesnen
 
 _Záver:_ Hrdinovia stanú na nádvorí hradu Nek´La. Oslepí ich jasné svetlo. Po počiatočnom prekvapení začujú hrdelné slová _„...nepocíti úprimnú radosť."_ Keď znovu otvoria oči je stále noc, ale hrad je ako nový. I vzduch je zrazu zdravý, dýchateľný... 
 
-**POPIS HRADU:** 
+### POPIS HRADU 
 
 Hrad je obkolesený vysokými múrmi v tvare štvorca. V každom rohu je obranná veža. K hradbám sú v prednej strane (od brány) opreté hospodárske budovy. V zadnej zas ovocno zeleninová záhrada. V polke cesty medzi hradom a hradnou bránou, je vyschnutá studňa.  Samotný hrad je trojposchodová budova s vežou na vrchu. V podzemnom podlaží sú sklady a stajne. Prízemie tvorí kuchyňa a miestnosti pre služobníctvo. Na prvom poschodí sú izby pre panstvo a hostí, a veľká jedáleň. Tretie poschodie je určené pre vojakov, tréning a sklad zbraní. Vo veži na streche hradu sídlil alchymistická dielňa s priehľadnou strechou. 
 
 _Špeciálne pravidlá:_ Zo studne sa dá dostať do jaskyne pod hradom. 
 
-**SCÉNA 2: HLASY ZA STENOU** 
+## SCÉNA 2: HLASY ZA STENOU 
 
 _Účel scény:_ Navodiť temnú atmosféru odhaľovania tajomstva, čo sa vlastne na hrade v jeho posledných hodinách pred kliatbou stalo. 
 
@@ -130,7 +130,7 @@ _Záver:_ GM by mal dávkovať informácie o tom, čo sa skutočne stalo na hrad
 
 V tomto okamihu by mali vedieť, že hrad preklial orkský šaman Gunnam, ktorý pri tom položil svoj život pádom do studne. Že pani Melíza je nemŕtva (a svojimi kúzlami a nápojmi ovládala ľudí na hrade), vďaka kliatbe nemôže opustiť hrad a je kľúčom k zrušeniu prekliatia. 
 
-**SCÉNA 3: KLIATBA** 
+## SCÉNA 3: KLIATBA 
 
 _Účel scény:_ Finálna konfrontácia s pani Melízou. 
 
