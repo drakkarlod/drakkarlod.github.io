@@ -22,8 +22,8 @@ Opuštěné a pískem zaváté hroby a hrobky, které jsou pozůstatkem dávnéh
 
 Pískem zaváté svatyně, hrobky a hroby, které postavil před dávnou dobou neznámý národ, jehož jméno je dávno zapomenuto. Nápisy na hrobkách nedokáže nikdo přečíst a smysl některých staveb a důvod jejich vzniku je nejasný. Nevíme, kdo leží v pradávných hrobech, jejichž tajemství jsou chráněna důmyslnými a smrtícími pastmi.  
   
-Všechny výpravy, které tudy musí projít, se snaží projít přes den. V noci totiž vylézají ze svých úkrytů _ghūleh_, kterým lidé říkají ghůlové. Jsou to nadpřirození tvorové obývající pouště a pohřebiště. Umí měnit podobu, převzít na sebe podobu zvířete (nejčastěji hyeny) nebo podobu mrtvého, jehož krev vypil a maso sežral. Lákají lidi do pouště, aby je pozřeli, kradou malé děti a vykrádají hroby, které rádi používají, aby se ukryli přes den před sluncem.
-  
+Všechny výpravy, které tudy musí projít, se snaží projít přes den. V noci totiž vylézají ze svých úkrytů _ghūleh_, kterým lidé říkají ghúlové. Jsou to nadpřirození tvorové obývající pouště a pohřebiště. Umí měnit podobu, převzít na sebe podobu zvířete (nejčastěji hyeny) nebo podobu mrtvého, jehož krev vypil a maso sežral. Lákají lidi do pouště, aby je pozřeli, kradou malé děti a vykrádají hroby, které rádi používají, aby se ukryli přes den před sluncem.
+
 ### E) Zápletky  
 
 - Přítel postav je přesvědčil, aby s ním zamířily do pohřebiště, kde objevil nevyloupenou hrobku s pohádkovým množstvím zlata. Poté, co dorazili na místo, se ale přítel postav někam ztratil, a zatímco nad hroby se ozývá vytí hyen, postavy se musí ptát… byl to skutečně jejich přítel, nebo jen _ghūl_, který na sebe vzal jeho podobu poté, co jej pozřel?  
