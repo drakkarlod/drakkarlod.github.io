@@ -9,6 +9,7 @@ Artefakty vytvořené v pustinách neoplývají zlatem a nejsou vybrušované z 
 
 Každá z masek musí být nošena alespoň tři dny, než je nositel schopen používat její moc.  
 
+  
 **Mrchožrout**  
 Maska tvořená kostmi padlých zvířat a cárů kůže sešitá šlachou. Nad čelem se ježí hřeben z polámaných žeber a spodní půlku tváře kryjí pásky vysušené kůže.  
 Někdy se jí předzívá Chromec, podle zmrzačeného lovce který masku stvořil. Prý se roky živil mršinami a z nejlepších úlovků postupně složil masku, která mu hledání dalších padlin usnadnila.  
