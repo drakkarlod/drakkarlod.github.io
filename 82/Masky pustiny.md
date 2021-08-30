@@ -4,6 +4,7 @@ title: Masky pustiny
 authors: Lorwyn
 tags: Doplňky
 published: true
+summary: Masky vytvořené ve vražedných pustinách.
 ---
 Artefakty vytvořené v pustinách neoplývají zlatem a nejsou vybrušované z vonných dřev ani odlévané z nejvzácnějších kovů. Tam, kde je třeba každý ždibec jídla, každý doušek vody a každý nový den vyrvat surovému prostředí, musí mágové, šamani a zaříkávači materiály volit mezi každodenními předměty, nebo rovnou tvořit ze smetí.  
 
