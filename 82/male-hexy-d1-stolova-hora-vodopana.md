@@ -36,11 +36,12 @@ Aby se poutník dostal na náhodní plošinu, musí zazvonit na provaz. V tu chv
 
 #### Stará cesta vzhůru
 Na plošinu stolové hory vede ještě jedna stará cesta – ta, po které se kdysi nahoru dostal sám Vodopán s prvními služebníky. Vodopán ji ponechává pro všechny případy průchozí, ale zároveň důkladně zapastěnou. Začíná u paty hory, v malé jeskyni a jde o lineární dungeon s následujícími překážkami:
-- 1: Malá jeskyně – doupě Olgoje chorchoje – písečného červa, kterého Vodopán nalákal jako ochranu.  
-- 2: Svislý komín s vytesanými stupátky – každé sedmé je falešné a neznalému se rozpadne pod rukama. Nebezpečné zejména pokud hrdinové postupují těsně za sebou, jeden za druhým.  
-- 3: Bludiště z měděných zrcadel, do kterého se po většinu dne odráží slunce malými otvory a činí bloudění nesnesitelným kvůli obrovskému vedru.  
-- 4: Výstup z bludiště ústí na obvod hory, kde hrdinové musí postupovat po úzké římse mezi hnízdy zemních včel – včely rozdráždí zejména hluboké zvuky jako dunění padajících kamenů.  
-- 5: Šplh po liánách a úponcích rostlin, které přepadají přes převis na okraji stolové hory. Rostliny s výrazně žlutými květy jsou jedovaté a rostliny zcela bez květů mají tenké stonky, které unesou jen jednoho hrdinu.  
-- 6: Nakonec po další úzké římse obejít onen převis kolem hnízda skalního orla.
+
+1. Malá jeskyně – doupě Olgoje chorchoje – písečného červa, kterého Vodopán nalákal jako ochranu.  
+2. Svislý komín s vytesanými stupátky – každé sedmé je falešné a neznalému se rozpadne pod rukama. Nebezpečné zejména pokud hrdinové postupují těsně za sebou, jeden za druhým.  
+3. Bludiště z měděných zrcadel, do kterého se po většinu dne odráží slunce malými otvory a činí bloudění nesnesitelným kvůli obrovskému vedru.  
+4. Výstup z bludiště ústí na obvod hory, kde hrdinové musí postupovat po úzké římse mezi hnízdy zemních včel – včely rozdráždí zejména hluboké zvuky jako dunění padajících kamenů.  
+5. Šplh po liánách a úponcích rostlin, které přepadají přes převis na okraji stolové hory. Rostliny s výrazně žlutými květy jsou jedovaté a rostliny zcela bez květů mají tenké stonky, které unesou jen jednoho hrdinu.  
+6. Nakonec po další úzké římse obejít onen převis kolem hnízda skalního orla.
 
 Krutý Vodopán nemá na vrcholu žádné ozbrojené síly – jen několik služebníků a vodního elementála, který jej poslouchá na slovo. Vodopán jej kdysi zavázal do služby s pomocí lsti, a jediný způsob, jak elementála osvobodit, je otrávit či jinak znehodnotit vzácný pramen, který se Vodopán při obřadu zavázal "chránit".
