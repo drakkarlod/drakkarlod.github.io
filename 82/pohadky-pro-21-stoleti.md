@@ -3,10 +3,18 @@ layout: article
 title: Pohádky pro 21. století
 authors: log 0 = 1
 tags: 'Superhrdinové, Komiks'
-summary: Zamyšlení na téma superhrdinů a komiksu.
+summary: >-
+  Dlouhodobý a narůstající zájem o superhrdinský žánr těžko mohl uniknout
+  komukoliv, kdo nestrávil poslední dekádu zamrzlý v ledu nebo uvězněný v zóně
+  přízraků. Postavy bojující se zlem oblečené do barevných kostýmů se staly
+  tématem i pro lidi, kteří dříve zcela ignorovali jejich existenci. A ne každý
+  z toho měl samozřejmě radost. Nemálo těch, který tento žánr minul, v něm
+  spatřuje primitivní a barbarskou zábavu. A nelze říci, že by tento postoj
+  postrádal oporu v mnohém. Jako každý rychlý odsudek je ale zároveň extrémně
+  jednoduchý a povrchní, a tedy dosti zavádějící. Superhrdinové sice nejsou
+  většinou filozofickým pojednáním, ale přesto sahají hloub, než se zdá.
 published: true
 ---
-Dlouhodobý a narůstající zájem o superhrdinský žánr těžko mohl uniknout komukoliv, kdo nestrávil poslední dekádu zamrzlý v ledu nebo uvězněný v zóně přízraků. Postavy bojující se zlem oblečené do barevných kostýmů se staly tématem i pro lidi, kteří dříve zcela ignorovali jejich existenci. A ne každý z toho měl samozřejmě radost. Nemálo těch, který tento žánr minul, v něm spatřuje primitivní a barbarskou zábavu. A nelze říci, že by tento postoj postrádal oporu v mnohém. Jako každý rychlý odsudek je ale zároveň extrémně jednoduchý a povrchní, a tedy dosti zavádějící. Superhrdinové sice nejsou většinou filozofickým pojednáním, ale přesto sahají hloub, než se zdá. 
 
 ## Superhrdinové a komiksy 
 
