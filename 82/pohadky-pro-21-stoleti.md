@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Pohádky pro 21. století
-authors: log 0 = 1
+authors: log 1=0
 tags: 'Superhrdinové, Komiks'
 summary: >-
   Dlouhodobý a narůstající zájem o superhrdinský žánr těžko mohl uniknout
