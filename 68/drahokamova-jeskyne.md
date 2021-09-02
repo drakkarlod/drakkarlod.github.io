@@ -1,9 +1,13 @@
 ---
 layout: article
 title: 'Minidungeon: Drahokamová jeskyně'
-summary: 'Jedná se o přírodní jeskyni v lese, ne nutně úplně daleko od civilizace, ale zase ne za humny. Vznikla přirozeným krasovým procesem a obývají ji divoká zvířata. Ovšem také v ní lze najít surové drahokamy značné ceny.'
-authors: 'log 0 = 1'
+summary: >-
+  Jedná se o přírodní jeskyni v lese, ne nutně úplně daleko od civilizace, ale
+  zase ne za humny. Vznikla přirozeným krasovým procesem a obývají ji divoká
+  zvířata. Ovšem také v ní lze najít surové drahokamy značné ceny.
+authors: log 1=0
 tags: 'doplňky do hry, minidungeon'
+published: true
 ---
 
 Pokud je družina zvyklá propátrat každou díru, nebo je hráčům před hrou
