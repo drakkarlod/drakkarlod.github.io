@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+title: S Napoleonem do Moskvy
+authors: Dalibor „Dalcor“ Zeman
+tags: 'štítek, další štítek'
+published: false
 ---
