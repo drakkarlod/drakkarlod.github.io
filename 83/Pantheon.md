@@ -14,6 +14,8 @@ Nikdy jsem nepotřeboval pro své světy vymýšlet nějaké kompletní pantheon
 
 V této části se nachází seznam hlavních bohů i s jejich charakteristikami.
 
+![]({{site.baseurl}}/https://i.ibb.co/Jchq5FD/Drakkar-Panheon.jpg)
+
 ## Tevas
 
 **Tituly:** Bůh nebes, Vládce hromu, Dárce, Pán bouří
