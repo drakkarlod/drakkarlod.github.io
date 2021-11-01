@@ -3,7 +3,7 @@ layout: article
 title: Úvodní haiku
 authors: redakce
 tags: úvodník
-published: false
+published: true
 author: redakce
 summary: místo úvodu
 fulltext: true
