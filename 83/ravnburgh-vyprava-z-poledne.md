@@ -2,7 +2,7 @@
 layout: article
 title: 'Ravnburgh: Výprava z poledne'
 authors: Ecthelion²
-tags: 'Ravnburgh, Doplněk, Drakkar #83'
+tags: 'Ravnburgh, Doplněk'
 published: false
 summary: >-
   Článek přidává zápletky pro hraní v Ravnburghu v podobě neočekávané flotily
@@ -24,7 +24,7 @@ Lodě jsou v Ravnburghu již téměř šest měsíců a postupně se, stejně ja
 
 V přístavu kotví následující trojice hirsinských lodí. 
 
-**_Furia_ _(Zuřivost)_**
+#### Furia (Zuřivost)
 
 _Kapitán:_ _ammiraglio_ Morgante Facino sei Ordessi 
 
@@ -40,7 +40,7 @@ _Výzbroj lodi:_ těžké dělo (dvojnásobné ráže jako _coulverine_ ) a dvoj
 
 _Výzbroj posádky:_ námořníci a vojáci jsou vyzbrojeni meči a puklíři nebo samostříly, nosí brigantiny a barbuty s maskami; veslaři jsou také svobodní občané schopní nosit zbraň (zpravidla nosí dlouhé dýky nebo meče), což přidává na bojové síle lodi 
 
-**_Grifona (Gryf)_** 
+#### Grifona (Gryf)
 
 _Kapitán:_ _capitana_ Bellacara Mea se'Crivelli 
 
@@ -56,7 +56,7 @@ _Výzbroj lodi:_ dvojice _coulverine_ na přídi, dvojice _coulverine_ na zádi 
 
 _Výzbroj posádky:_ námořníci a vojáci jsou vyzbrojeni meči a puklíři nebo samostříly, nosí brigantiny a barbuty s maskami; veslaři jsou také svobodní občané schopní nosit zbraň (zpravidla nosí dlouhé dýky nebo meče), což přidává na bojové síle lodi 
 
-**_Donzella (Panna)_** 
+#### Donzella (Panna)
 
 _Kapitán:_ _capitano_ Galeazzo Zozri Caranfa 
 
@@ -92,8 +92,7 @@ Admirálovi se ale podařilo uniknout z pasti a odplout na sever. Dozvěděl se,
 
 - Skupina postav doprovází do Ravnburghu vznešenou šlechtičnu na cestě z jihu. Snadné peníze a jednoduchá cesta... tedy až doteď. Čím se blíží k městu samotnému, začíná se za nimi ohlížet víc lidí, a dokonce pár jižanů. Instinkty jim říkají, že se brzy něco semele. 
 
-- Postavy osloví muž s tváří zahalenou šátkem. Podle oblečení je to jižan, ale nemá masku. Hned z prvních slov postavy pochopí proč. Byla mu ukradena, když strávil noc ve městě s dívkou lehkých mravů. Ráno ale nebylo ani stopy po ní ani po masce. Má peníze (podle drahých látek svého obleku je zřejmě jedním z důstojníků), ale ve městě se nevyzná. Nabízí slušnou odměnu, pokud mu maska bude navrácena... protože bez ní se nemůže vrátit mezi své krajany. Ztráta masky by byla hanbou pro něj i celou jeho rodinu. 
-
+- Postavy osloví muž s tváří zahalenou šátkem. Podle oblečení je to jižan, ale nemá masku. Hned z prvních slov postavy pochopí proč. Byla mu ukradena, když strávil noc ve městě s dívkou lehkých mravů. Ráno ale nebylo ani stopy po ní ani po masce. Má peníze (podle drahých látek svého obleku je zřejmě jedním z důstojníků), ale ve městě se nevyzná. Nabízí slušnou odměnu, pokud mu maska bude navrácena... protože bez ní se nemůže vrátit mezi své krajany. Ztráta masky by byla hanbou pro něj i celou jeho rodinu.  
 Ukradla ji dívka jako přilepšení a chce ji prodat vetešníkům? Nebo šlo o krádež na objednávku? Někteří alchymisté by zaplatili hodně za to, aby si mohli starou masku z Ligy prohlédnout... povídají se příběhy o kouzlech v nich vetknutých. 
 
 - Z přístavu vylovili mrtvolu jižana v masce. Má na oblečení hirsinský erb, ale nepatří k posádkám lodí. Místní autority netuší, co si s mrtvolou počít a mezi posádkami galér se šíří všelijaké řeči. Ve skutečnosti je mrtvý hirsinský posel, který dorazil s informacemi z jihu a byl překvapen, že tu nalezl vlastní lodě. Požádal o přijetí k veliteli flotily, aniž věděl, o koho jde, a admirál jej probodl dýkou, aby nemohl nic říct nikomu jinému. Jeho tělo vyhodil v noci do moře ze své kajuty. Smyčka kolem něj se ale stahuje, několik mužů z posádky vidělo posla jít na loď, ale už ne odcházet. Zatím se mu dařilo podezření odvracet, ale i ostatní důstojníci už začínají klást otázky. Možná zkusí vinu hodit... na náhodnou procházející skupinku dobrodruhů? 
