@@ -8,7 +8,7 @@ summary: Zamyšlení nad fungováním států a jejich hranic pro potřeby RPG.
 ---
 Vzpomínáte si na ty dávné časy, kdy jsme si vytvářeli vlastní světy na Dračí Doupě? Kreslili mapy po vzoru těch na předních stránkách Pána Prstenů. A zamýšleli jsme se tenkrát nad podrobnostmi fungování států? 
 
-**Definice státu a základní parametry** 
+## Definice státu a základní parametry
 
 Na definici státu jsem se musel zeptat wikipedie a ta mi dala tyto krásné možnosti: 
 
@@ -24,11 +24,11 @@ _Stát je trvalý organický svazek lidstva, jisté teritorium obývajícího, s
 
 Ale jak se tohle přenáší do Fantasy prostředí? 
 
-**Státní hranice** 
+## Státní hranice
 
 Ve fantasy máme zřídka pevné státní hranice. Často jde jen o geografickou hranici ve „středověkém" stylu. Překročí se řeka nebo pohoří a z Gondoru jsme v Rohanu. V některých prostředích (teď mě napadá třeba Forgotten Realms) se v zásadě ani moc nedá určit na území jakého státu vlastně jste. Jiná prostředí, například Pathfinder) má hranice jasně vyznačené a jednotlivé státy se i dost liší. 
 
-**Na velikosti záleží** 
+## Na velikosti záleží
 
 U některých méně propracovaných prostředí je zřejmé, že se autoři vlastně vůbec nezabývají takovými zbytečnostmi jako je uvěřitelnost. Jasně, ve spoustě prostředí to není potřeba a nejde srovnávat třeba filmová nebo literární prostředí s herními. Protože v RPG spoustu věcí potřebujete vědět aby mohli postavy lépe zapadnout do světa. Když vás starosta požádá o ochranu obchodní karavany, je dost dobré vědět co vlastně karavana veze, odkud a kam. 
 
@@ -40,7 +40,7 @@ V některých prostředích se státní zřízení vlastně vůbec neřeší (a 
 
 Dobrodruzi potřebují vědět jak to v té které zemi chodí aby se v ní mohli cítit jako doma, tedy bojovat o její blaho. Při výběru, nebo použití státního zřízení je potřeba (pokud to chcete mít trochu realistické) uvažovat o tom, co je třeba aby to mohlo fungovat. Už jen to, jestli městská/obecní hlídka (pokud existuje) je tvořena profesionálními bojovníky nebo dobrovolníky z řad občanů. Jestli je starosta/pán suverénním vládcem v regionu, městě, obci nebo jestli nad jeho říší slunce nezapadá. Rád bych tady uvedl jedno prostředí, které celé tohle téma zpracovává, podle mě, nejlépe. Tím je Pathfinder. 
 
-**Vzpomínky na Zeměpis** 
+## Vzpomínky na Zeměpis
 
 Jsou různé druhy dobrodruhů a dobrodružství. Někdy se dobrodruzi snaží jen pomoci sousedům ve své vesnici, jindy se vydávají za dobrodružstvím do velkých měst, kde se snaží najít štěstí, slávu a nějaké to bohatství. Někdy se vydávají na daleké výpravy křížem krážem širým světem. Je jen na hráčích a vypravěčích, jaká dobrodružství budou jejich postavy zažívat. Jen málokdo vás ale na cestování připraví tak jako chlapci z Paiza, kteří vydali Pathfinder a příručky k němu. 
 
@@ -50,6 +50,6 @@ Na Golarionu najdeme mnoho zvláštních míst, kromě Ustalavi také třeba Che
 
 Nejlepší je, když si vzpomeneme na hodiny zeměpisu na základní škole. Vzpomeňme na to, jak nám učitelé vštěpovali pro každý stát na světě: rozlohu, zalidněnost, náboženství, dovoz, vývoz a zřízení. V Pathfinderu k tomu dostanete i přesvědčení státního zřízení. 
 
-**Závěrem** 
+## Závěrem
 
 Ale tohle všechno vás musí trápit jen pokud chcete aby se vaše dobrodružství odehrávala v uvěřitelném světě, kde by byly události pevně zakořeněné v realitě. Možná ten článek vyznívá, jakobych tvrdil, že to jinak nejde ale opak je pravdou. Vzpomeňme na prostředí jako jsou Star Wars, Exalted, Chuubo's Miraculous Wish-granting engine a další, kde vlastně věci smysl dávat nemusí a jen objevujeme úžasné věci, které se našim dobrodruhům mohou dít.
