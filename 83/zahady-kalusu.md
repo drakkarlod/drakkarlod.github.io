@@ -3,7 +3,7 @@ layout: article
 title: 'Neviditelná kniha: Záhady Kalusu'
 authors: Sparkle
 tags: neviditelná kniha
-published: false
+published: true
 summary: >-
   Informace o připravované příručce Záhady Kalusu pro svět Neividitelné knihy a
   Taurilu.
@@ -56,4 +56,4 @@ Co už můžu určitě slíbit z obsahu příručky ( na tom se snad na 99 % nic
 
 Další novinky k Záhadám Kalusu budeme odhalovat na [rpg fóru](https://rpgforum.cz/forum/viewforum.php?f=310), [Facebooku](https://www.facebook.com/neviditelnakniha) a naší diskusi v rámci Discordu Mytaga. Stále nabíráme playtestery a betačtenáře -- pokud máte o to zájem, napište nám třeba [mail](tauril@post.cz). 
 
-Díky za pozornost a Drakkaru za možnost příručku představit. 
+Díky za pozornost a Drakkaru za možnost příručku představit.
