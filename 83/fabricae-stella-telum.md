@@ -6,7 +6,7 @@ tags: 'doplňky, dobrodružství, Sci-fi'
 published: false
 summary: Sci-fi horrorová lokace
 ---
-> **INFOkénko: "Co je to Rudý Void?"**  
+> **"Co je to Rudý Void?"**  
 _Často se v textu zmiňuji o události nazvané jako Rudý Void. Je to velkou součástí mého settingu a i této stanice, proto bych měl alespoň okrajově vysvětlit o co se jedná.   
 Před sto deseti lety se do kousku galaxie NGC2403, kterou kolonizovali lidé, přihnala rudá vlna způsobená umělým výbuchem vzdálené hvězdy. Ta vlna pozměnila mimo atmosféru/gravitaci planet vesmír natolik, že v něm nebylo možné cestovat. Vesmír se v tom místě propojil s něčím, co bychom pro jednoduchost mohli nazvat peklem, či říšemi chaosu a démonů. Zamezilo to jakémukoliv styku mezi planetami (až na pár odvážlivců a bláznů, kteří ale nikdy nevydrželi dlouho) a každý, kdo byl uvězněn mimo ochranou bublinu atmosféry planet utrpěl hrozivý osud. Roztrhán, pozměněn a zničen vlastními démony, představami a bytostmi, které by neměly existovat. No a po sto letech rudý void zmizel a sektor se opět otevírá lidem._   
 _Což pochopitelně můžete všechno ve svém settingu změnit na "Něco hrozného se stalo, stanice zmizela na několik let neznámo kam a najednou je zpět!"._
