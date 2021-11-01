@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Název článku
+title: Úvodní haiku
 authors: redakce
 tags: úvodník
 published: false
