@@ -3,7 +3,7 @@ layout: article
 title: Fabricae Stella Telum - Zbrojnice Hvězd
 authors: Julius Štěpán „Kin“ Karajos
 tags: 'doplňky, dobrodružství, Sci-fi'
-published: false
+published: true
 summary: Sci-fi horrorová lokace
 ---
 > **"Co je to Rudý Void?"**  
@@ -210,4 +210,4 @@ Probudí se až bude stanice na **60%** procentech _(nyní je na 30%)_ zdrojů a
   
 Pokud se Původní posádce povede ovládnout stanici, časem ji pomocí všech dostupných prostředků přestaví na stanici schopnou letu ve vesmíru a pokusí se dostat na nejbližší planetu, kde budou pokračovat... 
 
-**_Ilustrace Cizích postav_** jsou ze [skvělé kolekce](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) od **Ashena Victora.** Ty jsou free k dispozici a PWYW. Jděte je čeknout. :)   
+**_Ilustrace Cizích postav_** jsou ze [skvělé kolekce](https://ashen-victor.itch.io/sci-fi-character-portraits-poject) od **Ashena Victora.** Ty jsou free k dispozici a PWYW. Jděte je čeknout. :)
