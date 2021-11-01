@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Výprava z poledne'
 authors: Ecthelion²
 tags: 'Ravnburgh, Doplněk'
-published: false
+published: true
 summary: >-
   Článek přidává zápletky pro hraní v Ravnburghu v podobě neočekávané flotily
   galér, které připluly z Maelské ligy a zakotvily v ravnburském přístavu. Jde o
