@@ -1,7 +1,8 @@
 ---
 layout: article
-title: Název článku
-authors: Jméno autora
-tags: 'štítek, další štítek'
+title: Fabricae Stella Telum - Zbrojnice Hvězd
+authors: Julius Štěpán „Kin“ Karajos
+tags: 'doplňky, dobrodružství, Sci-fi'
 published: false
+summary: Sci-fi horrorová lokace
 ---
