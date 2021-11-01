@@ -3,7 +3,7 @@ layout: article
 title: S Napoleonem do Moskvy
 authors: Dalibor „Dalcor“ Zeman
 tags: materiály a doplňky
-published: false
+published: true
 summary: Článek se věnuje Napoleonovu tažení do Ruska z pohledu RPG.
 ---
 Období revolučních a koaličních válek, zvaných jako války Napoleonské, není zrovna nejčastějším námětem RPG. Přitom, stejně jako jiná temná válečná období, nabízí celou řadu silných prvků a zápletek, které války samo sebou přinášejí. Ty Napoleonské se odehrávají na obrovském území od Egypta po polární kruh a od Gibraltaru až za Moskvu a po velmi dlouhý časový úsek, navíc zasahují celou společnost v rozsahu, který se blíží totálním válkám pozdější doby. Zároveň si ale ponechává romantiku doby mušketýrů. A kdo viděl film The Duellist ví, že pro meče je zde vždy místo. 
