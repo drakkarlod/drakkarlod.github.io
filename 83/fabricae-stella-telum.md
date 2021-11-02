@@ -51,6 +51,7 @@ _Celá stanice je zlatým dolem vojenských surovin, ale je prokletá a každý 
 
 **10** - Kolem Vás se najednou ozvou zvuky trhání svalů, lámání kostí, drcení lebek. Vše doprovázené silným železitým zápachem krve i nakyslým puchem žluče. Nic ale není vidět. 
 
+{:.map}
 ![Prstenec]({{site.baseurl}}/83/obrazek1.jpg)
 
 **A - Prstenec** je mix mezi militaristickým účelovým designem a prostředím pro život a relaxaci. To znamená že všechny budovy jsou v podobném stylu jako je vřeteno (šedé, ostré hrany, jasně značené, účelové materiály), ale zbytek má co nejvíc zeleně, sportovišť a míst na odreagování. Pamatujte na to, že vnitřní obvod prstence je 18 km a šířka 500 m, což nám dává obrovskou užitnou plochu. Vnější strana prstence (_ta co "kouká" do vesmíru_) je těžce pancéřovaná a po svém obvodu má celkově 10 obranných věží. Vnitřní hrana je naopak vyztužená, ale průhledná, takže se skrz ni dá pozorovat vřeteno a vesmír. 
@@ -165,35 +166,46 @@ Momentálně je to buď mrtvé, nebo ošklivě a neudržovaně přerostlé. Ří
 **Android "L4-N1-ST4 Proell"** - Proell je momentální kapitán stanice, aktivovali jej piráti během svého prvního pobytu a průzkumu zde a on, s obvody poškozenými dlouhým pobytem v Rudém Voidu, se ujal příležitosti a se svými znalostmi urychluje obnovu Stanice do původního stavu. Býval to **tréninkový-bojový android**, takže bohužel nemá moc vysokou bezpečnostní prověrku a tudíž ani on nemá přístup do mnoha částí stanice.  
 Dokáže perfektně číst lidské emoce. Pamatuje si každou událost/rozhovor, kterého se zúčastnil nebo o něm slyšel. A tak má o svých lidech proto velmi dobrou představu, kdo a kdy jej chce zradit či je mu naopak věrný. 
 
+{:.map}
 ![Proell]({{site.baseurl}}/83/obrazek2.jpg)
 
 **Bývalý kapitán pirátů Stud** - to on sem přivedl tuhle skupinu pirátů a obsadili to tu. Nyní je ale pravou rukou Androida Proella, což mu vlastně vůbec nevadí. Android má dobrá rozhodnutí, často lepší než jsou jeho, přičemž jej nechává dostatečně na výsluní jako svou pravou ruku. Takže si svou situaci, kdy má mocnou pozici prakticky bez práce, užívá a je Proellovy velmi oddaný. 
 
+{:.map}
 ![Stud]({{site.baseurl}}/83/obrazek3.jpg)
 
 **Manželé technici Marie a Pierre Sklodowsky** - jsou neoficiální zástupci techniků a inženýrů stanice. Ti zde totiž mají mnohem větší slovo než v jiných pirátských posádkách. Protože bez nich by stanice nefungovala a všichni tady to ví. Tihle dva jsou velmi zabraní do své práce, rádi experimentují s nově nabitými vojenskými zdroji, ke kterým zde mají volný přístup.  
 Mají **dceru, Iréne-Joliot**, která má ochrnuté nohy, proto jí udělali mecha-kyber výztuž nohou, aby mohla chodit. Potají ji vytvářejí k šestnáctým narozeninám bojovou mecha-zbroj s pomocí high-end technologií nalezených na základně. Už je skoro hotová a je to vskutku bestiální kousek. 
 
+{:.map}
 ![Marie]({{site.baseurl}}/83/obrazek4.jpg)
+
+{:.map}
 ![Irene-Joliot]({{site.baseurl}}/83/obrazek5.jpg)
+
+{:.map}
 ![Pierre]({{site.baseurl}}/83/obrazek6.jpg)
 
 **Zajatí hackeři Eclipse Horizon.** Neštastnou náhodou se několik velice schopných hackerů, vracejícíc se z tajné operace, připletlo blízko ke stanici a piráti je zajali (psy-assassiny, kteří je doprovázeli, pro jistotu pozabíjeli). Proell se rozhodl jejich znalosti využít k rozlomení zabezpečení na nepřístupných místech, nebo při cracknutí dalších kódů na 3D-tisk pokročilejších zbraní. Jsou zde sice vězni, ale mají se tu dobře, velmi dobře a dokonce i snad líp, než se měli v Eclipse. Proto se jim tu _(většině)_ líbí a sympatizují s Piráty. 
 
 **Náhodný pirát: Kondrád.** Nelíbí se mu sloužit pod _"masovou plechovkou"_ (jak říká androidům), ale je to moc velký srab na to, aby cokoliv podnikl. Proell to ví a to je jediný důvod, proč je Kondrád ještě naživu. Ale i tak jej Proell posílá na ty nejšpinavější, nejhorší a nejnebezpečnější práce. Což Kondrádovy jenom dodává palivo zbytečné nenávisti. 
 
+{:.map}
 ![Konrád]({{site.baseurl}}/83/obrazek7.jpg)
 
 **Náhodný technik: Jerry O´Leary,** na levou stranu hlavy nevidí a neslyší, poté co měl ošklivou nehodu. Často se pouští do riskantních věcí nehledě na své bezpečí, je hodně zvědavý. Chtěl by kvalitní kybernetické oko a ucho, ale to je drahé. Tahle stanice vypadá jako zlatý důl, nebo ho možná uplatí agenti Impéria Bella Romanum... 
 
+{:.map}
 ![Jerry O'Leary]({{site.baseurl}}/83/obrazek8.jpg)
 
 **Náhodný hacker: Corinth**, je sečtělý mladý muž a věří v učení Kostele Rudého Voidu. Líbí se mu, že zde není perzekuován za svou víru. Dokonce se mu během pobytu zde, ale to tají, podařilo vyvinout lehké psionické schopnosti. Je loajální pirátům, až se ale probudí Původní posádka Stanice _(viz níže)_ , přidá se k nim, jelikož v nich uvidí vyslance Voidu. Oni jej ušetří, propojí se stanicí a Voidem a změní jej k nepoznání... 
 
+{:.map}
 ![Corinth]({{site.baseurl}}/83/obrazek9.jpg)
   
 **Náhodný obchodník: Tanka,** je to jeden z bratrů a levá ruka _(ta chytřejší)_ pirátského kapitána Cheunga Po Tsaie. Ten zde chce pro svou flotilu koupit velkou spoustu zbraní a munice. Je připraven za to bohatě zaplatit a možná se i domluvit na delší spolupráci. Všichni tři bratři si udělali jméno na tom, že létali i za Rudého Voidu a využili jeho ústupu k napakování se na nových a nezkušených vesmírných pilotech. Má s sebou pěkně ostrou ochranku - dva sourozence _(ne jeho)_ . 
 
+{:.map}
 ![Tanka]({{site.baseurl}}/83/obrazek10.jpg)
 
 **Co se tu může odehrát:** 
