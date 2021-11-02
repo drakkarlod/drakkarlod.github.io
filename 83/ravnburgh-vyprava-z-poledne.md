@@ -20,6 +20,7 @@ Lodě jsou v Ravnburghu již téměř šest měsíců a postupně se, stejně ja
 
 ### Lodě kotvící v přístavu 
 
+{:.map}
 ![galera1.jpg]({{site.baseurl}}/83/galera1.jpg)
 
 V přístavu kotví následující trojice hirsinských lodí. 
@@ -80,6 +81,7 @@ V Lize jsou lidé rozděleni do striktního kastovního systému, který jim př
 
 ### Výprava 
 
+{:.map}
 ![galera2.jpg]({{site.baseurl}}/83/galera2.jpg)
 
 Navzdory tomu, co se domnívá hanza a vedení města, admirál sei Ordessi není ve městě s vědomím svého města ani s jeho požehnáním. Ve skutečnosti je zneuctěn, uprchl a _in absentia_ byl zbaven všech hodností, jeho pozemky byly zabaveny a byl odsouzen ke ztrátě hrdla. To je ale tajemství, které ve flotile zná jen on sám. Ani jeho kapitáni nic netuší a domnívají se, že výprava byla nařízena Hirsinem. Admirál uprchl těsně předtím, než měl být zatčen a dopravil se do přístavu Toria, kam ještě nedorazily zprávy z hlavního města, převzal velení trojice lodí, které tam byly a vyplul. 
