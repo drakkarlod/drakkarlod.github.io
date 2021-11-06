@@ -27,14 +27,6 @@ layout: default
 <div style="height: 35px"></div>
 
 {% assign articles = site.pages | where: 'dir', page.dir | where: 'layout', 'article' | where_exp: 'article', 'article.hide != true' %}
-
-{% comment %} Haiku first {% endcomment %}
-{% assign haiku = articles | where: 'fulltext', 'true' | first %}
-{% if haiku %}
-    {% assign articles = articles | where_exp: 'article', 'article.fulltext != true'  %}
-    {% assign articles = articles | unshift: haiku %}
-{%  endif %}
-
 {% for article in articles %}
     {% assign article_authors = article.authors | split: ', ' %}
     {% assign article_tags = article.tags | split: ', ' %}
