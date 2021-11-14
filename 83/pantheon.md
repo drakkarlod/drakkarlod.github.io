@@ -5,8 +5,8 @@ authors: Log 1=0
 tags: materiály a doplňky
 published: true
 summary: >-
-  Pantheon, který je určen pro hraní RPG a kterým se můžete inspirovat pro vaše
-  hraní.
+  Fiktivní pantheon, vytvořený jako inspirační ukázka této části širokého
+  worldbuildingu.
 ---
 Nikdy jsem nepotřeboval pro své světy vymýšlet nějaké kompletní pantheony a mytologie, ale občas jsem si přečetl o nějakém, který si vymysleli jiní. Byly samozřejmě lepši i horší, a to ve mně probudilo otázku, jak bych si s tímto problémem poradil já. Sklouzl bych do stejných chyb, kterých jsem si všiml jinde? A rozhodl jsem se to vyzkoušet a mytologii vytvořit. Bohy, kteří tvoří pantheon. Příběhy, ve kterých vystupují. A rituály a zvyky, které jsou s těmito příběhy propojeny. Protože bez nich není mytologie úplná.
 
