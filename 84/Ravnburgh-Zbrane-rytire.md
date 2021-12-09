@@ -11,7 +11,7 @@ summary: >-
 Tento článek se soustředí na zbraně a výzbroj rytířů a těžkých jezdců rané renesance (zhruba období 14.-15\. století, po vynálezu střelného prachu, knihtisku, ale ještě před vynálezem muškety), zvaných _gents d'armes_ , což mohou být jak rytíři, jiní šlechtici, členové šlechticova doprovodu nebo žoldnéři sloužící pod praporem různých kapitánů. Takoví muži nebo ženy jsou placeni skrze feudální závazky nebo slouží přímo za žold. Zatímco všichni rytíři slouží ve vojsku jako _gents d'armes_ , ne všichni _gents d'armes_ jsou rytíři. 
 
 {:.map}
-![Rytíř]({{site.baseurl}}/84/uvodni-obrazek.jpg)
+![uvodni-obrazek-rytir.jpg]({{site.baseurl}}/84/uvodni-obrazek-rytir.jpg)
  
 Rytířům a rytířkám nestačí být mistry jedné zbraně. Musí být univerzální a velice dobře ovládat několik zbraní, aby mohli fungovat na bojišti. Jejich hlavní zbraní je **jezdecké kopí**, se kterým podnikají své nájezdy a rozhodují bitvy. U pasu nebo sedla mají **meč**, který je symbolem rytíře a jeho statutu, ale postupně přestává být tolik používán v bitvě, protože je jen obtížně použitelný proti nepřátelům ve zbroji. Rytíři mají záložní zbraň, po které sahají, když se jejich kopí zlomí nebo jsou nepřátelé příliš blízko a kopí není možné použít. Touto záložní zbraní může být meč, ale spíš rytíři sahají po **válečném kladivu** nebo **palcátu**, které se dají použít proti obrněným nepřátelům. Pokud rytíř bojuje opěšale, zpravidla sáhl po **sokolím zobáku** (_bec-de-faucon_ ) nebo**vraním zobáku** (_bec-de-corbin_ ), dvou variantách stejné tyčové zbraně, která dominuje pěšímu boji obrněných protivníků. 
 
