@@ -33,22 +33,22 @@ Tradiční móda havraních křídel je stále velice rozšířená na půlnoci 
 
 ### Ženská móda 
 
-Ženy nosí dlouhé šaty (buď tradiční _houppelande_ nebo módní _surcotte_), zpravidla s rukávy na spodních šatech zvaných _cotte_ a spodničce zvané _chemise_. Oblíbené jsou pestré barvy šatů a bohaté doplňky podle bohatství nositelky. 
+Ženy nosí dlouhé šaty (buď tradiční _houppelande_ nebo módní _surcotte_ ), zpravidla s rukávy na spodních šatech zvaných _cotte_ a spodničce zvané _chemise_. Oblíbené jsou pestré barvy šatů a bohaté doplňky podle bohatství nositelky. 
 
 {:.map}
 ![Ženská móda]({{site.baseurl}}/84/zenska-moda1.jpg)
 
 _Spodní prádlo:_ 
 
-- _chemise_ -- Lněná spodnička (košile po kolena), která se obléká přímo na tělo a má chránit horní oblečení před potem nositele.  
+- _chemise_ - Lněná spodnička (košile po kolena), která se obléká přímo na tělo a má chránit horní oblečení před potem nositele.  
 
 _Horní části oblečení:_ 
 
-- _cotte_ (spodní šaty) -- Šaty nošené pod _surcotte_ nebo _houppelande_ , oproti nim často jiné barvy (_cotte_ většinou světlejších barev, _surcotte_ tmavších), aby dotvářely kontrast s horní vrstvou. 
+- _cotte_ (spodní šaty) - Šaty nošené pod _surcotte_ nebo _houppelande_ , oproti nim často jiné barvy (_cotte_ většinou světlejších barev, _surcotte_ tmavších), aby dotvářely kontrast s horní vrstvou. 
 
-- _surcotte_ (horní šaty) -- Jsou to šaty nošené jako svrchní vrstva, jsou proto často zdobené, vyšívané a z lepších látek, pokud si je mohla nositelka dovolit (hedvábí, taft a samet, spolu s tradiční bavlnou, vlnou a lnem). Mohou být s rukávy nebo bez rukávů, nejčastěji jsou rukávy odnímatelné a bohatě zdobené. Rukávy mají často prostřihy (tzv. okénka), které odhalují _cotte_ pod nimi. Často mají výstřih ve tvaru V na hrudi. 
+- _surcotte_ (horní šaty) - Jsou to šaty nošené jako svrchní vrstva, jsou proto často zdobené, vyšívané a z lepších látek, pokud si je mohla nositelka dovolit (hedvábí, taft a samet, spolu s tradiční bavlnou, vlnou a lnem). Mohou být s rukávy nebo bez rukávů, nejčastěji jsou rukávy odnímatelné a bohatě zdobené. Rukávy mají často prostřihy (tzv. okénka), které odhalují _cotte_ pod nimi. Často mají výstřih ve tvaru V na hrudi. 
 
-- _houppelande_ -- Dlouhé svrchní šaty s dlouhými rukávy, který nosí muži i ženy. Občas byla lemována kožešinou (především na severu) a hrany šatů jsou nezřídka zubaté nebo zdobené vystříhanými tvary. Ženské _houppelande_ se spínají (střihem nebo zdobeným páskem) pod prsy, aby zdůraznily ženské tvary nositelky. Ve Lvím císařství, přestože je v odívání značně tradiční, nosí ženy _houppelande_ krátké po kolena po mužském způsobu (stále se ale spínají páskem pod prsy po ženském způsobu). 
+- _houppelande_ - Dlouhé svrchní šaty s dlouhými rukávy, který nosí muži i ženy. Občas byla lemována kožešinou (především na severu) a hrany šatů jsou nezřídka zubaté nebo zdobené vystříhanými tvary. Ženské _houppelande_ se spínají (střihem nebo zdobeným páskem) pod prsy, aby zdůraznily ženské tvary nositelky. Ve Lvím císařství, přestože je v odívání značně tradiční, nosí ženy _houppelande_ krátké po kolena po mužském způsobu (stále se ale spínají páskem pod prsy po ženském způsobu). 
 
 {:.map}
 ![Ženská móda (venkov)]({{site.baseurl}}/84/zenska-moda2.jpg)
@@ -64,26 +64,26 @@ Na těle nosí muži _chemise_ a _braies_ jako spodní prádlo, na to _doublet_ 
 
 _Spodní prádlo:_ 
 
-- _chemise_ -- Lněná košile oblékaná jako spodní prádlo přímo na tělo, které chrání svrchní oblečení před potem. 
+- _chemise_ - Lněná košile oblékaná jako spodní prádlo přímo na tělo, které chrání svrchní oblečení před potem. 
 
-- _braies_ -- Lněné spodky po kolena nošené jako spodní prádlo na nohách. 
+- _braies_ - Lněné spodky po kolena nošené jako spodní prádlo na nohách. 
 
 _Horní části oblečení:_ 
 
-- punčochy -- Jsou většinou pestrých barev (případně vyšívané jinou barvou, každá nohavice jiné barvy nebo vertikálně dělené) a každá nohavice je samostatný kus oblečení přivazovaný na horní straně k opasku nebo přímo _doubletu_ . 
+- punčochy - Jsou většinou pestrých barev (případně vyšívané jinou barvou, každá nohavice jiné barvy nebo vertikálně dělené) a každá nohavice je samostatný kus oblečení přivazovaný na horní straně k opasku nebo přímo _doubletu_ . 
 
-- _doublet_ -- Původně šlo o košili nošenou pod kroužkovou košilí a do nástupu maelské módy byla zpravidla nošena pod pláštěm nebo pod _hauppelande_ . Na poledni se začal nosit jako svrchní část oděvu a stal se mnohem zdobenější a začal se šít z vzácnějších látek, aby ukázal bohatství nositele. 
+- _doublet_ - Původně šlo o košili nošenou pod kroužkovou košilí a do nástupu maelské módy byla zpravidla nošena pod pláštěm nebo pod _hauppelande_ . Na poledni se začal nosit jako svrchní část oděvu a stal se mnohem zdobenější a začal se šít z vzácnějších látek, aby ukázal bohatství nositele. 
 
 {:.map}
 ![Mužská móda 2]({{site.baseurl}}/84/muzska-moda2.jpg)
 
 _Svrchníky:_ 
 
-- _journade_ -- Jde o svrchní přehoz přes _doublet_ bez rukávů a boků. Nosily se buď volně nebo sepnuté opaskem. Mladší muži nosili krátké (po kolena) a starší po lýtka nebo kotníky. Na hrudi a zádech bývá zpravidla velký erb nositele nebo lenního pána, z toho důvodu jsou _journade_ oblíbené mezi heraldy a služebníky.  
+- _journade_ - Jde o svrchní přehoz přes _doublet_ bez rukávů a boků. Nosily se buď volně nebo sepnuté opaskem. Mladší muži nosili krátké (po kolena) a starší po lýtka nebo kotníky. Na hrudi a zádech bývá zpravidla velký erb nositele nebo lenního pána, z toho důvodu jsou _journade_ oblíbené mezi heraldy a služebníky.  
 
-- _houppelande_ -- Dlouhé svrchní šaty s dlouhými rukávy, který nosí muži i ženy. Občas byla lemována kožešinou (především na severu) a hrany šatů jsou nezřídka zubaté nebo zdobené vystříhanými tvary. Mužské _houppelande_ se v pase spíná opaskem nebo páskem. Mužská verze šatů je většinou kratší, pouze po kolena. Dlouhé _houppelande_ (po kotníky) se používají pro slavnostní příležitosti.  
+- _houppelande_ - Dlouhé svrchní šaty s dlouhými rukávy, který nosí muži i ženy. Občas byla lemována kožešinou (především na severu) a hrany šatů jsou nezřídka zubaté nebo zdobené vystříhanými tvary. Mužské _houppelande_ se v pase spíná opaskem nebo páskem. Mužská verze šatů je většinou kratší, pouze po kolena. Dlouhé _houppelande_ (po kotníky) se používají pro slavnostní příležitosti.  
 
-- plášť -- Pláště s kapucí jsou oblíbené do zimy nebo na cesty. 
+- plášť - Pláště s kapucí jsou oblíbené do zimy nebo na cesty. 
 
 Chudí vesničané nosí zpravidla _chemise_ , _braies_ a punčochy s vestou nebo krátkým kabátcem z hrubé vlny nebo lnu. Často jsou _chemise_ a _braies_ dostatečné pro práci na poli a na venkově se nosí jako běžný svrchní oděv bez dalších dodatečných vrstev. 
 
@@ -94,7 +94,7 @@ Je to v současnosti už takřka povinná součást oblečení rytíře, šlecht
 {:.map}
 ![Pomander na řetízku]({{site.baseurl}}/84/pomander-uvod.jpg)
 
-Do pomanderů se míchají například levandule, fialka, růžový olej, muškát, hřebíček, skořice, kafr, pižmo a mnoho dalších rostlinných či živočišných esencí včetně drahocenné ambry (odsud také název v původní leonise -- _pomme d'ambre_ , tedy „ambrové jablko"). 
+Do pomanderů se míchají například levandule, fialka, růžový olej, muškát, hřebíček, skořice, kafr, pižmo a mnoho dalších rostlinných či živočišných esencí včetně drahocenné ambry (odsud také název v původní leonise - _pomme d'ambre_ , tedy „ambrové jablko"). 
 
 Pomandry jsou součástí oblečení výbavy šlechticů, dvořanů, rytířů a měšťanů (je neslušné přijít do společnosti bez něj a obtěžovat ostatní svým tělesným pachem). Chudší lidé si nemohou dovolit kovové schránky ani drahé parfémy a vůně, ale používají na svátky plátěné sáčky naplněné směsí lučních bylin a koření. 
 
