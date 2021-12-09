@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Název článku
+title: 'Ravnburgh: Zbraně rytíře'
 authors: Jméno autora
-tags: štítek, další štítek
+tags: 'štítek, další štítek'
+published: false
 ---
-
