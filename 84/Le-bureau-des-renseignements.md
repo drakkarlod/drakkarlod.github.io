@@ -4,7 +4,9 @@ title: Le bureau des renseignements
 authors: Beowulf
 tags: 'Příběhy Impéria, doplňky'
 published: false
-summary: Eugène-François Vidocq - Le bureau des renseignements
+summary: >-
+  Eugène-François Vidocq - Le bureau des renseignements, krátký doplněk pro
+  Příběhy Impéria
 ---
 Hrad Montségur, 2\. prosince 1860 
 
@@ -38,7 +40,7 @@ Zde náš příběh končí. V době, kdy v tomto hostinci čtete dopis, mne ji�
 
 Na závěr se s Vámi rozloučím vyznáním, že jsem si plně vědom svých hříchů, kterých jsem se dopustil před vstoupením do řádu i po něm. Jsem pouze vojákem v dlouhé tiché válce. Jsem setník, který nejprve probodl kopím Ježíšovi bok, aby poté, co se roztrhla chrámová opona vpůli odshora dolů, prozřel a vyřkl „ten člověk byl opravdu Syn Boží." Setníkem, který poté odmítl dle rozkazu zlámat kosti Ježíšovi, tak jak předtím učinil dvěma zločincům, kteří byli ukřižováni po pravé a levé ruce Krista. Jsem setníkem, který poslechl zákony boží a ne zákony světské. Budu tedy doufat, že mé hříchy budou překryty dobrými skutky konanými za účelem větší slávy Ježíše Krista. Amen. 
 
-S úctou Rytíř 
+S úctou Rytíř
 
 Zápletky a možnosti 
 
