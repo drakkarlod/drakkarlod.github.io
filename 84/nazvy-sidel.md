@@ -109,7 +109,7 @@ U výše uvedených zajímavých složenin jsem pro jistotu ještě provedl kont
 
 U rodů s nespecifikovanými znaky sice existuje buď pouze jedna pečeť nebo pečetě více příslušníků těchto rodů (s příslušnými vyobrazeními na jednotlivých fóliích Atlasu erbů a pečetí české a moravské šlechty), avšak buď se mezi sebou vyobrazené znaky liší nebo se dochovaly zřejmě pečeti osob přivdaných či vyvdaných (manželek a vdov), u nichž není jasné, zda neužily pečeť se znakem svého původního rodu či rodu, do něhož se přivdaly, a tedy nebylo možno určit jednoznačně příslušný znak.
 
-U sídel, jež nemají uvedený žádný příslušný rod v Atlasu erbů a pečetí české a moravské šlechty to lze vykládat tak, že buď August Sedláček žádný dokument s příslušným jménem a opatřený pečetí nenašel (tedy možná znak existoval, ale nedochoval se na žádné pečeti, nebo August Sedláček neměl přístup do archivu, v němž by se příslušné dokumenty mohly nacházet) nebo se sídlo neužívalo jako predikát, respektive se po něm nikdo nepsal, a tedy je pouze zmiňováno v dobových dokumentech pod svým názvem (jak to u jednotlivých hesel uvádí pan profesor Durdík).
+U sídel, jež nemají uvedený žádný příslušný rod v Atlasu erbů a pečetí české a moravské šlechty to lze vykládat tak, že buď August Sedláček žádný dokument s příslušným jménem a opatřený pečetí nenašel (tedy možná znak existoval, ale nedochoval se na žádné pečeti, nebo August Sedláček neměl přístup do archivu, v němž by se příslušné dokumenty mohly nacházet), nebo se sídlo neužívalo jako predikát, respektive se po něm nikdo nepsal, a tedy je pouze zmiňováno v dobových dokumentech pod svým názvem (jak to u jednotlivých hesel uvádí pan profesor Durdík).
 
 ## Předběžný závěr k názvů hradů
 
