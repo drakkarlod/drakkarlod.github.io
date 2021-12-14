@@ -56,7 +56,7 @@ Gilbertova tvář porostlá hustým vousem kontrastovala s jeho dohladka vyholen
 
 Birger a Norgeot nevěřili vlastním uším. Mnich ve zbroji a s mečem?
 
-„Mniši se modlí, nebojují,“ namítl chabě křižák. Někde uvnitř pocítil zmatek a osten nevole. Jestli je Gilbert příkladem toho, co se stalo z rytířů po jeho smrti, pak... Vousáč možná vycítil jeho obavy, ale spíš jen odpověděl na vyslovenou otázku: „Máš pravdu. Rytíři bojují a mniši se modlí. My templáři děláme oboje, protože nemáme rodiny, o které bychom se museli starat, ani krále, kterému bychom museli sloužit.“
+„Mniši se modlí, nebojují,“ namítl chabě křižák. Někde uvnitř pocítil zmatek a osten nevole. Jestli je Gilbert příkladem toho, co se stalo z rytířů po jeho smrti, pak… Vousáč možná vycítil jeho obavy, ale spíš jen odpověděl na vyslovenou otázku: „Máš pravdu. Rytíři bojují a mniši se modlí. My templáři děláme oboje, protože nemáme rodiny, o které bychom se museli starat, ani krále, kterému bychom museli sloužit.“
 
 „Za koho tedy bojujete?“ zavrčel Birger, jako by odpověď nebyla vzhledem ke křížům na Gilbertově odění jasná. „Za Krista,“ bez zaváhání odpověděl templář. „A zodpovídáme se pouze papeži,“ dodal. Birger kroutil hlavou. Byl pohoršen na nejvyšší míru. Kam dospěje svět, jestliže má papež vlastní vojsko ozbrojených mnichů? Tohle si králové nechají líbit? Po svůj celý život Birger vnímal církev jako protivníky. Kněží a mniši jeho doby neustále zahrnovali rytíře výčitkami. Obviňovali je z krutosti a hamižnosti, vyhrožovali jim pekelnými plameny, nutili je přísahat na dodržování Božího míru a všelijak jinak jim ztrpčovali život. A teď tu rytíř ve vynikající zbroji prohlašuje, že je vlastně mnichem?
 
