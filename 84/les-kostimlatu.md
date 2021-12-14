@@ -29,8 +29,10 @@ Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazil
 
 - Zakázka na obnovení těžby.
 
-- Odměna na šarlatána, jenž ukradl duši královskému gryfovi a který byl naposledy spatřen, jak cestuje tímto směrem.
+- Odměna na šarlatána, jenž ukradl duši královskému gryfovi, a který byl naposledy spatřen, jak cestuje tímto směrem.
 
 - Nalezení zpívajících skal, v jejichž hudbě se skrývají proroctví.
 
-- Nalezení legendární žluté byliny, jež vyléčí každý neduh
+- Nalezení legendární žluté byliny, jež vyléčí každý neduh.
+
+## Tabulka náhodných setkání
