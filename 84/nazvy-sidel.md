@@ -113,4 +113,4 @@ U sídel, jež nemají uvedený žádný příslušný rod v Atlasu erbů a peč
 
 ## Předběžný závěr k názvů hradů
 
-Z výše uvedeného by tedy mohlo vyplývat, že dvouslovné názvy či složeniny sice představovaly v českém prostředí výjimku, ovšem nikterak zanedbatelnou a tedy s přihlédnutím ke zjištěnému by bylo možno uvažovat spíše nad použitím složeného názvu „Nebesdýka“, než dvouslovného názvu „Nebeský dýka“, avšak konečný verdikt bude možno vynést až po zpracování názvů tvrzí v druhé části článku.
+Z výše uvedeného by tedy mohlo vyplývat, že dvouslovné názvy či složeniny sice představovaly v českém prostředí výjimku, ovšem nikterak zanedbatelnou a tedy s přihlédnutím ke zjištěnému by bylo možno uvažovat spíše nad použitím složeného názvu „Nebesdýka“, než dvouslovného názvu „Nebeská dýka“, avšak konečný verdikt bude možno vynést až po zpracování názvů tvrzí v druhé části článku.
