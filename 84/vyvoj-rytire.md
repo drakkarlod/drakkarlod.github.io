@@ -96,4 +96,5 @@ Jeanovi de Clermont se zamlžily oči vzrušením. U Karla jistě bude i jeho dr
 
 Dveře hodovní síně se otevřely a dveřník zvolal: „Přicházejí Birger, rytíř Viléma Normandského, Norgeot, baron krále Filipa, Gilbert, rytíř templářského řádu a Jean de Clermont, rytíř krále Filipa Augusta.“ Čtveřice mužů vstoupila dovnitř, kde u slavnostní tabule seděl, obklopen množstvím společníků, sám král Karel Veliký.
 
+
 _Konec první části. V případě zájmu nevylučuji vznik druhé části._ 
