@@ -28,11 +28,29 @@ Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazil
 ## Proč se postavy vydávají do do Lesa Kostimlatu:
 
 - Zakázka na obnovení těžby.
-
 - Odměna na šarlatána, jenž ukradl duši královskému gryfovi, a který byl naposledy spatřen, jak cestuje tímto směrem.
-
 - Nalezení zpívajících skal, v jejichž hudbě se skrývají proroctví.
-
 - Nalezení legendární žluté byliny, jež vyléčí každý neduh.
 
 ## Tabulka náhodných setkání
+- **0-59** Nic
+- **60-61** Agresivní medvěd zbavený barvy
+- **62** Jerolým (viz _hex 8_)
+- **63-65** Elfí průzkumník
+- **66-68** Skřetí kněz s doprovodem
+- **69-72** Potyčka elfů a skřetů
+- **73-74** Zbloudilý vesničan, hledající cestu k vajíčku, které se mu rozbilo
+- **75-76** Přízrak mantikory, která uprchla Melicharovy z _hexu 4_
+- **77** Polomrtvý hobit, hulákající cosi o pavoucích
+- **78-80** Pavoučí démoni z _hexu 6_
+- **81-83** Zmatení kostlivci tlučící do všeho, co se pohne, včetně větví a listí
+- **84-85** Mravenci s růžovou runou na tělíčku z _hexu 15_
+- **86** Trhlina v realitě
+- **87-90** Mrtvé zvíře ovládané nekromantem z _hexu 14_
+- **91-92** Duch mrtvého elfa z dob válek s Khragthaldou, oživený zbraní
+- **93-94** Bezcílný elfí golem
+- **95** Teskná melodie věštby přinesená větrem
+- **96-97** Darfax, stínový cestovatel, jenž přišel trhlinou na _hexu 12_
+- **98-99** Hoď si dvakrát a ignoruj **0-59**
+
+## Tabulka zvěstí a pověstí
