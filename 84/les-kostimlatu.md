@@ -25,7 +25,7 @@ Tohle se ale nelíbí starým hmyzím poskokům – pavoučím démonům. Ti si 
 Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazili před třemi dny a dosud se nevrátili.
 
 
-## Proč se postavy vydávají do do Lesa Kostimlatu:
+## Proč se postavy vydávají do do Lesa Kostimlatu
 
 - Zakázka na obnovení těžby.
 - Odměna na šarlatána, jenž ukradl duši královskému gryfovi, a který byl naposledy spatřen, jak cestuje tímto směrem.
@@ -74,3 +74,10 @@ Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazil
 - **86-90**  V lese se nedá doopravdy umřít. Tvůj duch bude uvězněn v tvých kostech.
 - **91-95**  Na nejvyšší hoře je starý elfí prorok, který pamatuje ještě velkou válku.
 - **96-100**  Uprostřed jezera je skrýš, ve které elfové ukryli veškerá svá kouzla.
+
+## Lokace lesa Kostimlatu
+
+![Les Kostimlatu]({{site.baseurl}}/84/Les_Kostimlatu_keyed.png)
+
+![Mapa hexu]({{site.baseurl}}/84/Les_Kostimlatu_Mapa_keyed.png)
+
