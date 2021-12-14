@@ -79,8 +79,6 @@ Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazil
 
 ## Lokace lesa Kostimlatu
 
-![Mapa hexu]({{site.baseurl}}/84/Les_Kostimlatu_Mapa_keyed.png)
-
 ### Hex 1: Smírová
 
 Lidské městečko, asi tři sta obyvatel. Živí se zpracováním vápence a těžbou dřeva.
@@ -95,9 +93,11 @@ Pětimetrový obelisk ze surového železa, pokrytý rytinami pavouků požíraj
 
 Spodní část je pokrytá různými neslušnými vzkazy od procházejících dělníků.
 
+![Mapa hexu]({{site.baseurl}}/84/Les_Kostimlatu_Mapa_keyed.png)
+
 ### Hex 3: Bažiny bludiček
 
-Neustále probublávající bahenní plameny se navzájem zapalují a vytvářejí krátce žijící ohnivé duchy. Ti jsou neskutečně hraví, prosťoučcí a několikrát už nechtěně utopili vesničana v bažině.
+Neustále probublávající bahenní plameny se navzájem zapalují a vytvářejí krátce žijící ohnivé duchy. Ti jsou neskutečně hraví, prosťoučcí a několikrát už nechtěně utopili vesničana v bažině.
 
 Nadšeně přivítají každého nového návštěvníka.
 
@@ -153,9 +153,9 @@ Obelisk chrání prastarý kamenný golem, plamenné oči napůl vyhaslé. Neust
 
 ### Hex 10: Kragthalda
 
-Obrovský vápencový lom, v nejnižším místě je vyrubaný kráter a z něj se tyčí čtyřmetrová svraštělá hmyzí hlava Kragthaldy.
+Obrovský vápencový lom, v nejnižším místě je vyrubaný kráter a z něj se tyčí čtyřmetrová svraštělá hmyzí hlava Kragthaldy.
 
-Její cvakavé řeči se dá rozumět, bude se vydávat za benevolentního boha skal a nabídne ochranu všem, jež její amulety (vejce) vezmou do světa, aby rozšířily její vědomí. Vejce chrání a přináší štěstí, ale taky trochu vyžírají hlavu.
+Její cvakavé řeči se dá rozumět, bude se vydávat za benevolentního boha skal a nabídne ochranu všem, jež její amulety (vejce) vezmou do světa, aby rozšířily její vědomí. Vejce chrání a přináší štěstí, ale taky trochu vyžírají hlavu.
 
 Je příliš slabá, aby se osvobodila. Nepomohlo by už ani zničení obelisků. Díky zneužití obelisku na _hexu 9_ ale není zcela uvězněná a může šířit své děti, aby se v nejsilnějším z nich znovuzrodila.
 
