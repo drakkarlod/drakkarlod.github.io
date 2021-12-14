@@ -53,3 +53,11 @@ Za zajímavé je možno pokládat netypické hrady, kde bylo celkem 17 skalních
 
 Z celkového počtu 625 hradů je celkem 108 bezejmenných, tedy 17,28 % z celkového počtu, jejichž názvy se ve sledované době nedochovaly. Co se týká samotných hradů s názvy, tak počet s českými názvy je 368 (tedy 71,18 % dochovaných názvů), s německými 147 (tedy 28,43 % dochovaných názvů), jeden francouzský („Raimund“) a jeden biblický („Sion“). Tedy na rozdíl od zažité představy převládají české názvy nad německými, a to v poměru skoro 2,5:1.
 Co se německých názvů týče, pak dvouslovné jsou pouze dva, kdežto složenin je 117 (tedy 79,59 % německých názvů), kde nejčastějšími součástmi či opakujícími se slovy jsou následující:
+
+- „Berg“ (rovněž ve formě „berk“, „perk“) a „Burg“ (rovněž ve formě „burk“, „purk“), kde se často u jednoho hradu vyskytovala jak forma „-berg“, tak i „-burg“ a tedy jsem je nakonec byl nucen počítat společně, celkem 48
+- „Stein“ (rovněž ve formě „stejn“, „štein“, „štajn“, „stajn atd.), celkem 46
+- „Bach“ (rovněž ve formě „buch“), celkem 5
+- „Wart“ (rovněž ve formě „warte“, „vart“, „vajt“), celkem 5
+- „Haus“ (rovněž ve formě „hauz“), celkem 4
+- „Land“ (rovněž ve formě „lant“), pouze 2
+- „Grün“ (rovněž ve formě „grýn“), pouze 2
