@@ -73,3 +73,19 @@ Co se českých názvů týče, pak dvouslovných jsem napočítal 40 (10,87 %) 
 - „Týn“ (rovněž ve formě „Týnec“), celkem 3
 - „Bor“, celkem 2
 
+Z výše uvedeného vyplývá, že dvouslovné názvy se u hradů zřejmě netěšily velké popularitě ani v jednom z obou jazyků (většinou se užívaly pro rozlišení stejnojmenných lokalit) a u jednoslovných byly v českých názvech preferovány ty, jež měly původ v jednom slově (respektive se jednalo o slova s jedním kořenem), čímž se české názvy odlišují od německých, kde se zdá, že byly naopak preferovány spíše složeniny. Je nutno ještě podotknout, že výše uvedené souhrny dvouslovných názvů a složenin zahrnují i případy názvu hradů podle jména zakladatele či majitele.
+
+Na druhou stranu nebyly složeniny jako „Křivoklát“ či asi stejně známý „Vyšehrad“ osamocenými výjimkami, a tak za další zajímavé složeniny, jejichž název nebyl odvozen od jména zakladatele či majitele, by bylo možno pokládat:
+
+- Poděhusy (dva hrady stejného jména) – význam je „Kam se poděly husy?“
+- Kostomlaty (dva hrady stejného jména)
+- Chvatěruby
+- Koloděje
+- Křivsoudov
+- Liběhrad
+- Ostromeč (skutečně se jedná o autentický název hradu, jenž byl i součástí predikátu, viz níže)
+- Poděbrady – význam je „Kam se poděly brady (vousy)?“
+- Prostiboř
+- Sohostov – původně „Psohostov“, někdy komoleno na „Soustov“
+- Všeruby
+
