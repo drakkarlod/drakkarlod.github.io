@@ -41,11 +41,10 @@ Pro začátek z obou encyklopedií vyšlo celkem 625 hradů a 1073 tvrzí, tedy 
 
 Co se týká hradů bylo možno zjistit následující:
 
- - Zaniklo celkem 242 hradů, tedy 38,72 % z celkového počtu
- - Zříceninami zůstalo celkem 245 hradů, tedy 39,20 % z celkové počtu
- - Nedostavěné zůstaly 2 hrady, tedy pouhých 0,32 % z celkového počtu
- - Hradů jako takových se zachovalo pouze 23, tedy 3, 68 % z celkového
-   počtu
+- Zaniklo celkem 242 hradů, tedy 38,72 % z celkového počtu
+- Zříceninami zůstalo celkem 245 hradů, tedy 39,20 % z celkové počtu
+- Nedostavěné zůstaly 2 hrady, tedy pouhých 0,32 % z celkového počtu
+- Hradů jako takových se zachovalo pouze 23, tedy 3, 68 % z celkového počtu
 - Zbytek byl z velké části přestavěn na zámky (94), dále na pivovary (3), kláštery (2), školy (2) či byl pohlcen městskou zástavbou (4). Po jednom pak byly provedeny přestavby na faru, kasárna, klášter, pevnost, radnici, restauraci a sýpku se sokolovnou
 
 Za zajímavé je možno pokládat netypické hrady, kde bylo celkem 17 skalních hradů, 15 komend (z toho jedna půlená s hradem), 5 městských hradů (3 v Praze a 2 v Kutné Hoře), 4 vodní hrady a pouze 1 klášterní hrad (Broumov). (Na rozdíl od Moravy tedy v Čechách zřejmě nebyl ani jeden jeskynní hrad a na rozdíl například od Švýcarska ani jeden údolní hrad.)
