@@ -238,3 +238,10 @@ Jolianira potřebuje, aby někdo doručil jejímu špehovi na _hexu 13_ nové ro
 Větry vanoucí skrze otvory ve skalách vytvářejí líbezné melodie, které uvedou po chvíli poslouchání do transu a zjeví výjev z minulosti nebo budoucnosti. Melodie se mění, ale pomalu.
 
 Malisiana, bývalá učenkyně Pontarianely, se zde pokouší vyvrtat nové otvory, změnit věštby a přimět svou milovanou mistryni k činu.
+
+{:.map}
+![Les Kostimlatu - bez hexů]({{site.baseurl}}/84/les_Kostimlatu.png)
+
+{:.map}
+![Mapa - bez hexů]({{site.baseurl}}/84/Les_Kostimlatu_Mapa.png)
+
