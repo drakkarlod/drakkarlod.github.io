@@ -61,3 +61,15 @@ Co se německých názvů týče, pak dvouslovné jsou pouze dva, kdežto slože
 - „Haus“ (rovněž ve formě „hauz“), celkem 4
 - „Land“ (rovněž ve formě „lant“), pouze 2
 - „Grün“ (rovněž ve formě „grýn“), pouze 2
+
+Co se českých názvů týče, pak dvouslovných jsem napočítal 40 (10,87 %) a složenin naopak pouze 18 (4,89 %), kde nejčastějšími součástmi či opakujícími se slovy byla následující:
+
+- „Hrad“ (rovněž ve formě „Hradec“, „Hrádek“), celkem 19 (z toho 5 ve složenině)
+- „Hora“, celkem 6
+- „Skála“, celkem 6
+- „Kámen“, celkem 5
+- „Dvůr“ (rovněž ve formě „Dvorec“), celkem 4
+- „Chlum“ (rovněž ve formě „Chlumec“), celkem 4
+- „Týn“ (rovněž ve formě „Týnec“), celkem 3
+- „Bor“, celkem 2
+
