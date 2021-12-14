@@ -20,6 +20,17 @@ Smlouva o nedotknutelnosti elfího území vydržela zhruba půlku generace a li
 
 Vesnici se skutečně nyní daří lépe, jen všichni mají noční můry a za nějaký čas se lidem do myšlenek prožerou larvy. Ty kompletně ovládnou těla, ve kterých se začnou napadat a požírat navzájem a ta, která přežije jako poslední, se zakuklí a znovuzrodí jako nová Khragthalda.
 
-Tohle se ale nelíbí starám hmyzím poskokům – pavoučím démonům. Ti si mezitím zvykli na svobodu, a tak ovládli oddíl skřetů a s ním útočí na těžařské výpravy, aby svou matku odřízli od vesničanů.
+Tohle se ale nelíbí starým hmyzím poskokům – pavoučím démonům. Ti si mezitím zvykli na svobodu, a tak ovládli oddíl skřetů a s ním útočí na těžařské výpravy, aby svou matku odřízli od vesničanů.
 
 Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazili před třemi dny a dosud se nevrátili.
+
+
+## Proč se postavy vydávají do do Lesa Kostimlatu:
+
+- Zakázka na obnovení těžby.
+
+- Odměna na šarlatána, jenž ukradl duši královskému gryfovi a který byl naposledy spatřen, jak cestuje tímto směrem.
+
+- Nalezení zpívajících skal, v jejichž hudbě se skrývají proroctví.
+
+- Nalezení legendární žluté byliny, jež vyléčí každý neduh
