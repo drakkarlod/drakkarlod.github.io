@@ -4,7 +4,7 @@ authors: Ondřej „Nord“ Mráz
 title: Les Kostimlatu
 tags: 'materiály a doplňky, inspirace, hexy'
 summary: Minimalistický hexcrawl na tři kvalitní večery
-published: true
+published: false
 ---
 ## Stručná historie Lesa Kostimlatu
 
@@ -244,4 +244,3 @@ Malisiana, bývalá učenkyně Pontarianely, se zde pokouší vyvrtat nové otvo
 
 {:.map}
 ![Mapa - bez hexů]({{site.baseurl}}/84/Les_Kostimlatu_Mapa.png)
-
