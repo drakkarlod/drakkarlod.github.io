@@ -55,16 +55,16 @@ Z celkového počtu 625 hradů je celkem 108 bezejmenných, tedy 17,28 % z celk
 Co se německých názvů týče, pak dvouslovné jsou pouze dva, kdežto složenin je 117 (tedy 79,59 % německých názvů), kde nejčastějšími součástmi či opakujícími se slovy jsou následující:
 
 - „Berg“ (rovněž ve formě „berk“, „perk“) a „Burg“ (rovněž ve formě „burk“, „purk“), kde se často u jednoho hradu vyskytovala jak forma „-berg“, tak i „-burg“ a tedy jsem je nakonec byl nucen počítat společně, celkem 48
-- „Stein“ (rovněž ve formě „stejn“, „štein“, „štajn“, „stajn atd.), celkem 46
+- „Stein“ (rovněž ve formě „stejn“, „štein“, „štajn“, „stajn" atd.), celkem 46
 - „Bach“ (rovněž ve formě „buch“), celkem 5
 - „Wart“ (rovněž ve formě „warte“, „vart“, „vajt“), celkem 5
 - „Haus“ (rovněž ve formě „hauz“), celkem 4
 - „Land“ (rovněž ve formě „lant“), pouze 2
 - „Grün“ (rovněž ve formě „grýn“), pouze 2
 
-Co se českých názvů týče, pak dvouslovných jsem napočítal 40 (10,87 %) a složenin naopak pouze 18 (4,89 %), kde nejčastějšími součástmi či opakujícími se slovy byla následující:
+Co se českých názvů týče, pak dvouslovných jsem napočítal 40 (10,87 %) a složenin naopak pouze 18 (4,89 %), kde nejčastějšími součástmi či opakujícími se slovy byla následující:
 
-- „Hrad“ (rovněž ve formě „Hradec“, „Hrádek“), celkem 19 (z toho 5 ve složenině)
+- „Hrad“ (rovněž ve formě „Hradec“, „Hrádek“), celkem 19 (z toho 5 ve složenině)
 - „Hora“, celkem 6
 - „Skála“, celkem 6
 - „Kámen“, celkem 5
