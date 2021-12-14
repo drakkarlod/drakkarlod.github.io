@@ -89,3 +89,28 @@ Na druhou stranu nebyly složeniny jako „Křivoklát“ či asi stejně znám�
 - Sohostov – původně „Psohostov“, někdy komoleno na „Soustov“
 - Všeruby
 
+Co se týká délky názvů, i když se mezi vyskytuje nemalé množství jednoslabičných (například „Sloup“) i několik osmislabičných (například „Vrchotovy Janovice“), drtivou většinu tvoří názvy dvouslabičné (246) a tříslabičné (167), jež dohromady tvoří 79,88 % názvů (_poznámka: zřejmě i zde platí Paretovo pravidlo_).
+
+## Kontrola názvů složenin pomocí predikátů
+
+U výše uvedených zajímavých složenin jsem pro jistotu ještě provedl kontrolu na predikáty ve jmenném rejstříku Atlasu erbů a pečetí české a moravské šlechty, původně pomocného seznamu vytvořeného Augustem Sedláčkem pro své badatelské potřeby, a později vydaného jako erbovník v editaci Vladimíra Růžka v nakladatelství Academia, s následujícími výsledky:
+
+- Poděhusy – celkem uvedeny tři různé rody (znaků cimbuří, lišky a rysa)
+- Kostomlaty – celkem uvedeny čtyři různé rody (znaků křídla, šikmých pruhů, žebříku a dvou rukou)
+- Chvatěruby – neuveden žádný rod
+- Koloděje – uvedeny dva rody (znaků lva nad hradbou a břevna)
+- Křivsoudov – uvedeny dva rody (znaků palečného kola s trojlistem a střely)
+- Liběhrad – neuveden žádný rod
+- Ostromeč – uveden jeden rod (znak nespecifikován)
+- Poděbrady – uvedeny dva rody (znaků žebříku a pruhů u vrchu štítu)
+- Prostiboř – uveden jeden rod (znak nespecifikován)
+- Sohostov – neuveden žádný rod
+- Všeruby – uveden jeden rod (znak nespecifikován)
+
+U rodů s nespecifikovanými znaky sice existuje buď pouze jedna pečeť nebo pečetě více příslušníků těchto rodů (s příslušnými vyobrazeními na jednotlivých fóliích Atlasu erbů a pečetí české a moravské šlechty), avšak buď se mezi sebou vyobrazené znaky liší nebo se dochovaly zřejmě pečeti osob přivdaných či vyvdaných (manželek a vdov), u nichž není jasné, zda neužily pečeť se znakem svého původního rodu či rodu, do něhož se přivdaly, a tedy nebylo možno určit jednoznačně příslušný znak.
+
+U sídel, jež nemají uvedený žádný příslušný rod v Atlasu erbů a pečetí české a moravské šlechty to lze vykládat tak, že buď August Sedláček žádný dokument s příslušným jménem a opatřený pečetí nenašel (tedy možná znak existoval, ale nedochoval se na žádné pečeti, nebo August Sedláček neměl přístup do archivu, v němž by se příslušné dokumenty mohly nacházet) nebo se sídlo neužívalo jako predikát, respektive se po něm nikdo nepsal, a tedy je pouze zmiňováno v dobových dokumentech pod svým názvem (jak to u jednotlivých hesel uvádí pan profesor Durdík).
+
+## Předběžný závěr k názvů hradů
+
+Z výše uvedeného by tedy mohlo vyplývat, že dvouslovné názvy či složeniny sice představovaly v českém prostředí výjimku, ovšem nikterak zanedbatelnou a tedy s přihlédnutím ke zjištěnému by bylo možno uvažovat spíše nad použitím složeného názvu „Nebesdýka“, než dvouslovného názvu „Nebeský dýka“, avšak konečný verdikt bude možno vynést až po zpracování názvů tvrzí v druhé části článku.
