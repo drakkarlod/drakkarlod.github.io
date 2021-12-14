@@ -75,11 +75,10 @@ Město najalo skupinu hobitích dobrodruhů, aby situaci vyšetřili, ti vyrazil
 - **91-95**  Na nejvyšší hoře je starý elfí prorok, který pamatuje ještě velkou válku.
 - **96-100**  Uprostřed jezera je skrýš, ve které elfové ukryli veškerá svá kouzla.
 
+![Les Kostimlatu]({{site.baseurl}}/84/Les_Kostimlatu_keyed.png)
+
 ## Lokace lesa Kostimlatu
 
-![Les Kostimlatu]({{site.baseurl}}/84/Les_Kostimlatu_keyed.png)
- 
- 
 ![Mapa hexu]({{site.baseurl}}/84/Les_Kostimlatu_Mapa_keyed.png)
 
 ### Hex 1: Smírová
@@ -239,9 +238,3 @@ Jolianira potřebuje, aby někdo doručil jejímu špehovi na _hexu 13_ nové ro
 Větry vanoucí skrze otvory ve skalách vytvářejí líbezné melodie, které uvedou po chvíli poslouchání do transu a zjeví výjev z minulosti nebo budoucnosti. Melodie se mění, ale pomalu.
 
 Malisiana, bývalá učenkyně Pontarianely, se zde pokouší vyvrtat nové otvory, změnit věštby a přimět svou milovanou mistryni k činu.
-
-| Hod|Událost |
-|--|--|
-| 96-97 | Darfax, stínový cestovatel, jenž přišel trhlinou na hexu 12 |
-|95|Teskná melodie věštby přinesená větrem|
-| 96-97 | Darfax, stínový cestovatel, jenž přišel trhlinou na hexu 12 |
