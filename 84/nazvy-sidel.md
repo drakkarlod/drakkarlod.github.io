@@ -44,7 +44,12 @@ Co se týká hradů bylo možno zjistit následující:
 - Zaniklo celkem 242 hradů, tedy 38,72 % z celkového počtu
 - Zříceninami zůstalo celkem 245 hradů, tedy 39,20 % z celkové počtu
 - Nedostavěné zůstaly 2 hrady, tedy pouhých 0,32 % z celkového počtu
-- Hradů jako takových se zachovalo pouze 23, tedy 3, 68 % z celkového počtu
+- Hradů jako takových se zachovalo pouze 23, tedy 3,68 % z celkového počtu
 - Zbytek byl z velké části přestavěn na zámky (94), dále na pivovary (3), kláštery (2), školy (2) či byl pohlcen městskou zástavbou (4). Po jednom pak byly provedeny přestavby na faru, kasárna, klášter, pevnost, radnici, restauraci a sýpku se sokolovnou
 
 Za zajímavé je možno pokládat netypické hrady, kde bylo celkem 17 skalních hradů, 15 komend (z toho jedna půlená s hradem), 5 městských hradů (3 v Praze a 2 v Kutné Hoře), 4 vodní hrady a pouze 1 klášterní hrad (Broumov). (Na rozdíl od Moravy tedy v Čechách zřejmě nebyl ani jeden jeskynní hrad a na rozdíl například od Švýcarska ani jeden údolní hrad.)
+
+## Statistiky názvu hradů
+
+Z celkového počtu 625 hradů je celkem 108 bezejmenných, tedy 17,28 % z celkového počtu, jejichž názvy se ve sledované době nedochovaly. Co se týká samotných hradů s názvy, tak počet s českými názvy je 368 (tedy 71,18 % dochovaných názvů), s německými 147 (tedy 28,43 % dochovaných názvů), jeden francouzský („Raimund“) a jeden biblický („Sion“). Tedy na rozdíl od zažité představy převládají české názvy nad německými, a to v poměru skoro 2,5:1.
+Co se německých názvů týče, pak dvouslovné jsou pouze dva, kdežto složenin je 117 (tedy 79,59 % německých názvů), kde nejčastějšími součástmi či opakujícími se slovy jsou následující:
