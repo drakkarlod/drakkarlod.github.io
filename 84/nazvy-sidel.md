@@ -1,7 +1,7 @@
 ---
 layout: article
 authors: Vítězslav „Vitus“ Pilmaier
-title: Může se sídlo jmenovat „Nebeská dýka“ nebo třeba „Nebesdýka“?
+title: Může se sídlo jmenovat „Nebeská dýka“ nebo třeba „Nebesdýka“? – 1. část
 tags: historie
 summary: >-
   V létě na RPG Fóru v rámci diskusního vlákna o překladech proběhlo zajímavé
