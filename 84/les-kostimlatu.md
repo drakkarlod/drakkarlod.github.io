@@ -229,7 +229,7 @@ Překrásná jeskyně plná světlušek, vonného kouře a nádherných rytin. P
 
 Je zde několik skupin, jež se nemohou shodnout na dalším postupu. Někteří chtějí v klidu přečkat, až skřeti vymřou sami od sebe. Jiní chtějí bojovat. Další zvažují využití zbraně.
 
-Gariliadir zkoumá golema, kterého si přinesl z _hexu 14_ a doufá, že dokáže proces výroby zreplikovat. Netuší, že na něj skrze jeho ústa promlouvá nekromant.
+Gariliadir zkoumá golema, kterého si přinesl z _hexu 14_ a doufá, že dokáže proces výroby zreplikovat. Netuší, že na něj skrze jeho ústa promlouvá nekromant.
 
 Jolianira potřebuje, aby někdo doručil jejímu špehovi na _hexu 13_ nové rozkazy a silnou výbušninu.
 
