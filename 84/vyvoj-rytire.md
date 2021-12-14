@@ -18,17 +18,17 @@ Norgeot se zastavil a s překvapením se ohlédl. Za ním se z ohybu cesty vyno�
 
 „Sloužíš Ukřižovanému?“ otázal se Birger poněkud neomaleně s poukazem na kříž, který měl Norgeot našitý na ramenou pláště.
 
-„Ty tedy přece nejsi křesťan,“ zavrčel křižák spíše pro sebe a ruka mu sjela k jílci meče.
+„Ty tedy přece nejsi křesťan,“ zavrčel křižák spíše pro sebe a ruka mu sjela k jílci meče.
 
 „My všichni jsme pokřtění,“ nadmul se Birger. Tím _všichni_ mínil družinu hraběte Viléma. „A zároveň dobře víme, že Thorova pomoc je v boji nejlepší,“ poklepal si dlaní na hruď, kde měl pod oděním zavěšeno Thorovo kladivo.
 
-_Thorova pomoc? Tedy pokřtěný viking, napůl pohan,_ pomyslel si Norgeot. „Tobě platná nebyla, když jsi zemřel,“ ušklíbl se a sundal pravici z hrušky meče. Birger na něj vykulil oči.
+_Thorova pomoc? Tedy pokřtěný viking, napůl pohan,_ pomyslel si Norgeot. „Tobě platná nebyla, když jsi zemřel,“ ušklíbl se a sundal pravici z hrušky meče. Birger na něj vykulil oči.
 
 „Co že jsem?“
 
 „Zemřel,“ potvrdil klidně křižák. A rovnou se zeptal: „Padl jsi v boji?“
 
-Birger na něj zíral jako na zjevení. Potom se rozhlédl vůkol a jeho tváří začalo probleskovat náhlé poznání. „Padl jsem v boji,“ opakoval jako omráčený. „Padl jsem v boji,“ řekl znovu a tvář mu rozjasnil úsměv. „Padl jsem v boji!“ vykřikl téměř s nadšením.
+Birger na něj zíral jako na zjevení. Potom se rozhlédl vůkol a jeho tváří začalo probleskovat náhlé poznání. „Padl jsem v boji,“ opakoval jako omráčený. „Padl jsem v boji,“ řekl znovu a tvář mu rozjasnil úsměv. „Padl jsem v boji!“ vykřikl téměř s nadšením.
 
 Norgeot si s překvapením uvědomil, že mu závidí. Tenhle podivný cizinec, napůl pohan, se raduje z vlastní smrti přesně tak, jak by se to očekávalo od něj, křižáka padlého na cestě za svatým posláním. To on se měl radovat, že se mu dostalo té cti, položit život za Ježíše Krista. A ještě před dvěma roky, když papež vyhlásil křížovou výpravu, by býval hrdinskou smrt přijal s nadšením. Tehdy, připadalo mu to nesmírně dávno, neměl sebemenší ponětí o tom, jak dlouhá a krutá je cesta k Božímu hrobu. Od té doby se mnohé změnilo. Vlastně ne, to on se změnil. Poznal bezcitnost a hamižnost normanských spolubojovníků i franských spojenců, bohatství a úskočnost Byzantinců, smrtící lstivost saracénů a žhavou vyprahlost letní Anatolie. Ta ho nakonec stála život. Zemřel vlastně v boji, ale ne tak, jak by si kdy dokázal představit. Když jeho družina z hladu a zoufalství rabovala jedno z anatolských městeček, byl překvapen skupinou místních, těžko soudit zda mohamedánů, židů nebo křesťanů, která se rozhodla postavit se vetřelcům na odpor. Utloukli ho holemi na prahu jednoho z domů, kde se snažil najít něco k jídlu. Bylo to tak rychlé, že nestihl ani krátkou modlitbu. Naštěstí papež slíbil spásu všem, kdo přijmou kříž, takže z Boží spravedlnosti strach neměl. I když… tušil papež, když kruciátu vyhlásil, čeho všeho se budou křižáci dopouštět na své cestě k Božímu hrobu? Že budou olupovat a vraždit kromě pohanů i křesťany? Z úvah ho vytrhl Birgerův hlas:
 
