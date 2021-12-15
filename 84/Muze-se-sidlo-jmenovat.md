@@ -2,6 +2,6 @@
 layout: article
 title: Název článku
 authors: Jméno autora
-tags: štítek, další štítek
+tags: 'štítek, další štítek'
+published: false
 ---
-
