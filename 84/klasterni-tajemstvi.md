@@ -3,7 +3,7 @@ layout: article
 title: Klášterní tajemství
 authors: Log 0=1
 tags: 'povídka, literatura'
-published: true
+published: false
 summary: >-
   Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temné
   postavy. Pak, jako by hledaly odvahu, vykročily obě směrem k hrázi. Opatrně
@@ -12,7 +12,7 @@ summary: >-
   jedna druhou prohlédnout. Jejich oblečení se překvapivě podobalo.
 ---
 
-Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temné postavy. Pak, jako by hledaly odvahu, vykročily obě směrem k hrázi. Opatrně vylezly, každá na své straně hráze a pak pomalu kráčely jedna druhé vstříc. Když je dělilo posledních pár metrů, obě rozsvítily čelovky, aby si mohly jedna druhou prohlédnout. Jejich oblečení se překvapivě podobalo. Tváře zakrývala celoobličejová maska s velkými filtry a nebylo pochyb, že celé tělo pokrývá pružný celo tělový oblek z chemicky odolného plastu. Nicméně v obou případech jej zakrýval dlouhý pevný hábit, chránící před prachem a jinými mechanickými riziky. Přesto se snadno daly najít rozdíly. První zahalená osoba měla na masce dva filtry, umístěné na tvářích a její hábit měl kapuci, která chránila citlivý přechod mezi oblekem a maskou, připojenou k ramenou. Druhá postava  nosila masku s jedním filtrem umístěným pod nosem a ochranná kapuce byla součástí pokrývky hlavy. Oboje chránilo průzkumníky této pustiny před jejími hrozbami, ale každé zjevně pocházelo z jiného bezpečného místa. Obě osoby zaujaly obezřetný postoj. Věděly samozřejmě o tom, že před katastrofou bylo vytvořeno více bezpečných míst, ale kontakt mezi nimi neexistoval. Mnohé nepochybně obývali mutanti stejně strašidelní jako ti, kterým se dle pověstí dařilo přežívat na pláních. A i když se jim podařilo uchránit, existovaly nepochybně  nesmírné rozdíly v jejich kultuře, ať už protože je založily různé skupiny z kdysi tak velkého a rozmanitého lidstva, nebo protože se tamní myšlení zvrhlo v důsledku dění po katastrofě. Možná ty rozdíly představovaly větší bariéru, než nevypočitatelné mutace. Ale to, že by se dva lidé z těchto ostrůvků, které nebylo radno opouštět, protože mimo ně šlo jen těžko přežít, to bylo tak nepravtěpodobné, že to mohl být Boží zázrak. Nebo známka něčeho zlověstnějšího. Ale tito lidé neměli v pustině co ztratit.
+Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temné postavy. Pak, jako by hledaly odvahu, vykročily obě směrem k hrázi. Opatrně vylezly, každá na své straně hráze a pak pomalu kráčely jedna druhé vstříc. Když je dělilo posledních pár metrů, obě rozsvítily čelovky, aby si mohly jedna druhou prohlédnout. Jejich oblečení se překvapivě podobalo. Tváře zakrývala celoobličejová maska s velkými filtry a nebylo pochyb, že celé tělo pokrývá pružný celotělový oblek z chemicky odolného plastu. Nicméně v obou případech jej zakrýval dlouhý pevný hábit, chránící před prachem a jinými mechanickými riziky. Přesto se snadno daly najít rozdíly. První zahalená osoba měla na masce dva filtry, umístěné na tvářích a její hábit měl kapuci, která chránila citlivý přechod mezi oblekem a maskou, připojenou k ramenou. Druhá postava nosila masku s jedním filtrem umístěným pod nosem a ochranná kapuce byla součástí pokrývky hlavy. Oboje chránilo průzkumníky této pustiny před jejími hrozbami, ale každé zjevně pocházelo z jiného bezpečného místa. Obě osoby zaujaly obezřetný postoj. Věděly samozřejmě o tom, že před katastrofou bylo vytvořeno více bezpečných míst, ale kontakt mezi nimi neexistoval. Mnohé nepochybně obývali mutanti stejně strašidelní jako ti, kterým se dle pověstí dařilo přežívat na pláních. A i když se jim podařilo uchránit, existovaly nepochybně nesmírné rozdíly v jejich kultuře, ať už protože je založily různé skupiny z kdysi tak velkého a rozmanitého lidstva, nebo protože se tamní myšlení zvrhlo v důsledku dění po katastrofě. Možná ty rozdíly představovaly větší bariéru, než nevypočitatelné mutace. Ale to, že by se setkali dva lidé z těchto ostrůvků, které nebylo radno opouštět, protože mimo ně šlo jen těžko přežít, to bylo tak nepravděpodobné, že to mohl být Boží zázrak. Nebo známka něčeho zlověstnějšího. Ale tito lidé neměli v pustině co ztratit.
 
 „Pochválen buď pán Ježíš Kristus,“ řekla jedna z postav, byť přes filtry vyšel zvuk natolik zkreslený, že se mnohé muselo domýšlet.
 
@@ -20,35 +20,35 @@ Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temn
 
 To byl dobrý začátek.
 
-„Jaké je tvé jméno? Moje zní Theo….“ konec jména se ze zvuků nedal dešifrovat.
+„Jaké je tvé jméno? Moje zní Theo…“ Konec jména se ze zvuků nedal dešifrovat.
 
-„Bylo rozumět jen Theo. Já jsem Kristi….“ i tohle jméno neprošlo přes filtry nezkresleno.
+„Bylo rozumět jen Theo. Já jsem Kristi…“ Ani tohle jméno neprošlo přes filtry nezkresleno.
 
 „Theo postačí. Z tvého zbylo pouze Kristi.“
 
-„I to postačí. Ten tvor za tebou je tvůj...?“
+„I to postačí. Ten tvor za tebou je tvůj…?“
 
 „Ne, to je netvor z pustiny.“
 
-Šestinohý tvor s dlouhým ocasem sledoval spoustou černých očí dva cíle před sebou. Soustředil se na ten bližší, připravoval se k útoku. Proto nezaznamenal, že vzdákenější sebral ze země kámen. Pak vyčíhl tu správnou chvíli a vrhl se vpřed. Cíl, varován druhým, sice uhnul, ale s tím šestinohý lovec počítal a začal v půlce pohybu změnil směr. Jenže přesně v tu chvíli jej zasáhl hozený kámen. Tvor ztratil rovnováhu a spadl z hráze.
+Šestinohý tvor s dlouhým ocasem sledoval spoustou černých očí dva cíle před sebou. Soustředil se na ten bližší, připravoval se k útoku. Proto nezaznamenal, že vzdálenější sebral ze země kámen. Pak vyčíhl tu správnou chvíli a vrhl se vpřed. Cíl, varován druhým, sice uhnul, ale s tím šestinohý lovec počítal a v půlce pohybu změnil směr. Jenže přesně v tu chvíli jej zasáhl hozený kámen. Tvor ztratil rovnováhu a spadl z hráze.
 
-Obě postavy se z hráze přesunuly na mnohem lépe skryté místo. Filtry znemožňovaly plynulou komunikaci, ale v jejich maskách byly i malý mikrofon a reproduktor pro komunikaci. Když se pokusili propojit masky pomocí drátů, nefungovalo to úplně púerfektně, ale díky elektronice a programům bylo možné ztracené informace z neúplných promluv. A tak si dva lidé v pustin+ě mohli promluvit. Díky tomu se ukázalo, že Theo pochází z kláštera Panny Marie asi kilometr na východ a Kristi z kláštera Svatého Josefa přibližně kilometr západně. Popsali si také, jak jejich klášter funguje, a až na drobné detaily se jejich zkušenosti velmi podobaly. Pravidelné modlitby, mše, čtení z Písma i studium knih zcela pozemských. A hlavně práce. Kláštery měly mnoho strojů, bez kterých by v nich nebyl možný život. Hydroponní stanice, kde pod umělými světly rostly řasy k jídlu. Čističky vzduchu, které vyrovnávaly složení vzduchu, těžební stroje, schopné v omezené míře získat z okolních hornin důležité látky. Recyklátory organického i anorganického materiálu. Klonovací a genoinženýrské stanice, které v případě potřeby doplňovaly klášterní noviciát. A vodní elektrárna měnící proud vody, který klesá podzemním tunelem z přehrady do oblasti pod ní, na elektřinu pohánějící celý klášter. 
+Obě postavy se z hráze přesunuly na mnohem lépe skryté místo. Filtry znemožňovaly plynulou komunikaci, ale v jejich maskách byly i malý mikrofon a reproduktor pro komunikaci. Když se pokusili propojit masky pomocí drátů, nefungovalo to úplně perfektně, ale díky elektronice a programům bylo možné získat ztracené informace z neúplných promluv. A tak si dva lidé v pustině mohli promluvit. Díky tomu se ukázalo, že Theo pochází z kláštera Panny Marie asi kilometr na východ a Kristi z kláštera Svatého Josefa přibližně kilometr západně. Popsali si také, jak jejich klášter funguje, a až na drobné detaily se jejich zkušenosti velmi podobaly. Pravidelné modlitby, mše, čtení z Písma i studium knih zcela pozemských. A hlavně práce. Kláštery měly mnoho strojů, bez kterých by v nich nebyl možný život. Hydroponní stanice, kde pod umělými světly rostly řasy k jídlu. Čističky vzduchu, které vyrovnávaly složení vzduchu, těžební stroje, schopné v omezené míře získat z okolních hornin důležité látky. Recyklátory organického i anorganického materiálu. Klonovací a genoinženýrské stanice, které v případě potřeby doplňovaly klášterní noviciát. A vodní elektrárna měnící proud vody, který klesá podzemním tunelem z přehrady do oblasti pod ní, na elektřinu pohánějící celý klášter. 
 
-Theo a Kristi opatrně zavedli řeč na opuštění klášterní budovy. Ani zde se poměry v jejich klášterech nelišily. Šlo odejít velkými vzduchotěsnými dveřmi s přechodovou komorou, ale nikdo nechtěl opustit bezpečné místo, aby hledal štěstí v pustině, kde přes den pražily nebezpečné sluneční paprsky, jenž měnily povědomé horniny a vzduch na sbírku chemikálií a iontů rozmanitého působení na živé tvory. A kde žili jen mutanti, kteří tomuto pozemskému peklu přivykli, zastoupení zejména lišejníky a členovci. Dveře se tak otevíraly jen tehdy, když bylo zapotřebí opravit automatický bagr, odstraňující nánosy z filtrů, skrze které proudila voda k elektrárně. Bylo li třeba, představenstvo kláštera vybralo někoho, kdo s příslušným vybavením pro přežití několika dnů stroj opravil. Někteří neuspěli nebo se nedokázali vrátit. Pak šla výprava pro jejich výbavu. A to bylo co se týkalo opouštění klášterů vše.
+Theo a Kristi opatrně zavedli řeč na opuštění klášterní budovy. Ani zde se poměry v jejich klášterech nelišily. Šlo odejít velkými vzduchotěsnými dveřmi s přechodovou komorou, ale nikdo nechtěl opustit bezpečné místo, aby hledal štěstí v pustině, kde přes den pražily nebezpečné sluneční paprsky, jež měnily povědomé horniny a vzduch na sbírku chemikálií a iontů rozmanitého působení na živé tvory. A kde žili jen mutanti, kteří tomuto pozemskému peklu přivykli, zastoupení zejména lišejníky a členovci. Dveře se tak otevíraly jen tehdy, když bylo zapotřebí opravit automatický bagr, odstraňující nánosy z filtrů, skrze které proudila voda k elektrárně. Bylo-li třeba, představenstvo kláštera vybralo někoho, kdo s příslušným vybavením pro přežití několika dnů stroj opravil. Někteří neuspěli nebo se nedokázali vrátit. Pak šla výprava pro jejich výbavu. A to bylo, co se týkalo opouštění klášterů, vše.
 
 To už se nedalo obcházet tu otázku, kterou se oba báli položit. Jen čekali, kdo má méně trpělivosti s tímto vyhýbáním. Ukázalo se, že Theo.
 
 „Proč jsi venku ty?“
 
-„Představenstvo mne vyslalo po nedávné bouři opravit bagr, ale při návratu mi nikdo neotevřel přechodovou komoru. Představenstvo kláštera si můj návrat nepřeje, netuším proč,“ filtry nedovolily přenést v hlasu jakékoli emoce, ale Theo bylo jasné, jak Kristi tento čin vnímá. Až moc dobře.
+„Představenstvo mne vyslalo po nedávné bouři opravit bagr, ale při návratu mi nikdo neotevřel přechodovou komoru. Představenstvo kláštera si můj návrat nepřeje, netuším proč.“ Filtry nedovolily přenést v hlasu jakékoli emoce, ale Theo bylo jasné, jak Kristi tento čin vnímá. Až moc dobře.
 
-„Stalo se mi totéž. Ale nějaký důvod, byť nespravedlivý, to mít muselo. Hřešíš hodně?“ bylo poznat, že Theo volí slova hodně opatrně. Když jste v pustině s jediným dalším člověkem, nechcete ho rozzlobit.
+„Stalo se mi totéž. Ale nějaký důvod, byť nespravedlivý, to mít muselo. Hřešíš hodně?“ Bylo poznat, že Theo volí slova hodně opatrně. Když jste v pustině s jediným dalším člověkem, nechcete ho rozzlobit.
 
 „Ač žiji v klášteře, nečiním si nárok na svatost. Hřeším, neboť lidská vůle je slabá. Ale ne více, než je v klášteře obvyklé.“
 
 „Třeba nešlo o množství a velikost hříchu v očích Božích, ale lidských. Pácháš sodomii s někým, na kom představenstvu záleží?“
 
-„Sodomský hřích mne nikdy moc nelákal,“ otázky to byly osobní, ale zdálo se, že Kristi odpovídá upřímně. Byli na jedné lodi a věděli, že oba hledají důvod svého vlastního vyhnání.
+„Sodomský hřích mne nikdy moc nelákal.“ Otázky to byly osobní, ale zdálo se, že Kristi odpovídá upřímně. Byli na jedné lodi a věděli, že oba hledají důvod svého vlastního vyhnání.
 
 „Tak právě naopak nepácháš?“ 
 
@@ -56,17 +56,17 @@ To už se nedalo obcházet tu otázku, kterou se oba báli položit. Jen čekali
 
 „A nemůže jít o nějaký nežádoucí poznatek nebo problém?“
 
-„No, pravda je, že jednou věcí se mi podařilo předsednictvo trochu podráždit. Ale že by tak moc?“
+„No, pravda je, že jednou věcí se mi podařilo představenstvo trochu podráždit. Ale že by tak moc?“
 
-„O co šlo?“ zdálo se, že Theo má o tuhle možnost opravdu zájem.
+„O co šlo?“ Zdálo se, že Theo má o tuhle možnost opravdu zájem.
 
 „No, o takovou věc. Život v klášteře nemá alternativu pro nás, nejspíše, ale navěky tomu tak nebude. Na tom se Písmo i světské knihy, jakkoli jsou k nelibosti mnohých rozporné, shodují. Katastrofa nebyla předpovězeným příchodem Božího království, ale popis tohoto příchodu počítá s velkým obydleným světem. Takže se svět ještě musí obnovit. A světské knihy mají své těžko pochopitelné materialistické úvahy, ale jejich závěr je jasný. Svět se obnoví. A je to dobře, protože stroje, které nás drží naživu, věčně nevydrží, bez ohledu na údržbu a opravy. Jednou lidé z bezpečných míst vyjdou a vrátí se k před-katastrofickému životu. Tak nás to i učili v klášterní škole.“
 
 „Nás také.“
 
-„Výborně,“ šlo poznat, že Kristi si na těchto úvahách neobyčejně zakládá, „v Písmu je o před-katastrofickém životě mnohé, ale spíše v náznacích. Pro ty, co tehdy žili to koneckonců byly samozřejmosti. Ale světské knihy ty věci popisují často velmi podrobně. Víme, že nepotřebovali čistit vzduch, jak čistili vodu, jak místo řas pěstovali rostliny a zvířata na farmách, jak vyráběli ty stroje, které my sotva udržujeme. Ale je tu jedna výjimka, minimálně v naší knihovně. Jak vytvářeli další lidi bez genoinženýrských klonovacích stanic?“
+„Výborně,“ šlo poznat, že Kristi si na těchto úvahách neobyčejně zakládá, „v Písmu je o před-katastrofickém životě mnohé, ale spíše v náznacích. Pro ty, co tehdy žili, to koneckonců byly samozřejmosti. Ale světské knihy ty věci popisují často velmi podrobně. Víme, že nepotřebovali čistit vzduch, jak čistili vodu, jak místo řas pěstovali rostliny a zvířata na farmách, jak vyráběli ty stroje, které my sotva udržujeme. Ale je tu jedna výjimka, minimálně v naší knihovně. Jak vytvářeli další lidi bez genoinženýrských klonovacích stanic?“
 
-„To nevíme,“ i přes velký filtr šlo poznat, že to je výkřik.
+„To nevíme!“ I přes velký filtr šlo poznat, že to je výkřik.
 
 „Přesně tak, Theo, to nevíme. V Písmu je mnoho narážek. Lidé se zjevně dělili na dvě skupiny, a dvojice po jednom z každé skupiny dokázala vytvořit nového člověka. Důkladně popisuje rituály a zvyky spojené s tímto dělením a tvořením těchto párů, ale podle čeho se do těchto kategorií dělili? A jak vlastně ta dvojice dokázala toho nového člověka stvořit? O tom mlčí nejen Písmo, ale i světské spisy v klášterní knihovně. Ale jak potom budeme schopni žít bez strojů, které neumíme vyrobit? Rozumíš mi, Theo?“
 
@@ -96,7 +96,7 @@ Chvíli mlčeli. Dlouhou chvíli.
 
 „Ale můžeme to zkusit zkombinovat. Kdyby se do tvého stanu nainstalovaly dobíjecí stanice a potáhl se fotoelektrickým povrchem toho mého, tak by nejspíše dokázal zásobovat elektřinou čističku vody i tvé přístroje. Je díkybohu hodně naddimenzovaný. A s vybavením to můžeme zvládnout.“
 
-Tak budeme mít dost elektřiny i vody pro sebe i pro filtr vzduchu. A odpad z té čističky můžeme tím tvým jídelním filtrem měnit na hnojivo. Tem můj na vodu zas získá trochu materiálu i z filtrů. Skvělé nápady, Theo, tak vydržíme o hodně déle, než pár dní. Ale časem se to rozbije.“
+Tak budeme mít dost elektřiny i vody pro sebe i pro filtr vzduchu. A odpad z té čističky můžeme tím tvým jídelním filtrem měnit na hnojivo. Tem můj na vodu zas získá trochu materiálu i z filtrů. Skvělé nápady, Theo, tak vydržíme o hodně déle než pár dní. Ale časem se to rozbije.“
 
 „Máme nářadí, budeme to opravovat. A nemusí to vydržet věčně, určitě najdeme nějaké bezpečné místo, buď zpustlé, kde vezmeme nové vybavení, nebo obývané, kde nám třeba pomohou, byť sami mají zdrojů málo.“
 
