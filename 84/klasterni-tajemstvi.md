@@ -3,7 +3,7 @@ layout: article
 title: Klášterní tajemství
 authors: Log 0=1
 tags: 'povídka, literatura'
-published: true
+published: false
 summary: >-
   Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temné
   postavy. Pak, jako by hledaly odvahu, vykročily obě směrem k hrázi. Opatrně
