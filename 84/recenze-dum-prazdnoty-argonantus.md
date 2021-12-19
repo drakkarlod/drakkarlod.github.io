@@ -1,8 +1,16 @@
 ---
 title: 'Recenze: Dům prázdnoty (Argonantus)'
 author: Fingalen
-tags: literatura, recenze
-summary: Dom prázdnoty, ktorý v roku 2021 vydáva Netopejr, je druhý román z Argonantovho pera, svojim rozsahom aj zložitosťou výrazne presahujúci všetko, čo doposiaľ napísal. A nakoľko ide o pravidelného prispievateľa do Drakkaru, som presvedčený, že si tento jeho literárny počin zaslúži na tunajších stránkach osobitnú pozornosť.
+tags: 'literatura, recenze'
+summary: >-
+  Dom prázdnoty, ktorý v roku 2021 vydáva Netopejr, je druhý román z
+  Argonantovho pera, svojim rozsahom aj zložitosťou výrazne presahujúci všetko,
+  čo doposiaľ napísal. A nakoľko ide o pravidelného prispievateľa do Drakkaru,
+  som presvedčený, že si tento jeho literárny počin zaslúži na tunajších
+  stránkach osobitnú pozornosť.
+published: true
+layout: article
+authors: Fingalen
 ---
 
 Je to už nejaký ten piatok, čo sa v kníhkupectvách objavil prvý román kronikára Argonanta. Za tých sedem rokov od vydania _Siedmych rýb_ sa na stránkach Drakkaru či v poviedkových zborníkoch objavilo niekoľko ďalších poviedok, vykresľujúcich rôzne pozoruhodné zážitky stredovekého pisára, detektíva, cestovateľa, obchodníka a čarodeja. Kánon jeho diela sa rozrastá pozoruhodným spôsobom a na pozadí českých dejín 12. storočia sa stále viac prekresluje život nabitý napätím, nadprirodzenom a nachádzaním životnej múdrosti.
@@ -50,5 +58,4 @@ V skutočnosti som veľmi zvedavý na to, či Argonantus uzatvorí svoje dielo (
 
 Argonantove dobrodružstvá vnímam vždy tak trochu osobne. Zakaždým si nechám nejakým Regnardom či iným múdrym mužom pripomenúť, ako veľmi zaháľam a čo všetko by sa dalo a mohlo stihnúť, keby človek otvoril oči a hlavu a prestal sa neustále na niečo vyhovárať. Argonantus zjavne zaháľať nestíha, aj keď to možno tvrdí. Dom prázdnoty rozhodne nie je prázdnym. Kniha je enormne hutná a ani pri opakovanom čítaní sa mi neprestávali objavovať nové prehliadnuté symboly, súvislosti a odkazy na ďalší dej či iné práce. Aj keď som sa snažil niektoré myšlienky a obrazy udržať a porozumieť im sám, v záplave ďalších sa často strácali, aby sa zas vynorili a prekvapivo ma preplieskali práve tam, kde bolo treba.
 
-Celkový koncept a výstavba deja mi prišla až fascinujúco veľkolepá v komplexnosti doteraz u Argonanta nevídanej. Rodila sa dlhé roky, ale myslím, že výsledok za to stál. Som presvedčený, že knihou si autor pre ďalšie svoje dielo nastavil vysokú latku. Napriek tomu, že dynamika a tempo deja boli premenlivé a nie raz som narážal na kronikárske pasáže vyvolávajúce nočné mory z čítania Malloryho, Dom prázdnoty vysoko predčil moje očakávania a rozhodne si zaslúži pozornosť každého priaznivca historického fantastična. 
-
+Celkový koncept a výstavba deja mi prišla až fascinujúco veľkolepá v komplexnosti doteraz u Argonanta nevídanej. Rodila sa dlhé roky, ale myslím, že výsledok za to stál. Som presvedčený, že knihou si autor pre ďalšie svoje dielo nastavil vysokú latku. Napriek tomu, že dynamika a tempo deja boli premenlivé a nie raz som narážal na kronikárske pasáže vyvolávajúce nočné mory z čítania Malloryho, Dom prázdnoty vysoko predčil moje očakávania a rozhodne si zaslúži pozornosť každého priaznivca historického fantastična.
