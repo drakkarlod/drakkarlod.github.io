@@ -1,8 +1,15 @@
 ---
 layout: article
 title: Klášterní tajemství
-authors: 'Log 0=1'
+authors: Log 0=1
 tags: 'povídka, literatura'
+published: true
+summary: >-
+  Plný měsíc osvětloval vodní hladinu přes kterou na sebe hleděly dvě temné
+  postavy. Pak, jako by hledaly odvahu, vykročily obě směrem k hrázi. Opatrně
+  vylezly, každá na své straně hráze a pak pomalu kráčely jedna druhé vstříc.
+  Když je dělilo posledních pár metrů, obě rozsvítily čelovky, aby si mohly
+  jedna druhou prohlédnout. Jejich oblečení se překvapivě podobalo.
 ---
 
 
