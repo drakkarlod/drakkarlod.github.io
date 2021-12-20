@@ -8,7 +8,7 @@ summary: >-
   čo doposiaľ napísal. A nakoľko ide o pravidelného prispievateľa do Drakkaru,
   som presvedčený, že si tento jeho literárny počin zaslúži na tunajších
   stránkach osobitnú pozornosť.
-published: false
+published: true
 layout: article
 authors: Fingalen
 ---
