@@ -3,7 +3,7 @@ layout: article
 title: Le bureau des renseignements
 authors: Beowulf
 tags: 'Příběhy Impéria, doplňky'
-published: false
+published: true
 summary: >-
   Eugène-François Vidocq - Le bureau des renseignements, krátký doplněk pro
   Příběhy Impéria
