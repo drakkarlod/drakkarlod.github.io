@@ -18,7 +18,7 @@ summary: >-
   sídla menší (tedy většinou sídla rytířů, zemanů či manů ze stavu vladyckého
   alias tvrze). A od té doby mi téma stále leželo někde někdo v mysli, neboť
   samotného mne zajímalo, jak na tom vlastně v Čechách jsme.
-published: false
+published: true
 ---
 ## Rozsah a vymezení
 
