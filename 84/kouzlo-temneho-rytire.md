@@ -20,7 +20,7 @@ summary: >-
 published: true
 ---
 
-## Ne víc, než člověk
+## Ne víc než člověk
 
 Jednou z hlavních Batmanových předností je, že nemá žádné superschopnosti. Je to tak trochu paradox, ale skutečně to tak funguje. Rozhodně tedy pomáhá, že Batman působí dostatečně superhrdinsky i bez nich, ostatně v mnoha situacích jedná jako by je měl. Neumí létat, ale má lano s kotvičkou. Není nezranitelný, ale má fakt dobrou neprůstřelnou vestu. Neumí číst myšlenky, ale je chytrý a dojde mu to. A tak dále. Tím může být superhrdinou i bez zjevných superschopností, a z toho plyne několik podstatných výhod oproti jiným superhrdinům.
 
