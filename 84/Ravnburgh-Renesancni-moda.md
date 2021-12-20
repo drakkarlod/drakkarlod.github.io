@@ -2,7 +2,7 @@
 layout: article
 title: 'Ravnburgh: Renesanční móda'
 authors: Ecthelion²
-tags: 'Ecthelion², Ravnburgh, Doplněk, Drakkar #84'
+tags: 'Ravnburgh, doplňky a materiály'
 published: false
 summary: >-
   Tento článek se věnuje módě a oblečení v Ravnsburghu a arlatských lénech v
@@ -103,4 +103,4 @@ Pomandry jsou součástí oblečení výbavy šlechticů, dvořanů, rytířů a
 
 ### Závěr 
 
-Tento článek není pravděpodobně nijak výrazně užitečný pro hraní samotné, ale pomáhá trochu sjednotit představu světa samotného a jak přesně vypadá. To je věc, která vždy napomůže Vypravěči a hráčům pohybovat se na stejné imaginární vlně. Snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608). 
+Tento článek není pravděpodobně nijak výrazně užitečný pro hraní samotné, ale pomáhá trochu sjednotit představu světa samotného a jak přesně vypadá. To je věc, která vždy napomůže Vypravěči a hráčům pohybovat se na stejné imaginární vlně. Snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
