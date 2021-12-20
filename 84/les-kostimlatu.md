@@ -4,7 +4,7 @@ authors: Ondřej „Nord“ Mráz
 title: Les Kostimlatu
 tags: 'materiály a doplňky, inspirace, hexy'
 summary: Minimalistický hexcrawl na tři kvalitní večery
-published: false
+published: true
 ---
 ## Stručná historie Lesa Kostimlatu
 
