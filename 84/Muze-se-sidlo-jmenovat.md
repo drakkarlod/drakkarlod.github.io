@@ -3,7 +3,7 @@ layout: article
 title: Může se sídlo jmenovat „Nebeská dýka“ nebo třeba „Nebesdýka“?
 authors: Vitus
 tags: 'historie, inspirace'
-published: false
+published: true
 summary: >-
   První ze dvou článků, který se věnuje analýze pojmenování českých hradů pro
   potřeby pojmenovávání hradů pro hraní. Bude následovat rozbor pojmenování
