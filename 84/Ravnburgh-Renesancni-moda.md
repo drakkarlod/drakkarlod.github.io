@@ -12,7 +12,7 @@ summary: >-
 ---
 
 {:.map}
-![Móda]({{site.baseurl}}/84/uvodni-obrazek.jpg)
+![Móda]({{site.baseurl}}/84/moda.jpg)
 
 Tento článek se věnuje tomu, co se běžně nosí v Ravnsburghu a arlatských lénech. Nejde o důsledný výčet všech možných kusů oblečení a druhů oblékání, na to by nám jeden článek rozhodně nestačil. Spíše jde o přehled víceméně typických věcí a oblečení, které by vaše postavy oblékaly.  
 
