@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Renesanční móda'
 authors: Ecthelion²
 tags: 'Ravnburgh, doplňky a materiály'
-published: false
+published: true
 summary: >-
   Tento článek se věnuje módě a oblečení v Ravnsburghu a arlatských lénech v
   období odpovídající zhruba rané renesanci (po vynálezu střelného prachu a
