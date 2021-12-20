@@ -17,7 +17,7 @@ summary: >-
   Čím je tak zajímavý a výjimečný? A lze na ty otázky vůbec objektivně
   odpovědět? Tak aby u toho článek nezněl jako zamilovaný dopis oblíbené
   postavě?
-published: false
+published: true
 ---
 
 ## Ne víc než člověk
