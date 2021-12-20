@@ -3,16 +3,21 @@ layout: article
 title: Kouzlo Temného rytíře
 authors: Log 1=0
 tags: 'superhrdinové, komiks'
-summary: 'Vzhledem k ohromné popularitě superhrdinského žánru se dostává velké pozornosti velkému množství
-různorodých postav, ale je celkem zřejmé, že se na špici drží několik stálých ikon, které navzdory
-různým módním trendům zůstávají populární desítky let. Určit, který z toho elitního klubu je
-nejpopulárnější, je obtížné. Ankety dávají různé výsledky a nikoli jen protože popularita postav se v čase
-mění. Ale pokud bychom brali jako kritérium, kdo má nejhlasitější zažrané jádro, tak by byl výsledek
-jednoznačný. Má je Batman. A i podle jiných, trochu rozumnějších kritérií, jako třeba počet různých
-adaptací nebo vydávaných sérií, si tento hrdina nevede vůbec špatně. Na pozici nejpopulárnějšího
-superhrdiny vůbec je tedy velmi žhavým kandidátem. Ale proč? Čím je tak zajímavý a výjimečný? A lze
-na ty otázky vůbec objektivně odpovědět? Tak aby u toho článek nezněl jako zamilovaný dopis oblíbené
-postavě?'
+summary: >-
+  Vzhledem k ohromné popularitě superhrdinského žánru se dostává velké
+  pozornosti velkému množství různorodých postav, ale je celkem zřejmé, že se na
+  špici drží několik stálých ikon, které navzdory různým módním trendům
+  zůstávají populární desítky let. Určit, který z toho elitního klubu je
+  nejpopulárnější, je obtížné. Ankety dávají různé výsledky a nikoli jen protože
+  popularita postav se v čase mění. Ale pokud bychom brali jako kritérium, kdo
+  má nejhlasitější zažrané jádro, tak by byl výsledek jednoznačný. Má je Batman.
+  A i podle jiných, trochu rozumnějších kritérií, jako třeba počet různých
+  adaptací nebo vydávaných sérií, si tento hrdina nevede vůbec špatně. Na pozici
+  nejpopulárnějšího superhrdiny vůbec je tedy velmi žhavým kandidátem. Ale proč?
+  Čím je tak zajímavý a výjimečný? A lze na ty otázky vůbec objektivně
+  odpovědět? Tak aby u toho článek nezněl jako zamilovaný dopis oblíbené
+  postavě?
+published: true
 ---
 
 ## Ne víc, než člověk
@@ -51,21 +56,35 @@ I sebelépe vymyšlený charakter by ale působil uměle, kdyby jeho vlastnosti 
 
 Každý superhrdina potřebuje adekvátní protivníky, a Batman jich má nesmírné množství. A co více, nesmírné množství z nich je výrazných, jak svým designem, tak přístupem, původem a vztahem k Batmanovi. Navíc, velká část je svým způsobem obrazem některého aspektu Batmana. Fungují tedy také jako jeho zrcadlo a ukazují šíři jeho postavy.
 
-    - Šílenství -- Joker. Který je zároveň protipólem k Batmanově potřebě řádu, snaží se cíleně nabourat jeho hodnoty a víru v lidi i v sebe, a vůbec, jejich vztah by vydal na samostatnou esej.
-    - Idealista, spasitel -- Ra's al-Ghul. I když se liší metodami, oba vlastně chtějí zachránit svět. Navíc je Ra’s otcem jedné z Batmanových velkých lásek a dědečkem jeho syna.
-    - Nezastavitelná vůle -- Bane. Tento protivník se navíc zapsal tím, že způsobil Batmanovi jeho nejhorší porážku.
-    - Muž dvou tváří -- Two-Face. Kdysi také býval Batmanovým spojencem, se kterým chtěl napravit Gotham.
-    - Nesmírná inteligence - Riddler.
-    - Bohatý bysnysman -- Pinguin.
-    - Poháněn tragédií -- Mr. Freeze.
-    - Manipulátor -- Poison Ivy. Navíc má ve skutečnosti pochopitelnou a schvalitelnou motivaci.
-    - Zakázaná láska -- Catwoman. Ano, tento motiv se u Batmana objevuje primárně kvůli ní, ale je to vzájemné. Mnohdy je to spíše spojenec, než protivník.
-    - Přetvářka a skrývání -- Clayface. Navíc je tohle vlastně dost tragický záporák.
-    - Práce se strachem -- Scarecrow.
-    - Odhad ostatních -- Hugo Strange. Protivník, který zná Batmanovu identitu a chce se stát Batmanem.
-    - Netopýr -- Man-Bat. Také patří k těm protivníkům, kteří klidně Batmanovi pomohou… Pokud má pod kontrolou své chování.
-    - Pán a znalec Gothamu -- Soví tribunál.
-    - Gothamská smetánka -- Hush. Navíc je to Batmanův přítel z dětství a je jím posedlý.
+- Šílenství -- Joker. Který je zároveň protipólem k Batmanově potřebě řádu, snaží se cíleně nabourat jeho hodnoty a víru v lidi i v sebe, a vůbec, jejich vztah by vydal na samostatnou esej.
+
+- Idealista, spasitel -- Ra's al-Ghul. I když se liší metodami, oba vlastně chtějí zachránit svět. Navíc je Ra’s otcem jedné z Batmanových velkých lásek a dědečkem jeho syna.
+
+- Nezastavitelná vůle -- Bane. Tento protivník se navíc zapsal tím, že způsobil Batmanovi jeho nejhorší porážku.
+
+- Muž dvou tváří -- Two-Face. Kdysi také býval Batmanovým spojencem, se kterým chtěl napravit Gotham.
+
+- Nesmírná inteligence - Riddler.
+
+- Bohatý bysnysman -- Pinguin.
+
+- Poháněn tragédií -- Mr. Freeze.
+
+- Manipulátor -- Poison Ivy. Navíc má ve skutečnosti pochopitelnou a schvalitelnou motivaci.
+
+- Zakázaná láska -- Catwoman. Ano, tento motiv se u Batmana objevuje primárně kvůli ní, ale je to vzájemné. Mnohdy je to spíše spojenec, než protivník.
+
+- Přetvářka a skrývání -- Clayface. Navíc je tohle vlastně dost tragický záporák.
+
+- Práce se strachem -- Scarecrow.
+
+- Odhad ostatních -- Hugo Strange. Protivník, který zná Batmanovu identitu a chce se stát Batmanem.
+
+- Netopýr -- Man-Bat. Také patří k těm protivníkům, kteří klidně Batmanovi pomohou… Pokud má pod kontrolou své chování.
+
+- Pán a znalec Gothamu -- Soví tribunál.
+
+- Gothamská smetánka -- Hush. Navíc je to Batmanův přítel z dětství a je jím posedlý.
 
 A tak bych mohl ještě pokračovat, protože tu chybí mnoho méně známých padouchů, pak všichni, kteří odráží stejný aspekt, jako nějaký slavnější padouch (proto v seznamu chybí Mad Hatter nebo Harley Qinn), nebo ti protivníci, kteří odráží spíše zdatnosti a dovednosti než osobnost (Killer Croc, Deadshot), protivníci Ligy spravedlnosti odrážející Batmana (Prometheus), zlé verze Batmana z alternativních vesmírů… 
 
@@ -75,21 +94,30 @@ Spojenci jsou další silnou stránkou Batmanových příběhů. Podobně jako u
 
 Spojenci jsou ale důležití i z hlediska příběhů samotného Batmana. Jednak do nich vnášejí vedlejší linky a scény, které je rozšiřují a obohacují. A hlavně, každý z nich má s Temným rytířem trochu jiný vztah a působí na jinou složku jeho osobnosti.
 
-    - Alfred Pennnyworth je Batmanova náhradní otcovská figura a nebojí se mu i nepříjemným způsobem připomínat, o co všechno se připravuje tím, že pokračuje ve své posedlosti.
-    - Doktorka Leslie Thompkins je Batmanova náhradní mateřská figura a ta, kdo mu připomíná odpovědnost, kterou má vůči členům své rodiny a svým blízkým obecně.
-    - Komisař James Gordon je Batmanovým kontaktem v oficiálních úřadech, připomínka, že i v prohnilých Gothamských institucích jsou poctiví lidé a někdo, kdo Batmanovi připomíná, že i on podléhá těmto úřadům a zákonům.
-    - Dick Greyson (první Robin, Nightwing) byl asi největším testem Batmanova otcovstcví. Dock dospěl pod Batmanovými křídly, je mu si nejbližší z celé rodiny a staví ho před ono běžné rodičovské zjištění: že jejich dítě není jejich mladší kopie, ale samostatná bytost, která je v mnohém odlišná.
-    - Jason Todd (druhý Robin, Red Hood) je v jistém smyslu "marnotratný syn" který odvrhl Batmanovy hodnoty, aby se k nim ne moc ochotně vrátil, a nutí Batmana, aby si je obhájil.
-    - Tim Drake (třetí Robin, Red Robin) si Batmana našel sám, a v podstatě ho donutil ke kontaktu s někým, kdo nesdílí jeho vnitřní trauma a temnotu.
-    - Damien Waine (čtvrtý Robin), Batmanův biologický syn je novou zkouškou Batmanova otcovství a hlavně testem jeho schopnosti vtisknout své hodnoty někomu, kdo má přesně opačné.
-    - Barbara Gordon (první Batgirl, Oracle) je připomínkou Batmanovy odpovědnosti za jeho okolí.
-    - Cassandra Cain (druhá Batgirl, Black Bat, Orphan) je traumatizovaná ještě více než Batman, a to je pro někoho, kdo má co dělat sám se sebou, velká výzva.
-    - Stephanie Brown ( třetí Batgirl, pátý Robin, Spoiler) je tím, kdo si nejvíc užil Batmanovu nedůvěru a skepsi, a to i s hroznými následky, a nebojí se mu to dát najevo.
-    - Selina Kyle (Catwoman) je Batmanova osudová (byť zdaleka ne jediná) láska. Navíc coby (občas bývalá) zlodějka představuje výzvu pro Batmanovu morálku a oddanost zákonům.
+- Alfred Pennnyworth je Batmanova náhradní otcovská figura a nebojí se mu i nepříjemným způsobem připomínat, o co všechno se připravuje tím, že pokračuje ve své posedlosti.
+
+- Doktorka Leslie Thompkins je Batmanova náhradní mateřská figura a ta, kdo mu připomíná odpovědnost, kterou má vůči členům své rodiny a svým blízkým obecně.
+
+- Komisař James Gordon je Batmanovým kontaktem v oficiálních úřadech, připomínka, že i v prohnilých Gothamských institucích jsou poctiví lidé a někdo, kdo Batmanovi připomíná, že i on podléhá těmto úřadům a zákonům.
+
+- Dick Greyson (první Robin, Nightwing) byl asi největším testem Batmanova otcovstcví. Dock dospěl pod Batmanovými křídly, je mu si nejbližší z celé rodiny a staví ho před ono běžné rodičovské zjištění: že jejich dítě není jejich mladší kopie, ale samostatná bytost, která je v mnohém odlišná.
+
+- Jason Todd (druhý Robin, Red Hood) je v jistém smyslu "marnotratný syn" který odvrhl Batmanovy hodnoty, aby se k nim ne moc ochotně vrátil, a nutí Batmana, aby si je obhájil.
+
+- Tim Drake (třetí Robin, Red Robin) si Batmana našel sám, a v podstatě ho donutil ke kontaktu s někým, kdo nesdílí jeho vnitřní trauma a temnotu.
+
+- Damien Waine (čtvrtý Robin), Batmanův biologický syn je novou zkouškou Batmanova otcovství a hlavně testem jeho schopnosti vtisknout své hodnoty někomu, kdo má přesně opačné.
+
+- Barbara Gordon (první Batgirl, Oracle) je připomínkou Batmanovy odpovědnosti za jeho okolí.
+
+- Cassandra Cain (druhá Batgirl, Black Bat, Orphan) je traumatizovaná ještě více než Batman, a to je pro někoho, kdo má co dělat sám se sebou, velká výzva.
+
+- Stephanie Brown ( třetí Batgirl, pátý Robin, Spoiler) je tím, kdo si nejvíc užil Batmanovu nedůvěru a skepsi, a to i s hroznými následky, a nebojí se mu to dát najevo.
+
+- Selina Kyle (Catwoman) je Batmanova osudová (byť zdaleka ne jediná) láska. Navíc coby (občas bývalá) zlodějka představuje výzvu pro Batmanovu morálku a oddanost zákonům.
 
 A to jsou jenom ti nejbližší, s nejsilnějšími vztahy. Kdyby na to přišlo, šlo by vyjmenovat u superhrdinských i nesuperhrdinských spojenců jednou tolik dalších.
 
 ## Závěr
 
 Tak, tohle je podle mě pět důvodů, proč je Batman nejpopulárnějším superhrdinou, a co nabízí svým autorům, kteří chtějí vymýšlet stále nové a nové zajímavé příběhy. Samozřejmě, každá vlastnost je dvojsečná, a pro někoho právě tyto vlastnosti Batmana sráží. Ostatně, pokud je špatně zpracováno, může to působit všelijak, koneckonců to nejsou triviální témata. Ale já se domnívám, že pro většinu lidí to jsou jeho hlavní kladné stránky.
-
