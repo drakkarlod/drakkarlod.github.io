@@ -6,7 +6,7 @@ tags: 'historie, povídka'
 summary: >-
   Poněkud netradiční formou se podíváme na vývoj rytíře západní Evropy v období
   od ustavení této společenské vrstvy do 12. století.
-published: false
+published: true
 ---
 Birger jako omámený kráčel vzhůru po stezce, která se vinula před ním. Kolem bylo takové ticho, že jasně slyšel svůj dech, chřestot cípů kroužkové brně i občasné klapnutí meče zavěšeného u pasu. Ve srovnání s bitevní vřavou, která vůkol zuřila ještě před okamžikem, bylo ticho přímo ohlušující. Jen pomalu mu docházelo, co se vlastně událo. Jejich _conrois_ se s pokřikem „Thor aid!“ řítil proti houfu Bretaňců, pevně zaklesnutých ve štítovou hradbu. Ze středu houfu, zpoza štítů a ježících se kopí, proti němu svištěly šípy a kameny. Potom už jen tupý úder na čelist, pád a tma. Najednou neměl koně ani kopí. A byl sám. Tedy ne docela. V oparu před sebou náhle spatřil postavu, jak kráčí jeho směrem, jen mnohem pomaleji. „Hej!“ zavolal na onoho člověka.
 
