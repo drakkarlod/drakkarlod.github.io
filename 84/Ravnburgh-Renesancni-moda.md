@@ -10,14 +10,13 @@ summary: >-
   knihtisku, ale před vynálezem muškety, v našem světě zhruba mezi lety 1453 až
   1498).
 ---
-## Ravnburgh: Renesanční móda 
 
 {:.map}
 ![Móda]({{site.baseurl}}/84/uvodni-obrazek.jpg)
 
 Tento článek se věnuje tomu, co se běžně nosí v Ravnsburghu a arlatských lénech. Nejde o důsledný výčet všech možných kusů oblečení a druhů oblékání, na to by nám jeden článek rozhodně nestačil. Spíše jde o přehled víceméně typických věcí a oblečení, které by vaše postavy oblékaly.  
 
-### Móda havraních křídel a maelská móda 
+## Móda havraních křídel a maelská móda 
 
 Po většinu minulých desetiletí byla prakticky na celém kontinentě populární tzv. móda havraních křídel. Muži i ženy nosili univerzálně svrchník zvaný _houppelande_ , s širokými a dlouhými rukávy (které připomínají právě havraní křídla). Muži je nosili zkrácené po kolena, ženy dlouhé po zem, obě pohlaví sepnuté v pase opaskem nebo páskem. 
 
@@ -31,7 +30,7 @@ Asi před dvaceti lety se na poledni v maleské lize objevila nová móda, kter�
 
 Tradiční móda havraních křídel je stále velice rozšířená na půlnoci arlatských lén a v císařství, zatímco na poledni a v maelské lize jsou na ulicích k vidění téměř výhradně v oblečení podle maelské módy. Na ulicích větších měst jako je Ravnburgh se oba druhy oblečení objevují vedle sebe. Nezřídka je oblékání také vyjádřením politického názoru (v Ravnburghu maelskou módu rychle přijali za svou kupci z hansy, zatímco podporovatelé rodu Lockbearerů a jejich stoupenci se drží _houppelande_ ) nebo společenského postoje (konzervativní a tradiční rody dál užívají svá _houppelande_ jako jejich předkové před nimi, zatímco měšťané a kupci rychle přijímají novou maleskou módu). 
 
-### Ženská móda 
+## Ženská móda 
 
 Ženy nosí dlouhé šaty (buď tradiční _houppelande_ nebo módní _surcotte_ ), zpravidla s rukávy na spodních šatech zvaných _cotte_ a spodničce zvané _chemise_. Oblíbené jsou pestré barvy šatů a bohaté doplňky podle bohatství nositelky. 
 
@@ -55,7 +54,7 @@ _Horní části oblečení:_
 
 Chudí obyvatelé často nosí oblečení z hrubé vlny nebo lnu. Protože oblečení je drahé, často se na venkově vynechává pro běžné nošení vrstva a na _chemise_ se nosí přímo jednoduchá lněná _surcotte_ bez rukávů (je levnější než s rukávy, protože používá málo látko).  
 
-### Mužská móda 
+## Mužská móda 
 
 Na těle nosí muži _chemise_ a _braies_ jako spodní prádlo, na to _doublet_ a na nohách punčochy. Přes to buď plášť, _journade_ nebo _houppelande_ . Módní je nosit vlasy dlouhé po ramena, jen vojáci si je často holí nakrátko, aby se vyhnuli vším. 
 
@@ -87,7 +86,7 @@ _Svrchníky:_
 
 Chudí vesničané nosí zpravidla _chemise_ , _braies_ a punčochy s vestou nebo krátkým kabátcem z hrubé vlny nebo lnu. Často jsou _chemise_ a _braies_ dostatečné pro práci na poli a na venkově se nosí jako běžný svrchní oděv bez dalších dodatečných vrstev. 
 
-### Pomander 
+## Pomander 
 
 Je to v současnosti už takřka povinná součást oblečení rytíře, šlechtice nebo dámy ve společnosti. Je to kovová perforovaná kulička používaná jako nádoba pro parfémy a vůně, které chrání před nákazou, a především nepříjemnému zápachu. Kulovité pomandery jsou zavěšovány na řetízku na krku, věší se k opaskům, menší kuličky mohou být zavěšeny řetízkem k prstenu a drží se v ruce nebo ještě menší mohou být vytvořeny jako spony pláště. Mají různě tvarované ventilační otvory, a kromě typické koule i různé další formy (ořech, lebka, srdce, kniha nebo loď), občas mají více schránek s různými parfémy a ty dražší jsou vytvořeny ze zlata nebo stříbra. 
 
@@ -101,6 +100,6 @@ Pomandry jsou součástí oblečení výbavy šlechticů, dvořanů, rytířů a
 {:.map}
 ![Pomander]({{site.baseurl}}/84/pomander.jpg)
 
-### Závěr 
+## Závěr 
 
 Tento článek není pravděpodobně nijak výrazně užitečný pro hraní samotné, ale pomáhá trochu sjednotit představu světa samotného a jak přesně vypadá. To je věc, která vždy napomůže Vypravěči a hráčům pohybovat se na stejné imaginární vlně. Snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
