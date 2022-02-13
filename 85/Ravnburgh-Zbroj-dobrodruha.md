@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Název článku
-authors: Jméno autora
+title: Ravnburgh: Zbroj dobrodruha
+authors: Ecthelion²
 tags: štítek, další štítek
 ---
