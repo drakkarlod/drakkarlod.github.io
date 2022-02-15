@@ -40,7 +40,7 @@ _Pěšáci používající sudlice jsou zpravidla označovaní jako sudličníci
 #### Kůsa (gléva) 
 
 {:.map}
-![Kůsa]({{site.baseurl}}/85/kůsa.jpg)
+![Kůsa]({{site.baseurl}}/85/kusa.jpg)
 
 Dřevcová zbraň se sečnou jednobřitou čepelí o délce asi 45 centimetrů na ratišti délky asi 2 metry. Občas měly kůsy na tupé straně malý hák, se kterým mohl bojovník zachytit jezdce a strhnout jej ze sedla. 
 
@@ -78,6 +78,9 @@ Střelci hrají hlavní roli při obraně měst, hradů, lodí nebo opevněných
 
 #### Luk 
 
+{:.map}
+![Luk]({{site.baseurl}}/85/luk.jpg)
+
 Velké jasanové luky dlouhé okolo 1,8 metrů (s napínací silou mezi 80 a 150 librami) dokážou vypálit šípy na vzdálenost až na vzdálenost 320 metrů. Lučištníci používají různé druhy šípů podle příležitosti -- nejčastější jsou bodkiny s dlouhým ostrým bodcem k prorážení brnění, šípy s širokou hlavicí způsobují strašlivá zranění slabě obrněným pěšákům a hlavice se zpětnými háčky se velice těžko dostávají z rány. Lučištník má u sebe zpravidla okolo 60 šípů. 
 
 Nejlepší lučištníci dokážou vystřelit deset až dvanáct šípů za minutu, ale taková rychlost střelby není udržitelná -- zpravidla cvičený lučištník dokáže vystřelit okolo šesti šípů na minutu při delších bitvách. 
@@ -86,11 +89,19 @@ Přestože luky jsou mnohem rychlejší a přesnější než střelné zbraně n
 
 #### Samostříl 
 
+{:.map}
+![Samostříl]({{site.baseurl}}/85/samostril.jpg)
+![Šipky do samostřílu]({{site.baseurl}}/85/samostril-sipky.jpg)
+
 Samostříl díky tuhému lučišti dokáže vystřelit šipky velkou silou na vzdálenost okolo 150-200 metrů (na 40 metrů probije plát brnění). K jeho používání není třeba příliš mnoho zručnosti, především při srovnání s dlouhými lety tréninku, které je třeba věnovat ovládnutí luku. Díky tomu mnoho mladých chlapců, zraněných nebo naopak starých vojáků, kteří už nedokážou ovládat jiné zbraně, dostane samostříly, kterými mohou střílet bez dlouhého tréninku. Střelec musí jen natáhnout tětivu do zámku a pak jej uvolnit pomocí páky. Samostříl mezi výstřely udržuje zbraň napjatou a připravenou ke střelbě, což střelci také umožňuje důkladně zamířit a vypálit ve vhodné chvíli (což s napjatým lukem nejde, protože střelci brzy dojdou síly a musí napjatý luk povolit). 
 
 #### Arbalest 
 
-Kromě dřevěného samostřílu se používá také novější arbalest, který je větší, má lučiště z kovu a díky tomu dokáže metat šipky nebo kulky mnohem větší silou. Zkušený střelec dokáže vypálit dvě střely za minutu na vzdálenost okolo 250-350 metrů. Zblízka dokáže probít i nejlepší plátová brnění.  Nevýhodou zbraně je nutnost natahovat ji za pomocí za využití _cranequin _(mechanismus používaný k napínání tětivy využívající zuby a ozubené kolo, který se smyčkou nasadí na tělo arbalestu a natáhne tětivu klikovou pákou) nebo obouručního klikového systému. Ocelové lučiště je příliš tuhé na to, aby se dalo natáhnout silou člověka. Oba systémy se musí přiložit a po natažení před střelbou odepnout, což stojí cenné vteřiny. 
+{:.map}
+![Arbalest]({{site.baseurl}}/85/arbalest.jpg)
+![Cranequin]({{site.baseurl}}/85/arbalest-.jpg)
+
+Kromě dřevěného samostřílu se používá také novější arbalest, který je větší, má lučiště z kovu a díky tomu dokáže metat šipky nebo kulky mnohem větší silou. Zkušený střelec dokáže vypálit dvě střely za minutu na vzdálenost okolo 250-350 metrů. Zblízka dokáže probít i nejlepší plátová brnění.  Nevýhodou zbraně je nutnost natahovat ji za pomocí za využití _cranequin_ (mechanismus používaný k napínání tětivy využívající zuby a ozubené kolo, který se smyčkou nasadí na tělo arbalestu a natáhne tětivu klikovou pákou) nebo obouručního klikového systému. Ocelové lučiště je příliš tuhé na to, aby se dalo natáhnout silou člověka. Oba systémy se musí přiložit a po natažení před střelbou odepnout, což stojí cenné vteřiny. 
 
 #### Píšťala 
 
@@ -108,8 +119,6 @@ Výstřel z hákovnice způsobuje velký zpětný ráz, proto má na přední st
 
 Většina pěšáků používá některou z tyčových zbraní, střeleckou nebo palnou jako svou hlavní zbraň (která je schopna za určitých okolností ohrozit nepřátelského jezdce) a záložní zbraní pro boj zblízka u pasu. 
 
-Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete tady. 
-
-https://rpgforum.cz/forum/viewtopic.php?t=15608 
+Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608 ). 
 
 _Pozn. Fotografie zbraní pocházejí z internetových stránek MET muzea, které dalo snímky všech svých exponátů k dispozici jako public images. _
