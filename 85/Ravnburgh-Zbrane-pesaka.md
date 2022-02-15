@@ -6,46 +6,69 @@ published: false
 Zatímco [minulý článek](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html) se věnoval zbraním elitních rytířů a _gents d'armes_ , tento se věnuje výzbroji většiny bojujících na bojištích - pěchotě rané renesance (zhruba období 14.-15. století, po vynálezu střelného prachu, knihtisku, ale ještě před vynálezem muškety). Její význam za poslední století stále rostl, zatímco význam těžké jízdy upadal a nyní je už pěchota (v podobě formací pikenýrů, halberdníků a střelců) jednou z rozhodujících sil na bitevním poli. 
 
 ### Zbraně pěšáka 
-
 Hlavní zbraní vojáků na bojišti jsou tyčové zbraně, především pak dvě, které definují současná bojiště -- dlouhá **píka** nebo kratší **helberda** nebo **sudlice**. Oddíly kombinující obě zbraně tvoří základní pěší jednotky v bitvě a chrání děla a střelce, kteří ukryti za lesy pík nebo halberd (a tím chráněni před přímým nájezdem jízdy) pálí na nepřátele. Zatímco halberda nebo sudlice dokážou proseknout i nejlepší plátová brnění a umožňují pěšákům působení těžkých ztrát jezdcům, jezdecké kopí stále mělo výhodu v dílce a tím pádem jezdci mohli způsobit těžké ztráty pěšákům nazpátek. Řešením bylo vytvoření dlouhé píky, která má oproti halberdě dvojnásobnou délku a umožňuje pěšákům udržet si od těla i přesilu jezdců. Píky tak tvoří základ formací pěšáků, které staví masy ostrých hrotů proti nepříteli. Za jejich ochranou stojí připraveny menší oddíly vojáků s halberdou nebo sudlicí, kteří posilují ohrožená místa, provádí protiútoky, obchvaty nebo vyrazí do řeže ve chvíli, kdy je nájezd jízdy zastaven. Další bojovníci používají **obouruční meče**, **kůsy** nebo **partyzány**, které plní podobné úkoly jako halberdy. 
 
 Většina pěšáků má kromě tyčové zbraně také záložní poboční pro případ, že se nepřítel dostane pod účinnou vzdálenost jejich hlavní zbraně. Může jít o **meče**, **falchiony**, **válečná kladiva**, **palcáty** nebo **dýky**. Téměř všichni vojáci u sebe nosí také **nůž**, který je především nástrojem, ale dá se jako zbraň v nouzi použít. 
 
 #### Píka 
 
+{:.map}
+![Píka]({{site.baseurl}}/85/pika.jpg)
+
 Dlouhá bodná zbraň o délce okolo 4,2-7,5 m a váze mezi 3,5-6 kilogramy (přičemž skřeti z pohoří Vhre jsou známí pro používání delších pík, většina žoldnéřů raději používá kratší, protože se s nimi snáze zachází). Délka píky umožňuje koncentrovat velké množství hrotů pík proti nepříteli, ale píky jsou neohrabané do boje zblízka. Proto mají pikenýři také záložní zbraň jako dýku nebo meč (skřeti jsou proslavení svými obávanými falchiony), po kterých sáhnou, když se formace pík rozpadne a dojde k boje muže proti muži. 
 
 _Pěšáci používající píky jsou zpravidla označovaní jako pikenýři._ 
 
-#### Halberda 
+#### Halberda
 
-Tyčová zbraň, která kombinuje sekeru, kopí a hák v jedné hlavici na dlouhé násadě (je zpravidla 1,5-1,8 m dlouhá). Občas se jí říká „skřetí sudlice". Halberdy jsou levné na výrobu a v bitvě velmi všestranné. Vznikly jako specializovaná zbraň k boji proti obrněným protivníkům a porážení rytířské jízdy. S ostnem může halberdník jako s kopím odrážet údery kopí protivníka na koni a obouručný sek sečnou částí zbraně může protnout brnění, maso i kosti. Nevýhodou zbraně je nutnost použít obě ruce pro sek -- jakmile se rozmáchne, je bezbranný a spoléhá úplně na ochranu spolubojovníků. 
+{:.map}
+![Halberda]({{site.baseurl}}/85/halberd 2.jpg)
+
+Tyčová zbraň, která kombinuje sekeru, kopí a hák v jedné hlavici na dlouhé násadě (je zpravidla 1,5-1,8 m dlouhá). Občas se jí říká „skřetí sudlice". Halberdy jsou levné na výrobu a v bitvě velmi všestranné. Vznikly jako specializovaná zbraň k boji proti obrněným protivníkům a porážení rytířské jízdy. S ostnem může halberdník jako s kopím odrážet údery kopí protivníka na koni a obouručný sek sečnou částí zbraně může protnout brnění, maso i kosti. Nevýhodou zbraně je nutnost použít obě ruce pro sek - jakmile se rozmáchne, je bezbranný a spoléhá úplně na ochranu spolubojovníků. 
 
 _Pěšáci používající halberdy jsou zpravidla označovaní jako halberdníci._ 
 
-#### Sudlice (maelská sudlice) 
+#### Sudlice (tzv. maelská sudlice) 
 
-Předchůdcem dnešní halberdy a sudlice, byla zbraň zvaná _voulge_ (případně tzv. „improvizovaná sudlice") a šlo prakticky o sekáček na tyči. Dnes se už používá jen jako málo a pod obecným pojmem sudlice se zpravidla myslí tzv. maelská sudlice. Ta se vyvinula společně s halberdou a na bojišti plní stejnou roli a nabízí stejné možnosti útoku -- má osten na bodání, hák na strhávání nepřátel a sečnou plochu na sekání. Je zpravidla mezi 1,8-2,7 metry dlouhá (nejčastěji 2,2 metru). Záleží většinou na místě a tradici, zda pěšáci používají halberdy nebo sudlice. Jsou oblíbené mezi členy městských domobran a používají se hodně v Lize a Císařství. V arlatských lénech jsou většinou oblíbenější halberdy. 
+{:.map}
+![Maelská sudlice]({{site.baseurl}}/85/sudlice.jpg)
+
+Předchůdcem dnešní halberdy a sudlice, byla zbraň zvaná _voulge_ (případně tzv. „improvizovaná sudlice") a šlo prakticky o sekáček na tyči. Dnes se už používá jen jako málo a pod obecným pojmem sudlice se zpravidla myslí tzv. maelská sudlice. Ta se vyvinula společně s halberdou a na bojišti plní stejnou roli a nabízí stejné možnosti útoku - má osten na bodání, hák na strhávání nepřátel a sečnou plochu na sekání. Je zpravidla mezi 1,8-2,7 metry dlouhá (nejčastěji 2,2 metru). Záleží většinou na místě a tradici, zda pěšáci používají halberdy nebo sudlice. Jsou oblíbené mezi členy městských domobran a používají se hodně v Lize a Císařství. V arlatských lénech jsou většinou oblíbenější halberdy. 
 
 _Pěšáci používající sudlice jsou zpravidla označovaní jako sudličníci._ 
 
 #### Kůsa (gléva) 
 
+{:.map}
+![Kůsa]({{site.baseurl}}/85/kůsa.jpg)
+
 Dřevcová zbraň se sečnou jednobřitou čepelí o délce asi 45 centimetrů na ratišti délky asi 2 metry. Občas měly kůsy na tupé straně malý hák, se kterým mohl bojovník zachytit jezdce a strhnout jej ze sedla. 
 
 #### Partyzána 
+
+{:.map}
+![Partyzána]({{site.baseurl}}/85/partisan5.jpg)
 
 Je to tyčová zbraň, která má listovou nebo ostře špičatou oboubřitou čepel symetrického tvaru o délce asi 30-35 cm (občas opatřena ostrými výběžky na spodní straně čepele) na ratišti o délce asi 160-190 cm. 
 
 #### Lovecký oštěp 
 
+{:.map}
+![Lovecké kopí]({{site.baseurl}}/85/lovecke-kopi.jpg)
+
 Těžký lovecký oštěp o délce mezi 160-230 cm, který se používá při lovu na divočáky. Buď se s ním bodá nebo jím lze hodit na vzdálenost asi deseti kroků. Má oboustrannou listovou čepel s příčnými „křidélky", které zabraňují, aby zbraň pronikla do těla kance příliš hluboko. Ratiště je vyráběno z pevného jasanu a je zpravidla šesti- až osmihranné, aby se zlepšil úchop zbraně. Může být také ovinuto řemeny. 
 
 #### Nůž 
 
+{:.map}
+![Nůž]({{site.baseurl}}/85/nuz.jpg)
+
 Nože jsou zpravidla jednobřité a fungují jako nástroje na řezání, ne jako zbraně (přestože se v nouzi jako zbraň dají použít). Má je zpravidla téměř každý pěšák. 
 
 #### Dýka 
+
+{:.map}
+![Dýka]({{site.baseurl}}/85/dyka.jpg)
 
 Na rozdíl od nože je dýka zamýšlena jako zbraň a je tak konstruována. Je zpravidla oboubřitá a má záštitu. Používá se do těsných skrumáží a boje zblízka, kde krátká čepel představuje výhodu. 
 
