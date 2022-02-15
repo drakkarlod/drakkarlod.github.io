@@ -121,4 +121,4 @@ Většina pěšáků používá některou z tyčových zbraní, střeleckou nebo
 
 Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608 ). 
 
-_Pozn. Fotografie zbraní pocházejí z internetových stránek MET muzea, které dalo snímky všech svých exponátů k dispozici jako public images. _
+_Pozn. Fotografie zbraní pocházejí z internetových stránek MET muzea, které dalo snímky všech svých exponátů k dispozici jako public images._
