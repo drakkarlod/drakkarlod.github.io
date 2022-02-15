@@ -48,15 +48,21 @@ _Výhody:_ poskytuje dobrou ochranu horní poloviny těla, lze v ní dobře běh
 
 _Nevýhody:_ omezuje v pohybu paží, není pohodlná na dlouhodobé nošení (po bitvě se sundává), skřípání plátů o sebe prozrazuje pozici 
 
-#### Plné plátové brnění (rytíř) 
+#### Plné plátové brnění
+
+{:.map}
+![Plné plátové brnění]({{site.baseurl}}/85/Ravenburg brneni 01b.jpg)
 
 Tato třída nabízí největší možnou ochranu, kterou tvoří plné brnění z plátů zakrývající celé tělo a doplněné přilbicí (zpravidla šalíř s hledím, armet nebo bascinet). Používají ho rytíři, _gents d'armes_ a bojovníci v prvních řadách, kteří si ho mohou dovolit, protože cena jednoho setu brnění je závratná. 
 
 _Výhody:_ vynikající obrana celého těla, praktická imunita proti zásahům šípů a sečným útokům mečů a seker 
 
-_Nevýhody: _váha je dobře rozložena na těle, ale je únavné je nosit, není pohodlné na dlouhodobé nošení (po bitvě se sundává), skřípání plátů o sebe prozrazuje pozici 
+_Nevýhody:_ váha je dobře rozložena na těle, ale je únavné je nosit, není pohodlné na dlouhodobé nošení (po bitvě se sundává), skřípání plátů o sebe prozrazuje pozici 
 
 ##### Varianta -- Turnajové brnění 
+
+{:.map}
+![Turnajová varianta]({{site.baseurl}}/85/Ravenburg brneni 01a.jpg)
 
 Pro turnaje se zpravidla používá stejná plátová zbroj, kterou rytíř nosí do bitev, jen ji doplní jinými doplňky. Nosí namísto bitevní přilby kolčí helm nebo jinou turnajovou přilbici, na levém straně je řemenem kolem krku upevněný turnajový štít (tarč) s erbem (pod něj občas zvláštní zpevněná zbroj pro rameno, které dostává údery) a používá se také tupý dřevec. Bojové části brnění jsou občas nahrazeny těžkými kusy určenými čistě pro odolnost, které by na skutečném bojišti nemohly fungovat. Občas se pro ty nejbohatší z rytířů vyrábí zvláštní sady brnění pouze pro turnaje, ale je jich výrazná menšina. 
 
@@ -70,13 +76,11 @@ Zdaleka nejdůležitějšími oblastmi výroby zbraní se staly severní oblasti
 
 Výroba zbrojí v arlatských zemích se koncentrovala do několika uzlů -- velekrálovské město Swanford, Northeye, Slaughden (v posledních 15 letech) a dvorní zbrojířská dílna velekrálů ve Wheatfield. Všechny jsou známé pro své plátové zbroje, vyráběné vyhlášenými zbrojíři nebo zbrojířskými rodinami. Značky významných zbrojířů (maelská hradební zeď, swanfordská labuť a slaughdenský gryf v úroku) jsou zárukou kvality, a dokonce se objevují jejich padělky. 
 
-**Oblékání brnění** 
+<div class="sidebar" markdown="1">**Oblékání brnění** 
+Rytíři a válečníci nemohou mít brnění na sobě neustále. Přestože je jeho váha dobře rozložená na těle, pohyb v něm je stejně vyčerpávající, brnění nevětrá a působí jako zesilovač pro venkovní teplotu. Pokud je horko, je v něm takové horko, že člověk může odpadnout vedrem, pokud je zima, je v něm hrozná zima a rytíř může mít omrzliny. Zpravidla se proto nosí jen do bojů a bitev a po nich se odkládají. Při tvorbě příběhů a hraní je třeba počítat s dobou oblékání brnění. Ta není zanedbatelná -- plnou plátovou zbroj lze obléct s pomocí jednoho nebo dvou pomocníků v rámci 20-25 minut a bez pomoci okolo 30-35 minut. Proto je třeba s touto dobou počítat nebo spát v brnění (viz níže).</div>
 
-Rytíři a válečníci nemohou mít brnění na sobě neustále. Přestože je jeho váha dobře rozložená na těle, pohyb v něm je stejně vyčerpávající, brnění nevětrá a působí jako zesilovač pro venkovní teplotu. Pokud je horko, je v něm takové horko, že člověk může odpadnout vedrem, pokud je zima, je v něm hrozná zima a rytíř může mít omrzliny. Zpravidla se proto nosí jen do bojů a bitev a po nich se odkládají. Při tvorbě příběhů a hraní je třeba počítat s dobou oblékání brnění. Ta není zanedbatelná -- plnou plátovou zbroj lze obléct s pomocí jednoho nebo dvou pomocníků v rámci 20-25 minut a bez pomoci okolo 30-35 minut. Proto je třeba s touto dobou počítat nebo spát v brnění (viz níže). 
-
-**Spaní v brnění** 
-
-Spaní v brnění není za žádných okolností pohodlné, ale jde to. Pokud bitva trvá několik dní, dobrodruhové se nacházejí v nebezpečném území, kde hrozí noční přepady nebo je rytíř po bitvě prostě příliš unavený, aby strávil dalších dvacet minut svlékáním zbroje, bude spát v brnění. Ráno se probudí rozlámaný a rozhodně ne odpočatý, ale ve zbroji připraven k bitvě. 
+<div class="sidebar" markdown="1">**Spaní v brnění** 
+Spaní v brnění není za žádných okolností pohodlné, ale jde to. Pokud bitva trvá několik dní, dobrodruhové se nacházejí v nebezpečném území, kde hrozí noční přepady nebo je rytíř po bitvě prostě příliš unavený, aby strávil dalších dvacet minut svlékáním zbroje, bude spát v brnění. Ráno se probudí rozlámaný a rozhodně ne odpočatý, ale ve zbroji připraven k bitvě.</div> 
 
 ### Druhy přilbic 
 
