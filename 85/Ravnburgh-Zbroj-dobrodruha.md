@@ -93,10 +93,10 @@ Přilbice se nepočítají samostatně -- jsou už obsazeny ve výše uvedených
 #### Šalíř 
 
 {:.map}
-![Šalíř]({{site.baseurl}}/85/šalíř_1.JPG)
-![Šalíř]({{site.baseurl}}/85/šalíř_2.jpg)
-![Šalíř s hledím]({{site.baseurl}}/85/šalíř_3.jpg)
-![Celata]({{site.baseurl}}/85/šalíř_4_celata.jpg)
+![Šalíř]({{site.baseurl}}/85/salir 1.JPG)
+![Šalíř]({{site.baseurl}}/85/salir 2.jpg)
+![Šalíř s hledím]({{site.baseurl}}/85/salir 3.jpg)
+![Celata]({{site.baseurl}}/85/salir celata.jpg)
 
 Jedna ze dvou základních přilbic užívaných v tomto období, především v arlatských lénech. Je méně omezující, než armet (který plně objímá hlavu) a je proto oblíbená mezi lehčeji vyzbrojenými jezdci a pěšáky. Základní verze je vytvořena z jednoho kusu a ve chvíli, kdy válečník není v boji, stál si šalíř dozadu, což ponechalo jeho tvář bez ochrany a umožnilo mu lépe dýchat, větrat, a především mít přehled o bojišti. Novější šalíře mají hledí, které umožňuje mít přilbici napevno na hlavě a posouvat jen hledí namísto celé helmy. V bojové pozici zakrývá šalíř horní část tváře a bojovník se dívá skrze škvíru hledí. Přilbice nezakrývá bradu a krk, proto se šalíř (především pro rytíře) doplňuje nákrčníkem upevněným k horní části hrudního plátu a na místě jej drží řemen kolem rytířova krku. 
 
