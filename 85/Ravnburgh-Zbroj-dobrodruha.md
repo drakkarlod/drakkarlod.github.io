@@ -105,17 +105,17 @@ Variantou šalíře je tzv. _celata_ , která nemá hledí a nechrání obličej
 #### Armet 
 
 {:.map}
-![Armet]({{site.baseurl}}/85/armet_1.jpg)
-![Armet]({{site.baseurl}}/85/armet_2.jpg)
+![Armet]({{site.baseurl}}/85/armet 1.jpg)
+![Armet]({{site.baseurl}}/85/armet 2.jpg)
 
 Armet je druhý ze základních typů přilbice, který je oblíbený především ve Lvím císařství a mezi _gents d'armes_ . Je to kompozitní přilba složená z více dílů, které po složení plně obepínají a chrání hlavu. Jednotlivé plechy jsou poměrně tenké, ale skládají se a na ohrožených místech vrství a tím poskytují hlavě plnou ochranu, zatímco přilba sama zůstává poměrně lehká. Armety jsou tvořeny 4 hlavními kusy -- přilbice sama (chránící hlavu), dvě velké kusy na pantech (které chránily obě tváře na stranách) a odklopitelné hledí (které chránilo tvář samotnou zepředu). Hledí se po sklopení dolů zajistilo pro bitvy na místě kolíkem, který zabraňoval, aby úder hledí vyhodil nahoru. Ventilační otvory v pohyblivém hledí jsou pouze na pravé straně, zatímco levá se ukazuje nepříteli při nájezdu a nemá otvory, do kterých by mohla vniknout tříska ze zlomeného kopí. Armet se zpravidla nosí také s nákrčníkem, který chrání přední část přilbice před úderem a je upevněný kolem helmy dvojicí řemenů. Ty a panty tvářových chráničů vzadu chrání _rondel_ (kruhový chránič). 
 
 #### Barbuta 
 
 {:.map}
-![Barbuta]({{site.baseurl}}/85/barbuta_1.jpg)
-![Barbuta]({{site.baseurl}}/85/barbuta_2.jpg)
-![Barbuta s maelskou maskou]({{site.baseurl}}/85/barbuta_3_mael.jpg)
+![Barbuta]({{site.baseurl}}/85/barbuta 1.jpg)
+![Barbuta 2]({{site.baseurl}}/85/barbuta 2.jpg)
+![Barbuta s maelskou maskou]({{site.baseurl}}/85/barbuta 3 mael.jpg)
 
 Barbuta je nejoblíbenější přilbice ve státech maelské ligy, kde je doplňována bitevní maskou, ale používá se i jinde. Zpravidla ji nosí pěšáci a městské stráže a domobrana. Nemá hledí a je proto oblíbená pro dobrý výhled a možnost dýchat bez omezení. Vojáci maelské ligy na ni namísto hledí montují své bitevní masky (upevněny jsou zpravidla pantem na horní straně), které jak chrání před údery nepřátel, tak ukrývají jejich tváře, jak je zvykem v Lize. 
 
@@ -123,7 +123,7 @@ Barbuta je nejoblíbenější přilbice ve státech maelské ligy, kde je doplň
 
 {:.map}
 ![Bascinet]({{site.baseurl}}/85/bascinet.jpg)
-![Bascinet]({{site.baseurl}}/85/bascinet_great.jpg)
+![Bascinet]({{site.baseurl}}/85/bascinet great.jpg)
 
 Současný bascinet se vyvinul ze starého modelu v podobě tzv. „psího čumáku" zaoblením tvářové části i přilbice samotné, aby lépe odrážela rány. Výsledkem je bublinový druh přilby, který sice nedosahuje obliby šalíře a armetu, ale stále je na bojištích většiny stran výrazně zastoupený. Starý „psí čumák" byla nejpopulárnější přilbice minulé éry v arlatských lénech a mají ho prakticky všechna stará brnění po předcích nebo staré obrazy bojovníků a rytířů. _Gents d'armes_ z maelské ligy mají tento nový bascinet kromě barbuty ve velké oblibě a v poslední době jej často používají i bez vlastních bitevních masek, protože je dostatečně uzavřený, aby chránil identitu nositele přilbice. 
 
@@ -131,16 +131,16 @@ Současný bascinet se vyvinul ze starého modelu v podobě tzv. „psího čum�
 _(občas známý jako železný nebo bitevní klobouk)_ 
 
 {:.map}
-![Kapalec]({{site.baseurl}}/85/bitevni_klobouk.jpg)
-![Kapalec]({{site.baseurl}}/85/bitevni_klobouk_2.jpg)
+![Kapalec]({{site.baseurl}}/85/bitevni klobouk.jpg)
+![Kapalec]({{site.baseurl}}/85/bitevni klobouk 2.jpg)
 
 Otevřená přilba, která nechrání tvář. Je často používána pěchotou, protože pěšákům umožňuje dobrý přehled o bojišti a neomezuje dýchání a slyšení. V maelské lize je často doplněná bitevní maskou, která může být připevněna na hlavě řemeny zvlášť nebo na pantu na přilbě samotné.  
 
 #### Turnajová přilbice 
 
 {:.map}
-![Kolčí helm]({{site.baseurl}}/85/turnajova_prilba_1.jpg)
-![Turnajová přilbice]({{site.baseurl}}/85/turnajova_prilba_2.jpg)
+![Kolčí helm]({{site.baseurl}}/85/turnajova prilba 1.jpg)
+![Turnajová přilba]({{site.baseurl}}/85/turnajova prilba 2.jpg)
 
 Nejsou určené pro bitvy, ale pouze, a právě pro turnaje a tjost. Jsou těžké, nemotorné, je z nich jen malý výhled a prakticky nic v nich není slyšet, ale chrání velmi dobře před údery. Nejrozšířenější je kolčí helm (tzv. „žabí pysk"), který je nepsaným standardem a vyvinul se z kbelcové přilby, ale objevují se i jiné druhy přileb určených výhradně pro klání. 
 
