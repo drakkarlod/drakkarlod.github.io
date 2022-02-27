@@ -1,13 +1,18 @@
 ---
 layout: article
-title: „Robin Hood“, vesmírná koga, model hanza IV
+title: '„Robin Hood“, vesmírná koga, model hanza IV'
 authors: Kin
-tags: 'doplňky a materiály'
+tags: doplňky a materiály
 published: false
-summary: Krátký dodatek pro rpg sci fi hry. Popisuje jednu vesmírnou loď nazvanou Robin Hood. Součástí dodatku je i její historie, posádka, k10 náhodná tabulka se zbožím, mapkou lodi a několik příběhových granátů.
+summary: >-
+  Krátký dodatek pro rpg sci fi hry. Popisuje jednu vesmírnou loď nazvanou Robin
+  Hood. Součástí dodatku je i její historie, posádka, k10 náhodná tabulka se
+  zbožím, mapkou lodi a několik příběhových granátů.
 ---
 
 Využijte to jak se Vám jen bude hodit. Jako náhodné setkání, opozici, cíl mise, loď pro Vaší družinu nebo jako posádku na neplánovaný one-shot. Či si to rozeberte na jednotlivé části a použijte to, co se Vám v danou chvíli bude hodit.
+
+![]({{site.baseurl}}/85/far_trader_01.jpg)
 
 ## Jak loď vypadá a kdo ji řídí?
 
@@ -40,6 +45,8 @@ __Svaly “Starford”.__ Podsaditý menší muž s krátkými vlasy, zlomený n
 __Pilot “Aquita” :__ Jediná žena v posádce, ale pravděpodobně nejtvrdší z nich. Těžkej makáč, který musel zaplatit za všechno v životě vysokou cenu. Musela snášet oběti a zvládat špatná rozhodnutí, aby se dostala až sem. Je zatrpklá a cynická. Pije aby zapomněla. Pije potichu. 
 
 ## Náklad - Alkohol - k10 tabulka
+
+![]({{site.baseurl}}/85/far_tarder_complete_map_cz.jpg)
 
 _Nečekaně je zde spousta alkoholu zabalené v originálních přepravkách různých cen. Zde máte náhodnou tabulku deseti kousků. Využijte ji jak uznáte za vhodné._
 
