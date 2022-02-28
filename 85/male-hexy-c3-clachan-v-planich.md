@@ -5,7 +5,7 @@ title: 'Malé hexy: C3 – Clachán v pláních'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex C3'
-published: false
+published: true
 ---
 
 ### A) Číslo hexu: C3
