@@ -5,7 +5,7 @@ title: 'Malé hexy: F7 – Město Kralsburg'
 tags: 'materiály a doplňky, inspirace, Malé hexy'
 series: Malé hexy
 summary: 'Malé hexy, hex F7'
-published: false
+published: true
 ---
 ### A) Číslo hexu: F7
 
