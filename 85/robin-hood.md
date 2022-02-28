@@ -3,7 +3,7 @@ layout: article
 title: '„Robin Hood“, vesmírná koga, model hanza IV'
 authors: Kin
 tags: doplňky a materiály
-published: false
+published: true
 summary: >-
   Krátký dodatek pro rpg sci fi hry. Popisuje jednu vesmírnou loď nazvanou Robin
   Hood. Součástí dodatku je i její historie, posádka, k10 náhodná tabulka se
