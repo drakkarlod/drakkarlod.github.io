@@ -14,7 +14,7 @@ summary: >-
   neproseknou, šípy je neprostřelí) a vyvinuly se nové, které dokážou probít
   brnění (viz [článek o zbraních
   rytíře](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html)).
-published: false
+published: true
 ---
 
 ![Ravenburg brneni 00.jpg]({{site.baseurl}}/85/Ravenburg brneni 00.jpg)
