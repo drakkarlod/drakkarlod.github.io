@@ -2,20 +2,30 @@
 layout: article
 authors: Ecthelion²
 tags: 'Ravnburgh, materiály a doplňky'
-summary: .
+summary: >-
+  Ve světě Ravnburghu dosáhl vývoj brnění svého vrcholu. Plné plátové zbroje
+  poskytují bojujícím výbornou ochranu před útoky a většina válečníků je dobře
+  opancéřovaná (viz článek o [válečnictví v době rané
+  renesance](https://drakkar.sk/76/ravnburgh-valecnictvi-rane-renesance.html)).
+  Rytíři jsou chráněni plnou plátovou zbrojí od hlavy k patě, a i jejich oře
+  kryjí pláty brnění. Všichni, kdo bojují zblízka nebo jsou vystaveni střelám
+  nepřátel, mají nějakou formu zbroje (nebo ochrany jakou si mohou dovolit).
+  Starší zbraně zastaraly a novým zbrojím se nedokážou vyrovnat (meče pláty
+  neproseknou, šípy je neprostřelí) a vyvinuly se nové, které dokážou probít
+  brnění (viz [článek o zbraních
+  rytíře](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html)).
 published: false
 ---
-Ve světě Ravnburghu dosáhl vývoj brnění svého vrcholu. Plné plátové zbroje poskytují bojujícím výbornou ochranu před útoky a většina válečníků je dobře opancéřovaná (viz článek o [válečnictví v době rané renesance](https://drakkar.sk/76/ravnburgh-valecnictvi-rane-renesance.html)). Rytíři jsou chráněni plnou plátovou zbrojí od hlavy k patě, a i jejich oře kryjí pláty brnění. Všichni, kdo bojují zblízka nebo jsou vystaveni střelám nepřátel, mají nějakou formu zbroje (nebo ochrany jakou si mohou dovolit). Starší zbraně zastaraly a novým zbrojím se nedokážou vyrovnat (meče pláty neproseknou, šípy je neprostřelí) a vyvinuly se nové, které dokážou probít brnění (viz [článek o zbraních rytíře](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html)). 
 
 ![Ravenburg brneni 00.jpg]({{site.baseurl}}/85/Ravenburg brneni 00.jpg)
 
 Brnění tak hrají v tomto světě velkou roli, a i postavy hráčů je budou používat. Proto se na následujících řádcích věnujeme tomu, jaké třídy zbroje existují, jak se nosí a jak chrání. 
 
-### Třídy brnění 
+## Třídy brnění 
 
 Brnění se pro potřeby tohoto článku a hraní nepopisuje každý jednotlivý kus brnění, která by bylo třeba zakoupit a zaznamenávat (a bylo zbytečně složité). Hra by měla být zábava, a ne otrava nebo úředničina. Proto namísto toho popisuje „třídy" brnění, které popisují celkové sady brnění. Nezáleží na všech kusech zbroje, které má postava na sobě, jde více o výslednou třídu, do které spadá.  
 
-#### Vycpávaná zbroj 
+### Vycpávaná zbroj 
 
 {:.map}
 ![Vycpávaná zbroj]({{site.baseurl}}/85/Ravenburg brneni 04.jpg)
@@ -26,7 +36,7 @@ _Výhody:_ přijatelná ochrana horní poloviny těla, neomezuje v pohybu, lze j
 
 _Nevýhody:_ nechrání dobře proti pádným úderům a zbraně ji mohou probít, slouží spíš ke zpomalení nebo odražení slabších úderů, po zásahu je poškozena a musí se po boji opravit (aby dál poskytovala ochranu) 
 
-#### Brigantina 
+### Brigantina 
 
 {:.map}
 ![Brigantina]({{site.baseurl}}/85/Ravenburg brneni 03.jpg)
@@ -37,7 +47,7 @@ _Výhody:_ brigantina nebo plátový kyrys poskytuje velmi dobrou ochranu hrudi 
 
 _Nevýhody:_ paže i dolní polovina těla jsou slabě chráněné nebo úplně nechráněné, pod brigantinou už se postava potí a není příliš pohodlná na výrazně dlouhodobé nošení (většinou se po bitvě sundává) 
 
-#### Brigantina a plátové paže 
+### Brigantina a plátové paže 
 
 {:.map}
 ![Brigantina a plátové paže]({{site.baseurl}}/85/Ravenburg brneni 02.jpg)
@@ -48,7 +58,7 @@ _Výhody:_ poskytuje dobrou ochranu horní poloviny těla, lze v ní dobře běh
 
 _Nevýhody:_ omezuje v pohybu paží, není pohodlná na dlouhodobé nošení (po bitvě se sundává), skřípání plátů o sebe prozrazuje pozici 
 
-#### Plné plátové brnění
+### Plné plátové brnění
 
 {:.map}
 ![Plné plátové brnění]({{site.baseurl}}/85/Ravenburg brneni 01b.jpg)
@@ -59,38 +69,38 @@ _Výhody:_ vynikající obrana celého těla, praktická imunita proti zásahům
 
 _Nevýhody:_ váha je dobře rozložena na těle, ale je únavné je nosit, není pohodlné na dlouhodobé nošení (po bitvě se sundává), skřípání plátů o sebe prozrazuje pozici 
 
-##### Varianta -- Turnajové brnění 
+#### Varianta -- Turnajové brnění 
 
 {:.map}
 ![Turnajová varianta]({{site.baseurl}}/85/Ravenburg brneni 01a.jpg)
 
 Pro turnaje se zpravidla používá stejná plátová zbroj, kterou rytíř nosí do bitev, jen ji doplní jinými doplňky. Nosí namísto bitevní přilby kolčí helm nebo jinou turnajovou přilbici, na levém straně je řemenem kolem krku upevněný turnajový štít (tarč) s erbem (pod něj občas zvláštní zpevněná zbroj pro rameno, které dostává údery) a používá se také tupý dřevec. Bojové části brnění jsou občas nahrazeny těžkými kusy určenými čistě pro odolnost, které by na skutečném bojišti nemohly fungovat. Občas se pro ty nejbohatší z rytířů vyrábí zvláštní sady brnění pouze pro turnaje, ale je jich výrazná menšina. 
 
-##### Varianta -- Maelské brnění 
+#### Varianta -- Maelské brnění 
 
 Některá brnění jsou výrazně kvalitnější než jiná, vytvořená z kvalitnějších slitin, upravená přesně na mírů zákazníkům a jejich potřebám a vytvořená v dílnách mistrů zbrojířů. Získaly v mnoha bitvách a turnajích reputaci jako úžasné a spolehlivé zbroje. Protože první taková brnění a velká část pochází z Maele, říká se jim obecně „maelská brnění" i když jsou vyrobeny jinde. 
 
 V průběhu historie se několik oblastí a města ustavilo jako centra pro výrobu zbraní a brnění. Kritickými faktory pro vznik takového centra je blízkost k vodě (jakožto poskytnutí energie pro buchary jako i transportní cesty) a množství železa dostupného buď z dolů nebo ochodu. V těchto centrech jsou často blízké vztahy mezi kováři, mečíři (výrobci mečů), platnéři (výrobci zbrojí) a řemeslníky blízkých oborů jako zlatníci. 
-
-Zdaleka nejdůležitějšími oblastmi výroby zbraní se staly severní oblasti Ligy a jižní arlatská léna, odkud zbrojířské dílny exportují své výrobky po celém kontinentě. Pravděpodobně nejznámější a nejdynamičtější centrum výroby zbrojí a brnění je město Maele, domov jak zbrojířské rodiny Ezzo, tak jejich největších konkurentů -- rodiny Bascherini. Výrobky obou dílen jsou doslova vyvažovány zlatem a debata, která z nich vyrábí lepší brnění se vede už po desetiletí. 
-
-Výroba zbrojí v arlatských zemích se koncentrovala do několika uzlů -- velekrálovské město Swanford, Northeye, Slaughden (v posledních 15 letech) a dvorní zbrojířská dílna velekrálů ve Wheatfield. Všechny jsou známé pro své plátové zbroje, vyráběné vyhlášenými zbrojíři nebo zbrojířskými rodinami. Značky významných zbrojířů (maelská hradební zeď, swanfordská labuť a slaughdenský gryf v úroku) jsou zárukou kvality, a dokonce se objevují jejich padělky. 
 
 <div class="sidebar" markdown="1">
 **Oblékání brnění** 
 Rytíři a válečníci nemohou mít brnění na sobě neustále. Přestože je jeho váha dobře rozložená na těle, pohyb v něm je stejně vyčerpávající, brnění nevětrá a působí jako zesilovač pro venkovní teplotu. Pokud je horko, je v něm takové horko, že člověk může odpadnout vedrem, pokud je zima, je v něm hrozná zima a rytíř může mít omrzliny. Zpravidla se proto nosí jen do bojů a bitev a po nich se odkládají. Při tvorbě příběhů a hraní je třeba počítat s dobou oblékání brnění. Ta není zanedbatelná -- plnou plátovou zbroj lze obléct s pomocí jednoho nebo dvou pomocníků v rámci 20-25 minut a bez pomoci okolo 30-35 minut. Proto je třeba s touto dobou počítat nebo spát v brnění (viz níže).
 </div>
 
+Zdaleka nejdůležitějšími oblastmi výroby zbraní se staly severní oblasti Ligy a jižní arlatská léna, odkud zbrojířské dílny exportují své výrobky po celém kontinentě. Pravděpodobně nejznámější a nejdynamičtější centrum výroby zbrojí a brnění je město Maele, domov jak zbrojířské rodiny Ezzo, tak jejich největších konkurentů -- rodiny Bascherini. Výrobky obou dílen jsou doslova vyvažovány zlatem a debata, která z nich vyrábí lepší brnění se vede už po desetiletí. 
+
+Výroba zbrojí v arlatských zemích se koncentrovala do několika uzlů -- velekrálovské město Swanford, Northeye, Slaughden (v posledních 15 letech) a dvorní zbrojířská dílna velekrálů ve Wheatfield. Všechny jsou známé pro své plátové zbroje, vyráběné vyhlášenými zbrojíři nebo zbrojířskými rodinami. Značky významných zbrojířů (maelská hradební zeď, swanfordská labuť a slaughdenský gryf v úroku) jsou zárukou kvality, a dokonce se objevují jejich padělky.
+
 <div class="sidebar" markdown="1">
 **Spaní v brnění** 
 Spaní v brnění není za žádných okolností pohodlné, ale jde to. Pokud bitva trvá několik dní, dobrodruhové se nacházejí v nebezpečném území, kde hrozí noční přepady nebo je rytíř po bitvě prostě příliš unavený, aby strávil dalších dvacet minut svlékáním zbroje, bude spát v brnění. Ráno se probudí rozlámaný a rozhodně ne odpočatý, ale ve zbroji připraven k bitvě.
 </div> 
 
-### Druhy přilbic 
+## Druhy přilbic 
 
 Přilbice se nepočítají samostatně -- jsou už obsazeny ve výše uvedených třídách brnění. Nikdo příčtný nechodí do bitvy bez pořádné ochrany hlavy. Níže najdete příklady nejpoužívanějších přilbic ve světe Ravnburghu. 
 
-#### Šalíř 
+### Šalíř 
 
 {:.map}
 ![Šalíř]({{site.baseurl}}/85/salir 1.JPG)
@@ -102,7 +112,7 @@ Jedna ze dvou základních přilbic užívaných v tomto období, především v
 
 Variantou šalíře je tzv. _celata_ , která nemá hledí a nechrání obličej. Je s oblibou užívána střelci k ochraně hlavy, ale zároveň jim umožňuje dobrý výhled a přehled o situaci. Nestojí zpravidla v předních řadách, proto je to ně často přijatelný risk. 
 
-#### Armet 
+### Armet 
 
 {:.map}
 ![Armet]({{site.baseurl}}/85/armet 1.jpg)
@@ -110,7 +120,7 @@ Variantou šalíře je tzv. _celata_ , která nemá hledí a nechrání obličej
 
 Armet je druhý ze základních typů přilbice, který je oblíbený především ve Lvím císařství a mezi _gents d'armes_ . Je to kompozitní přilba složená z více dílů, které po složení plně obepínají a chrání hlavu. Jednotlivé plechy jsou poměrně tenké, ale skládají se a na ohrožených místech vrství a tím poskytují hlavě plnou ochranu, zatímco přilba sama zůstává poměrně lehká. Armety jsou tvořeny 4 hlavními kusy -- přilbice sama (chránící hlavu), dvě velké kusy na pantech (které chránily obě tváře na stranách) a odklopitelné hledí (které chránilo tvář samotnou zepředu). Hledí se po sklopení dolů zajistilo pro bitvy na místě kolíkem, který zabraňoval, aby úder hledí vyhodil nahoru. Ventilační otvory v pohyblivém hledí jsou pouze na pravé straně, zatímco levá se ukazuje nepříteli při nájezdu a nemá otvory, do kterých by mohla vniknout tříska ze zlomeného kopí. Armet se zpravidla nosí také s nákrčníkem, který chrání přední část přilbice před úderem a je upevněný kolem helmy dvojicí řemenů. Ty a panty tvářových chráničů vzadu chrání _rondel_ (kruhový chránič). 
 
-#### Barbuta 
+### Barbuta 
 
 {:.map}
 ![Barbuta]({{site.baseurl}}/85/barbuta 1.jpg)
@@ -119,7 +129,7 @@ Armet je druhý ze základních typů přilbice, který je oblíbený předevš�
 
 Barbuta je nejoblíbenější přilbice ve státech maelské ligy, kde je doplňována bitevní maskou, ale používá se i jinde. Zpravidla ji nosí pěšáci a městské stráže a domobrana. Nemá hledí a je proto oblíbená pro dobrý výhled a možnost dýchat bez omezení. Vojáci maelské ligy na ni namísto hledí montují své bitevní masky (upevněny jsou zpravidla pantem na horní straně), které jak chrání před údery nepřátel, tak ukrývají jejich tváře, jak je zvykem v Lize. 
 
-#### Bascinet 
+### Bascinet 
 
 {:.map}
 ![Bascinet]({{site.baseurl}}/85/bascinet.jpg)
@@ -127,7 +137,7 @@ Barbuta je nejoblíbenější přilbice ve státech maelské ligy, kde je doplň
 
 Současný bascinet se vyvinul ze starého modelu v podobě tzv. „psího čumáku" zaoblením tvářové části i přilbice samotné, aby lépe odrážela rány. Výsledkem je bublinový druh přilby, který sice nedosahuje obliby šalíře a armetu, ale stále je na bojištích většiny stran výrazně zastoupený. Starý „psí čumák" byla nejpopulárnější přilbice minulé éry v arlatských lénech a mají ho prakticky všechna stará brnění po předcích nebo staré obrazy bojovníků a rytířů. _Gents d'armes_ z maelské ligy mají tento nový bascinet kromě barbuty ve velké oblibě a v poslední době jej často používají i bez vlastních bitevních masek, protože je dostatečně uzavřený, aby chránil identitu nositele přilbice. 
 
-#### Kapalec 
+### Kapalec 
 _(občas známý jako železný nebo bitevní klobouk)_ 
 
 {:.map}
@@ -136,7 +146,7 @@ _(občas známý jako železný nebo bitevní klobouk)_
 
 Otevřená přilba, která nechrání tvář. Je často používána pěchotou, protože pěšákům umožňuje dobrý přehled o bojišti a neomezuje dýchání a slyšení. V maelské lize je často doplněná bitevní maskou, která může být připevněna na hlavě řemeny zvlášť nebo na pantu na přilbě samotné.  
 
-#### Turnajová přilbice 
+### Turnajová přilbice 
 
 {:.map}
 ![Kolčí helm]({{site.baseurl}}/85/turnajova prilba 1.jpg)
@@ -160,7 +170,7 @@ Koně _gents d'armes_ jsou téměř vždy chráněni plným plátovým brněním
 
 Brnění se na válečné oře nasazuje jen na bitvu, je příliš těžké na to, aby s nimi koně cestovali. Mimo bojiště je zpravidla veze nákladní kůň, mula, nebo se vezly na vozech. 
 
-### Závěr 
+## Závěr 
 Velice děkuji, že jste se dočetli až sem a snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608). 
 
 _Pozn. Ilustrace vytvořil Kryštof Ferenc. Fotografie přilbic jsou z internetových stránek MET muzea, které dalo snímky všech svých exponátů k dispozici jako public images. _
