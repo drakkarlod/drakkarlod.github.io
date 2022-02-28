@@ -1,9 +1,19 @@
 ---
-layout: issue
+layout: article
 number: 85
 published: false
+authors: Ecthelion²
+tags: 'Ravnburgh, materiály a doplňky'
+summary: >-
+  Zatímco [minulý článek](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html) se
+  věnoval zbraním elitních rytířů a _gents d’armes_ , tento se věnuje výzbroji
+  většiny bojujících na bojištích - pěchotě rané renesance (zhruba období
+  14.-15. století, po vynálezu střelného prachu, knihtisku, ale ještě před
+  vynálezem muškety). Její význam za poslední století stále rostl, zatímco
+  význam těžké jízdy upadal a nyní je už pěchota (v podobě formací pikenýrů,
+  halberdníků a střelců) jednou z rozhodujících sil na bitevním poli.
+title: 'Ravnburgh: Zbraně pěšáka'
 ---
-Zatímco [minulý článek](https://drakkar.sk/84/Ravnburgh-Zbrane-rytire.html) se věnoval zbraním elitních rytířů a _gents d'armes_ , tento se věnuje výzbroji většiny bojujících na bojištích - pěchotě rané renesance (zhruba období 14.-15. století, po vynálezu střelného prachu, knihtisku, ale ještě před vynálezem muškety). Její význam za poslední století stále rostl, zatímco význam těžké jízdy upadal a nyní je už pěchota (v podobě formací pikenýrů, halberdníků a střelců) jednou z rozhodujících sil na bitevním poli. 
 
 ### Zbraně pěšáka 
 Hlavní zbraní vojáků na bojišti jsou tyčové zbraně, především pak dvě, které definují současná bojiště -- dlouhá **píka** nebo kratší **helberda** nebo **sudlice**. Oddíly kombinující obě zbraně tvoří základní pěší jednotky v bitvě a chrání děla a střelce, kteří ukryti za lesy pík nebo halberd (a tím chráněni před přímým nájezdem jízdy) pálí na nepřátele. Zatímco halberda nebo sudlice dokážou proseknout i nejlepší plátová brnění a umožňují pěšákům působení těžkých ztrát jezdcům, jezdecké kopí stále mělo výhodu v dílce a tím pádem jezdci mohli způsobit těžké ztráty pěšákům nazpátek. Řešením bylo vytvoření dlouhé píky, která má oproti halberdě dvojnásobnou délku a umožňuje pěšákům udržet si od těla i přesilu jezdců. Píky tak tvoří základ formací pěšáků, které staví masy ostrých hrotů proti nepříteli. Za jejich ochranou stojí připraveny menší oddíly vojáků s halberdou nebo sudlicí, kteří posilují ohrožená místa, provádí protiútoky, obchvaty nebo vyrazí do řeže ve chvíli, kdy je nájezd jízdy zastaven. Další bojovníci používají **obouruční meče**, **kůsy** nebo **partyzány**, které plní podobné úkoly jako halberdy. 
