@@ -3,7 +3,7 @@ layout: article
 title: Může se sídlo jmenovat „Nebeská dýka“ nebo třeba „Nebesdýka“? – 2. část
 authors: Vitus
 tags: 'historie, inspirace'
-published: false
+published: true
 summary: >-
   V létě na RPG Fóru v rámci diskusního vlákna o překladech proběhlo zajímavé
   téma ohledně názvů sídel. Nevinný dotaz jednoho z častých návštěvníků, zda by
