@@ -2,8 +2,12 @@
 layout: article
 title: Extraterestriální rasy
 authors: Kin
-tags: materiály a doplňky, inspirace
-summary: Krátký seznam několika mimozemských ras a národů pro Vaše sci-fi rpg hry. Inspirujte se a využijte z nich cokoliv chcete a jak chcete.<br>[gateofpandora.blogspot.com](https://gateofpandora.blogspot.com)
+tags: 'materiály a doplňky, inspirace'
+summary: >-
+  Krátký seznam několika mimozemských ras a národů pro Vaše sci-fi rpg hry.
+  Inspirujte se a využijte z nich cokoliv chcete a jak
+  chcete.<br>[gateofpandora.blogspot.com](https://gateofpandora.blogspot.com)
+published: true
 ---
 
 ## Suruzunové
@@ -46,8 +50,6 @@ Cca 1 m vysocí, drobné oči a široká ústa plná ostrých zubů ve dvou řad
     • Mění barvu dle nálady, jejich srst má schopnost mimiker podobně jako chobotnice. 
     • Jména: Shishiga, Domvoi, Kikimora, Vodanoy, Poludnitsa, Gorynych, Besomar.
 
-
-
 ## Ormellomrom
 
 Tlustí, popelavě šedí červi s kostěnými výrůstky kolem zobáku, bez očí. Těla mají pokrytá tvrdými štětinami, které jim rostou celý život, takže mladí mají štětinky, staří vypadají jako plazící se plnovous.
@@ -61,3 +63,16 @@ Tlustí, popelavě šedí červi s kostěnými výrůstky kolem zobáku, bez oč
     • Na nic se nespěchá, rádi lelkují a povalují se. Někteří i dlouhodobě hibernují a rozmýšlí. 
     • Milují smlouvání, obchodování a byrokracii.
     • Jména: Dvergr, Draupnir, Gungir, Skíblard, Kvasir, Voluspa, Myrkfár, Svártr, Dokalfár.
+    
+## Xótiko Kóngbái
+
+Hubení jako větvička, vysocí a s šesti očima a šesti končetinami. Pokožka je bílá a lehce září. Vypadají jako vznešení pavoukoidní humanoidé vytvoření z kostí.
+
+    • Je to národ bez světa, protože jej kdysi v emocích poháněných válkách zničili. Nyní cestují vesmírem a pozorují a učí se, jak být lepšími. Silně filozofická společnost.
+    • Jejich těla jsou natolik efektivní, že nemusí moc spát ani jíst, přičemž z těla nevylučují žádné zbytky-exkrementy.
+    • Jsou imunní na většinu nemocí, virů, jedů a drog. Stárnou neskutečně pomalu.
+    • Jsou náchylní na extrémní emoční projevy, jako je například smutek nad ztrátou milované osoby, nebo protest proti neprávu. Ty mají tendenci je strhnout, přičemž se jí plně oddají. A to i kdyby byla daná emoce proti jejich přirozenosti. Kvůli tomu kdysi zničili svůj svět.
+    • Snaží se žít asketicky, meditovat a  zlepšovat kontrolu nad vlastním vědomím. 
+    • Všechny jejich končetiny mají chápavé prsty. Používají je jako ruce, tak i jako nohy.
+    • Jejich společnost je egalitářská, každý jedinec je respektován a jeho hlas má stejnou váhu jako hlasy ostatních.
+    • Jména: Zhongong, Sófos, Ziwo, Sképsi, Minsun, Boniu, Epicurus, Yanyan, Anaxagoras, Bushang, Sallustius.
