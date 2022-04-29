@@ -1,9 +1,16 @@
 ---
 layout: article
 number: 86
-authors: Ecthelion², Jakub "boubaque" Maruš
+authors: 'Ecthelion², Jakub "boubaque" Maruš'
 tags: 'materiály a doplňky, Příběhy Impéria'
-summary: Je potřeba na scénu rychle uvést cizí postavu, protože se vaši hráči dostali někam, kde už vaše příprava nestačí? Připravujete se na sezení Příběhů Impéria a hledáte inspiraci pro vedlejší postavy? V tomto článku najdete 40 nemagických městských postav, žen i mužů (skřetů, trollů, gnómů…), rozdělených podle společenských tříd. Jsou připravené bez okolků vstoupit do vaší hry.
+summary: >-
+  Je potřeba na scénu rychle uvést cizí postavu, protože se vaši hráči dostali
+  někam, kde už vaše příprava nestačí? Připravujete se na sezení Příběhů Impéria
+  a hledáte inspiraci pro vedlejší postavy? V tomto článku najdete 40
+  nemagických městských postav, žen i mužů (skřetů, trollů, gnómů…), rozdělených
+  podle společenských tříd. Jsou připravené bez okolků vstoupit do vaší hry.
+published: true
+title: Cizí postavy pro Příběhy Impéria – město
 ---
 
 ## Lordstvo a šlechta
@@ -108,4 +115,4 @@ summary: Je potřeba na scénu rychle uvést cizí postavu, protože se vaši hr
 
 **Priscilla Harrisonová** – Milé děvče z venkova, které většinou roznáší pinty piva v hospodě U&nbsp;Jelena. Ráda si zdobí vlasy květinami a nesnáší chlapy, kteří ji zkouší ochmatávat. Už několik týdnů hledá slušný podnájem, aby se nemusela stále zamykat před hostinským v podkrovním pokojíku.
 
-**Katherine „Kitty“ Bennettová** – Starší dáma, která plete na lavičce, zatímco na ni muži hvízdají a ona na ně koketně mrká a mává. Málokdo by to odhadl, ale mezi zákazníky je Kitty stále velice populární dáma večera (odpoledne, rána, jak je potřeba), proslavená především svými hbitými prsty. 
+**Katherine „Kitty“ Bennettová** – Starší dáma, která plete na lavičce, zatímco na ni muži hvízdají a ona na ně koketně mrká a mává. Málokdo by to odhadl, ale mezi zákazníky je Kitty stále velice populární dáma večera (odpoledne, rána, jak je potřeba), proslavená především svými hbitými prsty.
