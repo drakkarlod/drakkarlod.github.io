@@ -4,16 +4,20 @@ title: 'Dobrodružstvo: Jedna nekľudná noc'
 number: 86
 authors: Skenderax
 tags: materiály a doplňky
-summary: Krátke oneshotové dobrodružstvo v prostredí od sveta odstrihnutého kláštora, kde lieči nemocných a ranených. A postavy postupne zistí, že sa tu deje veľa divných vecí... 
+summary: >-
+  Krátke oneshotové dobrodružstvo v prostredí od sveta odstrihnutého kláštora,
+  kde lieči nemocných a ranených. A postavy postupne zistí, že sa tu deje veľa
+  divných vecí...
+published: true
 ---
 
 Príbeh bol postavený ako oneshot za pomoci kariet [Concept Cards for Fantasy RPGs](https://www.kickstarter.com/projects/703093372/rpg-concept-cards-creatures-treasures-and-a-9-deck)
 
-![skenderax_karty.png]({{site.baseurl}}/86/skenderax_karty.png)
-
 ## Úvod
 
 V mojom dobrodružstve putovali dobrodruhovia krajinou, keď ich zastihol dážď. Výrazne sa zotmelo, fúkal vietor, pršalo v návaloch, ako ich dofúkal vietor a oblohu sem tam preťal žiarivý blesk. Tak narazili na kláštor, ktorý sa zdal byť požehnaním v túto nehostinnú dobu. Príbeh však môže byť zasadený i do iného prostredia, ako napríklad menšie mesto alebo dedina. Ja som zvolil kláštor, lebo som nechcel, aby PC a NPC mohli nerušene opustiť miesto udalostí.
+
+![skenderax_karty.png]({{site.baseurl}}/86/skenderax_karty.png)
 
 PC boli milo privítaní predstavenou kláštora Christínou Van Leris a odvedení do kobiek, ktoré sa im pre túto noc mali stať domovom. Následne boli pozvaní do hlavnej sály na skromnú večeru.
 
@@ -31,9 +35,9 @@ Kláštor je zložený so štyroch budov, ktoré spolu susedia bokmi a tak vytv�
 - **ponuré predzvesti**
 
 > 0. postupne, jedného po druhom bude Soimaa, svojim pohľadom infikovať (posadne ich, skonvertuje) a získavať tak stále viac stúpencov, medzi pacientmi a personálom nemocnice.
-	
+>	
 > 1. najsilnejších a najlepších bojovníkov z pacientov postaví na stráž ku krídlu ošetrovne, kde bude pripravovať rituál.
-
+>
 > 2. keď posadne, skonvertuje 27 pacientov a personálu, stiahne stráž a pustí sa do vyvolávania portálu ku kráľovnej.
 
 - **hrozba** – ak sa podarí vytvoriť privolávací rituál, do fyzického sveta vstúpi démonická kráľovná so svojou armádou, ktorej jedinou vôľou a myšlienkou bude nastoliť chaos a teror.
@@ -47,11 +51,11 @@ Kláštor je zložený so štyroch budov, ktoré spolu susedia bokmi a tak vytv�
 - **ponuré predzvesti**
 
 > 0. hádzanie po zamestnancoch kláštora drobné predmety (drobné zranenia)
-
+>
 > 1. prevrhnuté skrine, vrhanie ťažkým nábytkom – nie len na osoby v plášťoch (stredne ťažké 	zranenia)
-
+>
 > 2. odhadzovanie postáv skrz miestnosť (ťažké zranenia, i smrť NPC)
-
+>
 > 3. otrasy samotnej budovy kláštora
 
 - **hrozba** – kolaps častí kláštora, ktoré nie sú chránené portálom démona Soimaa Maichu
@@ -65,9 +69,9 @@ Kláštor je zložený so štyroch budov, ktoré spolu susedia bokmi a tak vytv�
 - **ponuré predzvesti**
 
 > 0. zabezpečiť fungovanie nemocnice, bezpečnosť personálu, pacientov a hostí.
-
+>
 > 1. presun všetkých do najpevnejšej časti kláštora, do hlavného chrámu
-
+>
 > 2. použije svoju magickú moc na vytvorenie kopule, ktorá ochráni ľudí v chráme
 
 - **hrozba** – ľudia zistia, že vládne mocnou mágiou a stane sa opäť terčom inkvizície i lovcov čarodejek.
@@ -81,9 +85,9 @@ Kláštor je zložený so štyroch budov, ktoré spolu susedia bokmi a tak vytv�
 - **ponuré predzvesti**
 
 > 0. sebavedomí bohatý pacient, ktorý sa len okrajovo zaujíma o dianie okolo
-
+>
 > 1. zatlačí na PC sľubmi, peniazmi alebo inou pre družinu dôležitou komoditou, s cieľom 	vyriešenia nebezpečenstva
-
+>
 > 2. zo svojej pozície inkvizítora prevezme vedenie vyšetrovania udalostí a každého, kto sa 	mu bude protiviť, obviní z kacírstva a popraví ho na nádvorí
 
 - **hrozba** – vo svojej naivite obviní z udalostí doktorov, ktorých verejne popraví na nádvorí. Tým síce oslobodí poltergeista alchymistu Piera Vardíniho, ale nezabráni démonovi Soimaa Maichu vpustiť do sveta svoju démonickú kráľovnu.
@@ -94,4 +98,4 @@ Kláštor je zložený so štyroch budov, ktoré spolu susedia bokmi a tak vytv�
 
 - **posadnutí pacienti** – budú fanaticky, bez ohľadu na zranenie alebo bolesť, brániť záujmy démona Soimaa. Zároveň majú slabšiu verziu schopnosti zotročiť myseľ podobne, ako Serio Serrioson.
 
-- **muži inkvizítora Britleguta Dragoncasta** – ranený, nebezpečný a plne odhodlaný vykonať rozkazy Britleguta.
+- **muži inkvizítora Britleguta Dragoncasta** – ranení, nebezpeční a plne odhodlaní vykonať rozkazy Britleguta.
