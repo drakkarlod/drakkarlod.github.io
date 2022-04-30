@@ -1,7 +1,7 @@
 ---
 layout: article
 number: 86
-authors: 'Ecthelion², Jakub "boubaque" Maruš'
+authors: 'Ecthelion², Jakub „boubaque“ Maruš'
 tags: 'materiály a doplňky, Příběhy Impéria'
 summary: >-
   Je potřeba na scénu rychle uvést cizí postavu, protože se vaši hráči dostali
