@@ -27,9 +27,6 @@ title: Cizí postavy pro Příběhy Impéria – město
 
 - **Sir Norman Atterton, 4. earl z Hope-all-Saints** – Starý pán s&nbsp;netečným pohledem, který se jen těžko pohybuje a většinu dne pospává. Přístup k němu a především k jeho penězům hlídá jako ostříž jeho dospělý vnuk, Vincent, který k&nbsp;němu nikoho jen tak nepustí.
 
-{:.map}
-![PI_Tridy_Ilustrace.jpg]({{site.baseurl}}/86/PI_Tridy_Ilustrace.jpg)
-
 ### Dámy
 
 - **Lady Elisabeth Eatonová, vévodkyně z Wickhamu** – Mladá žena s přísným pohledem, v&nbsp;jezdeckých šatech a cylindru se zelenou stuhou. V ruce neustále drží bičík, kterým komanduje služebnictvo. V&nbsp;zákulisí dělá vše pro to, aby její muž, kapitán námořnictva, netrávil v&nbsp;Londýně více než dva týdny ročně a ona nepřišla o&nbsp;svou moc.
@@ -41,6 +38,9 @@ title: Cizí postavy pro Příběhy Impéria – město
 - **Ophelia MacNallyová** – Dechberoucí žena v&nbsp;elegantních šatech poslední módy a s&nbsp;uhrančivým pohledem, která je známá jako kurtizána a milenka důležitých mužů. Gentlemani lapají po dechu, když prochází kolem nich a tvrdí se, že slabost pro ni má sám premiér. Za svůj vzhled ale utratí nemalé peníze, které musí ze svých sponzorů neustále mámit.
 
 - **Lady Clara Griffithsová, vévodkyně z Burrough Hill** – Postarší elegantní dáma s&nbsp;nápadnými rudými šaty a blyštivými šperky, za které by se dal koupit menší stát ve východní Evropě. S&nbsp;pobaveným úsměvem pozoruje lidi kolem sebe a spřádá pletichy prostě pro potěšení z&nbsp;rozruchu, který způsobí. 
+
+{:.map}
+![PI_Tridy_Ilustrace.jpg]({{site.baseurl}}/86/PI_Tridy_Ilustrace.jpg)
 
 ## Vyšší střední třída 
 
