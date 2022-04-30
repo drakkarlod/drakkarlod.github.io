@@ -3,8 +3,9 @@ layout: article
 number: 86
 title: 'Ravnburgh: Války o dědictví dunfordské'
 authors: Ecthelion²
-tags: Ravnburgh, materiály a doplňky
-summary: Tento článek se věnuje sérii válek, které se vedou o vládu v dunfordském vévodství, ve kterém se nachází město Ravnburgh. Jde o doplněk fantasy světa v období rané renesance (po vynálezu střelného prachu a knihtisku, ale před vynálezem muškety). 
+tags: 'Ravnburgh, materiály a doplňky'
+summary: "Tento článek se věnuje sérii válek, které se vedou o vládu v\_dunfordském vévodství, ve kterém se nachází město Ravnburgh. Jde o doplněk fantasy světa v období rané renesance (po vynálezu střelného prachu a knihtisku, ale před vynálezem muškety)."
+published: true
 ---
 
 Jde o sérii občanských válek a bojů o nástupnictví v dunfordském panství po smrti starého lorda Gilberta Warda, která se táhne s přestávkami již téměř čtyři desetiletí. Jsou známé také jako „války lišek s kohouty“ podle přezdívek obou stran, které spolu bojují. Na pozadí nástupnického sporu je především mocenský boj mezi tradiční vládnoucí šlechtou a měšťany. 
@@ -52,11 +53,11 @@ Po tolika letech občasné války si obě strany způsobily navzájem tolik kři
 ## Vojska obou stran
 Ze začátku války měli Kohouti jasnou převahu v těžké jízdě (většina jejich sil byla postavena z oddílů šlechty) a pořád je to jejich oblíbený nástroj, kterým rozhodují bitvy. S příchodem posil z Císařství, a především vysoce ceněných gents d’arms, podařilo se Liškám srovnat náskok a postavit vlastní oddíly těžké jízdy, ale jejich armáda je stále z velké části tvořena především pěchotou a milicemi, které staví do pole jednotlivá města. 
 
-![cuthbert-morvet.jpg]({{site.baseurl}}/86/cuthbert-morvet.jpg)
-
 V současné době obě strany spoléhají na sebrané armády, které kombinují jak těžkou jízdu (dodávanou šlechtou, najatými žoldnéři nebo posilami z Císařství), tak pěší oddíly – především oddíly pikenýrů (z velké části žoldnéře z ostatních arlatských lén), halberdníků a střelců (dodávaných městy a jednotlivými čtvrtěmi). 
 
 Vojáci na štítech a praporech nosí erby svých pánů, měst a městských čtvrtí, ale často lze příslušníky obou stran rozlišit na první pohled. Příslušníci strany Lišek preferují barvy zelenou a zlatou (na štítech a pro oblečení), liščí kožešiny jako límce a oblíbené jsou i kožené čapky s liščími ohony (lišky nejsou loveny veřejně, ale jejich kožešiny jsou v oblastech Lišek velice ceněny a používány pro vyjádření sounáležitosti). Kohouti naproti tomu preferují barvy červenou, bílou a černou a nosí na kloboucích a čapkách kohoutí pera. 
+
+![cuthbert-morvet.jpg]({{site.baseurl}}/86/cuthbert-morvet.jpg)
 
 Gardu pana Cuthberta tvoří oddíl vysoce ceněných pikenýrů z řad horských skřetů z Vhre. Nasazuje je do bitvy na důležitá místa nebo aby pomohli rozhodnout bitvu útokem pík. Mimo bitevní pole slouží horští skřeti jako jeho tělesná stráž, která jej chrání před vrahy a atentáty. 
 
@@ -116,4 +117,3 @@ Cruggeho...
 Velice děkujeme, že jste se dočetli až sem a snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
 
 >Pozn. Černobílé vzory pro erby (barevné kombinace jsou unikátní pro Ravnburgh) jsou použity z knihy [A Complete Guide to Heraldry](https://en.wikisource.org/wiki/A_Complete_Guide_to_Heraldry). Jsou k dispozici na internetu jako public images. Obrazy použité v článku jsou dobové, také dnes jako public images.
-
