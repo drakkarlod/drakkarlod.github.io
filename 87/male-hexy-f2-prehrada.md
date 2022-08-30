@@ -4,6 +4,7 @@ title: 'Malé hexy: F2 – Přehrada'
 authors: Log 1=0
 tags: 'materiály a doplňky, inspirace, malé hexy'
 summary: 'Malé hexy, hex F2'
+published: false
 ---
 
 ### A) Číslo hexu: F2 
