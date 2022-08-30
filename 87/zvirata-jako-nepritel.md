@@ -2,10 +2,10 @@
 
 layout: article 
 
-title: Zvířata jako nepřítel 
+title: 'Zvířata jako nepřítel'
 
-authors: Jarilo
+authors: 'Jarilo'
 
-tags: materiály a doplňky, inspirace
+tags: 'materiály a doplňky, inspirace'
 
---- 
+---
