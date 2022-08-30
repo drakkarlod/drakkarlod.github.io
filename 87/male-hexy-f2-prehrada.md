@@ -9,7 +9,7 @@ published: false
 
 ### A) Číslo hexu: F2 
 
-### B) převládající krajina hexu
+### B) Převládající krajina hexu
 
 Přehrada na velké řece obklopená vesnicemi
 
