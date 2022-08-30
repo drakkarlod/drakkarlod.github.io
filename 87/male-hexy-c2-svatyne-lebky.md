@@ -4,6 +4,7 @@ title: 'Malé hexy: C2 – Svatyně lebky'
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace, malé hexy'
 summary: 'Malé hexy, hex C2'
+published: false
 ---
 
 ### A) Číslo hexu: C2
@@ -31,5 +32,3 @@ Pro *aich-rugadh* je svatyně posvátným místem, kde jsou boje a spory zapově
 - Jedno ze stád *aich-rugadh* porušilo mír, obsadili svatyni a odvlekli kněžku pryč. Od té doby pláně bičují bouře a země se otřásá. Ostatní *aich-rugadh* se bojí následků, pokud se kněžka nevrátí zpět do svatyně, ale nemohou riskovat otevřenou válku. Osloví proto dobrodruhy, aby ji přivedli zpět.
 
 - Členové dvou stád přišli urovnat spory a krádeže ovcí, které mezi nimi stojí. Jeden z náčelníků ale beze stopy zmizel a kněžka se bojí, že lebkou prošel do jiného ze světů. Požádá dobrodruhy, aby jej našli a zabránili otevřené válce, protože hrozí, že obě stáda se do sebe pustí, pokud nebude nalezen.
-
-
