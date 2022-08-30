@@ -1,8 +1,6 @@
-
---- 
-layout: article 
-authors:  
-title: ' ' 
-tags: 'materiály a doplňky, inspirace, ' 
-summary: ' ' 
+---
+layout: article
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
 ---
