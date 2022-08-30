@@ -1,9 +1,9 @@
 ---
 layout: article
-title: 'Malé hexy: E4 – osada šutrunů'
+title: 'Malé hexy: E4 – Osada šutrunů'
 authors: Ota
 tags: 'materiály a doplňky, inspirace, malé hexy'
-published: true
+published: false
 summary: 'Malé hexy, hex E4'
 ---
 
