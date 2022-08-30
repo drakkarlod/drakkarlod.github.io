@@ -14,6 +14,7 @@ Asi před šedesáti lety se začal v arlatských lénech šířit knihtisk. Ten
 ![002.jpg]({{site.baseurl}}/87/002.jpg)
 
 V současnosti jsou tiskařské dílny prakticky v každém větším městě (odhaduje se, že ne méně, než dvě stovky měst mají vlastní tiskařské dílny). Jen v Ravnburghu samotném jsou tři (a k tomu jedna tajná, Černý samet, která se věnuje tisku a šíření pornografických a erotických materiálů). Maele na poledni v Lize se brzy stalo tiskařským centrem. Odhaduje se, že téměř třetina všech vytištěných knih pochází právě odtamtud. 
+
 ![001.jpg]({{site.baseurl}}/87/001.jpg)
 
 ## Tiskařský lis 
@@ -41,5 +42,7 @@ V Maele, současném centru tisku, se objevila nová technika, zvaná „dřevo�
 ## Závěr 
 
 Velice děkujeme, že jste se dočetli až sem a snad se vám článek líbil! Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
+
+***
 
 _Pozn. Obrázky dřevořezů a pamfletů použité v článku jsou dobové z 15\. století, dnes dostupné jako public domain images._
