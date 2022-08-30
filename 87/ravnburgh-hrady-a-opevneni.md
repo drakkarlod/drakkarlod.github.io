@@ -27,9 +27,9 @@ V reakci na tyto překvapivé úspěchy dělostřelectva proti starším typům 
 
 Široké koruny valů umožňují umístit na ni těžké pušky a děla, která mohou ohrozit nepřátelské dělostřelectvo a ostřelovat obléhající armádu. Stejně tak je snadné je podél koruny opevnění přesouvat na ohrožené úseky podle potřeby. 
 
-![rondel2.png]({{site.baseurl}}/87/rondel2.png)
-
 Jméno tento nový opevňovací systém dostal podle rondelů, dělostřeleckých zemních bašt, které byly předsunuty do příkopu před úroveň hradeb samotných. Děla a ruční zbraně umístěné na rondelech mohou ostřelovat prostor podél úseků hradeb (hradba mezi dvěma rondely se nazývá _courtine_ nebo kurtina) a sousední rondely se mohou krýt palbou navzájem. Brány v úsecích _courtine_ brání především barbakán. 
+
+![rondel2.png]({{site.baseurl}}/87/rondel2.png)
 
 Rondely mohou být i vícepatrové, se zastřešenými prostory v baště samotné. Většinou se to ale nedělá, protože v nižších patrech mohou být použity jen pušky a děla menších ráží. Výstřely nejtěžších kusů by v malých prostorech vytvořily příliš velký hluk a dým, proto se umisťují vždy na korunu rondelu. 
 
@@ -39,11 +39,11 @@ Na poledni se v maelské lize experimentuje s polygonálním tvarem obranných b
 
 ## Budoucnost hradů 
 
+![rondel1.png]({{site.baseurl}}/87/rondel1.png)
+
 Hrady postupně ztratily svou strategickou a obrannou důležitost, protože nedokážou odolat soustředěné palbě z těžkých pušek a děl. Nezřídka se nevyplatí staré hrady opravovat a mnohé chátrají nebo ty, které byly poškozeny, byly přímo opuštěny. Hrady sice pořád zajišťují obranu proti všemu kromě těžkých pušek a děl, což je důvod, proč jsou pořád udržovány (případně, proč se ty opuštěné stávají sídlem loupeživých rytířů), ale proti nepřátelské armádě neposkytují dostatečnou obranu. 
 
 Šlechtici, pro které byly hrady sídlem moci a zdrojem prestiže, se často stěhují do měst, která se stávají centry moci, nebo si nechávají stavět nová sídla, kde hlavní prioritou je pohodlí -- lovecké zámečky nebo letohrádky. 
-
-![rondel1.png]({{site.baseurl}}/87/rondel1.png)
 
 Ne všechny hrady přestaly být důležité -- některé byly přestavěny na moderní standardy obrany. Starým vysokým věžím byly odstraněny horní patra a střecha, aby se proměnily v dělostřelecké bašty a zdi byly rozšířeny o valy a rondely, aby je proměnily v pevnosti. Ne vždy jde o nejefektivnější obranná zařízení, umožňují ale šlechticům, aby si je udrželi a ponechali si část své dřívější důležitosti. Tyto přestavby jsou ale nákladné a náročné na čas, velká část hradů jsou dnes staveniště, kam se doplňují obranné prvky, kdykoli se našetří dostatek peněz. 
 
