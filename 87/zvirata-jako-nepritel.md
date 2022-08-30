@@ -3,7 +3,7 @@ layout: article
 title: Zvířata jako nepřítel
 authors: Jarilo
 tags: 'materiály a doplňky, inspirace'
-published: true
+published: false
 ---
 Tato úvaha vychází z hraní jak stolních tak počítačových RPG her a autora k jeho sepsání přiměla všeobecně malá pozornost, která je tématu v dohledatelném diskurzu věnována. Dovolím si na úvod bez podložení tvrdými daty směle tvrdit, že ne zrovna malá část hráčů RPG se někdy setkala s tím, že jejich postavám cestu divočinou zkřížilo nějaké zvíře a než se nadáli, došlo k souboji. Náhledem do těch několika málo diskuzí na fórech a pročtením bestiářů k vybraným systémům a světům i doplňkovým příručkám a dobrodružstvím, lze nabýt dojmu, že využití divokých zvířat jako nepřátel, zejména pro postavy méně zkušené (na nižších úrovních chcete-li) je poměrně časté a někdy i doporučované.
 
@@ -32,4 +32,4 @@ Aby tento text nebyl pouhým rantem a povzdechem, přidávám na závěr nějak�
 3. Již stovky let se v domovině jedné z postav udržuje tradice, kdy dospívající žena musí ulovit losího samce jako symbol trvajícího silného matriarchátu. Co ale čeká tu odvážlivkyni, která se namísto toho zvíře rozhodne zkrotit a osedlat? Mohlo by se jí vůbec něco takového povést samotné, bez pomoci ostatních z družiny? Bude její návrat spouštěčem dlouho nemyslitelného sjednocení kmenů?
 
 
-4. Vesnice se obrátí na družinu, neboť se potýká s rostoucí drzostí velké vlčí smečky. Ta se vyskytuje stále blíže obydlím, už dochází k útokům na domácí zvěř i případné odvážlivce, kteří se ji snaží zahnat. Co vlky k tomuto chování nutí? Neobjevil se v hlubokém lese někdo nebo něco, co i vlkům nahání hrůzu a nutí je to ustupovat, nejsou vlastně vlci varováním před nebezpečím, které se k lidem pomalu blíží? 
+4. Vesnice se obrátí na družinu, neboť se potýká s rostoucí drzostí velké vlčí smečky. Ta se vyskytuje stále blíže obydlím, už dochází k útokům na domácí zvěř i případné odvážlivce, kteří se ji snaží zahnat. Co vlky k tomuto chování nutí? Neobjevil se v hlubokém lese někdo nebo něco, co i vlkům nahání hrůzu a nutí je to ustupovat, nejsou vlastně vlci varováním před nebezpečím, které se k lidem pomalu blíží?
