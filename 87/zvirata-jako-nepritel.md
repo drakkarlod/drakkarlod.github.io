@@ -1,6 +1,6 @@
---- 
-layout: article 
-title: Zvířata jako nepřítel 
-authors: Jarilo
-tags: materiály a doplňky, inspirace
+---
+layout: article
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
 ---
