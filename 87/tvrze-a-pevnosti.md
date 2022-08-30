@@ -1,5 +1,4 @@
 --- 
-
 ---
 
 **Pohraniční pevnosti**
