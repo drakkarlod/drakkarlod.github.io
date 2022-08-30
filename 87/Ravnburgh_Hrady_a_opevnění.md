@@ -6,7 +6,7 @@ summary: >-
   Článek ukazuje, jak vypadají hrady a opevnění v okolí Ravnburghu v době raného
   středověku (po vynálezu knihtisku a střelného prachu, ale před vynálezem
   muškety).
-published: true
+published: false
 ---
 Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se tomu, jak vypadají hrady a opevnění v období rané renesance (po vynálezu střelného prachu a knihtisku, ale před vynálezem muškety). 
 
