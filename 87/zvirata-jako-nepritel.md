@@ -25,7 +25,7 @@ Je také zcela pochopitelné, že vkráčí-li hráči do cesty medvědici s med
 
 Nutno také dodat, že v takovém případě medvídě zůstane bez matky a postavy – alespoň některé – s výčitkami svědomí a značně vyčerpané čelí dilematu, jak se k medvědímu sirotkovi postaví? Může se také stát, že partu medvědích drobků objeví až po boji schovanou v nedalekém zákrutu nebo jeskyni. Co teď? 
 
-# Proč zvířata jako protivníci
+## Proč zvířata jako protivníci
 
 Pokud se už má nějaké zvíře vyskytnout ve hře jako potenciální protivník, není na škodu zamyslet se nad tím podobně, jako když chystáme střet s nějakým lidským antagonistou – těm se často snažíme vetknout osobnostní rysy, motivace a pozadí tak, aby nešlo o černobílého zloducha, ale naopak často někoho, jehož chování do značné míry dovedeme pochopit a respektujeme, i když stojí proti nám a velmi pravděpodobně zemře. Stejně tak zajímavě lze pojmout střetnutí s divokou zvěří, kromě již uvedených příkladů se lze inspirovat i v bájích a pohádkách či různých lidových pověrách – poměrně dobře s tímto v radách pro vypravěče pracuje například bestiář pro `Dračí doupě II`.
 
