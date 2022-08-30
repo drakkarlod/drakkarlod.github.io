@@ -6,7 +6,7 @@ summary: >-
   Tento článek se věnuje technologii a rozšíření knihtisku ve světě města
   Ravnburgh. Jde o doplněk fantasy světa v období rané renesance (po vynálezu
   střelného prachu a knihtisku, ale před vynálezem muškety).
-published: true
+published: false
 title: 'Ravnburgh: Knihtisk'
 ---
 Asi před šedesáti lety se začal v arlatských lénech šířit knihtisk. Tento nový knihtisk je založen na sázení odlitých tiskařských liter, které se vyskládají do dřevěného rámu a umožňují snadné sestavení a opakované tištění knih a letáků. Tento rychlý knihtisk vytlačuje tradiční ručně opisované manuskripty a knihy, přestože ty jsou stále vyhledávány zámožnou klientelou pro umělecké kvality. Tištěné knihy jsou záležitostí spíše rychle se rozvíjející měšťanské vrstvy a chudší šlechty, která si ručně opisované knihy s ručními ilustracemi prostě nemůže dovolit. 
