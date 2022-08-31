@@ -4,7 +4,7 @@ title: 'Malé hexy: E1 – Safírové hory, rubínová údolí'
 authors: Jessa Daeh
 tags: 'materiály a doplňky, inspirace, malé hexy'
 summary: 'Malé hexy, hex E1'
-published: false
+published: true
 ---
 
 ### A) Číslo hexu: E1
