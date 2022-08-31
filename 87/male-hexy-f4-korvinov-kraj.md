@@ -4,7 +4,7 @@ title: 'Malé hexy: F4 – Korvinov kraj'
 authors: Antharon
 tags: 'materiály a doplňky, inspirace, malé hexy'
 summary: 'Malé hexy, hex F4'
-published: false
+published: true
 ---
 
 ### A) Číslo hexu: F4
