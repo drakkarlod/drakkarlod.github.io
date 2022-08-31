@@ -4,7 +4,7 @@ title: 'Malé hexy: C2 – Svatyně lebky'
 authors: Ecthelion²
 tags: 'materiály a doplňky, inspirace, malé hexy'
 summary: 'Malé hexy, hex C2'
-published: false
+published: true
 ---
 
 ### A) Číslo hexu: C2
