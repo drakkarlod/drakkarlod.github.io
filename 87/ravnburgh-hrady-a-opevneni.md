@@ -13,12 +13,14 @@ Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věn
 
 ## Staré hrady a opevnění 
 
+{:.map}
 ![rondel0.jpg]({{site.baseurl}}/87/rondel0.jpg)
 
 Staré hrady, které odolávaly obléhání a dokázaly vázat přesilu, dokud posádce nedošly zásoby potravin a vody, s nástupem střelných zbraní, těžkých pušek a děl, začala být stará opevnení zranitelná. Stávající opevnění byla vystavěna z vysokých, ale relativně slabých zdí a věží, které se pod soustředěnou palbou snadno boří. Několik těžkých pušek dokáže prostřílet průlom v hradbách bez ohrožení útočící armády. Vzhledem k omezenému prostoru na ochozech také tyto stará opevnění neumožňují rozmístění vlastních těžkých pušek a děl. 
 
 Díky zručnému nasazení těžkých pušek v minulých válkách několikrát došlo k situacím, že dříve nedobytné hrady, o které se v minulých dobách armády tříštily jako voda, padly prakticky za pochodu nebo v průběhu několika málo dnů. Staré hrady a opevnění se staly zastaralými a jejich obranná hodnota je na současném bojišti omezená. 
 
+{:.map}
 ![rondel3.jpg]({{site.baseurl}}/87/rondel3.jpg)
 
 ## Rondelový systém 
@@ -29,6 +31,7 @@ V reakci na tyto překvapivé úspěchy dělostřelectva proti starším typům 
 
 Jméno tento nový opevňovací systém dostal podle rondelů, dělostřeleckých zemních bašt, které byly předsunuty do příkopu před úroveň hradeb samotných. Děla a ruční zbraně umístěné na rondelech mohou ostřelovat prostor podél úseků hradeb (hradba mezi dvěma rondely se nazývá _courtine_ nebo kurtina) a sousední rondely se mohou krýt palbou navzájem. Brány v úsecích _courtine_ brání především barbakán. 
 
+{:.map}
 ![rondel2.png]({{site.baseurl}}/87/rondel2.png)
 
 Rondely mohou být i vícepatrové, se zastřešenými prostory v baště samotné. Většinou se to ale nedělá, protože v nižších patrech mohou být použity jen pušky a děla menších ráží. Výstřely nejtěžších kusů by v malých prostorech vytvořily příliš velký hluk a dým, proto se umisťují vždy na korunu rondelu. 
@@ -39,6 +42,7 @@ Na poledni se v maelské lize experimentuje s polygonálním tvarem obranných b
 
 ## Budoucnost hradů 
 
+{:.map}
 ![rondel1.png]({{site.baseurl}}/87/rondel1.png)
 
 Hrady postupně ztratily svou strategickou a obrannou důležitost, protože nedokážou odolat soustředěné palbě z těžkých pušek a děl. Nezřídka se nevyplatí staré hrady opravovat a mnohé chátrají nebo ty, které byly poškozeny, byly přímo opuštěny. Hrady sice pořád zajišťují obranu proti všemu kromě těžkých pušek a děl, což je důvod, proč jsou pořád udržovány (případně, proč se ty opuštěné stávají sídlem loupeživých rytířů), ale proti nepřátelské armádě neposkytují dostatečnou obranu. 
