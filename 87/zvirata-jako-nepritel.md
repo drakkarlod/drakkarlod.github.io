@@ -3,7 +3,7 @@ layout: article
 title: Zvířata jako nepřítel
 authors: Jarilo
 tags: 'materiály a doplňky, inspirace'
-published: false
+published: true
 summary: >-
   Tato úvaha vychází z hraní jak stolních, tak počítačových RPG her a autora k
   jeho sepsání přiměla všeobecně malá pozornost, která je tématu v dohledatelném
