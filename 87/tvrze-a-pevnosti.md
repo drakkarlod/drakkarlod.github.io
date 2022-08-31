@@ -3,7 +3,7 @@ layout: article
 title: Tvrze a pevnosti ve hře
 authors: Jarilo
 tags: 'materiály a doplňky, inspirace'
-published: false
+published: true
 summary: >-
   Tu kratší, tu delší inspirace, jak příběhově využít tvrze a pevnosti ve vašich
   hrách – často jde pouze o výchozí bod nebo prostředek k doručení zajímavé
