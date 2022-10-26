@@ -104,7 +104,7 @@ Lionnesse stále může povolat _arriere-ban_ , zbrojnou hotovost všech zdatný
 Císařství má stálou armádu v podobě _compagnies d'ordonnance_ . Ta sestává ze 40 _compagnies_ rozmístěných po celé zemi. Každou _compagnie_ tvoří 100 _lances fournies_ (kopí), bojových jednotek, které obsahují tři muže a šest koní. Byli to _gent d'armes_ (těžkooděný jezdec) s bitevním a jízdním koněm, _coutilier_ (lehkooděný jezdec) taktéž s ořem bitevním a jízdním, a _valet_ (sluha) s jízdním a nákladním koněm. 
 
 {:.map}
-gendarmes.jpg 
+![gendarmes.jpg]({{site.baseurl}}/88/gendarmes.jpg)
 
 Celkem tak může Lví císařství postavit do bitev stálou armádu o 400 kopí a celkem 12 000 mužích. Tato profesionální, dobře vycvičená a organizovaná síla je hlavní a nejobávanější silou císařství, schopná rozhodovat bitvy, porážet nepřátele a vítězit ve válkách. 
 
