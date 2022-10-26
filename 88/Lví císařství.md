@@ -56,7 +56,7 @@ Vztah k magii je tu velice negativní. Lidé si spojují magii s nocí, Sígref 
 Výjimkou v rovných dědických právech je právě pozice hlavy státu. V čele Lvího císařství stojí vždy žena z rodu Vierroix, ze kterého pocházela i Ágnes Lvice. Do své pozice je _lionnesse_ (pozice císařovny, v překladu „lvice") volena. Kandidátku může nominovat současná vládkyně a důležití vazalové z žen rodu Vierroix a rodiny _lionnesse_ . Pokud současná císařovna zemře, nová vládkyně vzejde z volby mezi nominovanými kandidátkami. Váha hlasů jednotlivých volitelů závisí na jejich postavení a pozemcích. Členky rodu, které jsou známými zločinci (vražedkyně, zrádkyně) nejsou způsobilé vládnout císařství, jejich dcery ale smí být nominovány. Není neobvyklé, že se současné _lionnesse_ podaří nominovat některou ze svých dcer a získat pro ně dost hlasů, pokud jsou oblíbené a vazalové jsou s nimi spokojeni. Vnučky také nemohou být nominovány, pokud jejich matky stále žijí (jen ty smí být zařazeny na seznam kandidátů). 
 
 {:.map}
-hostina.jpg 
+![hostina.jpg]({{site.baseurl}}/88/hostina.jpg)
 
 Současná _lionnesse_ je Alazaïs lis Vierroix. Je to zkušená diplomatka a zručná šermířka, která nejednou vedla vojska císařství do boje a bila se v prvních řadách ve zlatém brnění (jak se na lvici sluší). Je již ve středních letech, ale je to stále krásná žena a o jejích údajných milostných aférách si cvrlikají vrabci na střeše a přisprostlí trubadůři v krčmách a nálevnách. Je v císařství oblíbena a poddaní ji upřímně podporují. 
 
