@@ -17,8 +17,10 @@ S poklesem moci velekrálů, která by zabezpečila zájmy měst a měšťanů, 
 {:.map}
 ![Erb hansy]({{site.baseurl}}/88/erb%20hansy.jpg)
 
+<div class="sidebar" markdown="1">
 Města hansy (členové spolku): 
-Ravnburgh, Dayhaven, Styford, Trollsbridle, Wolverton, Alnwick, Flamstead, Hadstone, Keevil, Mitford, Swanscombe, Topcliffe, Mowbray, Peverel, Eldenbridge, Val, Ronimede, Fairhurst-on-Sea, Egeham, King's Lynn, Oswetry, Hawkford, Grinridge 
+Ravnburgh, Dayhaven, Styford, Trollsbridle, Wolverton, Alnwick, Flamstead, Hadstone, Keevil, Mitford, Swanscombe, Topcliffe, Mowbray, Peverel, Eldenbridge, Val, Ronimede, Fairhurst-on-Sea, Egeham, King's Lynn, Oswetry, Hawkford, Grinridge
+</div>
 
 Hansa ovládá velkou část dálkového námořního obchodu na poledni a částečně i dálkové pozemní cesty v severních lénech. 
 
@@ -61,15 +63,13 @@ Hansa je administrativně rozdělena do 4 okruhů (čtvrtek) podle své polohy a
 
 V záležitostech místního významu se svolávají Čtvrtkové sněmy, které mají vyřešit věci relevantní pouze pro části okruhu a ujasnit pozice pro Hansovní sněm. Může se poté stát, že na Hansovní sněm vyšle celá čtvrtka jen jednoho zástupce, který tlumočí její konsensus jakožto celku. 
 
+<div class="sidebar" markdown="1">
 Správní dělení Hansy (tučně jsou zvýrazněna vůdčí města): 
-
 _Dračí moře:_ **Ravnburgh**, **Dayhaven**, Styford, Trollsbridle, Wolverton, 
-
 _Alnwicksý okruh:_ **Alnwick**, Flamstead, Hadstone, Keevil, Mitford, 
-
 _Swanscombská čtvrtka:_ **Swanscombe**, Topcliffe, Mowbray, Peverel, Eldenbridge, Val, Ronimede, 
-
-_Východní okruh:_ **Fairhurst-on-Sea**, Egeham, King's Lynn, Oswetry, Hawkford, Grinridge 
+_Východní okruh:_ **Fairhurst-on-Sea**, Egeham, King's Lynn, Oswetry, Hawkford, Grinridge
+</div>
 
 ## Hansa v Ravnburghu 
 Ravnburgh je velký obchodní uzel Hansy a jedno z vůdčích měst Dračích moří. Skutečnou moc ve městě má městská rada, jejíž členové jsou zpravidla nejbohatší kupci ve městě. Vzhledem k tomu, že většina kupců a představitelů cechů jsou členové Hansy, má spolek ve městě velký vliv, často do té míry, že se mezi městskou radu a Hansu dává rovnítko. O většině věcí ve městě víceméně rozhoduje Hansa a moc drží převážně ravnburští kupci a cechy. 
@@ -78,9 +78,11 @@ Nebývalo tak tomu ale vždy. Ve městě je mnoho těch, kteří buď zůstávaj
 
 Představitelem ravnburské Hansy je Oswyn Marchefort, a v jeho nepřítomnosti jej zastupuje Tobias Mowfurth, který je také hlavním advokátem a vykladatelem hansovního práva. Budovy a sklady Hansy hlídá jejich vlastní stráž, kterou vede kapitán Arthur Trebonwell. Hansa si také platí žoldnéřskou skupinu zvanou Mořští vlci, která má ve městě sídlo, a jíž je Hansa výlučným zaměstnavatelem. Ta chrání jejich lodi a loví piráty. 
 
+<div class="sidebar" markdown="1">
 Obchodníci Hansy často najímají žoldnéře a různé dobrodruhy a jsou pro ně oblíbeným zaměstnavatelem. Přítomnost Hansy ve většině důležitých měst na severu jim zaručuje jednoduché sehnání přivýdělku, zásob a noclehu a díky nebezpečí a hrozbám na cestách Hansa potřebuje stále služby ozbrojených mužů a žen (na rozdíl od mnoha Arlatských nijak nediskriminují kvůli pohlaví, jde jim o peníze na prvním, druhém, třetím a několika dalších místech).  
 
-Většina úkolů, které Hansa nabízí a platí ze společné kasy spočívá v ochraně obchodních vozů, lodí a představitelů v místech, kde hrozí nebezpečí. Dračí moře jsou plná pirátů, cesty kolem Ravnsburghu jsou ohroženy vojáky Lišek, Kohoutů a marodérů bez vlajky, a podél arlatských obchodních stezek číhají i divocí gryfové. Pokud se nějaký obchodník nebo náklad ztratí (což se občas stane), Hansa zaplatí za jejich nalezení. Občas také najímají dobrodruhy a žoldnéře na zničení objevených hrozeb (skupina loupežníků, pirátský přístav).   
+Většina úkolů, které Hansa nabízí a platí ze společné kasy spočívá v ochraně obchodních vozů, lodí a představitelů v místech, kde hrozí nebezpečí. Dračí moře jsou plná pirátů, cesty kolem Ravnsburghu jsou ohroženy vojáky Lišek, Kohoutů a marodérů bez vlajky, a podél arlatských obchodních stezek číhají i divocí gryfové. Pokud se nějaký obchodník nebo náklad ztratí (což se občas stane), Hansa zaplatí za jejich nalezení. Občas také najímají dobrodruhy a žoldnéře na zničení objevených hrozeb (skupina loupežníků, pirátský přístav).
+</div>
 
 ## _Comptoir_ 
 V mnoha městech na severu má Hansa své obchodní osady, pro které se používá označení _comptoir_ . Jednotlivé _comptoir_ udržují města Hansy, která s místem sousedí, nebo tam mají obchodní zájmy. Využívat je ale mohou všichni hansovní obchodníci. 
@@ -95,8 +97,10 @@ Větší _comptoiry_ členských městjsou pak skutečné malé čtvrti s vlastn
 ## Konkurence a vztahy 
 Většinou jsou hansovní obchodníci velice neoblíbení mezi lokálními samostatnými obchodníky, kteří je vnímají oprávněně jako konkurenci, která jim bere obchody, dvojnásob poté ve městech, která nejsou členy Hansy. Organizují útoky na jejich lodě a snaží se přesvědčit vládce měst, aby hansovní obchodníky vypověděl. 
 
+<div class="sidebar" markdown="1">
 **_Blokáda Vietré_** 
-Před necelými patnácti lety se Vietré, bohatý obchodní přístav na severu Lvího císařství, pokusil s trojicí dalších měst odmítnout diktát Hansy. Měšťané vypověděli její obchodní zastoupení a odmítli respektovat jí stanovená obchodní pravidla a bezcelní přístup jejích lodí na zdejší trhy. Odpověď Hansy byla rychlá a nemilosrdná. Uzavřela pro lodě s vietréským delfínem na praporu přístup do jakéhokoli přístavu Hansy a mnohé lodě, které pod ní pluly, se staly terčem útoku pirátů. Ostatní vzburná města raději kapitulovala, přijala hansovní zástupce zpátky a zaplatila Hanse výpalné. Vietré vytrvalo, dokud Hansa oficiálně nezahájila blokádu města. _Lionnesse_ nezasáhla pro pohrůžku úplného zákazu obchodu s Hansou, a po osmi měsících Vietré kapitulovalo a přijalo podmínky Hansy. 
+Před necelými patnácti lety se Vietré, bohatý obchodní přístav na severu Lvího císařství, pokusil s trojicí dalších měst odmítnout diktát Hansy. Měšťané vypověděli její obchodní zastoupení a odmítli respektovat jí stanovená obchodní pravidla a bezcelní přístup jejích lodí na zdejší trhy. Odpověď Hansy byla rychlá a nemilosrdná. Uzavřela pro lodě s vietréským delfínem na praporu přístup do jakéhokoli přístavu Hansy a mnohé lodě, které pod ní pluly, se staly terčem útoku pirátů. Ostatní vzburná města raději kapitulovala, přijala hansovní zástupce zpátky a zaplatila Hanse výpalné. Vietré vytrvalo, dokud Hansa oficiálně nezahájila blokádu města. _Lionnesse_ nezasáhla pro pohrůžku úplného zákazu obchodu s Hansou, a po osmi měsících Vietré kapitulovalo a přijalo podmínky Hansy.
+</div>
 
 Většina ostatních králů nemá zdroje, aby své obchodníky ochránila před piráty. Hansovní města se svými kombinovanými zdroji většinou dokážou vystrojit dobře ozbrojené lodě, které si s piráty dokážou poradit. Flotily jednotlivých hanzovních měst proti nim vedou agresivní výpravy a na mořích mají dohromady více lodí než mnohé velké státy. Pirátské lodě v Dračích mořích si většinou dvakrát rozmyslí, než napadnou hansovní lodě s červenými vlajkami. 
 
