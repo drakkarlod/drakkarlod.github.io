@@ -15,7 +15,7 @@ summary: >-
 S poklesem moci velekrálů, která by zabezpečila zájmy měst a měšťanů, stejně jako rozpadem centrální moci v severních arlatských královstvích, vytvořila města Hansu jako obranný svaz proti svévoli okolních vládců, loupeživých rytířů a pirátů. 
 
 {:.map}
-erb hansy.img 
+![Erb hansy]({{site.baseurl}}/88/erb%20hansy.jpg)
 
 Města hansy (členové spolku): 
 Ravnburgh, Dayhaven, Styford, Trollsbridle, Wolverton, Alnwick, Flamstead, Hadstone, Keevil, Mitford, Swanscombe, Topcliffe, Mowbray, Peverel, Eldenbridge, Val, Ronimede, Fairhurst-on-Sea, Egeham, King's Lynn, Oswetry, Hawkford, Grinridge 
