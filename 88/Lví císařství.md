@@ -36,7 +36,7 @@ V dobách slabosti Zaskapuru obsadilo císařství pobřežní města na jižní
 Protože císařství původně vzniklo jako městský svaz, zdejší kultura je amalgámem mnoha jedinečných společenství s vlastními tradicemi, a v mnoha ohledech je spojuje jen společný jazyk, kterým mluví. Na severu jsou lidé často plavovlasí, na východě se nejvíce podobají lidem z arlatských lén a na poledni jsou často snědí a mají havraní vlasy. Přesto jsou všichni poddaní císařovny lvice, mluví společným jazykem, obětují Sluneční panně, mají své místo v životě a respektují tradice a svátky ostatních (protože pak jsou i jejich tradice a svátky ctěny). 
 
 {:.map}
-sklizen.jpg 
+![sklizen.jpg]({{site.baseurl}}/88/sklizen.jpg)
 
 ### Společnost 
 Poddaní Lvího císařství si cení rytířství, bojové zdatnosti, cti a povinnosti, stejně jako poezie a romantické literatury. 
