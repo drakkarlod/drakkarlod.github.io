@@ -55,7 +55,7 @@ Hansa je řízena na základě konsensu svých členů. Členové se řídí vla
 Pokud vyvstane problém nebo záležitost, která si vyžaduje rozhodnutí, je rozeslána pozvánka na Hansovní sněm, kde má být záležitost projednána. Každá komunita dosáhne místního konsensu (o věci hlasují) a pak vyšlou na sněm svého vyslance, aby tento názor tlumočil. V případě shody názorů sousedících členských měst není výjimkou, aby vyslaly jednoho, společného zástupce. Na sněmu se pak hledá shoda mezi názory prezentovanými těmito vyslanci. Pokud nemůže být dosažena a odhlasována shoda, je vybrána komise, která má pravomoc vypracovat kompromis. Celohansovní sněmy bývají svolávány jednou za tři roky, aby se na nich probraly všechny nahromaděné záležitosti svazu, není to však pravidlem a mohou se konat jak častěji, tak více zřídka. 
 
 {:.map}
-knihy.img 
+![Účetní knihy]({{site.baseurl}}/88/knihy.png)
 
 Hansa je administrativně rozdělena do 4 okruhů (čtvrtek) podle své polohy a vůdčích měst, která slouží jako jejich obchodní centra. Okruh kolem Dračích moří má dvě vůdčí města (Ravnburgh a Dayhaven), která spolu soupeří o vůdčí postavení, ostatní mají jasné hlavní město, které je nerozporovaným centrem.  
 
@@ -83,7 +83,6 @@ Obchodníci Hansy často najímají žoldnéře a různé dobrodruhy a jsou pro 
 Většina úkolů, které Hansa nabízí a platí ze společné kasy spočívá v ochraně obchodních vozů, lodí a představitelů v místech, kde hrozí nebezpečí. Dračí moře jsou plná pirátů, cesty kolem Ravnsburghu jsou ohroženy vojáky Lišek, Kohoutů a marodérů bez vlajky, a podél arlatských obchodních stezek číhají i divocí gryfové. Pokud se nějaký obchodník nebo náklad ztratí (což se občas stane), Hansa zaplatí za jejich nalezení. Občas také najímají dobrodruhy a žoldnéře na zničení objevených hrozeb (skupina loupežníků, pirátský přístav).   
 
 ## _Comptoir_ 
-
 V mnoha městech na severu má Hansa své obchodní osady, pro které se používá označení _comptoir_ . Jednotlivé _comptoir_ udržují města Hansy, která s místem sousedí, nebo tam mají obchodní zájmy. Využívat je ale mohou všichni hansovní obchodníci. 
 
 V menších či nečlenských městech _comptoir_ představuje zpravidla jen pronajaté molo (kde mohou hansovní lodě kotvit), sklad na zboží a malé obchodní zastoupení, kde přidělený hansovní obchodník uzavírá obchody a prodává zboží. 
