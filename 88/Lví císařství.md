@@ -19,7 +19,7 @@ summary: >-
 Jádrem budoucí říše byl obchodní svaz deseti měst, dnes známý jako _Décapole_ (Desetiměstí - města Étrepy, Oradour, Glannes, Fey-en-Haisne, Courteron, Cherville, Marlaix, Véxerre, Lons-á-Pont a Aix-sur-Mer), který vzdoroval snahám arlatských velekrálů podrobit si je a připojit je ke svým državám. V té době mnohá vévodství a království, která jsou dnes pevnou součástí arlatských lén, byla ještě samostatná, a svaz měst chránila především vzdálenost a nutnost velekrálů starat se o problémy blíže doma. Spřízněni stejnou kulturou a jazykem odlišným od velekrálů východu, neměla města žádnou chuť klanět se cizím panovníkům. 
 
 {:.map}
-erb.jpg 
+![Erb císařství]({{site.baseurl}}/88/erb.jpg)
 
 Když Roderic II. Sjednotitel dorazil na hranice svazu s ohromnou armádou, _Décapole_ se odmítla podrobit. Do svého čela zvolili Ágnes lis Vierroix, která odmítla s arlatským velekrálem vyjednávat a svolala do boje všechny, kdo byli schopni unést zbraň. Čtyři města rychle padla pod nepřátelskou přesilou, ale vrchní velitelka zastavila dobyvatele pod hradbami Étrep. Na ochozech obléhaného města získala svou přezdívku ‚Lvice' a donutila Roderica II., aby zrušil obléhání a s nepořízenou odtáhl. Ágnes lis Vierroix pak dobyla a získala zpět dvě města _Décapole_ . Zbylá dvě zůstala v arlatském držení po několik následujících let i přes snahy spojených vojsk. 
 
