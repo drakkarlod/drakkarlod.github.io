@@ -114,7 +114,7 @@ Aby posílili svou stálou armádu na taženích, najímají císařští na ta�
 Dělostřelectvo je elitní složkou císařské armády. Je součástí stálé armády a organizováno do _bandes d'artillerie_ . Císařští puškaři jsou zkušení, velice cenění a dobře placení. Lionnesse dává na rozvoj dělostřelectva velké sumy a císařští jsou známí především pro používání těžkých dělostřeleckých kusů (několikatunové _basilisque_ pro dobývání hradů a měst a těžké _coulevrine_ pro polní bitvy i obléhání). Naopak menší děla (_falconet_ , lehká polní děla, nebo _ribauldequiny_ , známé také jako 'varhany', které tvoří několik lehkých hlavní na jedné lafetě) nejsou v císařském vojsku tolik oblíbené. 
 
 {:.map}
-dela.jpg 
+![dela.jpg]({{site.baseurl}}/88/dela.jpg)
 
 Každá _bande d'artillerie_ je shromážděna okolo jednoho těžkého kusu děla (každé má své vlastní jméno a _bande d'artillerie_ se jmenuje po něm) a může být doplněna jedním nebo několika lehčími kusy. V současnosti má císařství 38 _bande d'artillerie_ (6 kusů _basilisque_ a 32 kusů _coulevrine_ ). Dohromady _bande d'artillerie_ tvoří nejméně dvacet mužů a žen, ale tyto počty jsou různorodé. Na každý kus děla v rámci bande je třeba počítat 2-3 puškaře (zpravidla mistra puškaře a učedníka nebo učedníky), 4-5 pomocníků (starající se o umístění děla), kováře nebo kameníka s pomocníkem (kteří vyrábí projektily), několik vozků, kteří se starají o volky nebo koně, a několik vojáků, kteří se starají o bezpečnost děla. 
 
