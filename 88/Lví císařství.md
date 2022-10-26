@@ -4,6 +4,16 @@ title: Lví císařství
 authors: Ecthelion²
 tags: 'Ecthelion², Ravnburgh, Materiály a doplňky, Drakkar 88'
 published: false
+summary: >-
+  Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Najdete
+  zde popsané Lví císařství, zemi nacházející se na západ od Ravnburghu a
+  arlatských lén. Je to země rytířů a rytířek, trubadúrů, kamenných hradů,
+  rozlehlých polí, milostné i dvorské poezie. Zdejší kultura je ceněna daleko za
+  hranicemi císařství a sama země je důležitou křižovatkou obchodu a kultur mezi
+  Zaskapurem na poledni a arlatskými lény na východě. Ceněno je tu chutné jídlo
+  a víno, dobrá hudba a zpěv. Lidé se tu klaní Sluneční panně jako přední z
+  bohů. Zdejší rytíři, elita vojska a nejlepší těžká jízda na světě, chrání
+  hranice a vyráží do boje na rozkaz lionnesse, císařovny lvice.
 ---
 ### Historie 
 Jádrem budoucí říše byl obchodní svaz deseti měst, dnes známý jako _Décapole_ (Desetiměstí - města Étrepy, Oradour, Glannes, Fey-en-Haisne, Courteron, Cherville, Marlaix, Véxerre, Lons-á-Pont a Aix-sur-Mer), který vzdoroval snahám arlatských velekrálů podrobit si je a připojit je ke svým državám. V té době mnohá vévodství a království, která jsou dnes pevnou součástí arlatských lén, byla ještě samostatná, a svaz měst chránila především vzdálenost a nutnost velekrálů starat se o problémy blíže doma. Spřízněni stejnou kulturou a jazykem odlišným od velekrálů východu, neměla města žádnou chuť klanět se cizím panovníkům. 
