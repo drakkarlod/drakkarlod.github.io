@@ -46,7 +46,7 @@ Zatímco většina států trvá na nadřazenosti mužů, v císařství se stá
 Zatímco v okolních zemích se struktura společnosti pomalu uvolňuje, města rostou a společnost se mění, ve Lvím císařství je situace stále stejná, jaká byla před stoletím. Dědičná šlechta vládne v kamenných hradech vypínajících se nad kraji, poddaní obdělávají svá pole a kněží se modlí ke Sluneční panně a ostatním bohům. Většina lidí není uvázaná k půdě, nevolnictví bylo v císařství vždy spíše okrajovým fenoménem. Drtivá většina zemědělců jsou svobodní lidé a na půdě jsou v nájmu, který platí vrchnosti. Tato stará struktura je nadále pevná a obyvatelé nevidí důvod ji měnit. V tomto systému je místo pro každého a každý má své neměnné místo. Je to pro ně jistota a opora jejich společnosti, ne překážka v rozvoji (jak je systém viděn v arlatských lénech). 
 
 {:.map}
-spolecnost.jpg 
+![spolecnost.jpg]({{site.baseurl}}/88/spolecnost.jpg)
 
 Poezie je zde vnímána jako vznešené umění a básníci jsou ctěni. V císařství jsou mezi nimi nejvýznamnější _trubadůři_ (ženy jsou zvány _trobairitz_ ), kteří sami své básně a hudbu i předvádějí. Opěvují rytířství, dvorskou lásku a velice oblíbená jsou romantická převyprávění životů dávných rytířů, která inspirují budoucí generace. Mnozí trubadůři jsou tuláčtí muzikanti cestující od města k městu s loutnou na zádech, většina však slouží některému z rytířů nebo šlechticů, kteří slouží jako jejich patroni a sponzoři. 
 
