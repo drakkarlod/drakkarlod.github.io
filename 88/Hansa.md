@@ -63,7 +63,7 @@ V záležitostech místního významu se svolávají Čtvrtkové sněmy, které 
 
 Správní dělení Hansy (tučně jsou zvýrazněna vůdčí města): 
 
-_Dračí moře: _ **Ravnburgh**, **Dayhaven**, Styford, Trollsbridle, Wolverton, 
+_Dračí moře:_ **Ravnburgh**, **Dayhaven**, Styford, Trollsbridle, Wolverton, 
 
 _Alnwicksý okruh:_ **Alnwick**, Flamstead, Hadstone, Keevil, Mitford, 
 
@@ -104,4 +104,4 @@ V poslední době se obchodní flotila Lvího císařství posilovala, a Lvi a H
 
 ## Závěr 
 Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608). 
-_Pozn. Erb je unikátní pro Ravnburgh, zbylé ilustrace jsou public image. _
+_Pozn. Erb je unikátní pro Ravnburgh, zbylé ilustrace jsou public image._
