@@ -63,7 +63,7 @@ Současná _lionnesse_ je Alazaïs lis Vierroix. Je to zkušená diplomatka a zr
 O její nástupkyni není ještě rozhodnuto, _lionnesse_ má tři dcery - rozvážná Vierna, odvážná Faïs a krásou dechberoucí Ermessenda - ale zatím ještě nikoho nejmenovala. Podle všeho vyčkává, která z dcer bude nejvhodnější jako budoucí vládkyně a nechává je soupeřit mezi sebou o svou přízeň. 
 
 {:.map}
-lvice.jpg 
+![lvice.jpg]({{site.baseurl}}/88/lvice.jpg)
 
 O bezpečnost _lionnesse_ a celého dvora se stará vybraná tělesná stráž, zvaná Lvice, vybíraná z předních rytířek císařství. Dívky, vybírané bez ohledu na původ a urozenost, jsou přísahou vázány chránit život panovnice nad svůj vlastní. Život panovnice chrání i ochočení lvi, kteří žijí v paláci v Étrepy, kteří často děsí velvyslance z cizích zemí, ale jsou milováni všemi poddanými. Podle legendy jsou tito lvi potomci ochočené lvice, která bojovala po boku Ágnes lis Vierroix na étrepských hradbách při odrážení útočníků. 
 
