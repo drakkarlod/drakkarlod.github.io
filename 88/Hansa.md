@@ -14,6 +14,7 @@ summary: >-
 ## Hansovní svaz 
 S poklesem moci velekrálů, která by zabezpečila zájmy měst a měšťanů, stejně jako rozpadem centrální moci v severních arlatských královstvích, vytvořila města Hansu jako obranný svaz proti svévoli okolních vládců, loupeživých rytířů a pirátů. 
 
+{:.map}
 erb hansy.img 
 
 Města hansy (členové spolku): 
@@ -27,7 +28,8 @@ Přestože nejde o stát, je Hansa samostatná politická a vojenská síla, kte
 
 ## Obchod 
 
-knihy.img 
+{:.map}
+![Účetní knihy]({{site.baseurl}}/88/knihy.png)
 
 Ze zlobřích království na poledni dováží hansovní lodě ulovené solené herynky, velrybí maso, kožešiny, mroží slonovinu a surové železné ingoty, které se těží v dolech v horách mezi ledem a sněhem. Zlobři železo neznali před příchodem lidí, a těží ho jen pro obchod. Sami nejsou dobří kováři a všechny železné nástroje a zbraně dovážejí z trhů z poledne. Kromě toho jsou hlavními importními artikly do zlobřích království řemeslné výrobky, různé potraviny, které zlobři neznají, víno a především dřevo. V Ledové tříšti, kde se zlobří královstvíčka nacházejí, jsou stromy velice vzácné a ke stavbě lodí zlobři používali velrybí kostí. Dřevo, které se dováží (a které hansovní obchodníci levně získávají z východu), je pro ně velice cenné. 
 
@@ -40,6 +42,7 @@ Různé státy Ligy na poledni jsou pro hansovní obchodníky zdrojem výbornéh
 ## Hansovky 
 Kvůli nebezpečí na cestách a nepraktičnosti převážení velkých sum peněz, začali obchodníci vystavovat papírové směnky. Zpočátku byly vystavovány na jméno obchodníka, ale nyní už se vystavují obecně a smluvený finanční objem bude vyplacen komukoli, kdo ji vlastní.  
 
+{:.map}
 hansovka.img 
 
 Kvůli vlivu a působení Hansy se stala jednou z předních organizací, která tuto službu poskytuje a začala vystavovat takzvané „hansovky" -- papírové stvrzení potvrzené pečetí, které nařizuje obchodníkům Hansy vyplatit určenou sumu komukoli, kdo je držitelem hansovky. Nejde o papírové peníze v běžném smyslu, spíše o platební příkazy nebo šeky nařizující vydání hotovosti. Záruka Hansy je však taková, že se často jako papírové peníze používají a jsou rozšířené v arlatských lénech i císařství. Na poledni v zemích Ligy vydávají takové papírové příkazy a ručí za ně vlastním majetkem především tamější banky a říká se jim tam „bankovky". 
@@ -51,6 +54,7 @@ Hansa je řízena na základě konsensu svých členů. Členové se řídí vla
 
 Pokud vyvstane problém nebo záležitost, která si vyžaduje rozhodnutí, je rozeslána pozvánka na Hansovní sněm, kde má být záležitost projednána. Každá komunita dosáhne místního konsensu (o věci hlasují) a pak vyšlou na sněm svého vyslance, aby tento názor tlumočil. V případě shody názorů sousedících členských měst není výjimkou, aby vyslaly jednoho, společného zástupce. Na sněmu se pak hledá shoda mezi názory prezentovanými těmito vyslanci. Pokud nemůže být dosažena a odhlasována shoda, je vybrána komise, která má pravomoc vypracovat kompromis. Celohansovní sněmy bývají svolávány jednou za tři roky, aby se na nich probraly všechny nahromaděné záležitosti svazu, není to však pravidlem a mohou se konat jak častěji, tak více zřídka. 
 
+{:.map}
 knihy.img 
 
 Hansa je administrativně rozdělena do 4 okruhů (čtvrtek) podle své polohy a vůdčích měst, která slouží jako jejich obchodní centra. Okruh kolem Dračích moří má dvě vůdčí města (Ravnburgh a Dayhaven), která spolu soupeří o vůdčí postavení, ostatní mají jasné hlavní město, které je nerozporovaným centrem.  
@@ -84,7 +88,8 @@ V mnoha městech na severu má Hansa své obchodní osady, pro které se použí
 
 V menších či nečlenských městech _comptoir_ představuje zpravidla jen pronajaté molo (kde mohou hansovní lodě kotvit), sklad na zboží a malé obchodní zastoupení, kde přidělený hansovní obchodník uzavírá obchody a prodává zboží. 
 
-comptoir.img 
+{:.map}
+![Comptoir]({{site.baseurl}}/88/comptoir.jpg)
 
 Větší _comptoiry_ členských městjsou pak skutečné malé čtvrti s vlastními sklady, tržnicí, hansovní síní a úřady, chrámem (chrámy hansy jsou většinou zasvěceny Mánimu Mnoha očí, bohovi obchodu), hostinci (kde se mohou ubytovat námořníci hansovních lodí ve městě) a obytnými domy, kde bydlí přidělení obchodníci hansy, kteří na místě zajišťují prodeje, nákupy a chod celého _comptoiru_ . Tyto hansovní čtvrti jsou vyňaty z práva města samotného a platí zde hansovní zákony a pravidla. Každý _comptoir_ má vlastní pokladnici, soud, stráže a pečeť. 
 
@@ -99,6 +104,5 @@ Většina ostatních králů nemá zdroje, aby své obchodníky ochránila před
 V poslední době se obchodní flotila Lvího císařství posilovala, a Lvi a Hansa spolu soupeřili o kontrolu nad obchodem často na hranici otevřené války. To se nyní změnilo se zaskapurskou invazí na jihu, když _lionnesse_ zabavila mnoho obchodních lodí pro válku. Nyní se Hansa tlačí na lví trhy, aby zabrala volné pozice, zatímco jsou jejich obchodníci neschopní soupeřit. Tlačí proto na _lionnesse_ , aby zakázala cizím obchodníkům přístup na jejich trhy, ale ta stále vyčkává, protože císařství nutně potřebuje zboží, které hansovní obchodníci jako jedni z mála přivážejí k jeho břehům.  
 
 ## Závěr 
-
 Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608). 
 _Pozn. Erb je unikátní pro Ravnburgh, zbylé ilustrace jsou public image. _
