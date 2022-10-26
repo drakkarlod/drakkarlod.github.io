@@ -18,6 +18,7 @@ summary: >-
 ### Historie 
 Jádrem budoucí říše byl obchodní svaz deseti měst, dnes známý jako _Décapole_ (Desetiměstí - města Étrepy, Oradour, Glannes, Fey-en-Haisne, Courteron, Cherville, Marlaix, Véxerre, Lons-á-Pont a Aix-sur-Mer), který vzdoroval snahám arlatských velekrálů podrobit si je a připojit je ke svým državám. V té době mnohá vévodství a království, která jsou dnes pevnou součástí arlatských lén, byla ještě samostatná, a svaz měst chránila především vzdálenost a nutnost velekrálů starat se o problémy blíže doma. Spřízněni stejnou kulturou a jazykem odlišným od velekrálů východu, neměla města žádnou chuť klanět se cizím panovníkům. 
 
+{:.map}
 erb.jpg 
 
 Když Roderic II. Sjednotitel dorazil na hranice svazu s ohromnou armádou, _Décapole_ se odmítla podrobit. Do svého čela zvolili Ágnes lis Vierroix, která odmítla s arlatským velekrálem vyjednávat a svolala do boje všechny, kdo byli schopni unést zbraň. Čtyři města rychle padla pod nepřátelskou přesilou, ale vrchní velitelka zastavila dobyvatele pod hradbami Étrep. Na ochozech obléhaného města získala svou přezdívku ‚Lvice' a donutila Roderica II., aby zrušil obléhání a s nepořízenou odtáhl. Ágnes lis Vierroix pak dobyla a získala zpět dvě města _Décapole_ . Zbylá dvě zůstala v arlatském držení po několik následujících let i přes snahy spojených vojsk. 
@@ -26,6 +27,7 @@ Lvice pak porazila dvě další výpravy a dokud byla naživu, velekrálové se 
 
 Císařství se postupně z odbojného svazu měst stalo velmocí na západních arlatských hranicích, která soupeří s arlatskými velekráli o území a vliv. Oba státy se v minulosti mnohokráte svářily a hranice se posouvaly tam i zpět. Lví císařství je rozlohou jen asi poloviční, ale arlatská léna netvoří dohromady jednotný centralizovaný stát. Je to soubor několika království, knížetství a svobodných měst, a arlatský velekrál už v současnosti má jen pramalou reálnou moc. Díky tomu často Lví císařství bojuje za více než rovných podmínek a zvítězili díky kvalitě svých rytířů v mnoha válkách s různými soupeři mezi arlatskými lény.  
 
+{:.map}
 panstvo.jpg 
 
 V dobách slabosti Zaskapuru obsadilo císařství pobřežní města na jižní straně Vnitřního moře, hlavní mezi nimi legendami opředené město Vyqtis, a do _Décapole_ odsud proudí bohatství z Dalekého Poledne. V poslední době se ale sjednocená zaskapurská moc obrátila proti císařství a zaskapurská vojska zaútočila nejen na pobřežní města, ale zároveň se vylodila na jihu císařství samotného. 
@@ -33,6 +35,7 @@ V dobách slabosti Zaskapuru obsadilo císařství pobřežní města na jižní
 ### Obyvatelé zemí 
 Protože císařství původně vzniklo jako městský svaz, zdejší kultura je amalgámem mnoha jedinečných společenství s vlastními tradicemi, a v mnoha ohledech je spojuje jen společný jazyk, kterým mluví. Na severu jsou lidé často plavovlasí, na východě se nejvíce podobají lidem z arlatských lén a na poledni jsou často snědí a mají havraní vlasy. Přesto jsou všichni poddaní císařovny lvice, mluví společným jazykem, obětují Sluneční panně, mají své místo v životě a respektují tradice a svátky ostatních (protože pak jsou i jejich tradice a svátky ctěny). 
 
+{:.map}
 sklizen.jpg 
 
 ### Společnost 
@@ -42,6 +45,7 @@ Zatímco většina států trvá na nadřazenosti mužů, v císařství se stá
 
 Zatímco v okolních zemích se struktura společnosti pomalu uvolňuje, města rostou a společnost se mění, ve Lvím císařství je situace stále stejná, jaká byla před stoletím. Dědičná šlechta vládne v kamenných hradech vypínajících se nad kraji, poddaní obdělávají svá pole a kněží se modlí ke Sluneční panně a ostatním bohům. Většina lidí není uvázaná k půdě, nevolnictví bylo v císařství vždy spíše okrajovým fenoménem. Drtivá většina zemědělců jsou svobodní lidé a na půdě jsou v nájmu, který platí vrchnosti. Tato stará struktura je nadále pevná a obyvatelé nevidí důvod ji měnit. V tomto systému je místo pro každého a každý má své neměnné místo. Je to pro ně jistota a opora jejich společnosti, ne překážka v rozvoji (jak je systém viděn v arlatských lénech). 
 
+{:.map}
 spolecnost.jpg 
 
 Poezie je zde vnímána jako vznešené umění a básníci jsou ctěni. V císařství jsou mezi nimi nejvýznamnější _trubadůři_ (ženy jsou zvány _trobairitz_ ), kteří sami své básně a hudbu i předvádějí. Opěvují rytířství, dvorskou lásku a velice oblíbená jsou romantická převyprávění životů dávných rytířů, která inspirují budoucí generace. Mnozí trubadůři jsou tuláčtí muzikanti cestující od města k městu s loutnou na zádech, většina však slouží některému z rytířů nebo šlechticů, kteří slouží jako jejich patroni a sponzoři. 
@@ -51,12 +55,14 @@ Vztah k magii je tu velice negativní. Lidé si spojují magii s nocí, Sígref 
 ### Vláda 
 Výjimkou v rovných dědických právech je právě pozice hlavy státu. V čele Lvího císařství stojí vždy žena z rodu Vierroix, ze kterého pocházela i Ágnes Lvice. Do své pozice je _lionnesse_ (pozice císařovny, v překladu „lvice") volena. Kandidátku může nominovat současná vládkyně a důležití vazalové z žen rodu Vierroix a rodiny _lionnesse_ . Pokud současná císařovna zemře, nová vládkyně vzejde z volby mezi nominovanými kandidátkami. Váha hlasů jednotlivých volitelů závisí na jejich postavení a pozemcích. Členky rodu, které jsou známými zločinci (vražedkyně, zrádkyně) nejsou způsobilé vládnout císařství, jejich dcery ale smí být nominovány. Není neobvyklé, že se současné _lionnesse_ podaří nominovat některou ze svých dcer a získat pro ně dost hlasů, pokud jsou oblíbené a vazalové jsou s nimi spokojeni. Vnučky také nemohou být nominovány, pokud jejich matky stále žijí (jen ty smí být zařazeny na seznam kandidátů). 
 
+{:.map}
 hostina.jpg 
 
 Současná _lionnesse_ je Alazaïs lis Vierroix. Je to zkušená diplomatka a zručná šermířka, která nejednou vedla vojska císařství do boje a bila se v prvních řadách ve zlatém brnění (jak se na lvici sluší). Je již ve středních letech, ale je to stále krásná žena a o jejích údajných milostných aférách si cvrlikají vrabci na střeše a přisprostlí trubadůři v krčmách a nálevnách. Je v císařství oblíbena a poddaní ji upřímně podporují. 
 
 O její nástupkyni není ještě rozhodnuto, _lionnesse_ má tři dcery - rozvážná Vierna, odvážná Faïs a krásou dechberoucí Ermessenda - ale zatím ještě nikoho nejmenovala. Podle všeho vyčkává, která z dcer bude nejvhodnější jako budoucí vládkyně a nechává je soupeřit mezi sebou o svou přízeň. 
 
+{:.map}
 lvice.jpg 
 
 O bezpečnost _lionnesse_ a celého dvora se stará vybraná tělesná stráž, zvaná Lvice, vybíraná z předních rytířek císařství. Dívky, vybírané bez ohledu na původ a urozenost, jsou přísahou vázány chránit život panovnice nad svůj vlastní. Život panovnice chrání i ochočení lvi, kteří žijí v paláci v Étrepy, kteří často děsí velvyslance z cizích zemí, ale jsou milováni všemi poddanými. Podle legendy jsou tito lvi potomci ochočené lvice, která bojovala po boku Ágnes lis Vierroix na étrepských hradbách při odrážení útočníků. 
@@ -66,6 +72,7 @@ V císařství se produkují různé potravinářské produkty - olivový olej, 
 
 Díky tomu, že císařství má provincii na poledni za Vnitřním mořem, která sousedí se Zaskapurem, Žhnoucími písky, a kde končí obchodní trasy z Hlubokého poledne, může také importovat exotické zboží jako koření, barviva, kamenec, akáciovou gumu a slonovinu. Velice žádání jsou zaskapurští plnokrevníci. Oplátkou se do Zaskapuru dováží látky, řemeslné výrobky, brnění, meče, víno, hedvábí, obílí a potraviny.  
 
+{:.map}
 lov.jpg 
 
 Obchodníci z císařství musí soupeřit na jihu s obchodníky z Ligy a na severu s Hansou a jejími až pirátskými taktikami. Ne vždy se jim to daří a červené prapory obchodníků Hansy a galéry maelských obchodníků jsou v císařských přístavech poměrně běžnou událostí. Na mořích ale stále pluje početná flotily z modrozlatými císařskými prapory, která se odvažuje až do Ravnburghu na půlnoci a Tartassu na poledni.  
@@ -96,6 +103,7 @@ Lionnesse stále může povolat _arriere-ban_ , zbrojnou hotovost všech zdatný
 #### Jezdci 
 Císařství má stálou armádu v podobě _compagnies d'ordonnance_ . Ta sestává ze 40 _compagnies_ rozmístěných po celé zemi. Každou _compagnie_ tvoří 100 _lances fournies_ (kopí), bojových jednotek, které obsahují tři muže a šest koní. Byli to _gent d'armes_ (těžkooděný jezdec) s bitevním a jízdním koněm, _coutilier_ (lehkooděný jezdec) taktéž s ořem bitevním a jízdním, a _valet_ (sluha) s jízdním a nákladním koněm. 
 
+{:.map}
 gendarmes.jpg 
 
 Celkem tak může Lví císařství postavit do bitev stálou armádu o 400 kopí a celkem 12 000 mužích. Tato profesionální, dobře vycvičená a organizovaná síla je hlavní a nejobávanější silou císařství, schopná rozhodovat bitvy, porážet nepřátele a vítězit ve válkách. 
@@ -105,6 +113,7 @@ Aby posílili svou stálou armádu na taženích, najímají císařští na ta�
 #### Dělostřelectvo 
 Dělostřelectvo je elitní složkou císařské armády. Je součástí stálé armády a organizováno do _bandes d'artillerie_ . Císařští puškaři jsou zkušení, velice cenění a dobře placení. Lionnesse dává na rozvoj dělostřelectva velké sumy a císařští jsou známí především pro používání těžkých dělostřeleckých kusů (několikatunové _basilisque_ pro dobývání hradů a měst a těžké _coulevrine_ pro polní bitvy i obléhání). Naopak menší děla (_falconet_ , lehká polní děla, nebo _ribauldequiny_ , známé také jako 'varhany', které tvoří několik lehkých hlavní na jedné lafetě) nejsou v císařském vojsku tolik oblíbené. 
 
+{:.map}
 dela.jpg 
 
 Každá _bande d'artillerie_ je shromážděna okolo jednoho těžkého kusu děla (každé má své vlastní jméno a _bande d'artillerie_ se jmenuje po něm) a může být doplněna jedním nebo několika lehčími kusy. V současnosti má císařství 38 _bande d'artillerie_ (6 kusů _basilisque_ a 32 kusů _coulevrine_ ). Dohromady _bande d'artillerie_ tvoří nejméně dvacet mužů a žen, ale tyto počty jsou různorodé. Na každý kus děla v rámci bande je třeba počítat 2-3 puškaře (zpravidla mistra puškaře a učedníka nebo učedníky), 4-5 pomocníků (starající se o umístění děla), kováře nebo kameníka s pomocníkem (kteří vyrábí projektily), několik vozků, kteří se starají o volky nebo koně, a několik vojáků, kteří se starají o bezpečnost děla. 
@@ -115,5 +124,5 @@ Těžká jízda a dělostřelectvo jsou dvě hlavní složky císařského vojsk
 Těžká jízda je také schopna fungovat nezávisle a bojovat bez podpory dělostřelectva, vyhýbá se ale přímým útokům proti řadám pikenýrů. Snaží se využít své výhody proti slabým místům nepřátelských armád, ne bezhlavě útočit a být zničena. 
 
 ## Závěr 
-Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608). 
+Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
 _Pozn. Černobílý vzor pro erb (barevná kombinace je unikátní pro Ravnburgh) je použita z knihy A Complete Guide to Heraldry. Je k dispozici na internetu jako public image. Středověké ilustrace pochází z Přebohatých hodinek vévody z Berry (Très Riches Heures du Duc de Berry) a jsou také k dispozici na internetu jako public images. Fotografie a další ilustrace jsou také public images._
