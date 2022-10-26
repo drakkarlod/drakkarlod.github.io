@@ -28,7 +28,7 @@ Lvice pak porazila dvě další výpravy a dokud byla naživu, velekrálové se 
 Císařství se postupně z odbojného svazu měst stalo velmocí na západních arlatských hranicích, která soupeří s arlatskými velekráli o území a vliv. Oba státy se v minulosti mnohokráte svářily a hranice se posouvaly tam i zpět. Lví císařství je rozlohou jen asi poloviční, ale arlatská léna netvoří dohromady jednotný centralizovaný stát. Je to soubor několika království, knížetství a svobodných měst, a arlatský velekrál už v současnosti má jen pramalou reálnou moc. Díky tomu často Lví císařství bojuje za více než rovných podmínek a zvítězili díky kvalitě svých rytířů v mnoha válkách s různými soupeři mezi arlatskými lény.  
 
 {:.map}
-panstvo.jpg 
+![panstvo.jpg]({{site.baseurl}}/88/panstvo.jpg)
 
 V dobách slabosti Zaskapuru obsadilo císařství pobřežní města na jižní straně Vnitřního moře, hlavní mezi nimi legendami opředené město Vyqtis, a do _Décapole_ odsud proudí bohatství z Dalekého Poledne. V poslední době se ale sjednocená zaskapurská moc obrátila proti císařství a zaskapurská vojska zaútočila nejen na pobřežní města, ale zároveň se vylodila na jihu císařství samotného. 
 
