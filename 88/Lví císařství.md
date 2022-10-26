@@ -73,7 +73,7 @@ V císařství se produkují různé potravinářské produkty - olivový olej, 
 Díky tomu, že císařství má provincii na poledni za Vnitřním mořem, která sousedí se Zaskapurem, Žhnoucími písky, a kde končí obchodní trasy z Hlubokého poledne, může také importovat exotické zboží jako koření, barviva, kamenec, akáciovou gumu a slonovinu. Velice žádání jsou zaskapurští plnokrevníci. Oplátkou se do Zaskapuru dováží látky, řemeslné výrobky, brnění, meče, víno, hedvábí, obílí a potraviny.  
 
 {:.map}
-lov.jpg 
+![lov.jpg]({{site.baseurl}}/88/lov.jpg)
 
 Obchodníci z císařství musí soupeřit na jihu s obchodníky z Ligy a na severu s Hansou a jejími až pirátskými taktikami. Ne vždy se jim to daří a červené prapory obchodníků Hansy a galéry maelských obchodníků jsou v císařských přístavech poměrně běžnou událostí. Na mořích ale stále pluje početná flotily z modrozlatými císařskými prapory, která se odvažuje až do Ravnburghu na půlnoci a Tartassu na poledni.  
 
