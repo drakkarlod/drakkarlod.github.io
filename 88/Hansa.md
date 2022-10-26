@@ -74,6 +74,9 @@ _Východní okruh:_ **Fairhurst-on-Sea**, Egeham, King's Lynn, Oswetry, Hawkford
 ## Hansa v Ravnburghu 
 Ravnburgh je velký obchodní uzel Hansy a jedno z vůdčích měst Dračích moří. Skutečnou moc ve městě má městská rada, jejíž členové jsou zpravidla nejbohatší kupci ve městě. Vzhledem k tomu, že většina kupců a představitelů cechů jsou členové Hansy, má spolek ve městě velký vliv, často do té míry, že se mezi městskou radu a Hansu dává rovnítko. O většině věcí ve městě víceméně rozhoduje Hansa a moc drží převážně ravnburští kupci a cechy. 
 
+{:.map}
+![Obchodní koga]({{site.baseurl}}/88/koga.jpg)
+
 Nebývalo tak tomu ale vždy. Ve městě je mnoho těch, kteří buď zůstávají věrní rodu Lochbearerů, potají nesnáší Hansu, nebo by profitovali ze změny vlády. Potají si říkají „loajalisté" a ze stínů usilují o dosazení earlů zpět do čela města. Do jisté míry je Lochbearerové ovlivňují, do jisté míry ale spiklenci jednají na vlastní pěst a pokoušejí se je dosadit k moci i proti jejich vůli. 
 
 Představitelem ravnburské Hansy je Oswyn Marchefort, a v jeho nepřítomnosti jej zastupuje Tobias Mowfurth, který je také hlavním advokátem a vykladatelem hansovního práva. Budovy a sklady Hansy hlídá jejich vlastní stráž, kterou vede kapitán Arthur Trebonwell. Hansa si také platí žoldnéřskou skupinu zvanou Mořští vlci, která má ve městě sídlo, a jíž je Hansa výlučným zaměstnavatelem. Ta chrání jejich lodi a loví piráty. 
