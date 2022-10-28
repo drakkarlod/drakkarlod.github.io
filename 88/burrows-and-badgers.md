@@ -25,8 +25,8 @@ Některé druhy jsou vzácné a můžete tak mít jen jeden takový exemplář. 
 
 Když jste najali vhodnou zvířenu a nakoupili svým bojovníkům vybavení, můžete se přihlásit k některé z Northymberských frakcí. V základní příručce jsou celkem čtyři. Loyalisté – ti kdož jsou věrní králi a žijí feudálním způsobem života; Volná Zvěř – ti kdož žijí v obchodních republikách na jihu, kde se každý musí postarat sám o sebe a protřelé lišky vedou místní mafii; Divoká Zvěř – ti kdož se hlásí ke klanovému společenství a žijí v divoké a drsné přírodě svobodně, bez královského dozoru; Tuláci – lapkové, zloději a lupiči. Frakce vám dávají bonus při stavbě tlupy, umožňují výběr doupěte a omezují přístup k magii. Každá frakce má přístup k některým ze šesti škol magie.
 
+![Burrows & Badgers]({{site.baseurl}}/88/bb01.jpg)
 
-<![endif]-->
 
 **Systém**
 
@@ -39,6 +39,8 @@ Zmíněné dovednosti jsou poměrně výrazné. Jsou rozděleny do několika kat
 Významný aspekt hry představuje také magie. Kouzelník si vybírá školu kouzel a při tvorbě tlupy si za penízky nakoupí kouzla, která umí. Platí, že kouzelníci jsou měkké cíle. Každé kouzlo, které se naučí z něho dělá horšího bojovníka pro boj z blízka. Je to ale férová výměna protože kouzla mohou mít velký vliv na hru. Kouzelníci v Burrows & Badgers nejsou všemocní metači ohnivých koulí. Ne, že by to nešlo ale spíše jsou užiteční v podpůrných rolích. Zrychlují pohyb, posilují nebo léčí spojence, případně ztěžují boj nepřátelům kletbami. V této roli jsou kouzelníci takřka nepostradatelní.
 
 Velmi zajímavá je také mechanika „Dokonalého hodu“. Jedná se o variaci na kritický zásah. Pokud hráč v rozhozu hodí nejvyšší číslo příslušné kostky (tedy třeba 8 na d8 nebo 6 na d6), přičítá se k hodu +7. Jedná se o pravidlo, které je buď naprosto brilatní nebo úplný nesmysl, podle toho, na které straně kostky se nacházíte. Vyplívá z něj totiž, že čím větší máte kostku, tím menší máte šanci na dokonalý hod. Pokud bojuje divoká kočka s myší, útočí tak svou k10 Strike proti k4 Block nebohé myšky. Kočka má vyšší průměrný hod a výrazně větší rozsah, nicméně má jen 10% šanci na dokonalý hod. Oproti tomu myška má 25% šanci, že jí padne 11 (4+7) a ubrání se tak jakémukoli „nekritickému“ útoku divoké kočky. Díky tomu mají i malé bytosti určitou, byť nevelkou šanci ublížit velkému jezevci nebo se hrdinsky bránit.
+
+![Burrows & Badgers]({{site.baseurl}}/88/bb02.jpg)
 
 
 **Kampaňový systém**
