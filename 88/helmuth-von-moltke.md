@@ -24,6 +24,8 @@ Jako stěžejní pro jeho život se však ukázal dvouletý pobyt v Istanbulu na
 
 Magie se mu i nejméně jednou stala téměř osudnou. V roce 1839 se při svém pobytu v Istanbulu zúčastnil bojů proti Egypťanům, vedených Ibrahímem Pašou. Po Bitvě u Násibu, kde byla osmanská armáda rozprášena, si zázračně probojoval cestu do Černého moře, přičemž pronásledující egyptskou flotilu na jeho _prosbu_ zničila nečekaná bouře. Není zcela zřejmé, co kapitán von Moltke silám z jiných rovin existence slíbil, ale jeho ochránce sultán Mahmut II. téhož dne zemřel a on sám se do Pruska vrátil s velmi podlomeným zdravím.
 
+![TUHÝ, Bohumír, Jiří ŠRAMAR a Josef ŠRÁMEK. Prusko-rakouská válka roku 1866: výzbroj a výstroj: Preußisch-Österreichischen Krieg von 1866: Waffen und Ausrüstung = The Austro-Prussian War 1866: weaponry and equipment. V Hradci Králové: Muzeum východních Čech, 2015. ISBN 978-80-87686-11-9.]({{site.baseurl}}/88/Kriz.jpg)
+
 Po návratu z Turecka byl nejprve povýšen na majora a během několika let do hodnosti generálmajora a poté generálplukovníka. Zázračně se plně zotavil a stal se náčelníkem generálního štábu pruské armády. I jeho osobní život rozkvetl, neboť si vzal neuvěřitelně krásnou a bohatou dívku Marii Helenu Burt.
 
 Jeho záběr byl po celý život neuvěřitelně široký. Von Moltke se zajímal o vše. O techniku, umění i magii. V Pruské armádě prosadil přezbrojení na tzv. jehlovky, tedy pušek nabíjených zezadu, využívající papírové nábojnice, díky kterým může střelec v leže vystřelit i sedm ran za minutu. V pruské armádě pak pod jeho velením vznikla nová tajná vojenská jednotka „Oberste Befehlseinheit“, tedy „Jednotka nejvyššího příkazu“ složená z mágů, které osobně vybral a vyškolil v orientální magii. Tato jednotka spolu s jehlovkami převážila bitvu u Hradce Králové na stranu Pruska a rozhodla o výsledku celé války.
@@ -50,6 +52,9 @@ Jeho celý život je lemován úspěchy, neuvěřitelným štěstím v boji i mi
 - Šerm 1
 - Střelba 1
 - Mechanika 1
+
+![TUHÝ, Bohumír, Jiří ŠRAMAR a Josef ŠRÁMEK. Prusko-rakouská válka roku 1866: výzbroj a výstroj: Preußisch-Österreichischen Krieg von 1866: Waffen und Ausrüstung = The Austro-Prussian War 1866: weaponry and equipment. V Hradci Králové: Muzeum východních Čech, 2015. ISBN 978-80-87686-11-9.]({{site.baseurl}}/88/Helma.jpg)
+
 
 ## Zápletky
 - Helmuth Von Moltke může být osobou, která postavě bude zadávat úkoly, nebo může být velmi zdatným a mocným protivníkem.
