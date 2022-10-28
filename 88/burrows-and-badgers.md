@@ -50,3 +50,33 @@ Také mohou vaši bojovníci vyrážet „na melouchy“. Je to náhodná tabulk
 Ve všech kampaňových válečných hrách je těžké zajistit aby mělo smysl bojovat slabší družinou (tou, které se třeba pár her nedařilo) proti silnější družině na vyšších úrovních. Burrows & Badgers to řeší zejména tím, že slabšímu umožňuje více přehozů nebo jeho přeživší získávají za tuto hru zkušenosti navíc. Průšvih je, že jen přeživší mohou jít na melouchy a jen přeživší dostanou zkušenosti navíc. Pokud by tedy silnější oponent chtěl hráči hru znechutit a měl k tomu třeba i trochu štěstí, může se snažit pobít co nejvíce bojovníků ze slabší tlupy. Pak má velkou šanci že vyhraje scénář a přežije mu i dost modelů, které může poslat na melouchy. Oproti tomu poražený má méně modelů na melouchy, čímž se nůžky ještě více otevírají.
 
 Pokud bychom tak přistupovali ke kampani tak, jak je napsaná, slabšímu hráči by se vyplatilo nastoupit ke hře a v prvním kole se vzdát. Tím zachová všechny modely při životě, všechny pošle na melouchy a získá zkušenosti navíc. Ale takhle se hry s přáteli nehrají. V každém případě je kampaňový systém vždy velmi příjemná změna a osvěžení. Navíc je zdrojem mnoha krásných příběhů a interakcí.
+
+<div class="sidebar" markdown="1">
+**Verdikt**
+Hra je zábavná a rychle odsýpá. Obsahuje množství proměnných a má poměrně hluboký taktický systém. Přesto je často náchylná na nevyzpytatelné kostky. 
++ fantasy zvířátka
++ jednoduchý ale komplexní systém
++ nízké vstupní náklady
++ příjemná komunita
+- silný vliv náhody
+- křehká rovnováha kampaňového systému
+**8/10**</div>
+
+
+**Autorská podpora a rozšíření**
+
+Mnoho her končí na tom, že dlouhodobě nemají podporu. Burrows & Badgers není ten případ. Michael Lovejoy aktivně spravuje Facebookovou skupinu. On sám je nejen autorem pravidel ale také výrobcem a sculptorem modelů. V pravidelných intervalech vydává přes Kickstarter tematické bloky modelů zvířátek. Zmíněná Facebooková skupina je jedno z nejpříjemnějších míst internetu. Michael systematicky lajkuje každý nabarvený model a každé otázce na pravidla se věnuje.
+
+Kromě základní příručky byla ještě vydána kampaňová kniha pro dva hráče The Warren Percy Affair. Pro lepší nasátí atmosféry existují také souhrny novinových článků z Northybrie Sternpaw's Almanach – zatím vyšly dva. Autor se zmínil, že již pracuje na dalším rozšíření s dalšími frakcemi. Ty však zatím vychází jen jako betaverze ke stažení.
+
+<div class="sidebar" markdown="1">
+**Užitečné odkazy:**
+Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/
+Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share
+WASP blog - https://wargamingasp.blogspot.com/
+
+</div>
+
+**Komunita u nás**
+
+Česká komunita hráčů Burrows & Badgers stále roste. Nemalý dík za to patří Michalu Mančařovi, který neoblomně prezentuje jezevce na GameConu už několik let. Na mezinárodním Discord Serveru je české vlákno #nory-a-jezevci. Už nějakou dobu hrajeme kampaň a čas od času naplánujeme nějakou tu jezevčí akci nebo alespoň hromadnou objednávku. Začít hrát Burrows & Badgers je tedy velmi snadné i u nás, přestože jsou hráči stále závislí na nákupu přes internet. Výhodou je, že při nákupu základní příručky přímo z webu autora dostanete zdarma svou první myš. Pak už vám stačí jen pár dalších modelů a můžete se směle pustit do hry. Ve srovnání s jinými válečnými hrami je vstupní bariéra opravdu nízká.
