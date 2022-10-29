@@ -75,19 +75,20 @@ Nech už je kvalita malých hier, nosná mechanika či téma akákoľvek, všetk
 Tu môžme spomenúť, že aj mnohé veľké tituly (z poslednej doby napríklad ROOT RPG) zlyhávajú v snahe vysvetliť, ako sa také hry na hrdinov hrajú a spoliehajú sa na fakt, že podklady k tomu, ako také RPG hry vlastne hrať, sú dostupné na internete v podobe článkov a predovšetkým priamych videoukážok. Pozornejší čitateľ potom dokáže odhaliť um autora RPG pravidiel, ktorý sa ukazuje bez ohľadu na rozsah zapisaných strán a v prípade malých hier je urgencia vnímať tento faktor o to väčšia. Niektoré malé RPG hry boli vyslovene písané ako vstupná brána do sveta veľkých hier. Iné sa zameriavajú na konkrétnu emóciu (Dread), či dokonca konkrétny typ strachu (Cthulhu Dark). Malé hry takmer bez rozdielu umožňujú hráčom sadnúť za stôl a začať hrať doslova minúty po prečítaní pravidiel, bez nutnosti väčšej prípravy, a to vrátane vedúceho hry, ak takého hra vôbec potrebuje. Populárne slovné spojenie “play to find out”, ktoré preslávila rodina hier Powered by the Apocalypse, má tak svoje základy v systémoch, ktoré samé o sebe nemajú svojim veľkým náprotivkom čím konkurovať. Akurát, že niekedy skutočne nemáme chuť na bohatú večeru o troch chodoch, dezert a víno z bohatej vinotéky, na ktoré sa treba pripravovať päť dní dopredu. Niekedy máme chuť vyjsť s kamošmi len tak na hamburger, dať si kolu a užiť si spoločný čas. A strčíme do toho burgeru tabuľku čokolády, ktovie, možno to bude dobré. A ak nie, nebude nás to stáť veľa peňazí ani času a máme aspoň o zážitok viac.
 
 ### Zdroje
-https://www.polygon.com/tabletop-games/22585254/honey-heist-grant-howitt-one-page-rpg <br> 
-https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_rulebooks#Dungeons_&_Dragons_5th_edition <br> 
-https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_adventures#5th_edition <br> 
-https://professionalwargaming.co.uk/MSandTReportVol32Issue62015.pdf <br> 
-https://odd74.proboards.com/thread/11146/fkr <br> 
-https://kriegsspielorg.wordpress.com/ <br> 
-https://www.armchairdragoons.com/articles/research/nineteenth-century-military-war-games-lieutenant-von-reisswitzs-kriegsspiel/ <br> 
-https://www.reddit.com/r/rpg/comments/lvcjqz/a_brief_introduction_to_the_emerging_fkr_free/ <br> 
-https://www.scifi.sk/hry/4154/Risus__The_Anything_RPG.html <br> 
-http://www.onesevendesign.com/laserfeelings/ <br> 
-https://www.goodreads.com/book/show/18074446-the-quiet-year <br> 
-https://writingalchemy.net/resources/lasers-and-feelings-hacks/ <br> 
-https://www.technicalgrimoire.com/ <br> 
-https://200wordrpg.github.io/ <br> 
-https://noroadhome.itch.io/alone-among-the-stars <br> 
-https://magpiegames.com/pages/root-rpg <br> 
+- https://www.polygon.com/tabletop-games/22585254/honey-heist-grant-howitt-one-page-rpg
+- https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_rulebooks#Dungeons_&_Dragons_5th_edition 
+- https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_adventures#5th_edition
+- https://professionalwargaming.co.uk/MSandTReportVol32Issue62015.pdf
+- https://odd74.proboards.com/thread/11146/fkr
+- https://kriegsspielorg.wordpress.com/
+- https://www.armchairdragoons.com/articles/research/nineteenth-century-military-war-games-lieutenant-von-reisswitzs-kriegsspiel/
+- https://www.reddit.com/r/rpg/comments/lvcjqz/a_brief_introduction_to_the_emerging_fkr_free/
+- https://www.scifi.sk/hry/4154/Risus__The_Anything_RPG.html
+- http://www.onesevendesign.com/laserfeelings/
+- https://www.goodreads.com/book/show/18074446-the-quiet-year
+- https://writingalchemy.net/resources/lasers-and-feelings-hacks/
+- https://www.technicalgrimoire.com/
+- https://200wordrpg.github.io/
+- https://noroadhome.itch.io/alone-among-the-stars
+- https://magpiegames.com/pages/root-rpg
+
