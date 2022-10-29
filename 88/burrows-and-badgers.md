@@ -15,10 +15,9 @@ Burrows & Badgers není jako jiné válečné hry. Jedná se o malou bojůvku, v
 
 V království žije množství antropomorfních zvířat, kde nejmenší jsou rejsci a myši a největší pak jezevci, bobři nebo psi. Jinak se jedná o celkem tradiční fantasy meče a magie s občasným použitím střelného prachu. Najdeme tady také prvky různých dalších estetických stylů, včetně nově vydaných městských gangů po vzoru Gangů New Yorku, viktoriánské Anglie nebo francouzských městských Apačů.
 
-{:.map} 
 ![Burrows & Badgers]({{site.baseurl}}/88/bblogo.jpg)
 
-**Stavba Tlupy**
+## Stavba Tlupy
 
 Jedna z nejdůležitějších věcí v každé hře s jednotlivými modely je způsob skladby armády/gangu/tlupy. Burrows & Badgers vám dává značnou svobodu ve výběru vašich bojovníků. Základní tlupa se staví na 350 penízků (pennies). Nejste limitováni rasou ani frakcí, počtem kouzelníků ani ničím jiným než jejich velikostí. Nesmíte mít více než 3 Masivní zvířata, což je samo o sobě obtížné protože takový bobr nebo jezevec v plné výzbroji zabere skoro polovinu vašich počátečních penízků. Průměrná velikost počáteční tlupy je 4-6 zvířat, podle velikosti a výzbroje.
 
@@ -29,7 +28,7 @@ Když jste najali vhodnou zvířenu a nakoupili svým bojovníkům vybavení, m�
 ![Burrows & Badgers]({{site.baseurl}}/88/bb01.jpg)
 
 
-**Systém**
+## Systém
 
 Hra se hraje velice jednoduše. Hráči se střídají v aktivaci po jednom modelu. Každý model může vykonávat jednu akci (Sprint, Útok, Střelba, Kouzlení, Schovávání, Hledání). Každá tato akce obsahuje základní pohyb. Sprint tak znamená, že se zvíře pohne 2x o svůj základní pohyb v palcích. Akce Útok znamená, že se zvíře pohne o svůj základní pohyb a pak zaútočí atd.
 
@@ -44,7 +43,7 @@ Velmi zajímavá je také mechanika „Dokonalého hodu“. Jedná se o variaci 
 ![Burrows & Badgers]({{site.baseurl}}/88/bb02.jpg)
 
 
-**Kampaňový systém**
+## Kampaňový systém
 
 Autor několikrát zmínil, že kampaňový systém je to, v čem jeho hra skutečně zazáří. Já bych v tomto bodě až tak optimistický nebyl. Kampaňový systém má silné RPG prvky. Postavy sbírají zkušenosti za plnění úkolů ve scénářích. Za zkušenosti se zlepšují – rostou jim atributy, dostávají dovednosti, učí se kouzla. Mimo bitvy mohou pracovat na doupěti, čímž získávají "body dřiny", za které se pak mohou stavět vylepšení společného doupěte družiny. Tato vylepšení pak zase ovlivňují ekonomiku družiny nebo rozšiřují možnosti při dalších postupech na úrovních.
 
@@ -62,23 +61,24 @@ Hra je zábavná a rychle odsýpá. Obsahuje množství proměnných a má pomě
 + nízké vstupní náklady
 + příjemná komunita
 - silný vliv náhody
-- křehká rovnováha kampaňového systému
+- křehká rovnováha kampaňového systému <br>
 **8/10**
 </div>
 
-**Autorská podpora a rozšíření**
+## Autorská podpora a rozšíření
 
 Mnoho her končí na tom, že dlouhodobě nemají podporu. Burrows & Badgers není ten případ. Michael Lovejoy aktivně spravuje Facebookovou skupinu. On sám je nejen autorem pravidel ale také výrobcem a sculptorem modelů. V pravidelných intervalech vydává přes Kickstarter tematické bloky modelů zvířátek. Zmíněná Facebooková skupina je jedno z nejpříjemnějších míst internetu. Michael systematicky lajkuje každý nabarvený model a každé otázce na pravidla se věnuje.
 
 Kromě základní příručky byla ještě vydána kampaňová kniha pro dva hráče The Warren Percy Affair. Pro lepší nasátí atmosféry existují také souhrny novinových článků z Northybrie Sternpaw's Almanach – zatím vyšly dva. Autor se zmínil, že již pracuje na dalším rozšíření s dalšími frakcemi. Ty však zatím vychází jen jako betaverze ke stažení.
 
+## Komunita u nás
+
+Česká komunita hráčů Burrows & Badgers stále roste. Nemalý dík za to patří Michalu Mančařovi, který neoblomně prezentuje jezevce na GameConu už několik let. Na mezinárodním Discord Serveru je české vlákno #nory-a-jezevci. Už nějakou dobu hrajeme kampaň a čas od času naplánujeme nějakou tu jezevčí akci nebo alespoň hromadnou objednávku. Začít hrát Burrows & Badgers je tedy velmi snadné i u nás, přestože jsou hráči stále závislí na nákupu přes internet. Výhodou je, že při nákupu základní příručky přímo z webu autora dostanete zdarma svou první myš. Pak už vám stačí jen pár dalších modelů a můžete se směle pustit do hry. Ve srovnání s jinými válečnými hrami je vstupní bariéra opravdu nízká.
+
 <div class="sidebar" markdown="1">
 **Užitečné odkazy:** <br>
-Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/
-Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share
+Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/ <br>
+Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share <br>
 WASP blog - https://wargamingasp.blogspot.com/
 </div>
 
-**Komunita u nás**
-
-Česká komunita hráčů Burrows & Badgers stále roste. Nemalý dík za to patří Michalu Mančařovi, který neoblomně prezentuje jezevce na GameConu už několik let. Na mezinárodním Discord Serveru je české vlákno #nory-a-jezevci. Už nějakou dobu hrajeme kampaň a čas od času naplánujeme nějakou tu jezevčí akci nebo alespoň hromadnou objednávku. Začít hrát Burrows & Badgers je tedy velmi snadné i u nás, přestože jsou hráči stále závislí na nákupu přes internet. Výhodou je, že při nákupu základní příručky přímo z webu autora dostanete zdarma svou první myš. Pak už vám stačí jen pár dalších modelů a můžete se směle pustit do hry. Ve srovnání s jinými válečnými hrami je vstupní bariéra opravdu nízká.
