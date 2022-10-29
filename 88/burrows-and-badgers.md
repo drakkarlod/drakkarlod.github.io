@@ -63,8 +63,8 @@ Hra je zábavná a rychle odsýpá. Obsahuje množství proměnných a má pomě
 + příjemná komunita
 - silný vliv náhody
 - křehká rovnováha kampaňového systému
-**8/10**</div>
-
+**8/10**
+</div>
 
 **Autorská podpora a rozšíření**
 
@@ -77,7 +77,6 @@ Kromě základní příručky byla ještě vydána kampaňová kniha pro dva hr�
 Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/
 Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share
 WASP blog - https://wargamingasp.blogspot.com/
-
 </div>
 
 **Komunita u nás**
