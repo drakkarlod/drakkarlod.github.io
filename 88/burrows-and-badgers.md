@@ -55,7 +55,7 @@ Ve všech kampaňových válečných hrách je těžké zajistit aby mělo smysl
 Pokud bychom tak přistupovali ke kampani tak, jak je napsaná, slabšímu hráči by se vyplatilo nastoupit ke hře a v prvním kole se vzdát. Tím zachová všechny modely při životě, všechny pošle na melouchy a získá zkušenosti navíc. Ale takhle se hry s přáteli nehrají. V každém případě je kampaňový systém vždy velmi příjemná změna a osvěžení. Navíc je zdrojem mnoha krásných příběhů a interakcí.
 
 <div class="sidebar" markdown="1">
-**Verdikt**
+**Verdikt** <br>
 Hra je zábavná a rychle odsýpá. Obsahuje množství proměnných a má poměrně hluboký taktický systém. Přesto je často náchylná na nevyzpytatelné kostky. 
 + fantasy zvířátka
 + jednoduchý ale komplexní systém
@@ -73,7 +73,7 @@ Mnoho her končí na tom, že dlouhodobě nemají podporu. Burrows & Badgers nen
 Kromě základní příručky byla ještě vydána kampaňová kniha pro dva hráče The Warren Percy Affair. Pro lepší nasátí atmosféry existují také souhrny novinových článků z Northybrie Sternpaw's Almanach – zatím vyšly dva. Autor se zmínil, že již pracuje na dalším rozšíření s dalšími frakcemi. Ty však zatím vychází jen jako betaverze ke stažení.
 
 <div class="sidebar" markdown="1">
-**Užitečné odkazy:**
+**Užitečné odkazy:** <br>
 Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/
 Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share
 WASP blog - https://wargamingasp.blogspot.com/
