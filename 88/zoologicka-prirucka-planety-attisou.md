@@ -3,10 +3,9 @@ layout: article
 title: Zoologická Příručka planety Attisou
 authors: kin
 tags: materiály a doplňky, inspirace
+summary: Planeta je známá nižší gravitací než má Země, hustou atmosférou a velmi činnou biosférou. Tato kombinace dala vzniknout velmi různorodé fauně i floře, kde mnoho z druhů dorostlo gigantických rozměrů právě díky nižší gravitaci, která vládne na planetě. Tu využívá i mnohá zvěř přesouvající se letem, plachtěním či extrémně dlouhými skoky.
 hide: true
 ---
-
-Planeta je známá nižší gravitací než má Země, hustou atmosférou a velmi činnou biosférou. Tato kombinace dala vzniknout velmi různorodé fauně i floře, kde mnoho z druhů dorostlo gigantických rozměrů právě díky nižší gravitaci, která vládne na planetě. Tu využívá i mnohá zvěř přesouvající se letem, plachtěním či extrémně dlouhými skoky.
 
 Planeta je kopcovitá s hustými lesy, často složených z gigantických mimozemských sekvojí. V nížinách jsou vlhké mokřady porostlé vysokou trávou a zakryté hustou mlhou. Na obloze září modrá hvězda, Damballa Wedo, kterou planeta obíhá a má týdenní denní/noční cyklus. V noční fázi se planeta nádherně rozzáří, jelikož zdejší fauna i flora během dlouhé noci hodně spoléhá na bioluminiscenci. Planeta je vyhlášená svou dravou megafaunou, té se ale budeme věnovat jindy. Nyní si probereme ty “menší” druhy.
 
