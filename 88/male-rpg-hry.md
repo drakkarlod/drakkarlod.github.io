@@ -6,28 +6,30 @@ tags: 'historie, inspirace, '
 summary: >-
   RPGčky boli vždy vnímané ako dlhodobé hobby. Keď im človek prepadne a začne
   objavovať ich nedozierne možnosti, stratí sa v bezodnej diere plnej modulov,
-  svetov, doplnkov, miniatúr a tabuliek. Len pre piatu edíciu Dungeons & Dragons
-  vzniklo od roku 2014 vyše 23 oficiálnych dobrodružných modulov odohrávajúcich
-  sa v rôznych svetoch. A kníh, ktoré upravujú alebo aktualizujú pravidlá je
-  rovno šesť, čo je 2368 strán nie práve najredšieho textu. Len pre zaujímavosť,
-  preklad Svätého Písma od Boteka má 2583 strán.
-
-  Aj keď si odmyslíme bohaté ilustrácie v príručkách, ide o značné kvantum
-  textu, ktoré sa hráči síce nemusia naučiť hneď a už vôbec ich nemusia k hraniu
-  vedieť všetky, ale ak sa chcú ponoriť do istej sféry svojej obľúbenej hry
-  naplno, možností majú až strašidelné množstvo. Pritom spomínam iba D&D. Iné
-  tituly s podobne košatou históriou sa tešia porovnateľnej podpore zo strany
-  vydavateľov aj fanúšikov, ktorí na dennom poriadku vytvárajú viac či menej
-  podarené doplnky rôzneho rozsahu.
-
-  Či už vplyvom okolností, osobného prístupu alebo jednoducho hľadaním "toho
-  pravého systému", si mnohí hráči (a čo si budeme klamať, hlavne Dungeon
-  Mastri) položili otázku, koľko strán pravidiel skutočne treba na to, aby sa
-  mohli ponoriť do obľúbeného fiktívneho sveta. Sto strán? Päťdesiat? Dvadsať?
-  Tri? Jedna? Zmestí sa hra do rozsahu tweetu? (Na počiatku Twittera mala správa
-  rozsah 140, neskôr bola rozšírená na 280 znakov.)
+  svetov, doplnkov, miniatúr a tabuliek.
 published: true
 ---
+Len pre piatu edíciu Dungeons & Dragons
+vzniklo od roku 2014 vyše 23 oficiálnych dobrodružných modulov odohrávajúcich
+sa v rôznych svetoch. A kníh, ktoré upravujú alebo aktualizujú pravidlá je
+rovno šesť, čo je 2368 strán nie práve najredšieho textu. Len pre zaujímavosť,
+preklad Svätého Písma od Boteka má 2583 strán.
+
+Aj keď si odmyslíme bohaté ilustrácie v príručkách, ide o značné kvantum
+textu, ktoré sa hráči síce nemusia naučiť hneď a už vôbec ich nemusia k hraniu
+vedieť všetky, ale ak sa chcú ponoriť do istej sféry svojej obľúbenej hry
+naplno, možností majú až strašidelné množstvo. Pritom spomínam iba D&D. Iné
+tituly s podobne košatou históriou sa tešia porovnateľnej podpore zo strany
+vydavateľov aj fanúšikov, ktorí na dennom poriadku vytvárajú viac či menej
+podarené doplnky rôzneho rozsahu.
+
+Či už vplyvom okolností, osobného prístupu alebo jednoducho hľadaním "toho
+pravého systému", si mnohí hráči (a čo si budeme klamať, hlavne Dungeon
+Mastri) položili otázku, koľko strán pravidiel skutočne treba na to, aby sa
+mohli ponoriť do obľúbeného fiktívneho sveta. Sto strán? Päťdesiat? Dvadsať?
+Tri? Jedna? Zmestí sa hra do rozsahu tweetu? (Na počiatku Twittera mala správa
+rozsah 140, neskôr bola rozšírená na 280 znakov.)
+
 ## Korene
 Tento článok sa nebude venovať histórii RPG hier ako takej, ale ako duchovného otca malých RPG hier spomeniem hru Kriegsspiel, ktorú v roku 1824 predstavil svetu Georg Heinrich Leopold Freiherrn von Reisswitz. Ide v podstate o pozičnú strategickú hru, ktorá sa odohráva na stole a obsahuje strašidelné tabuľky s pravidlami pre základné fungovanie pohybu jednotiek. Oproti iným stolným hrám, kde čo nie je v pravidlách, je nemožné vykonať, sú v Kriegsspiel dôsledky rozohrávanej partie predmetom rozhodnutia Rozhodcu. Ten sa snaží simulovať dôsledky rozhodnutí s čo najlepším svedomím a logickým úsudkom s prihliadnutím na okolnosti. Samozrejme, takáto úloha so sebou prináša aj nutnosť mať vysoko kvalifikovaného rozhodcu, ktorý dokáže rozhodnutia prinášať rýchlo, realisticky a konzistentne, aby sa nestalo, že rovnaká situácia bude vyhodnotená s rôznym výsledkom. Kvalitný rozhodca však zaberá iba jednu stranu stola, a tak nemenej nutnou podmienkou pre fungovanie hier typu Kriegspiel (v našom prípade Free Kriegspiel Rennaissance) je aj nastavenie hráčov, ktorí vysokou mierou dôverujú rozhodcovi a stavajú svoje rozhodnutia na jeho objektívnom úsudku.
 
@@ -91,4 +93,3 @@ Tu môžme spomenúť, že aj mnohé veľké tituly (z poslednej doby napríklad
 - https://200wordrpg.github.io/
 - https://noroadhome.itch.io/alone-among-the-stars
 - https://magpiegames.com/pages/root-rpg
-
