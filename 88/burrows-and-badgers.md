@@ -56,12 +56,19 @@ Pokud bychom tak přistupovali ke kampani tak, jak je napsaná, slabšímu hrá�
 <div class="sidebar" markdown="1">
 **Verdikt** <br>
 Hra je zábavná a rychle odsýpá. Obsahuje množství proměnných a má poměrně hluboký taktický systém. Přesto je často náchylná na nevyzpytatelné kostky. 
-+ fantasy zvířátka
-+ jednoduchý ale komplexní systém
-+ nízké vstupní náklady
-+ příjemná komunita
-- silný vliv náhody
-- křehká rovnováha kampaňového systému <br>
+
+'+ fantasy zvířátka
+
+'+ jednoduchý ale komplexní systém
+
+'+ nízké vstupní náklady
+
+'+ příjemná komunita
+
+'- silný vliv náhody
+
+'- křehká rovnováha kampaňového systému <br>
+
 **8/10**
 </div>
 
@@ -81,4 +88,3 @@ Oathsworn Miniatures - https://www.oathswornminiatures.co.uk/ <br>
 Facebooková Stránka - https://www.facebook.com/groups/burrowsandbadgers/?ref=share <br>
 WASP blog - https://wargamingasp.blogspot.com/
 </div>
-
