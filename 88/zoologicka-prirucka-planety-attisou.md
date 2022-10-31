@@ -48,17 +48,17 @@ To je jeho největší výhodou, protože není moc rychlý, a když je převrá
 
 Krabopodi dokáží lovit ve smečkách, ale nejsou nijak organizování. Spíš se nechávají na pokoji, než aby společně kooperovali.
 
-#### MOSH statistiky:
+### MOSH statistiky
 
-Boj: 35, Intuice: 25, Životy: 20(4), Zbroj(AP): 5 (nezničitelná)
+Boj: 35, Intuice: 25, Životy: 20(4), Zbroj(AP): 5 (nezničitelná)  
 
-Útoky:
+#### Útoky:
 
 - Přední čepele:  2k10[+] zranění.
 - Náraz 1k10 zranění a sražení na zem.
 - Čelisti  1 Život. Pouze na cíle na zemi.
 
-#### Jak je potkáte? d10 table
+### Jak je potkáte? d10 tabulka
 
 - 1 - 5 - 1d5 Krabopodů se neúnavně pohybuje krajinou a hledá kořist
 - 6 - 9 - 1d5 Krabopodů hoduje na velkém úlovku
@@ -96,16 +96,16 @@ A v této fázi se dostáváme k poslední skládačce jejího jména.
 Zářící se jí říká proto, že její trávicí trakt má bioluminiscenční vlastnost. Když je tedy nakrmená, celý se rozzáří. V tu chvíli Olihně zase stoupají do vzduchu, aby mohly trávit v bezpečí.  
 A jelikož se často nacházejí ve větších smečkách, na obloze to vytváří na pohled úchvatné různobarevné obrazce a kreace.
 
-#### MOSH statistiky:
+### MOSH statistiky
 
 Boj: 85 (volný pád) / 15 (na zemi), Intuice: 20 Životy: 5(1)
-Útok:
 
-Volný pád zobákem 1k5 Životů. Záchrana na Tělo, pokud neúspěch tak omráčení na 1k10 hodin. Tento útok může provést jen jedno a musí být před ním ve vzduchu.
+#### Útok:
 
-Zobák 1 Zranění
+- Volný pád zobákem 1k5 Životů. Záchrana na Tělo, pokud neúspěch tak omráčení na 1k10 hodin. Tento útok může provést jen jedno a musí být před ním ve vzduchu.
+- Zobák 1 Zranění.
 
-#### Jak je potkáte? k10 tabulka
+### Jak je potkáte? k10 tabulka
 
 - 1 - na zemi zahrabávající vejce
 - 2 - 3 - na zemi, krmící se
@@ -116,6 +116,7 @@ Zobák 1 Zranění
 Reálná inspirace: Enypniates
 
 ## Poletující Smrťohled
+
 ![](zoologicka-prirucka-image3.jpg)
 
 *Similans Conspimors*
@@ -134,18 +135,18 @@ Smrťohledové jsou poměrně inteligentní a vykazují na zvěř nadměrné emo
 
 Smrťohledové používají pro komunikaci zvláštní směsici skřeků a štěbetání a jsou dost zvědavé, i když svou opatrnost nikdy neztrácí. Perfektně vidí ve tmě a jsou vhodné pro ochočení. Jen si jejich majitel musí dávat pozor, aby je nadměrně nenaštval (například aby jim nedával tresty, kdy jim zamezí přístup k jídlu či svobodě - mohly by jej zákeřně napadnout a klidně mu například v noci vydrápat oči), nebo je nesmí nechat dlouho samotné s pocitem opuštění (abyste se po delší výpravě na cizí planetu nevrátili a vaše opička si během té doby ze smutku, že o Vás přišla, nerozmlátila hlavu o ovládací panel Vaší lodi).
 
-#### MOSH statistiky:
+### MOSH statistiky
 
 Boj: 25, Intuice: 55, Životy: 10(1)
 
-Útok:
+#### Útok:
 
-Drápy a tesáky: 1k5 zranění[-].
+- Drápy a tesáky: 1k5 zranění[-].
+- Tlupa: Samy o sobě nejsou tak nebezpečné, ale v tlupě dokáží sundat i úctyhodnou kořist.
 
-Tlupa: Samy o sobě nejsou tak nebezpečné, ale v tlupě dokáží sundat i úctyhodnou kořist. Obzvlášť vzhledem  
 Za každou opičku navíc přidej +5 Boj a +5(0) Životů a +1 ke zranění.
 
-#### Jak je potkáte? k10 tabulka
+### Jak je potkáte? k10 tabulka
 
 - 1 - 3 - 4k10 Smrťohledů, kteří přeskakují a plachtí ze stromu na strom. Možná jdou sbírat jídlo, možná před něčím utíkají.
 - 4 - 6 - 4k10 Smrťohledů Vás pozoruje se štěbetáním ze stromů. Jsou zvědaví, možná se Vám pokusí něco ukrást, možná Vám něco přinesou.
@@ -171,17 +172,17 @@ Jsou to velmi agresivní tvorové s tvrdými keratinovými šupinami a dobrou ka
 
 Tvor je to ale naštěstí velmi pomalý, a proto je jeho prakticky jedinou strategií vyčkávat skrytý na svou kořist, než se k němu přiblíží. K tomu využívá i speciální výrůstek na rohu, který dokáže zářit podobně jako bioluminescentní flora, která roste v okolí jezer, což láká jiné tvory.
 
-#### MOSH statistiky:
+### MOSH statistiky
 
 Boj: 75 (překvapivý útok) / 40 (normálně), Intuice: 20, Životy: 15 (3), Zbroj: 3 (nezničitelná)
 
-Útoky:
+#### Útoky:
 
 - Úder rohem: Záchrana na Tělo[-] jinak Omráčení na 1d10 minut.
 - Tlama a pařáty: 4k10 zranění.
 - Skrytí a vyčkávání: Před svým prvním útokem se vážně dobře skrývá. Je možné jej objevit jen čistou náhodou a/nebo důkladným a aktivním hledáním.
 
-#### Jak je potkáte? k10 tabulka
+### Jak je potkáte? k10 tabulka
 
 - 1 - akorát ulovil kořist a táhne ji zpět do vody
 - 2 - 9 - vyčkává skrytý na svou kořist
@@ -206,18 +207,17 @@ Překvapivě jsou tito červi poměrně sociální tvorové a shlukují se do a�
 
 Tělo mají pokryté chitinovými šupinami po celé délce, vpředu dvě chápavé antény a dvě ústní papily. Jejich ústa jsou kruhová s ostrými tesáky schopnými vykousat díru do plechu a mohou z nich vysunout dutý jazyk, kterým vpravují do těla kořisti tekutinu, jenž je zevnitř rozpustí. Pohybují se pomalým, skoro až hypnotický pohybem, což jim společně s jejich maskováním a vysokou trávou poskytuje velmi dobré krytí. Na nožičkách mají spoustu zpětných drápů, které jim dovolují šplhat i po kolmém povrchu.
 
-#### MOSH statistiky:
+### MOSH statistiky
 
-Samec: Boj: 55, Intuice: 40 Životy: 10(1), Zbroj: 3
-
+Samec: Boj: 55, Intuice: 40 Životy: 10(1), Zbroj: 3  
 Samice: Boj: 45, Intuice: 50 Životy: 15(1), Zbroj: 3
 
-Útoky:
+#### Útoky:
 
 - Lepivý výstřik: bez zranění. Záchrana na Rychlost, pokud neuspějete, nemůžete se hýbat. Záchrana ns Sílu[-] aby jsi se dokázal uvolnit sám.
 - Čelisti: 1k10 zranění.
 
-#### Jak je potkáte? k10 tabulka
+### Jak je potkáte? k10 tabulka
 
 - 1 - 3 - 1d10[-] Lepočervů prozkoumává okolí a hledá kořist
 - 4 - 6 - 1d10[-] Lepočervů akorát bojuje s kořistí, stříkají na ni lepivou směs
