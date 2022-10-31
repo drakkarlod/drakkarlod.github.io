@@ -10,28 +10,30 @@ Planeta je známá nižší gravitací než má Země, hustou atmosférou a velm
 
 Planeta je kopcovitá s hustými lesy, často složených z gigantických mimozemských sekvojí. V nížinách jsou vlhké mokřady porostlé vysokou trávou a zakryté hustou mlhou. Na obloze září modrá hvězda, Damballa Wedo, kterou planeta obíhá a má týdenní denní/noční cyklus. V noční fázi se planeta nádherně rozzáří, jelikož zdejší fauna i flora během dlouhé noci hodně spoléhá na bioluminiscenci. Planeta je vyhlášená svou dravou megafaunou, té se ale budeme věnovat jindy. Nyní si probereme ty “menší” druhy.
 
+![](zoologicka-prirucka-image5.jpg)
+
 > #### Planeta ATTISOU
-> - Typ: pozemský - džungle
-> - Atmosféra: dýchatelná
-> - Průměrná teplota: 27°C
-> - Gravitace: 0,42G
-> - Průměr: 9,500km
-> - Vzdálenost od hvězdy: 10 AU
-> - Orbitální perioda: 11,534 dní
+> Typ: pozemský - džungle  
+> Atmosféra: dýchatelná  
+> Průměrná teplota: 27°C  
+> Gravitace: 0,42G  
+> Průměr: 9,500km  
+> Vzdálenost od hvězdy: 10 AU  
+> Orbitální perioda: 11,534 dní
 
 > #### DAMBALLA WEDO / TYP “A” Modrý Trpaslík
-> - Teplota: 8200K
-> - Průměr: 1,114,144km
+> Teplota: 8200K  
+> Průměr: 1,114,144km
 
-> - Korektury: Julie “Isiolia” Krausová
-> - Obálka: MidJourney AI
-> - Černobílé ilustrace zvířat: Julius “kin” Karajos
+> Korektury: Julie “Isiolia” Krausová  
+> Obálka: MidJourney AI  
+> Černobílé ilustrace zvířat: Julius “kin” Karajos
 
 > Každé zvíře má uvedené statistiky pro Mothership 1e.
 
-> __Poznámka autora:__ Často využívám ke své tvorbě náš vlastní svět, který je neskutečně fascinující. A tento text není výjimkou. Všechna zvířata zde jsou inspirována reálně existujícími zvířaty (se zapůjčenými vlastnostmi jiných). Proto je u každého zvířete dole napsán název původní druhu, kdyby Vás zajímalo, odkud beru nápady. :)
+__Poznámka autora:__ Často využívám ke své tvorbě náš vlastní svět, který je neskutečně fascinující. A tento text není výjimkou. Všechna zvířata zde jsou inspirována reálně existujícími zvířaty (se zapůjčenými vlastnostmi jiných). Proto je u každého zvířete dole napsán název původní druhu, kdyby Vás zajímalo, odkud beru nápady. :)
 
-### Obří Obrněný Krabopod
+## Obří Obrněný Krabopod
 
 ![](zoologicka-prirucka-image2.jpg)
 
@@ -64,7 +66,7 @@ Boj: 35, Intuice: 25, Životy: 20(4), Zbroj(AP): 5 (nezničitelná)
 
 Reálná inspirace: Giant Isopod
 
-### Zářící Nebeská Oliheň
+## Zářící Nebeská Oliheň
 
 ![](zoologicka-prirucka-image6.jpg)
 
@@ -113,13 +115,13 @@ Zobák 1 Zranění
 
 Reálná inspirace: Enypniates
 
-### Poletující Smrťohled
+## Poletující Smrťohled
+![](zoologicka-prirucka-image3.jpg)
 
 *Similans Conspimors*
 
-Váha: 100-150 gramů
-
-Délka/Výška: 8-16 cm
+> Váha: 100-150 gramů  
+> Délka/Výška: 8-16 cm
 
 Tahle drobounká všežravá chlupatá opička by byla až nechutně roztomilá, nebýt jejího děsivého obličeje, který jí vysloužil její rozkošné jméno.
 
@@ -127,12 +129,12 @@ Tyto opice žijí prakticky jen v korunách mohutných stromů pokrývajících 
 
 Smrťohledové jsou poměrně inteligentní a vykazují na zvěř nadměrné emoční cítění, které se často zvrhává až do extrémů:
 
--   opičky jsou velmi sociální a pokud jsou ponechány svému osudu osamoceny (například při ztrátě tlupy či vyhnání z ní), propadají těžkým depresím a smutku, které mohou skončit až sebevraždou opičky. Často volí i velmi brutální způsob, jako například rozmlátit si hlavu o kmen.
--   jsou velmi teritoriální; pokud cizí tlupa vstoupí na jejich území a nezdekuje se při prvním varování, většinou se strhne krutý souboj. Po zabití nepřítele (většinou je pohltí totální zuřivý berserk a nepřestanou, dokud není jejich oponent mrtvý) to ale neskončí, jejich touha po odplatě je až příliš silná. A tak se často vydají zjistit, kde je sídlo jejich oponenta, a tam vyvraždí zbytek jeho tlupy, ať už se jedná o dospělé, samičky či dokonce mláďata.
+- opičky jsou velmi sociální a pokud jsou ponechány svému osudu osamoceny (například při ztrátě tlupy či vyhnání z ní), propadají těžkým depresím a smutku, které mohou skončit až sebevraždou opičky. Často volí i velmi brutální způsob, jako například rozmlátit si hlavu o kmen.
+- jsou velmi teritoriální; pokud cizí tlupa vstoupí na jejich území a nezdekuje se při prvním varování, většinou se strhne krutý souboj. Po zabití nepřítele (většinou je pohltí totální zuřivý berserk a nepřestanou, dokud není jejich oponent mrtvý) to ale neskončí, jejich touha po odplatě je až příliš silná. A tak se často vydají zjistit, kde je sídlo jejich oponenta, a tam vyvraždí zbytek jeho tlupy, ať už se jedná o dospělé, samičky či dokonce mláďata.
 
 Smrťohledové používají pro komunikaci zvláštní směsici skřeků a štěbetání a jsou dost zvědavé, i když svou opatrnost nikdy neztrácí. Perfektně vidí ve tmě a jsou vhodné pro ochočení. Jen si jejich majitel musí dávat pozor, aby je nadměrně nenaštval (například aby jim nedával tresty, kdy jim zamezí přístup k jídlu či svobodě - mohly by jej zákeřně napadnout a klidně mu například v noci vydrápat oči), nebo je nesmí nechat dlouho samotné s pocitem opuštění (abyste se po delší výpravě na cizí planetu nevrátili a vaše opička si během té doby ze smutku, že o Vás přišla, nerozmlátila hlavu o ovládací panel Vaší lodi).
 
-MOSH statistiky:
+#### MOSH statistiky:
 
 Boj: 25, Intuice: 55, Životy: 10(1)
 
@@ -143,27 +145,23 @@ Drápy a tesáky: 1k5 zranění[-].
 Tlupa: Samy o sobě nejsou tak nebezpečné, ale v tlupě dokáží sundat i úctyhodnou kořist. Obzvlášť vzhledem  
 Za každou opičku navíc přidej +5 Boj a +5(0) Životů a +1 ke zranění.
 
-Jak je potkáte? k10 tabulka
+#### Jak je potkáte? k10 tabulka
 
-1 - 3 - 4k10 Smrťohledů, kteří přeskakují a plachtí ze stromu na strom. Možná jdou sbírat jídlo, možná před něčím utíkají.
-
-4 - 6 - 4k10 Smrťohledů Vás pozoruje se štěbetáním ze stromů. Jsou zvědaví, možná se Vám pokusí něco ukrást, možná Vám něco přinesou.
-
-7 - 9 - 8k10 Smrťohledů bojujících mezi sebou na život a na smrt.
-
-0 - Šílený projev emocí (zuřivost, smutek, deprese, násilí,...)
-
-![](file:///home/godric/sta%C5%BEen%C3%A9/Zoologick%C3%A1%20P%C5%99%C3%ADru%C4%8Dka%20planety%20Attisou/images/image3.jpg)
+- 1 - 3 - 4k10 Smrťohledů, kteří přeskakují a plachtí ze stromu na strom. Možná jdou sbírat jídlo, možná před něčím utíkají.
+- 4 - 6 - 4k10 Smrťohledů Vás pozoruje se štěbetáním ze stromů. Jsou zvědaví, možná se Vám pokusí něco ukrást, možná Vám něco přinesou.
+- 7 - 9 - 8k10 Smrťohledů bojujících mezi sebou na život a na smrt.
+- 0 - Šílený projev emocí (zuřivost, smutek, deprese, násilí, ...)
 
 Reálná inspirace: Tarsius monkey
 
-### Mokřadový žáboryb
+## Mokřadový žáboryb
+
+![](zoologicka-prirucka-image4.jpg)
 
 *Palus Bufoscis*
 
-Váha: 1500-2500 kg
-
-Délka: 3-6 m
+> Váha: 1500-2500 kg  
+> Délka: 3-6 m
 
 Žáboryb se vyvinul z ryby, která byla tak obrovská a těžká, že se většinu času plavila při dně, až se její přední ploutve vyvinuli v mohutné packy. Ty začala využívat i k vytažení se na břeh, a zde se naučila vyčkávat schovaná ve vysoké trávě, než se nějaké jiné zvíře vydalo napít.
 
@@ -173,38 +171,32 @@ Jsou to velmi agresivní tvorové s tvrdými keratinovými šupinami a dobrou ka
 
 Tvor je to ale naštěstí velmi pomalý, a proto je jeho prakticky jedinou strategií vyčkávat skrytý na svou kořist, než se k němu přiblíží. K tomu využívá i speciální výrůstek na rohu, který dokáže zářit podobně jako bioluminescentní flora, která roste v okolí jezer, což láká jiné tvory.
 
-MOSH statistiky:
+#### MOSH statistiky:
 
 Boj: 75 (překvapivý útok) / 40 (normálně), Intuice: 20, Životy: 15 (3), Zbroj: 3 (nezničitelná)
 
 Útoky:
 
-Úder rohem: Záchrana na Tělo[-] jinak Omráčení na 1d10 minut.
+- Úder rohem: Záchrana na Tělo[-] jinak Omráčení na 1d10 minut.
+- Tlama a pařáty: 4k10 zranění.
+- Skrytí a vyčkávání: Před svým prvním útokem se vážně dobře skrývá. Je možné jej objevit jen čistou náhodou a/nebo důkladným a aktivním hledáním.
 
-Tlama a pařáty: 4k10 zranění.
+#### Jak je potkáte? k10 tabulka
 
-Skrytí a vyčkávání: Před svým prvním útokem se vážně dobře skrývá. Je možné jej objevit jen čistou náhodou a/nebo důkladným a aktivním hledáním.
-
-Jak je potkáte? k10 tabulka
-
-1 - akorát ulovil kořist a táhne ji zpět do vody
-
-2 - 9 - vyčkává skrytý na svou kořist
-
-0 - zrovna vylézá ven z vody a hledá místo, kde se schová
-
-![](file:///home/godric/sta%C5%BEen%C3%A9/Zoologick%C3%A1%20P%C5%99%C3%ADru%C4%8Dka%20planety%20Attisou/images/image4.jpg)
+- 1 - akorát ulovil kořist a táhne ji zpět do vody
+- 2 - 9 - vyčkává skrytý na svou kořist
+- 0 - zrovna vylézá ven z vody a hledá místo, kde se schová
 
 Reálná inspirace: Red-lipped Batfish
 
-### Dravý Lepočerv
+## Dravý Lepočerv
+
+![](zoologicka-prirucka-image1.jpg)
 
 *Vermigluto Barbaro*
 
-Váha: 50-100 kg
-
-Délka: 10-20 metrů
-
+> Váha: 50-100 kg  
+> Délka: 10-20 metrů
   
 Velmi nebezpečný predátor s unikátním způsobem lovu. Jako svá loviště využívá nížiny s vysokou trávou, kde se se svou výškou může lehce schovat. Tam se pomalu, ale neúnavně pohybuje, dokud nenarazí na potencionální kořist. Ta by mu s jeho rychlostí ale jistě utekla, a tak se vztyčí nad trávu a ze svých dvou ústních papil vystřelí proud rychle tuhnoucí směsi, která jeho cíl doslova přilepí k zemi a znemožní se mu pohybovat.
 
@@ -214,7 +206,7 @@ Překvapivě jsou tito červi poměrně sociální tvorové a shlukují se do a�
 
 Tělo mají pokryté chitinovými šupinami po celé délce, vpředu dvě chápavé antény a dvě ústní papily. Jejich ústa jsou kruhová s ostrými tesáky schopnými vykousat díru do plechu a mohou z nich vysunout dutý jazyk, kterým vpravují do těla kořisti tekutinu, jenž je zevnitř rozpustí. Pohybují se pomalým, skoro až hypnotický pohybem, což jim společně s jejich maskováním a vysokou trávou poskytuje velmi dobré krytí. Na nožičkách mají spoustu zpětných drápů, které jim dovolují šplhat i po kolmém povrchu.
 
-MOSH statistiky:
+#### MOSH statistiky:
 
 Samec: Boj: 55, Intuice: 40 Životy: 10(1), Zbroj: 3
 
@@ -222,20 +214,14 @@ Samice: Boj: 45, Intuice: 50 Životy: 15(1), Zbroj: 3
 
 Útoky:
 
-Lepivý výstřik: bez zranění. Záchrana na Rychlost, pokud neuspějete, nemůžete se hýbat. Záchrana ns Sílu[-] aby jsi se dokázal uvolnit sám.
+- Lepivý výstřik: bez zranění. Záchrana na Rychlost, pokud neuspějete, nemůžete se hýbat. Záchrana ns Sílu[-] aby jsi se dokázal uvolnit sám.
+- Čelisti: 1k10 zranění.
 
-Čelisti: 1k10 zranění.
+#### Jak je potkáte? k10 tabulka
 
-Jak je potkáte? k10 tabulka
-
-1 - 3 - 1d10[-] Lepočervů prozkoumává okolí a hledá kořist
-
-4 - 6 - 1d10[-] Lepočervů akorát bojuje s kořistí, stříkají na ni lepivou směs
-
-7 - 9 - 1d10[-] Lepočervů hoduje na kořisti
-
-0 - Lepočerví samice a jeden samec jako její ochranka stráží hnízdo
-
-![](file:///home/godric/sta%C5%BEen%C3%A9/Zoologick%C3%A1%20P%C5%99%C3%ADru%C4%8Dka%20planety%20Attisou/images/image1.jpg)
+- 1 - 3 - 1d10[-] Lepočervů prozkoumává okolí a hledá kořist
+- 4 - 6 - 1d10[-] Lepočervů akorát bojuje s kořistí, stříkají na ni lepivou směs
+- 7 - 9 - 1d10[-] Lepočervů hoduje na kořisti
+- 0 - Lepočerví samice a jeden samec jako její ochranka stráží hnízdo
 
 Reálná inspirace: Velvet Worm
