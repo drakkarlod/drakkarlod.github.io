@@ -33,10 +33,12 @@ Planeta je kopcovitá s hustými lesy, často složených z gigantických mimoze
 
 ### Obří Obrněný Krabopod
 
+![](zoologicka-prirucka-image2.jpg)
+
 _Ingens Cancearmis_
 
-Váha: 600 - 1500 kg  
-Délka/Výška: 2,5 - 4 metru
+> Váha: 600 - 1500 kg  
+> Délka/Výška: 2,5 - 4 metru
 
 I když tento přerostlý zástupce čeledi stejnonožců může vypadat děsivě, má naštěstí dosti krotkou povahu. Je to totiž převážně mrchožrout, jehož ostré a silné čelisti dokáží rozebrat i mrtvou megafaunu této planety, a tak zde slouží jako důležitý článek zdejšího ekosystému. Čelist, kterou má na spodku svého těla, dokáže lehce přeštípnout strom vejpůl. Na předním páru končetin má ostré řezáky, kterými si pomáhá při otevírání obrněné kořisti. A svá záda má chráněná pevným chitinovým krunýřem pokrytým bodáky, což většinu megafauny odradí.
 
@@ -60,17 +62,16 @@ Boj: 35, Intuice: 25, Životy: 20(4), Zbroj(AP): 5 (nezničitelná)
 - 6 - 9 - 1d5 Krabopodů hoduje na velkém úlovku
 - 0 - 1 Krabopod převalený na záda a neschopný pohybu
 
-![](zoologicka-prirucka-image2.jpg)
-
 Reálná inspirace: Giant Isopod
 
 ### Zářící Nebeská Oliheň
 
+![](zoologicka-prirucka-image6.jpg)
+
 *Caelolligo Lucemors*
 
-Váha: 200 gramů (většina je zobák)
-
-Délka/Výška: 30 cm
+> Váha: 200 gramů (většina je zobák)  
+> Délka/Výška: 30 cm
 
 Nebeská Oliheň je zvláštní tvor trávicí převážnou část svého života vysoko ve vzduchu.
 
@@ -79,42 +80,36 @@ Na zem se podívá jen během lovu a kladení vajec. K pohybu na zemi používá
 I když je svým vzhledem velmi blízká olihním, sama o sobě se do vody nikdy nepodívá.
 
 Nebeská Oliheň je predátor, jenž k lovu využívá několika svých zvláštností.  
+
 První a velmi zásadní je schopnost produkovat helium uvnitř svého těla, čímž se může nafouknout jako balón a vznést se do vzduchu.
 
-  
 Zde jí do karet hraje další zvláštnost - její kompletně průhledné tělo (až na zobák).  
 Vznáší se tedy vysoko ve vzduchu prakticky neviditelná a pozoruje zemi pod sebou, dokud se v jejím zorném poli neobjeví nějaká kořist.  
 Poté začne rychle vypouštět nashromážděné helium a koriguje svůj volný pád pomocí malých otvorů po celém povrchu těla, které taktéž dokáží vypouštět malé a prudké gejzíry hélia, a čtyř směrových ploutví.  
+
 Svým extrémně tvrdým zobákem buď kořist rovnou zabije či ji přinejmenším omráčí, načež se začne krmit.
 
-  
 A v této fázi se dostáváme k poslední skládačce jejího jména.  
+
 Zářící se jí říká proto, že její trávicí trakt má bioluminiscenční vlastnost. Když je tedy nakrmená, celý se rozzáří. V tu chvíli Olihně zase stoupají do vzduchu, aby mohly trávit v bezpečí.  
 A jelikož se často nacházejí ve větších smečkách, na obloze to vytváří na pohled úchvatné různobarevné obrazce a kreace.
 
-MOSH statistiky:
+#### MOSH statistiky:
 
 Boj: 85 (volný pád) / 15 (na zemi), Intuice: 20 Životy: 5(1)
-
 Útok:
 
 Volný pád zobákem 1k5 Životů. Záchrana na Tělo, pokud neúspěch tak omráčení na 1k10 hodin. Tento útok může provést jen jedno a musí být před ním ve vzduchu.
 
 Zobák 1 Zranění
 
-Jak je potkáte? k10 tabulka
+#### Jak je potkáte? k10 tabulka
 
-1 - na zemi zahrabávající vejce
-
-2 - 3 - na zemi, krmící se
-
-4 - 6 - zrovna loví, kryjte se!
-
-7 - 8 - čekají na obloze na kořist
-
-9 - 0 - tráví kořist na obloze, nádherně ji osvětlili
-
-![](file:///home/godric/sta%C5%BEen%C3%A9/Zoologick%C3%A1%20P%C5%99%C3%ADru%C4%8Dka%20planety%20Attisou/images/image6.jpg)
+- 1 - na zemi zahrabávající vejce
+- 2 - 3 - na zemi, krmící se
+- 4 - 6 - zrovna loví, kryjte se!
+- 7 - 8 - čekají na obloze na kořist
+- 9 - 0 - tráví kořist na obloze, nádherně ji osvětlili
 
 Reálná inspirace: Enypniates
 
