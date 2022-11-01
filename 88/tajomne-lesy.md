@@ -47,6 +47,9 @@ Ak vaša hra nepodporuje hexcrawl, alebo v tom nie je úplne skvelá, môžete p
 
 ## Bióm
 
+{:.map}
+![antharon4.png]({{site.baseurl}}/88/antharon4.png)
+
 Postupne generujte povrch políčok na mape. Je na vás, či si všetky predgenerujete, alebo ich budete generovať za behu. Hoďte k6 a vezmi náhodný smer, ak je na tomto hexe vygenerovaný bióm, použi ho. Inak hoď na nasledovnú tabuľku.
 
 1.  Čistina, lúka, pastvina
@@ -110,6 +113,9 @@ Pozn. Močiar nie je možné vygenerovať tabuľkou, môže sa však objaviť a 
 Často prastaré miesta, panenské, kam ľudia nechodia, sú močiare. Premočená pôda dáva príležitosť topoliam, brezám, vresom, či vŕbam skláňajúcimi sa nad bahnitým jazierkami.
 
 ## Miesta záujmu
+
+{:.map}
+![antharon3.png]({{site.baseurl}}/88/antharon3.png)
 
 Ak už políčkom ešte neprechádza žiadny chodník, alebo rieka, hoď k6:
 
@@ -324,6 +330,9 @@ Najprv vygeneruj náhorné zviera:
 Keď vytvoríš lesného ducha, zaznamenaj si prvé miesto stretnutia, toto je jeho doména. Ak sa do vzdialenosti 6 hexov objaví lesný duch, hoď k6, ak hodíš viac než je počet hexov od prvého miesta stretnutia, postavy stretnú tohoto ducha. Ak sú v doméne viacerých duchov, môže sa stať, že sa stanú svedkami interakcie medzi duchmi.
 
 ### Podivno
+
+{:.map}
+![]({{site.baseurl}}/88/antharon2.png)![antharon2.png]({{site.baseurl}}/88/antharon2.png)
 
 Keď sa vygeneruje podivno, pozri sa do okolia šiestich hexov odtialto. Vezmi každú osadu, skupinu tých druhých, lesného ducha a monštrum, hoď pre každého kockou a porovnaj s ich vzdialenosťou. Ak je hod na kocke vyšší ako ich vzdialenosť v hexoch, zúčastnia sa v tejto scéne.
 
