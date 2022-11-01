@@ -45,7 +45,7 @@ Různé státy Ligy na poledni jsou pro hansovní obchodníky zdrojem výbornéh
 Kvůli nebezpečí na cestách a nepraktičnosti převážení velkých sum peněz, začali obchodníci vystavovat papírové směnky. Zpočátku byly vystavovány na jméno obchodníka, ale nyní už se vystavují obecně a smluvený finanční objem bude vyplacen komukoli, kdo ji vlastní.  
 
 {:.map}
-hansovka.img 
+![hans.jpg]({{site.baseurl}}/88/hans.jpg)
 
 Kvůli vlivu a působení Hansy se stala jednou z předních organizací, která tuto službu poskytuje a začala vystavovat takzvané „hansovky" -- papírové stvrzení potvrzené pečetí, které nařizuje obchodníkům Hansy vyplatit určenou sumu komukoli, kdo je držitelem hansovky. Nejde o papírové peníze v běžném smyslu, spíše o platební příkazy nebo šeky nařizující vydání hotovosti. Záruka Hansy je však taková, že se často jako papírové peníze používají a jsou rozšířené v arlatských lénech i císařství. Na poledni v zemích Ligy vydávají takové papírové příkazy a ručí za ně vlastním majetkem především tamější banky a říká se jim tam „bankovky". 
 
@@ -55,9 +55,6 @@ Spolek jako takový nemá jednotnou centrální vládu, představitele nebo spol
 Hansa je řízena na základě konsensu svých členů. Členové se řídí vlastním zákoníkem, zvaným ‚hansovní právo', který určuje jejich vzájemné vztahy, stanovuje pokuty i tresty za jejich porušení, a je vymahatelné ve všech městech a obchodních zastoupeních Hansy. 
 
 Pokud vyvstane problém nebo záležitost, která si vyžaduje rozhodnutí, je rozeslána pozvánka na Hansovní sněm, kde má být záležitost projednána. Každá komunita dosáhne místního konsensu (o věci hlasují) a pak vyšlou na sněm svého vyslance, aby tento názor tlumočil. V případě shody názorů sousedících členských měst není výjimkou, aby vyslaly jednoho, společného zástupce. Na sněmu se pak hledá shoda mezi názory prezentovanými těmito vyslanci. Pokud nemůže být dosažena a odhlasována shoda, je vybrána komise, která má pravomoc vypracovat kompromis. Celohansovní sněmy bývají svolávány jednou za tři roky, aby se na nich probraly všechny nahromaděné záležitosti svazu, není to však pravidlem a mohou se konat jak častěji, tak více zřídka. 
-
-{:.map}
-![Účetní knihy]({{site.baseurl}}/88/knihy.png)
 
 Hansa je administrativně rozdělena do 4 okruhů (čtvrtek) podle své polohy a vůdčích měst, která slouží jako jejich obchodní centra. Okruh kolem Dračích moří má dvě vůdčí města (Ravnburgh a Dayhaven), která spolu soupeří o vůdčí postavení, ostatní mají jasné hlavní město, které je nerozporovaným centrem.  
 
