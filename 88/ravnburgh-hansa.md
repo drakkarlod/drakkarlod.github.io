@@ -2,7 +2,7 @@
 layout: article
 title: 'Ravnburgh: Hansa'
 authors: Ecthelion²
-tags: 'Ecthelion², Ravnburgh,Materiály a doplňky, Drakkar 88'
+tags: 'Ravnburgh, Materiály a doplňky'
 published: true
 summary: >-
   Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Hansa je
