@@ -332,7 +332,7 @@ Keď vytvoríš lesného ducha, zaznamenaj si prvé miesto stretnutia, toto je j
 ### Podivno
 
 {:.map}
-![]({{site.baseurl}}/88/antharon2.png)![antharon2.png]({{site.baseurl}}/88/antharon2.png)
+![antharon2.png]({{site.baseurl}}/88/antharon2.png)
 
 Keď sa vygeneruje podivno, pozri sa do okolia šiestich hexov odtialto. Vezmi každú osadu, skupinu tých druhých, lesného ducha a monštrum, hoď pre každého kockou a porovnaj s ich vzdialenosťou. Ak je hod na kocke vyšší ako ich vzdialenosť v hexoch, zúčastnia sa v tejto scéne.
 
