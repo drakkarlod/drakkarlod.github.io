@@ -17,7 +17,7 @@ published: true
 Tento článok prináša generátor pre vytvorenie nekonečného lesa. Nájdete tu prenikajúcu civilizáciu, domorodé obyvateľstvo, zvieratá i monštrá a vznešených duchov lesa. Hra tiež generuje miesta kam môžete vložiť svoje dungeony a scenáre, ktoré sa dajú ľahko zadrátovať do príbehu.
 
 {:.map}
-![antharon1.png]({{site.baseurl}}/88/antharon1.png)
+![]({{site.baseurl}}/88/antharon1.png)
 
 ### Čo tu nenájdete?
 
@@ -48,7 +48,7 @@ Ak vaša hra nepodporuje hexcrawl, alebo v tom nie je úplne skvelá, môžete p
 ## Bióm
 
 {:.map}
-![antharon4.png]({{site.baseurl}}/88/antharon4.png)
+![]({{site.baseurl}}/88/antharon4.png)
 
 Postupne generujte povrch políčok na mape. Je na vás, či si všetky predgenerujete, alebo ich budete generovať za behu. Hoďte k6 a vezmi náhodný smer, ak je na tomto hexe vygenerovaný bióm, použi ho. Inak hoď na nasledovnú tabuľku.
 
@@ -115,7 +115,7 @@ Pozn. Močiar nie je možné vygenerovať tabuľkou, môže sa však objaviť a 
 ## Miesta záujmu
 
 {:.map}
-![antharon3.png]({{site.baseurl}}/88/antharon3.png)
+![]({{site.baseurl}}/88/antharon3.png)
 
 Ak už políčkom ešte neprechádza žiadny chodník, alebo rieka, hoď k6:
 
@@ -332,7 +332,7 @@ Keď vytvoríš lesného ducha, zaznamenaj si prvé miesto stretnutia, toto je j
 ### Podivno
 
 {:.map}
-![antharon2.png]({{site.baseurl}}/88/antharon2.png)
+![]({{site.baseurl}}/88/antharon2.png)
 
 Keď sa vygeneruje podivno, pozri sa do okolia šiestich hexov odtialto. Vezmi každú osadu, skupinu tých druhých, lesného ducha a monštrum, hoď pre každého kockou a porovnaj s ich vzdialenosťou. Ak je hod na kocke vyšší ako ich vzdialenosť v hexoch, zúčastnia sa v tejto scéne.
 
