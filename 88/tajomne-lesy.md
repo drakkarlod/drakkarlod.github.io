@@ -3,12 +3,21 @@ layout: article
 title: Tajomné lesy – Systémovo agnostický hexcrawl
 authors: Antharon
 tags: materiály a doplňky
-summary: V rukách držíte generátor hexcrawlu odohrávajúci sa v oblasti hustých nepriechodných lesov a hvozdov, kde ľudská noha nie je vítaná. Lesy si žijú vlastným životom, ktorý má iné tempo ako život v civilizácií. Iba tí druhí, ľudia lesa dokážu pochopiť jeho podstatu a cyklus života. Vy ste iba nevítaná návšteva.
+summary: >-
+  V rukách držíte generátor hexcrawlu odohrávajúci sa v oblasti hustých
+  nepriechodných lesov a hvozdov, kde ľudská noha nie je vítaná. Lesy si žijú
+  vlastným životom, ktorý má iné tempo ako život v civilizácií. Iba tí druhí,
+  ľudia lesa dokážu pochopiť jeho podstatu a cyklus života. Vy ste iba nevítaná
+  návšteva.
+published: true
 ---
 
 ## Hexcrawl
 
 Tento článok prináša generátor pre vytvorenie nekonečného lesa. Nájdete tu prenikajúcu civilizáciu, domorodé obyvateľstvo, zvieratá i monštrá a vznešených duchov lesa. Hra tiež generuje miesta kam môžete vložiť svoje dungeony a scenáre, ktoré sa dajú ľahko zadrátovať do príbehu.
+
+{:.map}
+![antharon1.png]({{site.baseurl}}/88/antharon1.png)
 
 ### Čo tu nenájdete?
 
