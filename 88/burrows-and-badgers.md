@@ -80,7 +80,7 @@ Kromě základní příručky byla ještě vydána kampaňová kniha pro dva hr�
 
 ## Komunita u nás
 
-Česká komunita hráčů Burrows & Badgers stále roste. Nemalý dík za to patří Michalu Mančařovi, který neoblomně prezentuje jezevce na GameConu už několik let. Na mezinárodním Discord Serveru je české vlákno #nory-a-jezevci. Už nějakou dobu hrajeme kampaň a čas od času naplánujeme nějakou tu jezevčí akci nebo alespoň hromadnou objednávku. Začít hrát Burrows & Badgers je tedy velmi snadné i u nás, přestože jsou hráči stále závislí na nákupu přes internet. Výhodou je, že při nákupu základní příručky přímo z webu autora dostanete zdarma svou první myš. Pak už vám stačí jen pár dalších modelů a můžete se směle pustit do hry. Ve srovnání s jinými válečnými hrami je vstupní bariéra opravdu nízká.
+Česká komunita hráčů Burrows & Badgers stále roste. Nemalý dík za to patří Mancinimu, který neoblomně prezentuje jezevce na GameConu už několik let. Na mezinárodním Discord Serveru je české vlákno #nory-a-jezevci. Už nějakou dobu hrajeme kampaň a čas od času naplánujeme nějakou tu jezevčí akci nebo alespoň hromadnou objednávku. Začít hrát Burrows & Badgers je tedy velmi snadné i u nás, přestože jsou hráči stále závislí na nákupu přes internet. Výhodou je, že při nákupu základní příručky přímo z webu autora dostanete zdarma svou první myš. Pak už vám stačí jen pár dalších modelů a můžete se směle pustit do hry. Ve srovnání s jinými válečnými hrami je vstupní bariéra opravdu nízká.
 
 <div class="sidebar" markdown="1">
 **Užitečné odkazy:** <br>
