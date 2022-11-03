@@ -10,6 +10,7 @@ published: true
 
 Jde o sérii občanských válek a bojů o nástupnictví v dunfordském panství po smrti starého lorda Gilberta Warda, která se táhne s přestávkami již téměř čtyři desetiletí. Jsou známé také jako „války lišek s kohouty“ podle přezdívek obou stran, které spolu bojují. Na pozadí nástupnického sporu je především mocenský boj mezi tradiční vládnoucí šlechtou a měšťany. 
 
+{:.map}
 ![Valky-dedictvi.jpg]({{site.baseurl}}/86/Valky-dedictvi.jpg)
 
 ## Původ sporu
@@ -22,6 +23,7 @@ Stranická příslušnost se v průběhu desetiletí stala často záležitost�
 
 ## „Lišky a kohouti“
 
+{:.map}
 ![lisky-kohouti.jpg]({{site.baseurl}}/86/lisky-kohouti.jpg)
 
 Přezdívky obou stran se objevily postupně, v průběhu let konfliktů. „Liška“ byla původně urážka směřující k paní Millicent, kterou její protivníci označovali za „škodnou, která chce krást kuřata“. To, že jak paní Millicent, tak její dcera Blanche mají zrzavé vlasy této přezdívce jistě napomohlo. Strana podporující jejich nárok tuto urážku obrátila a pyšně začala používat. Nad vojsky této strany brzy zavlály prapory s liškami jakožto svým emblémem. Strana podporující nástupnictví Cuthberta Morveta začala v reakci na to používat figuru kohouta z jeho osobního erbu jako svůj symbol a stylizovat se do podoby bojovného kohouta, který „ochrání kurník“ (tedy dunfordské panství).  
@@ -36,6 +38,7 @@ Na počátku války se obě strany snažily dosáhnout kompromisu a paní Millic
 
 Pan Cuthbert se proto rozhodl jednat, svolal vojsko a zaútočil na hrady a města patřící spojencům paní Millicent. Ty začaly padat jedno po druhém a Lišky prohrály první velkou bitvu u Manxley, kde těžká jízda rozmetala městské milice ukryté za narychlo postavenými překážkami. V reakci na hrozbu požádala paní Millicent o pomoc svého manžela, chevaliera Jeana lis Renarda, šlechtice ze Lvího císařství. Ten sice sám nevlastnil příliš rozsáhlé pozemky, je nicméně příbuzným císařské rodiny. Díky svému vlivu se mu podařilo dát dohromady flotilu, která vyrazila jeho choti na pomoc. S pomoci žoldnéřů z císařství se podařilo paní Millicent porazit pana Cuthberta ve dvou velkých bitvách a zachránit několik ohrožených měst. Pod hradbami obléhaného Keythorpe překvapila těžká císařská jízda obléhatele a u burtonského mostu pikenýři Lišek zabránili posilám Kohoutů překročit řeku. V marných proti tu nejstarší syn pana Egmondta. Síla nových posil ale nebyla dost velká na to, aby obsadili i zbytek území hlásící se k panu Cuthbertovi. Bojovalo se tak dál.
 
+{:.map}
 ![Rodokmen.jpg]({{site.baseurl}}/86/Rodokmen.jpg)
 
 Chevalier lis Renard poskytoval po celou dobu omezenou podporu a finance věci své choti, takže po boku praporů Lišek často vlají erby šlechticů a žoldnéřů z císařství, které zlákala vidina kořisti a rychlého výdělku. Válka měla několik přerušení – spojencům paní Millicent se podařilo dvakrát vypudit pana Cuthberta z Dunfordu a on se sice musel uchýlit do exilu, pokaždé se mu ale podařilo vrátit. Paní Millicent jednou přijala z donucení smlouvu, která svěřila Dunford pod správu pana Cuthberta výměnou za ohromné sumy peněz, které ji měl ročně vyplatit. I tato dohoda ale boje přerušila jen na několik let, než se opět válka rozhořela. 
@@ -46,6 +49,7 @@ Paní Millicent zemřela během tažení na úplavici, ale navzdory krátkému z
 
 Válka rozbředla do soupeření nízké intenzity přerušované válečnými taženími, kdykoli některá ze stran získala nové spojence nebo dostatek zdrojů. Jde vlastně o sérii válek přerušovaných občasným nejistým mírem, který provází jen malé potyčky a intriky obou stran. 
 
+{:.map}
 ![blanche-renardova.jpg]({{site.baseurl}}/86/blanche-renardova.jpg)
 
 Po tolika letech občasné války si obě strany způsobily navzájem tolik křivd a ukrutností, že v právu už není vůbec nikdo. Pan Cuthbert je krutý, nebezpečný a vypočítavý, ale ve oblastech svého vlivu udržuje pořádek, paní Millicent byla arogantní, lakomá a stejně jako otec se kromě vybírání daní o své léno prakticky nestarala. Paní Blanche vede stranu Lišek ještě příliš krátce, takže nikdo neví příliš co od ní čekat, ale je ještě mladá a nezkušená.
@@ -57,6 +61,7 @@ V současné době obě strany spoléhají na sebrané armády, které kombinuj
 
 Vojáci na štítech a praporech nosí erby svých pánů, měst a městských čtvrtí, ale často lze příslušníky obou stran rozlišit na první pohled. Příslušníci strany Lišek preferují barvy zelenou a zlatou (na štítech a pro oblečení), liščí kožešiny jako límce a oblíbené jsou i kožené čapky s liščími ohony (lišky nejsou loveny veřejně, ale jejich kožešiny jsou v oblastech Lišek velice ceněny a používány pro vyjádření sounáležitosti). Kohouti naproti tomu preferují barvy červenou, bílou a černou a nosí na kloboucích a čapkách kohoutí pera. 
 
+{:.map}
 ![cuthbert-morvet.jpg]({{site.baseurl}}/86/cuthbert-morvet.jpg)
 
 Gardu pana Cuthberta tvoří oddíl vysoce ceněných pikenýrů z řad horských skřetů z Vhre. Nasazuje je do bitvy na důležitá místa nebo aby pomohli rozhodnout bitvu útokem pík. Mimo bitevní pole slouží horští skřeti jako jeho tělesná stráž, která jej chrání před vrahy a atentáty. 
