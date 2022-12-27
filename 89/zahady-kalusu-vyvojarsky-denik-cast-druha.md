@@ -4,7 +4,12 @@ title: 'Záhady Kalusu – vývojářský deník, část druhá'
 authors: Sparkle
 tags: neviditelná kniha
 published: true
-summary: Nějaký ten pátek nazpět se tu objevil můj [článek](/83/zahady-kalusu.html) o připravované příručce ze světa Neviditelné knihy. Jmenuje se Záhady Kalusu a je to kampaň. Velká, příběhová, rozvětvená. Práce od té doby pokročila, teď je sepsáno zhruba 300 stran. Některé věci se podařily nad očekávání, jiné se naopak nezdařily. O ty se tu nyní s vámi podělím.
+summary: >-
+  Nějaký ten pátek nazpět se tu objevil můj [článek](/83/zahady-kalusu.html) o
+  připravované příručce ze světa Neviditelné knihy. Jmenuje se Záhady Kalusu a
+  je to kampaň. Velká, příběhová, rozvětvená. Práce od té doby pokročila, teď je
+  sepsáno zhruba 300 stran. Některé věci se podařily nad očekávání, jiné se
+  naopak nezdařily. O ty se tu nyní s vámi podělím.
 ---
 
 
@@ -15,9 +20,7 @@ summary: Nějaký ten pátek nazpět se tu objevil můj [článek](/83/zahady-ka
 
 Tohle je asi největší průběžné vítězství, které mi nakopává morálku a přidává body osudu nutné k dokončení.
 
-Nejen na základě aférek z rpg fóra a Discordu, kde autoři CZ / SK RPG produktů
-
-žehrali nad nezájmem o zpětnou vazbu na svůj nehotový výtvor, jsem zaujala preventivně pesimistický postoj k očekávání, že někdo bude mít zájem číst nebo dokonce testovat moji neveřejnou knižní betu. Pesimistický je slabé slovo, čekala jsem zájem nula. Cokoli nad tím jsem brala jako bonus. No a světe div se, nějak se zadařilo, že se ozvalo tolik zájemců, že někteří jsou ještě v pořadníku. Neboli si je nechávám na pozdější fáze, abych jim poslala novější verzi, než těm, kteří to čtou teď. Fakt jsem nečekala, že budu řešit tak příjemné dilema jako _„který betačtenář se hodí na tuto fázi psaní a který bude efektivnější při pozdější iteraci“_. Jupí!
+Nejen na základě aférek z rpg fóra a Discordu, kde autoři CZ / SK RPG produktů žehrali nad nezájmem o zpětnou vazbu na svůj nehotový výtvor, jsem zaujala preventivně pesimistický postoj k očekávání, že někdo bude mít zájem číst nebo dokonce testovat moji neveřejnou knižní betu. Pesimistický je slabé slovo, čekala jsem zájem nula. Cokoli nad tím jsem brala jako bonus. No a světe div se, nějak se zadařilo, že se ozvalo tolik zájemců, že někteří jsou ještě v pořadníku. Neboli si je nechávám na pozdější fáze, abych jim poslala novější verzi, než těm, kteří to čtou teď. Fakt jsem nečekala, že budu řešit tak příjemné dilema jako _„který betačtenář se hodí na tuto fázi psaní a který bude efektivnější při pozdější iteraci“_. Jupí!
 
 ### Ujasnila jsem si, jak se chci odlišovat a na koho mířit
 
@@ -55,7 +58,7 @@ Snažím se jezdit na cony a šířit tam povědomí o Záhadách Kalusu. Ježd�
 
 Problém jsou náklady na cesty. Když je to mimopražské, je to pro mě dost velká rána do rozpočtu. Snažím se tam u někoho vždycky vyškemrat možnost přespání zadarmo nebo za levný peníz, jinak bych to už nemohla dělat vůbec. Rozpočet potřebuju šetřit na jinou položku (viz dále).
 
-## Část druhá: to špatné
+## Část třetí: to špatné
 
 Teď přijdou nějaké fňuky a sypání popele na hlavu, co jsem nezvládla. Neberte je prosím tak, že tady citově vydírám a škemrám o podporu. Říkám to tu asi hlavně proto, že je možná občas dobré vidět, s čím se tvůrci potýkají – takový reality check.
 
