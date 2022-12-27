@@ -4,7 +4,7 @@ authors: Jessa Daeh
 title: 'Malé hexy: C1 – Vřesoviště Cnoic Chiúin'
 tags: 'materiály a doplňky, inspirace, malé hexy'
 series: Malé hexy
-summary: 'Malé hexy, hex '
+summary: 'Malé hexy, hex C1'
 published: true
 ---
 ### A) Číslo hexu: C1
