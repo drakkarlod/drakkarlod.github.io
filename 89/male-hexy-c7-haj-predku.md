@@ -43,3 +43,37 @@ zakrslými seschlými ovocnými stromky a řadami mezních kamenů z polí (to v
 trávě), a na druhé straně nevysokou kamennou mohylu, zcela prostou jakýchkoliv značek či obětin.
   
 ### E) Zápletky
+
+Postavy mohou pouze uctít své předky obětinou a pokračovat dál v cestě, dokonce mohou potkat i
+jiné poutníky či obyvatele okolí, věšící na větve stromů obětiny, a to včetně některého z _each-rugadh_.
+Avšak pokud vkročí do stínu stromů a neučiní tak, po odchodu budou mít stále nepříjemný pocit, že
+občas koutkem oka zahlédnou mizející postavu či postavy („mytágo“). Tento jev se bude postavě či
+postavám dít stále častěji, v závislosti na tom, jak jsou daleko od lesíka. (Pokud se pokusí zjistit více
+pomocí magie, pak se jedná o ochranné kouzlo ve formě prokletí, jež bylo sesláno spolu s uspáním
+srdce hvozdu, aby celé místo skutečně působilo jako háj předků plný nepokojných duchů. Tuto kletbu
+může jednoduše sejmout jakýkoliv druid, šaman či kněz.)
+
+Postavy se mohou pokusit pomocí magie zjistit o podivném místě více, zejména druidi či šamani by
+mohli mít nutkání se pokusit spoji s lesními duchy či duchy lesa (naopak kněží nebudou mít pocit, že
+by toto místo bylo až natolik spirituální, jak se na první pohled zdá a mohou rovněž pojmout
+podezření, že zde není vše tak, jak se na první pohled jeví). Pokud se o to pokusí, pak se mohou
+dopátrat, že nejedná o háj předků, ale spící srdce hvozdu, jenž se v dávných dobách rozkládal po
+celých dnešních pláních. Tento hvozd utrpěl velké ztráty díky prvním osadníkům, kteří klučili les a
+zakládali na jejich místě osady), pokusil se s nimi svádět boj pomocí svých obyvatel, tedy zvěře,
+ptactva a rostlin, ale když osadníci narušili jeho samotné srdce (zbytky osady nedaleko), povstal z něj
+rozlícený lešij, jenž osadníky pobil a všechny z okolí vyhnal. Avšak nebylo jej pak jak zastavit, napadal i
+vzdálené okolí, dokud jej mocný neznámý arcidruid neporazil a neuložil do kameny zasypané mohly
+(rovněž nedaleko, na druhé straně, než se nachází zbytky osady). Tento arcidruid však nemohl nechat
+zpustošený hvozd jen tak, uspal jeho srdce (aby se postupně časem mohlo samo zhojit) a zaklel jej
+ochrannou kletbou (jež z něj pro ostatní udělal háj předků). Zbytek hvozdu bez svého srdce postupně
+uchřadnul a změnil se v pláně okolo, avšak jeho srdce se pomalu uzdravuje a po několika staletích
+opět procitne, aby jej obnovilo.
+
+Postavy mohou sebou mít sebou semenáčky zvláštního druhu dubu, které jim předal někdo
+z poutníků, co potkali na cestách či někdo z okolních obyvatel s tím, že mohyla patří někomu z jeho
+předků a rád by ji takto uctil, ale jeho víra mu přikazuje, že to nesmí udělat sám, ale pomocí
+prostředníků. Pokud to postavy udělají a semenáčky zasadí, nic se nestane (a pokud se na ně přijdou
+podívat později, pak zjistí, že na tom místě, jen kousek od lesíka, stromečky chřadnou a dříve nebo
+později uhynou). Pokud se postavy pokusí nějak semenáčky zachránit (například ochránit je kouzlem),
+po čase z mohyly povstane nemrtví lešij, jehož bude moct ovládat ten, kdo postavám semenáčky
+předal.
