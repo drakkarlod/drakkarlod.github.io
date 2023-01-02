@@ -33,7 +33,7 @@ Pokud se cesty obou skupin protnou, dojde ke konfliktu. K večeru skupina doraz�
 
 Chceš-li, stejný algoritmus můžeš použít i pro některá NPC, která se vydávají daleko od svých osad, nebo je zapojuj dle vhodnosti.
 
-![Jezdci na oblacích]({{site.baseurl}}/89/jezdci-na-oblacich.png)
+![Jezdci na oblacích]({{site.baseurl}}/89/jezdci-na-oblacich.jpg)
 
   
 ### E) Zápletky

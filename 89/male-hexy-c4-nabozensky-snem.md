@@ -31,7 +31,7 @@ Ať už se v minulosti na velehexu objevila jakákoliv kultura a náboženství,
 - Izolované šutruny, které ostatní obchází širokým obloukem a obávají se jich kvůli šutrunímu očividnému spojení se skalní bránou (E4)
 - Kultisty chovající v lesních tůňkách mrňavé mřenky, které obětují rybímu bohovi (F3)
 
-![Brána]({{site.baseurl}}/89/brána.png)
+![Brána]({{site.baseurl}}/89/brána.jpg)
 
   
 ### E) Zápletky

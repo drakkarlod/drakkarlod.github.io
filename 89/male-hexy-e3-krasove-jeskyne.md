@@ -28,7 +28,7 @@ Obdobně podzemní chodby jsou plné nejrůznějších krasových útvarů. V do
 Krom tvorů pro jeskyně zcela přirozených zde můžete narazit i na malý hmyz či větší zvířata, převážně hmyzožravá či mrchožravá. Mohou za to zvláštní svítící červi, kteří v jeskyních žijí. Když se vylíhnou z vajíček, instinkt je žene vyšplhat se na strop podzemních domů, kde se v koloniích čítajících stovky červíků pověsí tlamičkami dolů a rozsvítí malá tykadélka. Ta lákají malý hmyz, který v jeskyních je, podobně jako hvězdná obloha. Když se červi dostatečně nasytí hmyzem, dospějí, zesílí a čekají na větší kořist. Zbloudilé savce, ještěry, netopýry, permoníka, co se zatoulal daleko od svého obydlí. Když se taková kořist dostane do dómu s dospělými červi, jejich světélkující tělíčka se pod stropem roztančí hypnotickým tancem. To nebožáka paralyzuje. Nejbližší červi na něj napadají, na jeho těle se spáří a nakladou do něj vajíčka. Někdy to nebožák ani nevnímá a zemře na místě, jindy ho bolest probere a on se odpotácí do jiné jeskyně, kam červi přenese. Jakmile se však vajíčka vylíhnou, umírá. A zatímco nová generace červů šplhá na strop se pověsit a rozsvítit svá lákadla, tlející mrtvola přivábí hmyz a mrchožravce, hmyz samotný přivábí hmyzožravce a celý cyklus se opakuje.
 
 {:.map} 
-![Rozervané údolí. Pramen: DALL·E 2]({{site.baseurl}}/89/rozervane_udoli.png)
+![Rozervané údolí. Pramen: DALL·E 2]({{site.baseurl}}/89/rozervane_udoli.jpg)
 
   
 ### E) Zápletky
