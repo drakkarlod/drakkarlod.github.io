@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Ravnburgh: Střechy města
-authors: Ecthelion²
-tags: Ravnburgh
+title: Název článku
+authors: Jméno autora
+tags: štítek, další štítek
 ---
