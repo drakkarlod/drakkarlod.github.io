@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+title: 'Ravnburgh: Střechy města'
+authors: Ecthelion²
+tags: 'Ravnburgh, Materiály a doplňky, Inspirace'
+published: false
 ---
