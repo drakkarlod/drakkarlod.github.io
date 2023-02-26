@@ -4,15 +4,21 @@ title: 'Ravnburgh: Střechy města'
 authors: Ecthelion²
 tags: 'Ravnburgh, Materiály a doplňky, Inspirace'
 published: false
+summary: >-
+  Při pohledu z některé vysoké věže nebo z pohledu ptáků je celé město jednou
+  velkou rozlehlou plochou střech a střešních tašek jen občas přerušovaných
+  úzkými průrvami a kaňony ulic a údolími náměstíček pod nimi. Pokud člověk
+  dokáže přebíhat po trámech, arkýřích, přeskočit úzké uličky, přeběhnout
+  prampouchy, které je spojují, dobře odhadnout váhu, kterou ještě unesou
+  střešní tašky, šplhat po cihlových zdech a věžích, vyhýbat se komínům z krbů,
+  sklouznout se po šikmých plochách a vyhnout se chrličům a gangům... může
+  přeběhnout město z jednoho konce na druhý po střechách, aniž by z nich
+  jedinkrát slezl dolů do ulic.
 ---
-Při pohledu z některé vysoké věže nebo z pohledu ptáků je celé město jednou velkou rozlehlou plochou střech a střešních tašek jen občas přerušovaných úzkými průrvami a kaňony ulic a údolími náměstíček pod nimi.
+Je to svět sám pro sebe, se svými vlastními problémy, obyvateli a životy, které jsou se světem dole na ulicích spojeny jen velmi volně. 
 
 {:.map}
 ![Strechy-01.jpg]({{site.baseurl}}/90/Strechy-01.jpg)
-
-Pokud člověk dokáže přebíhat po trámech, arkýřích, přeskočit úzké uličky, přeběhnout prampouchy, které je spojují, dobře odhadnout váhu, kterou ještě unesou střešní tašky, šplhat po cihlových zdech a věžích, vyhýbat se komínům z krbů, sklouznout se po šikmých plochách a vyhnout se chrličům a gangům... může přeběhnout město z jednoho konce na druhý po střechách, aniž by z nich jedinkrát slezl dolů do ulic. 
-
-Je to svět sám pro sebe, se svými vlastními problémy, obyvateli a životy, které jsou se světem dole na ulicích spojeny jen velmi volně. 
 
 ## Střešní krajina 
 Města v údolích mají zpravidla střechy z pálených tašek, zatímco ty blíže horám a ve vyšších nadmořských výškách používají na střechách břidlici. Ravnburgh, který se rozkládá na mořském pobřeží v nížinách, je výjimkou z tohoto pravidla. Shodou okolností má v okolí lomy na břidlici, která je tak levně dostupná a byla použita prakticky na všechny střechy ve městě. Chudinské domky, kde si ji nemohou dovolit, používají šindele natřené smolou nebo barvou na tmavo, aby barevně zapadly. Zdálky je tak město havranů snadno rozpoznatelné pro rozsáhlé plochy černých střech, které je odlišují od všech ostatních měst na severním pobřeží Dračích moří. Dodávají městu pochmurný a jedinečný ráz. 
