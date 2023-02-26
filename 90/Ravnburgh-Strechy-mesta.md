@@ -14,12 +14,12 @@ Pokud člověk dokáže přebíhat po trámech, arkýřích, přeskočit úzké 
 
 Je to svět sám pro sebe, se svými vlastními problémy, obyvateli a životy, které jsou se světem dole na ulicích spojeny jen velmi volně. 
 
-### Střešní krajina 
+## Střešní krajina 
 Města v údolích mají zpravidla střechy z pálených tašek, zatímco ty blíže horám a ve vyšších nadmořských výškách používají na střechách břidlici. Ravnburgh, který se rozkládá na mořském pobřeží v nížinách, je výjimkou z tohoto pravidla. Shodou okolností má v okolí lomy na břidlici, která je tak levně dostupná a byla použita prakticky na všechny střechy ve městě. Chudinské domky, kde si ji nemohou dovolit, používají šindele natřené smolou nebo barvou na tmavo, aby barevně zapadly. Zdálky je tak město havranů snadno rozpoznatelné pro rozsáhlé plochy černých střech, které je odlišují od všech ostatních měst na severním pobřeží Dračích moří. Dodávají městu pochmurný a jedinečný ráz. 
 
 Mnoho prostor přístupných ze střech se užívá málo (půdy určené ke skladování harampádí, sýpky) nebo vůbec (zazděná podkroví, opuštěné věže, opuštěné domy). Obyvatelé střech dokonce na střechách dostavěli místnosti, o kterých majitelé budov vůbec nevědí, a které jsou přístupné právě jen ze střech. 
 
-### Vrány a Tvrďáci 
+## Vrány a Tvrďáci 
 Dvě největší skupiny, které ovládají střechy, jsou Vrány a Tvrďáci. Jsou to v zásadě konfederace menších gangů a skupin, které si hledí svého území v různých čtvrtích a vytvořili dvě obranné koalice. 
 
 Gangy ze střech jsou odlišné od těch, které vládnou ulicím dole. Tady jsou hromotlukové a tupí rváči k ničemu, protože propadnou skrze střechy nebo spadnou při balancování přebíhání trámů. Zdejší členové gangů jsou většinou spíše hubení šlachovití akrobati, často náctiletí, a jejich vzájemné šarvátky jsou bitvy v běhu, které se přelévají přes různé čtvrtí, a manévrovací pozicování, při kterém se proleje jen málo krve. 
@@ -32,7 +32,7 @@ Tvrďáci vládnou svým územím železnou rukou a mají podporu Gilberta Aylew
 
 Bez Hrafna se ale celá koalice Vran velice rychle rozpadne, proto po jeho identitě a místě pobytu Tvrďáci nepřetržitě pátrají a nabízejí vysoké odměny za obojí. 
 
-### Kletba kamene 
+## Kletba kamene 
 Tvrdí se, že jde o dávnou æsskou kletbu, případně prokletí čarodějnice upálené na hlavním náměstí. Někteří prohlašují, že jde o trest nebo zkoušku bohů. Jedno z vysvětlení říká, že nějací dobrodruhové hluboko v æsských komnatách a sklepeních pod městem, které ležely zapomenuty po staletí, odebrali velký kus krystalu zvaný „Oko prastarých", které usměrňovalo divokou magickou energii proudící v dávných magických liniích a ta nyní uniká nekontrolovaně do města. Názorů je mnoho, nikdo ale neví najisto, co „kletbu kamene" (jak se jí ve městě říká) způsobuje. 
 
 Asi před sto lety se objevila poprvé a od té doby se stává, že se některé sochy ve městě občas v noci probudí a bezcílně bloumají ulicemi, jako by něco hledaly. Postihuje i nově vyrobené sochy nebo sochy, které se do města dopraví. Pokud si jich lidé nevšímají, jsou sochy zpravidla neškodné. Většinou se vrací na svá původní místa, ale pokud je úsvit zastihne jinde, ztuhnou bez života a zůstanou stát. Občas to zkomplikuje dopravu, když zkamení uprostřed vozovky, ale místní jsou na to zvyklí a nikdo se nad sochami na divných místech nepozastavuje. 
@@ -45,10 +45,10 @@ Chrliči jsou většinou ostýchaví a od lidí si drží odstup, ale pokud jsou
 
 Od procitnutí chrličů lidé žádné další nestaví, ale učenci si myslí, že jejich počty velice pomalu narůstají. Nikdo neví, jak je to možné, ale je jich zřejmě více než před sto lety, přestože někteří původní chrliči za tu dobu padli za oběť nehodám nebo byli zničeni. 
 
-_Prampouch_ 
+#### Prampouch
 _Je to název pro rozpěrný oblouk mezi dvěma budovami, typický pro užší uličky. Tento oblouk obě budovy rozpírá od sebe a stabilizuje. Bývá zpravidla opatřen stříškou._
 
-### Když-tu-náhle! 
+## Když-tu-náhle! 
 Tyto zápletky můžete použít v případě, že se nic zajímavého neděje, hra se rozbředává a hráči se nudí. Pak stačí sáhnout po některé rychlé zápletce níže, která může být buď rychlým rozptýlením nebo začátkem dlouhého dobrodružství. 
 
 - Postavy zahlédnou velkou skrumáž lidí! Když se tam dostanou, uvidí, že dav obklíčil jednoho z oživlých chrličů a hází po něm kameny a brání mu vidlemi v tom, aby mohl odletět za pomoci svých křídel. Chrlič zoufale syčí na dav, ale v dohledu nejsou další chrliči, kteří by mu pomohli, a lidé už vyrazili do svých domů pro kladiva, aby ho roztloukli na štěrk... 
