@@ -1,9 +1,10 @@
 ---
 layout: article
-title: 'Physiologus - Rozšíření bestiáře pro Dračí Hlídku'
+title: Physiologus - Rozšíření bestiáře pro Dračí Hlídku
 authors: Václav „Kasai“ Daneš
 tags: 'materiály a doplňky, inspirace, dračí hlídka'
-summary: 'Hervendur, sběrač magických předmětů, a dvorní goblin, rasa zcivilizovaných goblinů věrných svému pánu.'
+summary: "Hervendur, sběrač magických předmětů, a dvorní goblin, rasa zcivilizovaných\_goblinů věrných svému pánu."
+published: true
 ---
 
 ## Hervendur
@@ -49,11 +50,11 @@ Hervendur dokáže seslat následující kouzla: Mrazivá střela, Mlha, Naruš 
   <tr><td>• Atributy:</td><td>	SIL 12 <i>(+1)</i>, OBR 15 <i>(+2)</i>, ODO 10 <i>(0)</i>, INT 11 <i>(0)</i>, CHAR 9 <i>(-1)</i></td></tr>
 <tr><td>• Pohyblivost:</td><td>	30</td></tr>
 <tr><td>• Velikost:</td><td>	A</td></tr>
-<tr><td>• Útočné číslo:</td><td>	(1+5/+1)= 6/+1 <i>(široký meč)</i><br/>
+<tr><td style="vertical-align: top">• Útočné číslo:</td><td>	(1+5/+1)= 6/+1 <i>(široký meč)</i><br/>
                             (2+4/+0)= 6/+0 <i>(krátký luk)</i><br/>
 		                    (1+6/+3)= 7/+3 <i>(sudlice)</i></td></tr>
 <tr><td>• Základní obrana:</td><td> (2+5)= 7 <i>(šupinová zbroj)</i></td></tr>
-<tr><td>• Obranné číslo:</td><td> (2+5+2)= 9 <i>(šupinová zbroj, široký meč)</i><br/>
+<tr><td style="vertical-align: top">• Obranné číslo:</td><td> (2+5+2)= 9 <i>(šupinová zbroj, široký meč)</i><br/>
                              (2+5+3)= 10 <i>(šupinová zbroj, sudlice)</i></td></tr>
 <tr><td>• Zvláštní schopnosti:</td><td> Kavalerie, Vojenský výcvik</td></tr>
 <tr><td>• Dovednosti:</td><td> Jízda na zvířeti (OBR) 3, Čtení a psaní (INT) 2, První pomoc (OBR) 1</td></tr>
@@ -75,4 +76,3 @@ Dvorní goblini umí jezdit na menších jízdních zvířatech, úměrných jej
 #### Zvláštní schopnost: Vojenský výcvik
 
 Všichni goblini prošli alespoň základním výcvikem, díky čemuž jsou i ženy schopné bojovat. Plnohodnotní vojáci umí zacházet se všemi dostupnými zbraněmi a učí se boji s tvory vyššími než oni (obvyklá taktika probíhá ve dvojici, kdy jeden vyběhne po zádech druhého a skočí na nepřítele).
-
