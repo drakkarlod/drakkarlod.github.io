@@ -20,7 +20,7 @@ _No když je aktuální téma Drakkaru “Zapomnění”, tak jsem zkusil zapát
 
 - **3 -** _Tichá smrt III._ Tato dřevěná ponorka sice pojme jen posádku sotva deseti lidí, a ani místa na náklad či munice není nijak extra moc. Ale její přednosti tyto nedostatky hravě převažují. Možnost dostat se někam nepozorovaně pod hladinou či vypustit k hladině se vznášející výbušniny na nic netušící nepřátele je příliš lákavou a silnou výhodou. A to i přes to, že Tichá smrt I a II vybuchly pod vodou kvůli nestabilnímu pohonu. 
 
-- **4 -**_Chernoyogon._ Mohutná opancéřovaná železná želví loď, u které nikdo, kdo ji vidí, nevěří, že se může udržet na hladině. Z jejích útrob skrz několik komínů uniká temně černý kouř, jenž je vidět už z dálky jako špatné znamení toho, co se blíží. Tato loď byla vyrobena ohnivými titány jako dar trpasličímu kapitánu, jenž pro ně loví bouřného titána, který je okradl a schovává se pod hladinou oceánu. 
+- **4 -** _Chernoyogon._ Mohutná opancéřovaná železná želví loď, u které nikdo, kdo ji vidí, nevěří, že se může udržet na hladině. Z jejích útrob skrz několik komínů uniká temně černý kouř, jenž je vidět už z dálky jako špatné znamení toho, co se blíží. Tato loď byla vyrobena ohnivými titány jako dar trpasličímu kapitánu, jenž pro ně loví bouřného titána, který je okradl a schovává se pod hladinou oceánu. 
 
 - **5 -** _Navientos._ Navientos je krásnou lodí v perfektním stavu, která je sama sobě kapitánem. Ano, nečetli jste špatně. Naviente má vlastní vědomí a je kapitánem své posádky. Ta je jí naprosto oddaná, jelikož se před kapitánem není kam na lodi schovat, a pečuje o ni, jak nejlépe dovede. Sama loď má neskutečné jízdní vlastnosti… a obrovské ego. 
 
@@ -68,7 +68,7 @@ _No když je aktuální téma Drakkaru “Zapomnění”, tak jsem zkusil zapát
 
 - **3 -** _Gentdemar_ - Gentdemar je skoro celý vytesán do skal lemujících tuto zátoku, kdy jedna jeho část je nad hladinou moře a druhá zasahuje pod ní. Přístav jsou spíše dvě města spojená do sebe, kdy to pod hladinou patří mořskému národu žijícímu v míru se suchozemci. 
 
-- **4 -**_Kromobroek_ - Nad hladinu moře, uprostřed ničeho, se zvedá rozměrná ocelovo-dřevěná plošina, na níž vyrostlo namačkané městečko do poslední pídě využívající omezeného prostoru. Celá plošina stojí na jednom velkém prostředním pilíři, zasahujícím prý až na dno oceánu, a v jeho středu je dokonce výtah dolů, sice už nefunkční, pak poničené schody a pár dávno zapomenutých mezipater. Několik vrchních je ještě spoře obydleno, ale úplně dolů už desetiletí nikdo nevstoupil. 
+- **4 -** _Kromobroek_ - Nad hladinu moře, uprostřed ničeho, se zvedá rozměrná ocelovo-dřevěná plošina, na níž vyrostlo namačkané městečko do poslední pídě využívající omezeného prostoru. Celá plošina stojí na jednom velkém prostředním pilíři, zasahujícím prý až na dno oceánu, a v jeho středu je dokonce výtah dolů, sice už nefunkční, pak poničené schody a pár dávno zapomenutých mezipater. Několik vrchních je ještě spoře obydleno, ale úplně dolů už desetiletí nikdo nevstoupil. 
 
 - **5 -** _Sadamkuld_ - Nebo taktéž přezdívaný Zlatý přístav, leží v zátoce které se zlatě leskne celé dno, když je jasný slunečný den. A leskne se proto, jelikož je pokryto neskutečným bohatstvím. Koberce zlatých mincí, šperků a dalších cenností se válejí na mořském dně mezi troskami obrovských budov, zdánlivě bez ladu a jakékoliv ochrany. V zátoce jsou totiž trosky potopeného města prastarých titánů, kde poslední z nich stále žije a slouží jako ochránce přístavu nahoře. Za to si ale žádá desátek v podobě hozených cenností, nejlépe zlata, od každé lodi proplouvající na moře. Pokud tak neučiníte, očekávejte že se ze dna odlepí mohutný stín a dvě obří ruce roztrhnou vaši loď vedví.
 
@@ -84,7 +84,7 @@ _No když je aktuální téma Drakkaru “Zapomnění”, tak jsem zkusil zapát
 
 - **3 -** _Tsohaven_ - Je gobliní pirát, dokonce býval kapitánem několika pirátských lodí, takové menší flotily, a říkal si Král pirátů. Pak se ale jeho piráti dostali dost nepříjemně do hledáčku koruny a stahovala se nad nimi příliš silně oprátka. Tak své lidi zradil, prodal, okradl, o co šlo, a utekl. Cestuje se svým věrným trpasličím spolupirátem, Agavarem, a snaží se zbavit přeživších pirátů, co po něm jdou, a vyzvednout si svůj schovaný poklad, za který by se dalo koupit menší království. 
 
-- **4 -**_Syngja -_ Syngja je netradičním námořníkem, je totiž sirénou-harpyjí. Své hnízdo má na vrcholu stěžně v pozorovacím koši, který ale nepoužívá, jelikož umí létat a z oblak je lepší rozhled. Její nejnebezpečnější zbraní během námořních bitev je překvapivě její zpěv, ale jelikož je ten nebezpečný i pro její společníky, tak ti do bitev nosí buď klapky na uši, či někteří i cíleně ohluchli jako důkaz lásky k jejich společnici. Celá posádka se naučila znakovou řeč, aby se mohli domluvit bez sluchu. 
+- **4 -** _Syngja -_ Syngja je netradičním námořníkem, je totiž sirénou-harpyjí. Své hnízdo má na vrcholu stěžně v pozorovacím koši, který ale nepoužívá, jelikož umí létat a z oblak je lepší rozhled. Její nejnebezpečnější zbraní během námořních bitev je překvapivě její zpěv, ale jelikož je ten nebezpečný i pro její společníky, tak ti do bitev nosí buď klapky na uši, či někteří i cíleně ohluchli jako důkaz lásky k jejich společnici. Celá posádka se naučila znakovou řeč, aby se mohli domluvit bez sluchu. 
 
 - **5 -** _Khaya_ - Mladá dívka, plná elánu a romantických představ o moři. Naprosto z ní srší energie a touha se dostat na nějakou loď, že je ochotna jet prakticky jen za stravu a ubytování, a klidně si i svůj pobyt řádně odpracuje. Popravdě není tím, za koho se vydává, ale je mořskou pannou proměněnou v člověka, uctívající zlého boha moří, a potápí lodě, na které se dostane, jako oběť svému nemilosrdnému bohu. 
 
@@ -116,9 +116,9 @@ _České jméno - fantasy znějící jméno - prvek popisu_
 
 - **11 -** _Utonulý kapitán - Afagar Catau_ - Celá loď je porostlá chaluhami, korály a dřevo má zašlou barvu, jako by ji vytáhli ze dna moře… a taky že jo. Byla to loď otce nynějšího kapitána, který ji nechal vylovit, opravit a pluje na ní v jeho odkazu. 
 
-- **12** - _Věznice mrtvých - Lyk Finzenis_ - Na přídi této děsivě vypadající lodi je vyřezávaná socha liche, ve které je onen lich zaklet, aby se nikdy znovu nenarodil, jelikož loď sama je jeho phylactery. Na lodi jsou potom různě rozvěšené kosti a lebky lidí, které jsou přítomností lichovy duše oživeny a které si povídají mezi sebou či s posádkou. Navíc na lodi „straší“ duše některých mrtvých členů posádky. 
+- **12 -** _Věznice mrtvých - Lyk Finzenis_ - Na přídi této děsivě vypadající lodi je vyřezávaná socha liche, ve které je onen lich zaklet, aby se nikdy znovu nenarodil, jelikož loď sama je jeho phylactery. Na lodi jsou potom různě rozvěšené kosti a lebky lidí, které jsou přítomností lichovy duše oživeny a které si povídají mezi sebou či s posádkou. Navíc na lodi „straší“ duše některých mrtvých členů posádky. 
 
-- **13** - _Posel Chaosu - Anaknesaar_ - Tato loď zmutovala působením Chaosu, a tak pozor na její podvodní chapadla vyrůstající z trupu, námořníky srostlé s palubou, tlamu na taranovací přídi a další nepříjemná a nechutná překvapení. 
+- **13 -** _Posel Chaosu - Anaknesaar_ - Tato loď zmutovala působením Chaosu, a tak pozor na její podvodní chapadla vyrůstající z trupu, námořníky srostlé s palubou, tlamu na taranovací přídi a další nepříjemná a nechutná překvapení. 
 
 - **14 -** _Archa - Kivótos_- Široká bárka, jež má velkou část paluby vyvýšenou na několik pater a zakrytou střechou, aby se tam vešlo co nejvíc nákladu. 
 
