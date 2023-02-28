@@ -8,6 +8,7 @@ summary: >-
   Tabulky zaměřené na námořní/pirátské prostředí odehrávající se ve vysoké
   fantasy.
 ---
+_No když je aktuální téma Drakkaru “Zapomnění”, tak jsem zkusil zapátrat v paměti co bych mohl použít…a vzpomněl si na sérii náhodných tabulek z roku 2017, kdy jsem zkoušel tvořit d6 náhodnou tabulku každý den (vydrželo mi to pár měsíců a většinu jsem už použil jinde v Drakkaru, Neviditelné knize či rozebral na součástky…ale pár tabulek mi zůstalo nevyužitých a tak je škoda, aby se na ně v google doc šuplíku prášilo a dám Vám je tudíž k dispozici. Určitě by zasloužili trošku učesat (a asi opravit pravopis - mou pradávnou nemesis), ale i tak snad někomu pomohou/inspirují jej._
 
 #### Den 16 - 10.7.2017
 
