@@ -1,9 +1,12 @@
 ---
 layout: article
-title: 'Skupinová zázemí pro Dračí hlídku – 1. díl'
+title: Skupinová zázemí pro Dračí hlídku – 1. díl
 authors: Václav „Kasai“ Daneš
-tags: materiály a doplňky, inspirace, dračí hlídka
-summary: 'Začínáte novou družinu ale přijde vám že se hráči nemají čeho chytit? Nebo chcete dát družině atmosféru a motivaci? Zkuste skupinové zázemí!'
+tags: 'materiály a doplňky, inspirace, dračí hlídka'
+summary: >-
+  Začínáte novou družinu ale přijde vám že se hráči nemají čeho chytit? Nebo
+  chcete dát družině atmosféru a motivaci? Zkuste skupinové zázemí!
+published: true
 ---
 
 > Václav "Kasai" Daneš je ambassador za Ústecký kraj. 
@@ -48,7 +51,7 @@ Jako jednotka máte určité kódy, které samy o sobě nic neznamenají, ale pr
 
 Máte stejného boha, odpovědi na životní otázky jste našli ve víře a jste jí oddáni.
 
->Oddanost je velmi důležitá, svět venku mimo chrám umí být velmi krutý, a proto je důležité věřit jeden druhému a víře.
+> Oddanost je velmi důležitá, svět venku mimo chrám umí být velmi krutý, a proto je důležité věřit jeden druhému a víře.
 
 - **Jeho milost:** Vysoce postavený církevní představitel. Jde mu o blaho jeho lidí a umí být stejně tak krutý, jako milý. (Kde se v tobě ta silná osobnost bere?)
 - **Lazebník:** Léčitel výpravy, obvykle pacifista, ale když to je nutné, umí velmi uškodit. (Komu bys pomohl, a komu už ne?)
@@ -61,7 +64,7 @@ Máte stejného boha, odpovědi na životní otázky jste našli ve víře a jst
 
 Výprava může konvertovat nehráčské postavy (pokud se jim to povede*). Pokud jichkonvertuje více než 10, jmůže je použít jako dav, který je možné přesvědčit k téměř čemukoliv, co víra dovoluje.
 
-> * Např. několikeré přehození INT vesničana hráčem (vedení teologické diskuze); pomoc vesničanům s nějakým složitým problémem; prokázání, že jejich současná víra je slabší než hráčská.
+> \* Např. několikeré přehození INT vesničana hráčem (vedení teologické diskuze); pomoc vesničanům s nějakým složitým problémem; prokázání, že jejich současná víra je slabší než hráčská.
 
 ## 4. Tajná organizace
 
