@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Střechy města'
 authors: Ecthelion²
 tags: 'Ravnburgh, Materiály a doplňky, Inspirace'
-published: false
+published: true
 summary: >-
   Při pohledu z některé vysoké věže nebo z pohledu ptáků je celé město jednou
   velkou rozlehlou plochou střech a střešních tašek jen občas přerušovaných
