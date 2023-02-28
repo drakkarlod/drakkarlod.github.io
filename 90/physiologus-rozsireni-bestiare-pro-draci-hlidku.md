@@ -9,7 +9,7 @@ published: true
 
 ## Hervendur
 
-<table border=1>
+<table border=0>
   <tr><td>• Životy:</td><td>		35</td></tr>
   <tr><td>• Úroveň:</td><td>	4</td></tr>
   <tr><td>• Vyšší moc:</td><td>	9</td></tr>
@@ -43,7 +43,7 @@ Hervendur dokáže seslat následující kouzla: Mrazivá střela, Mlha, Naruš 
 
 ## Dvorní goblin
 
-<table border=1>
+<table border=0>
 <tr><td>• Životy:</td><td>		25</td></tr>
 <tr><td>• Úroveň:</td><td>	3</td></tr>
 <tr><td>• Vyšší moc:</td><td>	X</td></tr>
