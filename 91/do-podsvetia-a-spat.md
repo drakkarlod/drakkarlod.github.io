@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Do podsvetia a späť 
-authors: Kocúrek Marek
+title: Do podsvetia a späť
+authors: Simoniak
 tags: povídka
 published: true
 ---
