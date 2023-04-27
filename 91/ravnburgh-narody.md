@@ -3,7 +3,7 @@ layout: article
 title: 'Ravnburgh: Národy'
 authors: Ecthelion²
 tags: 'Ravnburgh, Materiály a doplňky, Inspirace'
-published: false
+published: true
 summary: >-
   Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Popisuje
   národy, které obývají svět a město Ravnburghu.
