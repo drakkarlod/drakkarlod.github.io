@@ -14,10 +14,10 @@ Nejčastějšími návštěvníky města jsou poddaní Lvího císařství na z�
 
 Občas do města zavítají také zlobři z Ledové tříště na půlnoci nebo horští skřeti z pohoří Vhre, kteří patří mezi Starší národy lidem nepříbuzné. Příslušníci obou národů se většinou drží ve svých zemích, ale Ravnburgh je výjimka. Jsou tu tak častým zjevem, že se za nimi nikdo ani neotočí. Je hlavním městem obchodujícím se zlobřími královstvíčky na půlnoci, a proto zlobři nejsou ve městě nijak neobvyklí. Ve městě je také mnoho žoldnéřům, kteří tu hledají práci, a skřeti patří mezi nejlepší vojáky, kteří najímají své píky těm, kteří zaplatí nejvíc. 
 
-**Arlatští (obyvatelé půlnočních království)**
+### Arlatští (obyvatelé půlnočních království)
 
 {:.map}
-![arlatsti.jpg]({{site.baseurl}}/91/arlatsti.jpg)
+![]({{site.baseurl}}/91/arlatsti.jpg)
 
 V Ravnburghu jsou doma obyvatelé desítek samostatných království, knížectví a vévodství, které jsou členy mnohonárodnostního volného svazu známého jako Arlatská léna. Každý ze států a státečků svazu si spravuje své vlastní vnitřní záležitostí a spojeny jsou jen volnou vládou a osobou arlatského velekrále a erbem velekrálovského gryfa. Dříve byla tato vláda prakticky absolutní, dnes je moc velekrále velice slabá a omezená. Jednotlivé státy jsou víceméně nezávislé a spojují se jen v obraně proti vnějším nepřátelům. 
 
@@ -30,7 +30,7 @@ Obyvatelé Ravnburghu spolu mluví _arlatštinou_ , pro kterou používáme če�
 ### Císařští (_sujets de l'Empire_ (poddaní císařství)) 
 
 {:.map}
-![cisarsti.jpg]({{site.baseurl}}/91/cisarsti.jpg)
+![]({{site.baseurl}}/91/cisarsti.jpg)
 
 Lví císařství se nachází na západ od Ravnburghu a arlatských lén. Je to země rytířů a rytířek, trubadúrů, kamenných hradů, rozlehlých polí, milostné i dvorské poezie. Zdejší kultura je ceněna daleko za hranicemi císařství a sama země je důležitou křižovatkou obchodu a kultur. Ceněno je tu chutné jídlo a víno, dobrá hudba a zpěv. Lidé se tu klaní Sluneční panně jako přední z bohů. Zdejší rytíři, elita vojska a nejlepší těžká jízda na světě, chrání hranice a vyráží do boje pod svými modrými prapory na rozkaz _lionnesse_ , císařovny lvice. Muži i ženy jsou si v císařství plně rovni a dobrá polovina těžké jízdy je tvořena rytířkami v plátových brněních. 
 
@@ -41,7 +41,7 @@ Protože císařství původně vzniklo jako městský svaz, zdejší kultura je
 ### Jižané z Ligy 
 
 {:.map}
-![jizane.jpg]({{site.baseurl}}/91/jizane.jpg)
+![]({{site.baseurl}}/91/jizane.jpg)
 
 Ve směru na poledne od říše se na březích Vnitřního moře rozkládají svářící se městské státy a republiky Maelské ligy (největší mezi nimi Darnaj, Maele, Cadena, Onnam, Hirsin a Garsen), které bohatnou z námořního obchodu. Jižané vždy vzdorovali vlivu cizích pánů a Maelská liga vznikla jako obranná aliance proti snaze arlatských velekrálů je začlenit do svého panství. Zvlněné kopce a vrchy osvětlované jasným jižním sluncem, vedoucí ke strmým horám s ostrými vrcholy, příjemná údolí podél řek s lány obilí a rustikálními farmami s cypřišovými stromořadími, stejně jako písečné pláže a strmé útesy na březích moře, jsou pro tyto země typické. 
 
@@ -54,7 +54,7 @@ Jsou vášniví, vznětliví, impulzivní a prostořecí. Nade vše si cení rod
 ### Purpuřané (_pōrphyrîoi_ ) 
 
 {:.map}
-![purpurane.jpg]({{site.baseurl}}/91/purpurane.jpg)
+![]({{site.baseurl}}/91/purpurane.jpg)
 
 Jsou to uprchlíci z padlé Purpurové říše, kteří uprchli po pádu Basileopolis na západ a začali žít mezi obyvateli ostatních království, nebo stále obývají území malých nástupnických států (vadjarského exarchátu a tartasského despotátu), jejichž území si nepodmanili dračí chánové. 
 
@@ -65,7 +65,7 @@ Mezi exulanty bylo mnoho uprchlých aristokratů, řemeslníků a žoldnéřů n
 ### Zlobři z ledových fjordů 
 
 {:.map}
-![zlobri.jpg]({{site.baseurl}}/91/zlobri.jpg)
+![]({{site.baseurl}}/91/zlobri.jpg)
 
 Ve směru na půlnoc od Ravnsburghu se za Dračím mořem mezi ledovou tříští a v hlubokých fjordech chráněných vysokými kamennými věžemi rozkládají královstvíčka a léna zlobrů. 
 
@@ -74,7 +74,7 @@ Ti si sami říkají _hárlingjar_ (sing. _hárlingi_ ), jsou vytáhlí, okolo 2
 ### Horští skřeti z pohoří Vhre 
 
 {:.map}
-![skreti.jpg]({{site.baseurl}}/91/skreti.jpg)
+![]({{site.baseurl}}/91/skreti.jpg)
 
 Mlčenliví a hroziví, horští skřeti jsou asi o půl hlavy vyšší než průměrný člověk, s tvářemi ukrytými za hledími svých šalířů. Jsou zuřiví a nemilosrdní v útoku, neochvějní v bitvě a proslavili jako nezastavitelná síla na bojišti. Byli to oni, kdo v obraně před snahou vévody z Leunep podmanit vherské průsmyky jako první nasadili masy pík a porazili s touto taktikou těžkou jízdu. To vítězství jim otevřelo cestu k několik desítek trvajícímu monopolu na najímání pikenýrů. Dodnes je vojenská přezdívka pro vojáky s píkou ‚_skřet_ ', bez ohledu na to, odkud pocházejí. 
 
@@ -82,6 +82,6 @@ U pasu nosí každý skřet _sagrr_ (v jejich jazyce „břit"), dlouhý ostrý 
 
 Ve službách cizích států preferovali vždy útok masy pikenýrů proti nepříteli, rychlý a zničující. V boji neberou zajatce, milost nedávají ani nečekají. Dominovali bojištím po několik desetiletí, než ostatní státy postavily vlastní jednotky podle jejich vzoru. Na rozdíl od skřetů lidské jednotky doplnily prostou sílu pikenýrů o střelce, aby byli schopni přijmout útok skřetích pikenýrů a porazit je. Tato taktika se ukázala jako velice účinná a takové síly porazily skřety v několika bitvách, takže poptávka po jejich službách klesla. Sami museli doplnit své řady o vlastní střelce (dávají přednost zastaralým, ale stále účinným samostřílům před zbraním na střelný prach), aby dokázali konkurovat svým konkurentům a často jsou schopni bojovat i v obraně, přestože stále preferují bezhlavý útok. Jsou pořád oceňováni jako elitní vojáci a mnohé státy, především města Ligy, je dál najímají a staví do bitev. 
 
-#### Závěr 
+### Závěr
 
 Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady].
