@@ -201,3 +201,5 @@ Pokud jsi terčem klerikovi prosby, můžeš se rozhodnout bránit se vlivu dan�
 | Yuan-ti | B | 150-210 cl | 45-90 lb | 30+OBR | Hadí odolnost | 6 | 6 | 7 | 9 | 8 | 
 | Padlý Aasimar | B | 170-220 cl | 60-110 lb | 30+0BR | Stín na duši | 6 | 5 | 5 | 8 | 11 | 
 | Kenku | B | 140-180 cl | 20-50 lb | 30+OBR | Havraní jazyk | 7 | 9 | 5 | 8 | 7 |
+
+> Použité ilustrace byly vytvořeny pomocí starryai.com
