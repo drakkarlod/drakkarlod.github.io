@@ -177,6 +177,11 @@ p + .sidebar + p { text-indent: 2em; }
     font-style: italic;
 }
 
+.articlepreview h2 > a {
+    border: none;
+    color: inherit;
+}
+
 .articlepreview_more {
     margin-top: 7px;
 }
