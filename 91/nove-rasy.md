@@ -1,25 +1,30 @@
 ---
 layout: article
-title: 'Nové rasy nejen pro Dračí hlídku'
+title: Nové rasy nejen pro Dračí hlídku
 authors: Fallen Knight
-tags: Dračí hlídka, materiály a doplňky
+tags: 'Dračí hlídka, materiály a doplňky'
 published: true
-summary: Dračí Hlídka je systém, který se objevil teprve nedávno, nicméně už teď nabírá na popularitě. Poté, co jsem se s ním seznámil a začal pomocí něj hrát s přáteli, začaly mě napadat různé způsoby, jak systém rozšířit. Rozhodl jsem se vytvořit nové rasy, s účelem zpestřit sobě i svým hráčům tvorbu a hraní postavy. 
+summary: >-
+  Dračí Hlídka je systém, který se objevil teprve nedávno, nicméně už teď nabírá
+  na popularitě. Poté, co jsem se s ním seznámil a začal pomocí něj hrát s
+  přáteli, začaly mě napadat různé způsoby, jak systém rozšířit. Rozhodl jsem se
+  vytvořit nové rasy, s účelem zpestřit sobě i svým hráčům tvorbu a hraní
+  postavy.
 ---
 
-Po asi roce práce a s trochou inspirace z anglického systému Dungeons&Dragons i svého okolí byly tyto rasy na světě. Nyní se s Vámi o tyto rasy chci podělit, aby i další mohli čerpat inspiraci z mé práce a snad i aby se tyto rasy dostaly  k dalším hráčům a nadšencům. I když jsou napsané především pro systém Dračí Hlídky, mělo by být možné je relativně snadno přepracovat i do dalších systémů.
+Po asi roce práce a s trochou inspirace z anglického systému `Dungeons & Dragons` i svého okolí byly tyto rasy na světě. Nyní se s Vámi o tyto rasy chci podělit, aby i další mohli čerpat inspiraci z mé práce a snad i aby se tyto rasy dostaly k dalším hráčům a nadšencům. I když jsou napsané především pro systém Dračí Hlídky, mělo by být možné je relativně snadno přepracovat i do dalších systémů.
 
 ## Temné rasy
 
-_Některé rasy jsou považované za civilizované. Ne všechny. Některé jsou zavržené. Žijí na kraji společnosti, nebo ve svých malých komunitách. Mají jiné zvyky, jiné obyčeje, jiné způsoby. Většina „civilizovaných“ ras je nemá moc ráda, protože jejich temné kořeny berou jako dost dobrý důvod pro diskriminaci těchto podivných stvoření. Většinou je na ně svalena vina a občas se nějaký fanatik pokusí jejich počty snížit. To samozřejmě způsobuje, že jsou nedůvěřivý, a často vrací co jim bylo provedeno. Tato vzájemná nedůvěra jen zhoršuje vztahy těchto ras ke společnosti._
+_Některé rasy jsou považované za civilizované. Ne všechny. Některé jsou zavržené. Žijí na kraji společnosti nebo ve svých malých komunitách. Mají jiné zvyky, jiné obyčeje, jiné způsoby. Většina „civilizovaných“ ras je nemá moc ráda, protože jejich temné kořeny berou jako dost dobrý důvod pro diskriminaci těchto podivných stvoření. Většinou je na ně svalena vina a občas se nějaký fanatik pokusí jejich počty snížit. To samozřejmě způsobuje, že jsou nedůvěřivé a často vrací, co jim bylo provedeno. Tato vzájemná nedůvěra jen zhoršuje vztahy těchto ras ke společnosti._
 
 ## Společná schopnost všech těchto ras: Oči do stínů
 
-_Život plný nebezpečí a útisku často donutil tyto rasy skrývat se přes den a pohybovat se ve stínech. Jejich oči se tomu dokázaly přizpůsobit a navykli si šeru a špatnému osvětlení._
+_Život plný nebezpečí a útisku často donutil tyto rasy skrývat se přes den a pohybovat se ve stínech. Jejich oči se tomu dokázaly přizpůsobit a uvykly šeru a špatnému osvětlení._
 
-Oči těchto ras jsou mnohem víc přizpůsobeny do stínů. Ovšem ani jejich oči nevidí v úplné tmě. V matném světle vidí bez jakýchkoliv postihů . Stejně tak například v noci, jestli svítí hvězdy a měsíc, nebo pokud jsou někde kde není přímé světlo. Vidění ve tmě není dokonalé. Jeho dosah je 30 sáhů. Nevidí barvy, pouze odstíny šedivé. Také vidění detailů je mnohem náročnější, a z tohoto důvodu se může obtížnost dovedností, které je vyžadují, jako například čtení a psaní, zvýšit.
+Oči těchto ras jsou mnohem víc přizpůsobeny do stínů. Ovšem ani jejich oči nevidí v úplné tmě. V matném světle vidí bez jakýchkoliv postihů. Stejně tak například v noci, pokud svítí hvězdy a měsíc nebo když jsou někde, kde není přímé světlo. Vidění ve tmě není dokonalé. Jeho dosah je 30 sáhů. Nevidí barvy, pouze odstíny šedivé. Také vidění detailů je mnohem náročnější a z tohoto důvodu se může obtížnost dovedností, které je vyžadují, jako například čtení a psaní, zvýšit.
 
-Tato schopnost však také sebou přináší některé nevýhody. První z nich se projeví pokud se dívají směrem ke umělému zdroji světla, jako například lucerna či pochodeň, z oblasti kam daný zdroj vrhá jasné světlo. V takové situaci mají postih -3 k ověřování Postřehu zrakem (například když sedí u stolu na kterém je položen velký svícen, pokud drží v ruce pochodeň, lucernu či zapálený Plamenný meč).
+Tato schopnost však také s sebou přináší některé nevýhody. První z nich se projeví, pokud se dívají směrem k umělému zdroji světla, jako je například lucerna či pochodeň, z oblasti, kam daný zdroj vrhá jasné světlo. V takové situaci mají postih -3 k ověřování Postřehu zrakem (například když sedí u stolu, na kterém je položen velký svícen, když drží v ruce pochodeň, lucernu či zapálený Plamenný meč).
 
 Druhou nevýhodou je, že pokud jsou oslepeni nějakým světelným efektem či zábleskem, oslepení trvá dvakrát takovou dobu.
 
@@ -29,15 +34,15 @@ Pokud jsou někde, kde je úplná temnota bez žádného zdroje světla, nevidí
 
 ![](rasy-tiefling.jpg)
 
-Modrá až rudá kůže se šupinami, ocas, rohy, to vše odděluje tieflingy od jejich vzdálených příbuzných, lidí. Vznikly někdy dávno, pomocí temných rituálů a krve démona, která na ně uvrhla nezlomitelné a dědičné prokletí, které může za jejich zdeformovaný vzhled. I když si to mnoho myslí, tento rituál je neučinil o nic víc zlými v mysli. To až generace zavržení a opovrhování. Občas se také stane, že se kletba skrývá neaktivní v několika generací a pak se najednou narodí lidským rodičům démonicky vypadající dítě. Pro strach z toho, že kletba ovlivnila víc než jen jejich vzhled tyto děti končí na ulicích, nechány na pospas smrti. Nikdo neví, kolik tieflingů bylo takto nalezeno a adoptováno ostatními tieflingy, ale je jisté že všichni zanevřeli na své rodiče a nevyhledávají je. Tyto problémy však rozhodně zpevnili jejich charakter a tak se i přes odpor společnosti stávají výbornými hraničáři, kouzelníky či kleriky.
+Modrá až rudá kůže se šupinami, ocas, rohy, to vše odděluje tieflingy od jejich vzdálených příbuzných, lidí. Vznikli někdy dávno, pomocí temných rituálů a krve démona, která na ně uvrhla nezlomitelné a dědičné prokletí, které může za jejich zdeformovaný vzhled. I když si to mnozí myslí, tento rituál je neučinil o nic víc zlými v mysli. To až generace zavržení a opovrhování. Občas se také stane, že se kletba skrývá neaktivní v několika generacích a pak se najednou narodí lidským rodičům démonicky vypadající dítě. Pro strach z toho, že kletba ovlivnila víc než jen jejich vzhled tyto děti končí na ulicích, nechány na pospas smrti. Nikdo neví, kolik tieflingů bylo takto nalezeno a adoptováno ostatními tieflingy, ale je jisté, že všichni zanevřeli na své rodiče a nevyhledávají je. Tyto problémy však rozhodně zpevnily jejich charakter, a tak se i přes odpor společnosti stávají výbornými hraničáři, kouzelníky či kleriky.
 
-Tieflingové mluví dvěma jazyky. Obecnou řečí a Pekelnou. Pekelnou řeč také užívají démoni a různí uživatelé temné magie pro sesílání kouzel.
+Tieflingové mluví dvěma jazyky. Obecnou řečí a pekelnou. Pekelnou řeč také užívají démoni a různí uživatelé temné magie pro sesílání kouzel.
 
-Malé komunity tieflingů najdete v každé chudinské čtvrti, avšak jsou i tací co to dotáhli daleko a mají honosné domy. Obecně však nestaví svá vlastní města. Také není žádné krajiny, která by pro ně byla přirozeným domovem, protože nikam nepatří.
+Malé komunity tieflingů najdete v každé chudinské čtvrti, avšak jsou i tací, co to dotáhli daleko a mají honosné domy. Obecně však nestaví svá vlastní města. Také není žádné krajiny, která by pro ně byla přirozeným domovem, protože nikam nepatří.
 
 ### Rodová zvláštní schopnost: Odolnost proti ohni
 
-_Krev démona a šupiny na těle udělali víc, než jen změnili jejich vzhled. Díky ní získali kůži, která dokáže odolat plamenům a ochránit je před nimi. Ani tato schopnost je ale někdy před zhoubným žárem nezachrání._
+_Krev démona a šupiny na těle udělaly víc, než jen změnily jejich vzhled. Díky nim získali kůži, která dokáže odolat plamenům a ochránit před nimi. Ani tato schopnost je ale někdy před zhoubným žárem nezachrání._
 
 Kdykoliv Tiefling utrpí zranění od ohně, hodí si na Výdrž(ODO) x zranění které má utrpět. Pokud uspěje, zranění neutrpí.
 
