@@ -50,51 +50,51 @@ Kdykoliv Tiefling utrpí zranění od ohně, hodí si na Výdrž(ODO) x zraněn�
 
 ![](rasy-goblin.jpg)
 
-Malé a nahrbené postavy, dlouhé ruce, nazelenalá nebo nažloutlá kůže, dlouhé uši, žluté oči, ostré zuby, to vše patří k typickému vzhledu goblinů. Většina z nich žije v tlupách a často jsou pro dobrodruhy spíše potíží než potěšením. Někteří z nich se však nějak dovedou začlenit do společnosti. Pak se většinou skrývají v těch nejnižších třídách, neboť většina autorit jejich svobodu vidí jen jako čekání do doby než provedou cokoliv za co je půjde zatknout. Proto mají velmi často sklony stát se zloději, ale jsou i skvělými válečníky a hraničáři.
+Malé a nahrbené postavy, dlouhé ruce, nazelenalá nebo nažloutlá kůže, dlouhé uši, žluté oči, ostré zuby, to vše patří k typickému vzhledu goblinů. Většina z nich žije v tlupách a často jsou pro dobrodruhy spíše potíží než potěšením. Někteří z nich se však nějak dovedou začlenit do společnosti. Pak se většinou skrývají v těch nejnižších třídách, neboť většina autorit jejich svobodu vidí jen jako čekání do doby, než provedou cokoliv, za co je půjde zatknout. Proto mají velmi často sklony stát se zloději, ale jsou i skvělými válečníky a hraničáři.
 
 Goblini mluví dvěma jazyky, goblinštinou a obecnou řečí.
 
-Většina goblinů kteří se stanou dobrodruhy jsou buď vyděděnci nebo přímo zločinci ve světě goblinů. Vyhnáni ze svých skupin pro zradu či pro ukázání milosti slabším, což je u goblinů projev největší neschopnosti. I přes nepříjemného chování společnosti mohou být dobří, ale častěji v nich jejich výchova a geny zvítězí. Pak se potloukají mezi zákonem a vězením. Z uvedeného je jasné že tito goblini obvykle nemají komunitu kam by se mohli vrátit.
+Většina goblinů, kteří se stanou dobrodruhy, jsou buď vyděděnci, nebo přímo zločinci ve světě goblinů. Vyhnáni ze svých skupin pro zradu či pro ukázání milosti slabším, což je u goblinů projev největší neschopnosti. I přes nepříjemné chování společnosti mohou být dobří, ale častěji v nich jejich výchova a geny zvítězí. Pak se potloukají mezi zákonem a vězením. Z uvedeného je jasné, že tito goblini obvykle nemají komunitu, kam by se mohli vrátit.
 
 ### Rodová zvláštní schopnost: Gobliní výcvik
 
-_Goblini jsou zvyklí na nespravedlivý boj. Často se musí vypořádat se soupeřem který je násobně vyšší než oni. Pro tento účel se proto od malička cvičí v boji s větším soupeřem._
+_Goblini jsou zvyklí na nespravedlivý boj. Často se musí vypořádat se soupeřem, který je násobně vyšší než oni. Pro tento účel se proto od malička cvičí v boji s větším soupeřem._
 
-Kdykoliv Goblin útočí v boji tváří v tvář na soupeře který je aspoň o jednu velikostní třídu větší, jeho útočné číslo se zvětší o 2.
+Kdykoliv Goblin útočí v boji tváří v tvář na soupeře, který je aspoň o jednu velikostní třídu větší, jeho útočné číslo se zvětší o 2.
 
 ## Skřeti
 
 ![](rasy-skret.jpg)
 
-Skřeti, či orkové jsou velcí, osvalení, našedivělí a nepříjemní. Stejně jako goblini jsou považováni za ničitele a nositele chaosu. Také jsou považování za hloupé a nekultivované, což je paradoxně daleko od pravdy. I oni se spíž snaží neupozornit na sebe, ale na rozdíl od goblinů jsou často najímaní na levnou a nebezpečnou fyzickou práci. Někteří zlomí stereotyp a stanou se z nich členové společnosti a uznávaní občané. Mezi dobrodruhy mají pověst skvělých válečníků, ale i mimo boj jsou často společníky k nezaplacení.
+Skřeti, či orkové, jsou velcí, osvalení, našedivělí a nepříjemní. Stejně jako goblini jsou považováni za ničitele a nositele chaosu. Také jsou považování za hloupé a nekultivované, což je paradoxně daleko od pravdy. I oni se spíš snaží neupozornit na sebe, ale na rozdíl od goblinů jsou často najímaní na levnou a nebezpečnou fyzickou práci. Někteří zlomí stereotyp a stanou se z nich členové společnosti a uznávaní občané. Mezi dobrodruhy mají pověst skvělých válečníků, ale i mimo boj jsou často společníky k nezaplacení.
 
 Skřeti mluví dvěma jazyky, goblinštinou a obecnou řečí.
 
-Stejně jako příbuzní, většina dobrodruhů z toho rodu buď byla vyhnána za zbabělost, podlost, slabost, pacifismus nebo protože nikdo jiný z jejich kmene nepřežil. Mají občas malinkaté komunity v městech civilizace, ale většinou je to každý za sebe.
+Stejně jako příbuzní, většina dobrodruhů z tohoto rodu buď byla vyhnána za zbabělost, podlost, slabost, pacifismus, nebo protože nikdo jiný z jejich kmene nepřežil. Mají občas malinkaté komunity v městech civilizace, ale většinou je to každý za sebe.
 
 ### Rodová zvláštní schopnost: Zrození k boji
 
-_Skřeti jsou zrození, vychování a připravení k boji. A díky tomu boj vždy očekávají a dokáží rychle reagovat když k němu dojde._
+_Skřeti jsou zrození, vychování a připravení k boji. A díky tomu boj vždy očekávají a dokáží rychle reagovat, když k němu dojde._
 
-Skřeti mají vždy **Výhodu(+5)** k hodu na iniciativu.
+Skřeti mají vždy **Výhodu (+5)** k hodu na iniciativu.
 
 ## Kobold
 
 ![](rasy-kobold.jpg)
 
-Koboldi mají žluté či zlaté oči, slabý a dlouhý ocas, čtyři prsty s drápy, silné nohy s třemi prsty a jedním zakrnělým, tělo pokryté rezavými šupinkami a malé růžky na hlavě. Občas mají šupiny i jiné barvy. Většinou, pokud se vydali na cestu dobrodruhů, jsou vyhnanci z kmene za zklamání jejich dračího boha, či jiný zločin proti skupině. Někteří proto jejich bohy zavrhnou, jiní se je pokusí ve vyhnanství udobřit. Nicméně narazit na kobolda ve vyhnanství je vzácné a mnozí dobrodruzi, kteří někoho ztratili na pastech koboldů, se rozhodnou na nich mstít. Ti, kterým se podaří uniknout těmto nástrahám se stávají ceněnými zloději, alchymisty i hraničáři.
+Koboldi mají žluté či zlaté oči, slabý a dlouhý ocas, čtyři prsty s drápy, silné nohy s třemi prsty a jedním zakrnělým, tělo pokryté rezavými šupinkami a malé růžky na hlavě. Občas mají šupiny i jiné barvy. Většinou, pokud se vydali na cestu dobrodruhů, jsou vyhnanci z kmene za zklamání jejich dračího boha či jiný zločin proti skupině. Někteří proto jejich bohy zavrhnou, jiní se je pokusí ve vyhnanství udobřit. Nicméně narazit na kobolda ve vyhnanství je vzácné a mnozí dobrodruzi, kteří někoho ztratili na pastech koboldů, se rozhodnou na nich mstít. Ti, kterým se podaří uniknout těmto nástrahám, se stávají ceněnými zloději, alchymisty i hraničáři.
 
 Koboldi umí lámaně obecnou řečí s výraznými sykavkami a koboldštinou.
 
-Protože je to tak vzácní, většina autorit ani neví co s nimi a nemají žádné místo ve společnosti, protože jich není dost aby se nějaké stalo standardem. A tak si každý z nich musí najít vlastní místo ve světě.
+Protože jsou tak vzácní, většina autorit ani neví, co s nimi. Nemají žádné místo ve společnosti, protože jich není dost, aby se nějaké stalo standardem. A tak si každý z nich musí najít vlastní místo ve světě.
 
-Koboldi mají také zajímavý vztah s svými souvěrci drakorozenými. Na jednu stranu z nich mají respekt a mnoho kolonii koboldů je jimi vedeno, na druhou stranu koboldi rádi ověří zda je daný jedinec hoden svého požehnání a testují jejich bojové schopnosti. Stejně tak někteří drakorození považují koboldy za sobě rovné a jiné za podřízené sluhy kteří jim nesahají ni po kotníky. Každý z nich má trochu jiný přístup.
+Koboldi mají také zajímavý vztah se svými souvěrci drakorozenými. Na jednu stranu z nich mají respekt a mnoho kolonií koboldů je jimi vedeno, na druhou stranu koboldi rádi ověří, zda je daný jedinec hoden svého požehnání, a testují jejich bojové schopnosti. Stejně tak někteří drakorození považují koboldy za sobě rovné a jiní za podřízené sluhy, kteří jim nesahají ani po kotníky. Každý z nich má trochu jiný přístup.
 
 ### Rodová zvláštní schopnost: Zuřivost
 
-_Koboldi jsou zvyklí bojovat v skupinách. Jejich taktiky jsou zasypat nepřítele najednou a ubít společně. I když už nejsou se svou tlupou, tyhle tendence v nich stále převažují. A koboldi jsou stále schopni využít svých dovedností._
+_Koboldi jsou zvyklí bojovat v skupinách. Jejich taktika je zasypat nepřítele najednou a ubít společně. I když už nejsou se svou tlupou, tyhle tendence v nich stále převažují. A koboldi jsou stále schopni využít svých dovedností._
 
-Pokud útočíš tváří v tvář na někoho kdo byl již napaden, někdo na něj zaútočil od konce tvého předchozího tahu, můžeš aktivovat tuto schopnost. Také se ale můžeš rozhodnout útočit normálně, je to jen na tobě. Díky této schopnosti dostáváš **Výhodu(+5)** na útok. Zároveň ale dostaneš **Nevýhodu(-5)** ke svým hodům na obranu na toto kolo.
+Pokud útočíš tváří v tvář na někoho, kdo byl již napaden, někdo na něj zaútočil od konce tvého předchozího tahu, můžeš aktivovat tuto schopnost. Také se ale můžeš rozhodnout útočit normálně, je to jen na tobě. Díky této schopnosti dostáváš **Výhodu (+5)** na útok. Zároveň ale dostaneš **Nevýhodu (-5)** ke svým hodům na obranu na toto kolo.
 
 ## Stínoví elfové
 
@@ -174,7 +174,7 @@ _Díky svým hadím předkům jsou těla Yuan-ti zvyklá na jedy. Díky tomu, ž
 
 Nebezpečnost všech jedů je pro tebe poloviční. To znamená, že pokud se staneš alchymistou a získáš schopnost odolnost proti jedům, všechny jedy pro tebe budou mít čtvrtinovou nebezpečnost. Zaokrouhlujte se vždy nahoru.
 
-## Padlý Aasimary
+## Padlí Aasimarové
 
 ![](rasy-aasimary.jpg)
 
@@ -182,11 +182,11 @@ Když bohové stvořili Aasimary, rozhodli se jim dát svobodnou vůli. Bylo to 
 
 Někteří z toho zešílí. Někteří temnotu v sobě posílí a jiní si najdou jiného boha aby tuto prázdnotu zaplnili. Pak jsou ti, co se pokouší udobřit se se svým původním bohem. Někteří pro ně vykonají hrdinské výpravy. Pár z nich uspěje a původní bůh, či bůh nový, v nich obnoví světlo a stanou se opět čím byli před Pádem. Není jich mnoho. Stane se to vzácně a je to práce na roky, ba desetiletí. Většina se prostě naučí žít s tím, jak na tom jsou. Další zemřou při snaze udobřit se se svým bohem.
 
-Přátelský vzhled Aasimary je nahrazen prázdnotou, která z nich vyřazuje. Stín který mají na duši je všudypřítomný. Někteří je zavrhují a mají je za zrádce, zločince. Jiní k nim cítí soucit. Jejich osobnost je poznamenaná tím, čím si prošli. Někteří jsou zlomení, někteří jsou posílení, někteří kompletně změněni svým pádem. Záleží na jednotlivci, jak to vezme.
+Přátelský vzhled Aasimarů je nahrazen prázdnotou, která z nich vyřazuje. Stín který mají na duši je všudypřítomný. Někteří je zavrhují a mají je za zrádce, zločince. Jiní k nim cítí soucit. Jejich osobnost je poznamenaná tím, čím si prošli. Někteří jsou zlomení, někteří jsou posílení, někteří kompletně změněni svým pádem. Záleží na jednotlivci, jak to vezme.
 
-Padlý Aasimary mluví obecnou řečí.
+Padlí Aasimarové mluví obecnou řečí.
 
-Padlý Aasimary nemají své místo a pořád cestují. Většina z nich pokračuje v povolání co dělali před pádem. Většina kleriků si však musí hledat nového boha a nebo začít v novém oboru. Aasimary k nim projevují chlad, jako k odpadlíkům, ale neútočí na ně. Ví, že bohové je potrestali dost.
+Padlí Aasimarové nemají své místo a pořád cestují. Většina z nich pokračuje v povolání co dělali před pádem. Většina kleriků si však musí hledat nového boha a nebo začít v novém oboru. Aasimarové k nim projevují chlad, jako k odpadlíkům, ale neútočí na ně. Ví, že bohové je potrestali dost.
 
 ### Rodová zvláštní schopnost: Stín na duši
 
@@ -200,7 +200,7 @@ Pokud jsi terčem klerikovi prosby, můžeš se rozhodnout bránit se vlivu dan�
 | Tiefling | B | 150-210 cl | 45-110 lb | 30+OBR | Odolnost proti ohni | 6 | 6 | 6 | 8 | 9 | 
 | Goblin | A | 55-75 cl | 15-30 lb | 20+OBR | Gobliní výcvik | 6 | 12 | 6 | 5 | 4 | 
 | Skřet | B | 160-220 cl | 90- 140 lb | 30+OBR | Zrození k boji | 9 | 6 | 8 | 5 | 7 | 
-| Kobolt | A | 80-120 cl | 20-50 lb | 20+OBR | Zuřivost | 5 | 9 | 7 | 7 | 7 | 
+| Kobold | A | 80-120 cl | 20-50 lb | 20+OBR | Zuřivost | 5 | 9 | 7 | 7 | 7 | 
 | Temný elf | B | 160-180 cl | 45-70 lb | 30+OBR | Soví uší | 6 | 7 | 6 | 9 | 9 | 
 | Drakorozený | B | 140-200 cl | 65-110 lb | 30+OBR | Dračí dech | 9 | 7 | 6 | 6 | 7 | 
 | Yuan-ti | B | 150-210 cl | 45-90 lb | 30+OBR | Hadí odolnost | 6 | 6 | 7 | 9 | 8 | 
