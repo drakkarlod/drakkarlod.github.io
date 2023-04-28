@@ -4,23 +4,26 @@ title: 'Ravnburgh: Wainfleetský most'
 authors: Ecthelion²
 tags: 'Ravnburgh, Materiály a doplňky, Inspirace'
 published: true
-summary: Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Popisuje wainfleetský most, který spojuje Staré a Nové město ravnburské a vypíná se nad řekou Blythe, která vtéká do mořské zátoky mezi oběma městy.
+summary: >-
+  Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Popisuje
+  Wainfleetský most, který spojuje Staré a Nové město ravnburské a vypíná se nad
+  řekou Blythe, která vtéká do mořské zátoky mezi oběma městy.
 ---
 
-Je to obytný most plný krámků a obchodů a také jediné místo v blízkosti Ravnburghu, kde se suchou nohou dá překročit řeka Blythe, která odděluje Staré a Nové město. Budovy jsou z obou stran tak nahuštěné na sobě, že je možné projít úzkou cestou do poloviny mostu a neuvědomit si, že je člověk už nad řekou.
+Je to obytný most plný krámků a obchodů a také jediné místo v blízkosti Ravnburghu, kde se dá suchou nohou překročit řeka Blythe, která odděluje Staré a Nové město. Budovy jsou z obou stran tak nahuštěné na sobě, že je možné projít úzkou cestou do poloviny mostu a neuvědomit si, že je člověk už nad řekou.
 
 ## Historie
 
-„_Wain_“ je stará forma „_wagon_“, tedy vozu, „_fleet_“ pak „_river/creek_“, tedy řeka/říčka. Samo jméno tedy označuje „místo, kde řeka dá překročit na vozech“. V místě u ústí řeky Blythe vznikl kdysi dřevěný most a městečko Wainfleet vyrostlo u něj a bohatlo z cla za překročení řeky, která je jinak rychlá a není tolik míst, kde ji lze překonat. Starý dřevěný most byl zničen a shořel během Věku sváru po pádu æsské říše a jeho ohořelé trosky lze stále při nízké hladině vody občas zahlédnout na dně. O století později pak arlatský velekrál Robert II. Heywood naříidil vybudování nového kamenného mostu, aby urychlil přesun svých armád dál na západ. Ten byl vybudován asi sto metrů od starého zničeného mostu a byl jedním z faktorů, které umožnily vybudování Nového města ravnburského, protože umožnily snadno přepravovat materiál mezi oběma břehy bez použití lodic a člunů.
+„_Wain_“ je stará forma „_wagon_“, tedy vozu, „_fleet_“ pak „_river/creek_“, tedy řeka/říčka. Samo jméno tedy označuje „místo, kde řeka dá překročit na vozech“. V místě u ústí řeky Blythe vznikl kdysi dřevěný most a městečko Wainfleet vyrostlo u něj a bohatlo z cla za překročení řeky, která je jinak rychlá a není tolik míst, kde ji lze překonat. Starý dřevěný most byl zničen a shořel během Věku sváru po pádu æsské říše a jeho ohořelé trosky lze stále občas při nízké hladině vody zahlédnout na dně. O století později pak arlatský velekrál Robert II. Heywood nařídil vybudování nového kamenného mostu, aby urychlil přesun svých armád dál na západ. Ten byl vybudován asi sto metrů od starého zničeného mostu a byl jedním z faktorů, které umožnily vybudování Nového města ravnburského, protože umožnily snadno přepravovat materiál mezi oběma břehy bez použití lodic a člunů.
 
-Téměř okamžitě poté, co byl most dokončen, začaly na obou stranách mostu vyrůstat budovy a postupně vznikl úzký průchod jen asi 3,6 metrů široký (místy širší, místy užší), kterým musí projít doprava oběma směry mezi oběma břehy.
+Téměř okamžitě poté, co byl most dokončen, začaly na obou stranách mostu vyrůstat budovy a postupně vznikl úzký průchod jen asi 3,5 metrů široký (místy širší, místy užší), kterým musí projít doprava oběma směry mezi oběma břehy.
 
 {:.map}
 ![](Wainfleetsky_most.jpg)
 
 ## Podoba mostu
 
-Most je dlouhý okolo 309 metrů a tvoří jej 18 úzkých klenebních oblouků, s pilíři ukotvenými na pilotech do říčního dna. Protože jilmové piloty musely být ukotveny na místech, kde bylo podloží řeky únosné, vzdálenosti mezi piloty (a tím rozpětí oblouků) nejsou stejnoměrné, ale liší se od sebe.
+Most je dlouhý 309 metrů a tvoří jej 18 úzkých klenebních oblouků, s pilíři ukotvenými na pilotech do říčního dna. Protože jilmové piloty musely být ukotveny na místech, kde bylo podloží řeky únosné, vzdálenosti mezi piloty (a tím rozpětí oblouků) nejsou stejnoměrné, ale liší se od sebe.
 
 Most je téměř v ústí moře a musí se vyrovnávat s přílivem a odlivem, který zvedá a snižuje hladinu a zrychluje a zpomaluje směr toku. Masivní pilíře mostu omezily prostor, kterým může voda téct o zhruba sedmdesát procent a tato překážka způsobila rozdíl hladin na obou jeho stranách (při odlivu může činit až skoro dva metry). Mezi pilíři voda proudí a přepadá z vyšší strany na druhou a tato voda je zrádná a náročná na proplutí. Loďaři mají přezdívky pro každý oblouk (jako „Pomalý Tom“, „Štístko“, „Suchý mrzout“ a „Žrout Will“ (protože žere lidi)) a každý z nich má trochu jiné plavební podmínky za různých okolností. Tyto umělé peřeje je obtížné překonat a mnoho lidí při pokusu o to zahynulo.
 
