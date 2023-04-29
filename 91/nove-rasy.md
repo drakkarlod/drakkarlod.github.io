@@ -100,17 +100,17 @@ Pokud útočíš tváří v tvář na někoho, kdo byl již napaden, někdo na n
 
 ![](rasy-elf.jpg)
 
-Stínoví elfové jsou příbuzní elfů, kteří se od nich však oddělili už před dlouhou dobou. Nyní jsou dost odlišní. Mají tmavou až fialovou kůži a bez výjimky bílé vlasy. Žijí v temných lesích a jeskyních, a mnohem radši než sluneční zář mají měsíční svit a stíny stromů. Žijí ve vlastních, izolovaných království a zřídka kdy je opouští. Tento život je učinil odolnější, i když za cenu menší inteligence. Stále však vynikají v povolání jako hraničář, kouzelník či kněz.
+Stínoví elfové jsou příbuzní elfů, kteří se od nich však oddělili už před dlouhou dobou. Nyní jsou dost odlišní. Mají tmavou až fialovou kůži a bez výjimky bílé vlasy. Žijí v temných lesích a jeskyních, a mnohem radši než sluneční zář mají měsíční svit a stíny stromů. Žijí ve vlastních, izolovaných královstvích a zřídkakdy je opouští. Tento život je učinil odolnějšími, i když za cenu menší inteligence. Stále však vynikají v povolání jako hraničář, kouzelník či kněz.
 
-Stínový elfové mluví svým jazykem, jazykem stínů, který je na bázi jejich zvláštního sluchu a proto ostatní rasy často ani nepostřehnou že jde o jazyk a obecnou řečí. Kromě toho ti z nich, kteří jsou aspoň trochu vzdělaní v oboru cizích jazyků mluví elfským jazykem, který je blíže popsán u lesních elfů.
+Stínoví elfové mluví svým jazykem, jazykem stínů, který je na bázi jejich zvláštního sluchu, a proto ostatní rasy často ani nepostřehnou, že jde o jazyk, a obecnou řečí. Kromě toho ti z nich, kteří jsou aspoň trochu vzdělaní v oboru cizích jazyků, mluví elfským jazykem, který je blíže popsán u lesních elfů.
 
-Stínový elfové na které narazíme mimo jejich království jsou povětšinou vyhnanci, ať za zločiny spáchané v minulosti, či za projevení soucitu kterým jejich společnost opovrhuje. Někteří jsou pak uprchlíci kteří preferovali život vyhnance před životem ve svém rodném kraji.
+Stínoví elfové, na které narazíme mimo jejich království, jsou povětšinou vyhnanci, ať za zločiny spáchané v minulosti, či za projevení soucitu, kterým jejich společnost opovrhuje. Někteří jsou pak uprchlíci, kteří preferovali život vyhnance před životem ve svém rodném kraji.
 
-Obyčejní elfové, či elfové slunce jak jim říkají, je přijímají do svých společností i když vždy zdůrazňují že jsou jiní. Toto zacházení a také fakt, že již od malička bývají vychováni k nedůvěře vůči ostatním rasám často působí že jsou uzavření, nevěřícní, asociální a málo kdy se snaží zkutečně zapojit do společnosti. Díky tomu, že jsou to většinou vyhnanci, netvoří vlastní společenství a buď tráví čas v samotě a nebo se přidruží k slunečním elfům.
+Obyčejní elfové, či elfové slunce, jak jim říkají, je přijímají do svých společností, i když vždy zdůrazňují, že jsou jiní. Toto zacházení a také fakt, že bývají stínoví elfové již od malička vychováni k nedůvěře vůči ostatním rasám, často působí, že jsou uzavření, nevěřícní, asociální a málokdy se snaží skutečně zapojit do společnosti. Díky tomu, že jsou to většinou vyhnanci, netvoří vlastní společenství a buď tráví čas v samotě, anebo se přidruží k slunečním elfům.
 
-### Rodová zvláštní schopnost: soví sluch
+### Rodová zvláštní schopnost: Soví sluch
 
-_Temní elfové si často žijí mezi stíny a úplnou tmou. Proto se naučili nespoléhat jen na své oči, ale také na svůj sluch. Díky tomu jsou jejich uši schopné zachytit zvuky pro ostatní neslyšitelné._
+_Temní elfové často žijí mezi stíny a úplnou tmou. Proto se naučili nespoléhat jen na své oči, ale také na svůj sluch. Díky tomu jsou jejich uši schopné zachytit zvuky pro ostatní neslyšitelné._
 
 Temní elfové mají +2 k všem akcím vyžadujícím dobrý sluch. Tato schopnost jim také umožňuje rozumět řeči temných elfů, která je pro ostatní jen nesrozumitelné mumlání.
 
@@ -118,23 +118,23 @@ Temní elfové mají +2 k všem akcím vyžadujícím dobrý sluch. Tato schopno
 
 ![](rasy-drak.jpg)
 
-Vypadají velice podobně jako malý draci. Šupinatá kůže různých barev, hlava jako drak a hlavně jejich dech. Drakorození jsou rasa obklopená záhadou. Civilizované rasy tvrdí, že se jedná o výsledek temných rituálů s dračí krví. Kobolti a oni sami se však považují za něco víc. Za vyvolené draků, aby vedli jejich boj v tomto světě. Nikoliv za prokleté, ale za požehnané jejich mocí. Toto také definuje jejich životy. Stávají se nejčastěji válečníky či knězi kteří šíří víru v draky.
+Vypadají velice podobně jako malí draci. Šupinatá kůže různých barev, hlava jako drak, a hlavně jejich dech. Drakorození jsou rasa obklopená záhadou. Civilizované rasy tvrdí, že se jedná o výsledek temných rituálů s dračí krví. Koboldi a oni sami se však považují za něco víc. Za vyvolené draků, aby vedli jejich boj v tomto světě. Nikoliv za prokleté, ale za požehnané jejich mocí. Toto také definuje jejich životy. Stávají se nejčastěji válečníky či knězi, kteří šíří víru v draky.
 
-Drakorození umí obecnou s velice zvláštní výslovností písmen „r“ a „ř“. Většina z nich umí i koboldštinou, kterou nazývají jazykem draků.
+Drakorození mluví obecnou řečí s velice zvláštní výslovností písmen „r“ a „ř“. Většina z nich umí i koboldštinu, kterou nazývají jazykem draků.
 
-Drakorození cestují světem a hledají cíl, který pro ně praví draci přichystali. Ať se jedná o službu jim, sbíráním pokladů pro ně či životem dobrodružství, většina z nich dělá co může aby své stvořitele nezklamala. Samozřejmě i mezi nimi se najdou odpadlíci od této víry, ale většinou zemřou v ohni jiných drakorozených či v koboltích spárech.
+Drakorození cestují světem a hledají cíl, který pro ně praví draci přichystali. Ať se jedná o službu jim, sbírání pokladů pro ně, či život dobrodružství, většina z nich dělá, co může, aby své stvořitele nezklamala. Samozřejmě i mezi nimi se najdou odpadlíci od této víry, ale většinou zemřou v ohni jiných drakorozených či v koboldích spárech.
 
-Vztah koboldů a drakorozených je složitý. Na jednu stranu od nich mají respekt a mnoho kolonii koboldů je jimi vedeno, na druhou stranu koboldi rádi ověří zda je daný jedinec hoden svého požehnání a testují jejich bojové schopnosti. Stejně tak někteří drakorození považují koboldy za sobě rovné a jiné za podřízené sluhy kteří jim nesahají ni po kotníky. Každý z nich má trochu jiný přístup.
+Vztah koboldů a drakorozených je složitý. Na jednu stranu od nich mají respekt a mnoho kolonií koboldů je jimi vedeno, na druhou stranu koboldi rádi ověří, zda je daný jedinec hoden svého požehnání, a testují jejich bojové schopnosti. Stejně tak někteří drakorození považují koboldy za sobě rovné a jiné za podřízené sluhy, kteří jim nesahají ani po kotníky. Každý z nich má trochu jiný přístup.
 
 ### Rodová zvláštní schopnost: Dračí dech
 
 _Podobně jako draci mají i drakorození schopnost vydechovat oheň, ale v mnohem menší míře. Drakorození jsou na tento dar velmi hrdí, neboť je to jasný a nesporný znak jejich podobnosti s draky._
 
-Tato schopnost ti umožňuje jako okamžitou akci vychrlit jednou za kolo na nepřítele, či nějaký objekt oheň. Oheň zasáhne asi jeden sáh čtvereční a vzdálenost na kterou ho dokážeš chrlit je šest sáhů. To znamená že si vybereš místo které je od tebe vzdáleno šest sáhů a vše co je do vzdálenosti jeden sáh od toho bodu je ovlivněno. Oheň ovšem nejde chrlit přes nějakou překážku která je stejné nebo větší velikostní kategorie jako jsi ty sám. Všichni zasažení tvorové utrpí popálení za 1k6 životů. Všechny předměty které lze snadno zapálit také vzplanou.
+Tato schopnost ti umožňuje jako okamžitou akci vychrlit jednou za kolo na nepřítele či nějaký objekt oheň. Oheň zasáhne asi jeden sáh čtvereční a vzdálenost, na kterou ho dokážeš chrlit, je šest sáhů. To znamená, že si vybereš místo, které je od tebe vzdáleno šest sáhů, a vše, co je do vzdálenosti jeden sáh od toho bodu, je ovlivněno. Oheň ovšem nejde chrlit přes nějakou překážku, která je stejné nebo větší velikostní kategorie, jako jsi ty sám. Všichni zasažení tvorové utrpí popálení za 1k6 životů. Všechny předměty, které lze snadno zapálit, také vzplanou.
 
-Tuto schopnost můžeš použít tolikrát denně, kolik je tvoje oprava za odolnost(nejméně jednou) a musíš mít nerušený spánek než jí můžeš použít znova (pro tento spánek platí stejná pravidla jako pro kouzelníkův spánek před meditací). Při tvorbě postavy si můžeš zvolit jakou barvu bude plamen mít, ale na jeho efektu to nic nemění.
+Tuto schopnost můžeš použít tolikrát denně, kolik je tvoje oprava za odolnost (nejméně jednou), a musíš mít nerušený spánek, než jí můžeš použít znova (pro tento spánek platí stejná pravidla jako pro kouzelníkův spánek před meditací). Při tvorbě postavy si můžeš zvolit, jakou barvu bude plamen mít, ale na jeho efektu to nic nemění.
 
-Drakorození nejsou vůči svému ohni odolní o pokud by jsi byl svým vlastním plamenem zasažen, utrpíš zranění jako všichni ostatní.
+Drakorození nejsou vůči svému ohni odolní, a pokud bys byl svým vlastním plamenem zasažen, utrpíš zranění, jako všichni ostatní.
 
 ## Kenku
 
@@ -142,11 +142,11 @@ Drakorození nejsou vůči svému ohni odolní o pokud by jsi byl svým vlastní
 
 Havraní lid, tak jim říkají. Jejich vzhled tomu odpovídá. Zobák, tmavé peří, ptačí nohy a podivně krákoravá řeč. Vypadají jako humanoidní vrány. Jednou z jejich překvapivých vlastností, je jejich velice nízká váha. Je dána tím, že i když už neumí lítat, jejich kosti jsou stále duté jako kosti ptáků. Často se zahalují do tmavých plášťů a je z nich vidět jen jejich zobák.
 
-Kdysi dávno hrdý národ, plný poznání, vědění a vyspělosti. Pak se ale prohřešili proti nejmocnějším bohům, když se pokusili vytvořit jim rovného. Tak je sněm bohů potrestal. Přišli o možnost létat, jejich oči se zakalili, nehodny světla a nucené zůstat ve stínu. Jejich civilizace byla zničena a nikdo již neví kde byla a co vše s jejím pádem bylo ztraceno. Jen přítomnost těchto tvorů v ulicích stále připomíná její pád. Živí se jak to jde a snaží se akorát přežít do dalšího dne. Jen vzácně některý z nich dostane na nějaký vyšší post, kvůli jejich vzhledu a špatné pověsti.
+Kdysi dávno hrdý národ, plný poznání, vědění a vyspělosti. Pak se ale prohřešili proti nejmocnějším bohům, když se pokusili vytvořit jim rovného. Tak je sněm bohů potrestal. Přišli o možnost létat, jejich oči se zakalily, nehodny světla a nucené zůstat ve stínu. Jejich civilizace byla zničena a nikdo již neví, kde byla a co vše s jejím pádem bylo ztraceno. Jen přítomnost těchto tvorů v ulicích stále připomíná její pád. Živí se, jak to jde, a snaží se akorát přežít do dalšího dne. Jen vzácně některý z nich dostane na nějaký vyšší post, kvůli jejich vzhledu a špatné pověsti.
 
-Kenku umí havraním jazykem a obecnou. Jejich hlasové ústrojí, ale není na obecnou řeč dobře stavěno a tak mají krákoravý a až podivný hlas. Je velice těžké nepoznat že na vás mluví právě kenku, ale někteří z nich se tréninkem dokážou této vady zbavit. Většina se prostě smířila s tím, že si z nich za jejich has utahují.
+Kenku umí havraním jazykem a obecnou řečí. Jejich hlasové ústrojí ale není na obecnou řeč dobře stavěno, a tak mají krákoravý a až podivný hlas. Je velice těžké nepoznat, že na vás mluví právě kenku, ale někteří z nich se tréninkem dokážou této vady zbavit. Většina se prostě smířila s tím, že si z nich za jejich hlas utahují.
 
-Kolem kenku panuje stigma zlodějů, podvodníků a proto nejsou dobře přijímaní. Většinou žijí v nejchudší vrstvě a nebojí se překročit všechny meze aby přežili. Proto často končí jako zloději i když jsou z nich i schopní kouzelníci nebo klerici.
+Kolem kenku panuje stigma zlodějů, podvodníků, a proto nejsou dobře přijímaní. Většinou žijí v nejchudší vrstvě a nebojí se překročit všechny meze, aby přežili. Proto často končí jako zloději, i když jsou z nich i schopní kouzelníci nebo klerici.
 
 ### Rodová zvláštní schopnost: Havraní jazyk
 
@@ -162,37 +162,37 @@ Tomuto jazyku kromě kenku rozumí pouze jiní havrani a není možné se ho nau
 
 Yuan-ti vypadají skoro jako lidé. Pouze v oblasti ramen a kolenou mají pozůstatek nazelenalých šupin hadů. Zbytek jejich kůže je dost rohovitý a připomíná hadí šupiny. Nejvíc je však jejich původ vidět v obličeji. Jejich nos je malý, jejich oči zelené až žluté a jazyk mají jako hadi rozdvojený. I povahu mají hadí. Většina z nich je zákeřná, zrádná, plíživá a jsou velice dobří lháři a manipulátoři. Kvůli tomu je okolo nich stigma zrádců, se kterými ti, které tyto vlastnosti nemají, musí bojovat.
 
-Yuan-ti jsou pozůstalí z dávného impéria Hadích lidí. Ti se kdysi vyvinuli z Ještěrů, a utvořili jednu z prvních civilizací. Časem však jejich rozdělenost a neschopnost přizpůsobit se novým podmínkám vedla k jejich postupnému zániku. Někteří z nich se však přizpůsobit dokázali. Stali se součástí nových civilizací, civilizací lidí. Jejich krev se smísila s krví lidí, a vznikla rasa Yuan-ti. Jejich dávní předci již vymřeli, protože přírodní podmínky se změnili tak moc, že nepřežili. Yuan-ti ale měli v sobě dost lidské přizpůsobivosti aby přežili. A tak vznikl nový národ, bez domova, území, či místa v tomto šíleném světě.
+Yuan-ti jsou pozůstalí z dávného impéria Hadích lidí. Ti se kdysi vyvinuli z ještěrů a utvořili jednu z prvních civilizací. Časem však jejich rozdělenost a neschopnost přizpůsobit se novým podmínkám vedla k jejich postupnému zániku. Někteří z nich se však přizpůsobit dokázali. Stali se součástí nových civilizací, civilizací lidí. Jejich krev se smísila s krví lidí, a vznikla rasa Yuan-ti. Jejich dávní předci již vymřeli, protože přírodní podmínky se změnily tak moc, že nepřežili. Yuan-ti ale měli v sobě dost lidské přizpůsobivosti, aby přežili. A tak vznikl nový národ, bez domova, území či místa v tomto šíleném světě.
 
-Yuan-ti mluví obecnou a jazykem ještěrů. Mají velmi protáhlé sykavky.
+Yuan-ti mluví obecnou řečí a jazykem ještěrů. Mají velmi protáhlé sykavky.
 
-Yuan-ti nemají vlastní zemi a proto žijí v městech lidí. Kvůli svému vzhledu a povaze jsou často zavrhovaní. Většina lidí jim nevěří a proto je pro ně těžké dostat se na vyšší pozice ve společnosti. Často místo toho skončí v kriminálních organizacích, nebo v laboratoří alchymistů.
+Yuan-ti nemají vlastní zemi, a proto žijí v městech lidí. Kvůli svému vzhledu a povaze jsou často zavrhovaní. Většina lidí jim nevěří, a proto je pro ně těžké dostat se na vyšší pozice ve společnosti. Často místo toho skončí v kriminálních organizacích nebo v laboratořích alchymistů.
 
 ### Rodová zvláštní schopnost: Hadí odolnost
 
-_Díky svým hadím předkům jsou těla Yuan-ti zvyklá na jedy. Díky tomu, že jim byli vystaveny po generace jsou proti nim odolní mnohem víc než ostatní rasy._
+_Díky svým hadím předkům jsou těla Yuan-ti zvyklá na jedy. Díky tomu, že jim byli vystaveni po generace, jsou proti nim odolní mnohem víc než ostatní rasy._
 
-Nebezpečnost všech jedů je pro tebe poloviční. To znamená, že pokud se staneš alchymistou a získáš schopnost odolnost proti jedům, všechny jedy pro tebe budou mít čtvrtinovou nebezpečnost. Zaokrouhlujte se vždy nahoru.
+Nebezpečnost všech jedů je pro tebe poloviční. To znamená, že pokud se staneš alchymistou a získáš schopnost odolnost proti jedům, všechny jedy pro tebe budou mít čtvrtinovou nebezpečnost. Zaokrouhluje se vždy nahoru.
 
-## Padlí Aasimarové
+## Padlí aasimarové
 
 ![](rasy-aasimary.jpg)
 
-Když bohové stvořili Aasimary, rozhodli se jim dát svobodnou vůli. Bylo to rozhodnutí, které zajisté přineslo mnoho dobra. Ale samozřejmě, dřív či později se objevili někteří, kteří se od boha kterému měli sloužit odvrátili a opustili své povinnosti vůči němu. Za to je božská přítomnost, které je do té doby všude pronásledovala opustila. Je to nepříjemný pocit. Provází ho amnésie, zapomínání a dokonce i výpadky paměti na celé týdny, ba dokonce i měsíce. Jejich vlasy ztmavnou a jejich oči se zakalí, nehodny světla které kdysi tak ctili. Příjemná božská přítomnost se ztratí a zbude jen zoufalá prázdnota.
+Když bohové stvořili aasimary, rozhodli se jim dát svobodnou vůli. Bylo to rozhodnutí, které zajisté přineslo mnoho dobra. Ale samozřejmě dřív či později se objevili někteří, kteří se od boha, kterému měli sloužit, odvrátili a opustili své povinnosti vůči němu. Za to je božská přítomnost, která je do té doby všude následovala, opustila. Je to nepříjemný pocit. Provází ho amnézie, zapomínání, a dokonce i výpadky paměti na celé týdny, ba dokonce i měsíce. Jejich vlasy ztmavnou a jejich oči se zakalí, nehodny světla, které kdysi tak ctili. Příjemná božská přítomnost se ztratí a zbude jen zoufalá prázdnota.
 
-Někteří z toho zešílí. Někteří temnotu v sobě posílí a jiní si najdou jiného boha aby tuto prázdnotu zaplnili. Pak jsou ti, co se pokouší udobřit se se svým původním bohem. Někteří pro ně vykonají hrdinské výpravy. Pár z nich uspěje a původní bůh, či bůh nový, v nich obnoví světlo a stanou se opět čím byli před Pádem. Není jich mnoho. Stane se to vzácně a je to práce na roky, ba desetiletí. Většina se prostě naučí žít s tím, jak na tom jsou. Další zemřou při snaze udobřit se se svým bohem.
+Někteří z toho zešílí. Někteří temnotu v sobě posílí a jiní si najdou jiného boha, aby tuto prázdnotu zaplnili. Pak jsou ti, co se pokouší udobřit se svým původním bohem. Někteří pro ně vykonají hrdinské výpravy. Pár z nich uspěje a původní bůh, či bůh nový, v nich obnoví světlo a stanou se opět, čím byli před pádem. Není jich mnoho. Stane se to vzácně a je to práce na roky, ba desetiletí. Většina se prostě naučí žít s tím, jak na tom jsou. Další zemřou při snaze udobřit se se svým bohem.
 
-Přátelský vzhled Aasimarů je nahrazen prázdnotou, která z nich vyřazuje. Stín který mají na duši je všudypřítomný. Někteří je zavrhují a mají je za zrádce, zločince. Jiní k nim cítí soucit. Jejich osobnost je poznamenaná tím, čím si prošli. Někteří jsou zlomení, někteří jsou posílení, někteří kompletně změněni svým pádem. Záleží na jednotlivci, jak to vezme.
+Přátelský vzhled aasimarů je nahrazen prázdnotou, která z nich vyřazuje. Stín, který mají na duši, je všudypřítomný. Někteří je zavrhují a mají je za zrádce, zločince. Jiní k nim cítí soucit. Jejich osobnost je poznamenaná tím, čím si prošli. Někteří jsou zlomení, někteří jsou posílení, někteří kompletně změněni svým pádem. Záleží na jednotlivci, jak to vezme.
 
-Padlí Aasimarové mluví obecnou řečí.
+Padlí aasimarové mluví obecnou řečí.
 
-Padlí Aasimarové nemají své místo a pořád cestují. Většina z nich pokračuje v povolání co dělali před pádem. Většina kleriků si však musí hledat nového boha a nebo začít v novém oboru. Aasimarové k nim projevují chlad, jako k odpadlíkům, ale neútočí na ně. Ví, že bohové je potrestali dost.
+Padlí aasimarové nemají své místo a pořád cestují. Většina z nich pokračuje v povolání, co dělali před pádem. Většina kleriků si však musí hledat nového boha anebo začít v novém oboru. Aasimarové k nim projevují chlad, jako k odpadlíkům, ale neútočí na ně. Vědí, že bohové je potrestali dost.
 
 ### Rodová zvláštní schopnost: Stín na duši
 
-_Opuštěni bohem, naučili se vlivu bohů odolávat. Využít pocit prázdnoty jako štít, který pohltí jakékoliv další zranění které jim jiný bůh bude chtít způsobit._
+_Opuštěni bohem, naučili se vlivu bohů odolávat. Využít pocit prázdnoty jako štít, který pohltí jakékoliv další zranění, které jim jiný bůh bude chtít způsobit._
 
-Pokud jsi terčem klerikovi prosby, můžeš se rozhodnout bránit se vlivu daného boha. V tom případě zvýší obtížnost dané prosby o svoji opravu za charisma + svůj stupeň vůle. Pokud kouzlo má víc cílů, nebo je plošné, můžeš zvýšit jeho obtížnost jen o svou opravu za charisma. Pokud klerik se pokusí na tebe seslat prosbu, ty se rozhodneš bránit a klerik neuspěje, budeš vědět o jakou prosbu se pokoušel.
+Pokud jsi terčem klerikovy prosby, můžeš se rozhodnout bránit se vlivu daného boha. V tom případě zvýšíš obtížnost dané prosby o svoji opravu za charisma + svůj stupeň vůle. Pokud má kouzlo víc cílů nebo je plošné, můžeš zvýšit jeho obtížnost jen o svou opravu za charisma. Pokud se klerik pokusí na tebe seslat prosbu, ty se rozhodneš bránit a klerik neuspěje, budeš vědět, o jakou prosbu se pokoušel.
 
 {:style="width:1000px"}
 | Rasa | Velikost | Výška | Váha | Pohyblivost | Schopnost | SIL | OBR | ODO | INT | CHAR |
