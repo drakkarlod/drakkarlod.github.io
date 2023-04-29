@@ -23,7 +23,7 @@ V Ravnburghu jsou doma obyvatelé desítek samostatných království, knížect
 
 Arlatští jsou podnikaví, vynalézaví a odvážní. Mají dlouhou tradici pohostinnosti k cizincům a rádi slaví, pořádají hostiny, svátky a bankety. Vyznávají bohy Zrcadlového dvora a bojí se jejich hněvu. Udržují domácí oltáře a mnoho oltářků a chrámků kolem cest a stromořadí, kterými jsou protkány jejich země. 
 
-> Obyvatelé Ravnburghu spolu mluví _arlatštinou_ , pro kterou používáme češtinu. Jména obyvatel říše jsou pak anglická (z období renesance). 
+> Obyvatelé Ravnburghu spolu mluví _arlatštinou_, pro kterou používáme češtinu. Jména obyvatel říše jsou pak anglická (z období renesance). 
 
 Území arlatských lén tvoří rozsáhlá území od příjemných zelených rovin protkaných potoky a říčkami na půlnoci, přes zalesněné pahorkatiny ve středu až ke strmým horám na poledni. Stále se tu nacházejí rozsáhlé lesy a divočiny, kde jsou ukryté tajemné æsské trosky, ale většina půdy je osídlena a trpělivě obdělána. V poslední době se tu otřásá klasický řád, ve kterém byla společnost rozdělena na šlechtu, kněží a poddané. Vzniká bohatá střední třída, která bohatne z obchodu. Knihtisk snadno šíří nové myšlenky a střelný prach pomalu nastupuje na bojiště, aby ohrozil dominanci těžké rytířské jízdy. Do bitev pochodují šiky arlatských pikenýrů a také těžké jízdy, která je na křídlech doplňuje. 
 
@@ -45,13 +45,13 @@ Protože císařství původně vzniklo jako městský svaz, zdejší kultura je
 
 Ve směru na poledne od říše se na březích Vnitřního moře rozkládají svářící se městské státy a republiky Maelské ligy (největší mezi nimi Darnaj, Maele, Cadena, Onnam, Hirsin a Garsen), které bohatnou z námořního obchodu. Jižané vždy vzdorovali vlivu cizích pánů a Maelská liga vznikla jako obranná aliance proti snaze arlatských velekrálů je začlenit do svého panství. Zvlněné kopce a vrchy osvětlované jasným jižním sluncem, vedoucí ke strmým horám s ostrými vrcholy, příjemná údolí podél řek s lány obilí a rustikálními farmami s cypřišovými stromořadími, stejně jako písečné pláže a strmé útesy na březích moře jsou pro tyto země typické. 
 
-> Obyvatelé městských států Ligy mluví jazykem zvaným _saperiano_ , který reprezentujeme italštinou. 
+> Obyvatelé městských států Ligy mluví jazykem zvaným _saperiano_, který reprezentujeme italštinou. 
 
 Obyvatelé jsou rozděleni do striktního kastovního systému, který jim zakazuje setkávat se se členy jiných tříd. Aby mohli vzájemně fungovat, nosí obyvatelé na veřejnosti masky, které jim umožňují zůstat nepoznáni a fungovat mimo kastovní systém. Je to pro ně celoživotní návyk, který neporušují ani v cizině. Tváře jižanů jsou proto ukryté za maskami, které nosí od dvanácti let věku a na veřejnosti jen málokdy odkládají. Mnohé se dědí v rodinách po generace a šeptem se tvrdí, že některé jsou zahalené starými kouzly. Do boje nosí maelští rytíři bitevní masky, jejich brnění jsou okázalá a prapory pestrobarevné. 
 
 Jsou vášniví, vznětliví, impulzivní a prostořecí. Nade vše si cení rodiny, přátelství a svobody, které se ani za nic nevzdají. Snaží se žít život naplno, užívat si dobrého jídla, vynikajícího sladkého vína ze starých vinic, krásy žen a mužů a dobré hudby a tance. Nikdy nezapomenou urážku sebe nebo své rodiny a jejich spory a vendety se mohou vléct po generace. 
 
-## Purpuřané (_pōrphyrîoi_ ) 
+## Purpuřané (_pōrphyrîoi_) 
 
 {:.map}
 ![]({{site.baseurl}}/91/purpurane.jpg)
