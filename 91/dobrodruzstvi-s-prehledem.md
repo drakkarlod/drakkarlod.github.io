@@ -2,11 +2,17 @@
 layout: article
 title: Dobrodružství s přehledem
 authors: MarkyParky
-tags: design, dobrodružství
+tags: 'design, dobrodružství'
 published: true
+summary: >-
+  Vítám tě u článku, který je věnovaný tomu, jak psát dobrodružství. Přičemž tím
+  nemyslím samotný obsah, ale soubor praktických rad a postřehů ohledně formy,
+  která pomůže buďto přímo tobě (pokud ho čteš, protože tě zajímá, jak si
+  zoptimalizovat svou přípravu), nebo tvým čtenářům (pokud jsi autor a
+  publikuješ věci pro ostatní). Užitečný může být, i pokud si jen vybíráš, jaké
+  dobrodružství si koupit či se potřebuješ rozhodnout, zda nějaké dobrodružství
+  můžeš používat tak jak je, nebo je vhodnější si udělat výpisky.
 ---
-
-Vítám tě u článku, který je věnovaný tomu, jak psát dobrodružství. Přičemž tím nemyslím samotný obsah, ale soubor praktických rad a postřehů ohledně formy, která pomůže buďto přímo tobě (pokud ho čteš, protože tě zajímá, jak si zoptimalizovat svou přípravu) nebo tvým čtenářům (pokud jsi autor a publikuješ věci pro ostatní). Užitečný může být, i pokud si jen vybíráš, jaké dobrodružství si koupit či se potřebuješ rozhodnout, zda nějaké dobrodružství můžeš používat tak jak je, nebo je vhodnější si udělat výpisky.
 
 ## Úvodní informace
 
