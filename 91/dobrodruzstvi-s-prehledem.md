@@ -18,7 +18,7 @@ summary: >-
 
 Hned na začátku sepisování své přípravy si odděl od sebe obecné a snadno zapamatovatelné informace, které si stačí přečíst jen jednou (např. shrnutí zápletky či situace, které pomáhá s pochopením dílčích textů) a konkrétní přípravu jednotlivých herních situací, které budeš potřebovat přímo při hře (např. stopy, motivy cizích postav, popisy lokací, místností, předměty).
 
-Ty první vytkni někam na začátek dobrodružství, kde si je čtenář opravdu přečte jednou a hned mu dají hrubou představu o pojmech, jménech a událostech, které se budou používat dál. Udělej to, i když si děláš poznámky jen pro sebe – můžeš se k nim vracet během tvorby a pomůžou ti udržet dobrodružství konzistentní. Jejich umístění na začátek pomůže i čtenáři z rad Průvodců – pokud si ho na první dobrou nezapamatují, umístění na začátek jim umožní i v průběhu hry si základní věci snadno připomenout. A nakonec to platí i pro tvé budoucí já. Když se ke svému vlastnímu dobrodružství vrátíš třeba po roce, už si nebudeš pamatovat, jak jsi co myslel a najdeš to právě v úvodu.
+Ty první vytkni někam na začátek dobrodružství, kde si je čtenář opravdu přečte jednou a hned mu dají hrubou představu o pojmech, jménech a událostech, které se budou používat dál. Udělej to, i když si děláš poznámky jen pro sebe – můžeš se k nim vracet během tvorby a pomůžou ti udržet dobrodružství konzistentní. Jejich umístění na začátek pomůže i čtenáři z řad Průvodců – pokud si ho na první dobrou nezapamatují, umístění na začátek jim umožní i v průběhu hry si základní věci snadno připomenout. A nakonec to platí i pro tvé budoucí já. Když se ke svému vlastnímu dobrodružství vrátíš třeba po roce, už si nebudeš pamatovat, jak jsi co myslel a najdeš to právě v úvodu.
 
 Mysli u toho na délku tohoto bloku informací i na to, jestli a jak se dostanou do hry. Základní pravidlo je, že píšeš dobrodružství pro hráče, ne povídku pro čtenáře. Častou chybou autorů dobrodružství je, že mají propracované události na pozadí, sepsané do dlouhého textu, ale už nemyslí na to, jak usnadnit Průvodci jejich předání hráčům. Pokud jsi v takové situaci a po vypsání „backstory“ zjistíš, že vydá na víc než pár odstavců, postupuj následovně:
 
@@ -34,15 +34,15 @@ Přemýšlení o tom, co z přípravy se dostane do hry, nepodceňuj. Pro texty 
 
 Co tedy není zbytečná informace?
 
-V první řadě obsah, se kterým budou hráči nějak interagovat. Překážky, nestvůry, cizí postavy a jejich úmysly, charaktery, zápletky, události., poklady, zajímavé předměty a vybavení, hádanky, zkrátka cokoliv, co nějak předestřeš před hráče a pak se jich zeptáš: „Co děláte?“
+V první řadě obsah, se kterým budou hráči nějak interagovat. Překážky, nestvůry, cizí postavy a jejich úmysly, charaktery, zápletky, události, poklady, zajímavé předměty a vybavení, hádanky, zkrátka cokoliv, co nějak předestřeš před hráče a pak se jich zeptáš: „Co děláte?“
 
 V druhé řadě pak atmosférické prvky – popisy, jména, smyslové vjemy (nezapomínej, že dobrodruzi krom zraku a sluchu mají také čich a vnímají třeba chlad, teplo, vlhko a podobně), charakterizace cizích postav, jejich oblíbené hlášky. Prostě věci, které činí hru zajímavou nebo zapamatovatelnou.
 
-Všechno ostatní už nejspíš zbytečné je. Prostor můžeš ušetřit třeba vynecháním popisů samozřejmostí. Je-li v místnosti krb, asi tam bude i pohrabáč, prochází-li dobrodruh stájí, nepochybně tam najde slámu či vidle. Zkrátka věci, které snadno vymyslíš nebo doplníš při hře nemusíš mít v poznámkách. Výjimkou v tomhle směru je magie nebo vysoká technologie – u těch se totiž ani ty, ani hráči nemůžete opřít o nějakou společnou představu, tak je lepší je popisovat i tam, kde působí všedně.
+Všechno ostatní už nejspíš zbytečné je. Prostor můžeš ušetřit třeba vynecháním popisů samozřejmostí. Je-li v místnosti krb, asi tam bude i pohrabáč, prochází-li dobrodruh stájí, nepochybně tam najde slámu či vidle. Zkrátka věci, které snadno vymyslíš nebo doplníš při hře, nemusíš mít v poznámkách. Výjimkou v tomhle směru je magie nebo vysoká technologie – u těch se totiž ani ty, ani hráči nemůžete opřít o nějakou společnou představu, tak je lepší je popisovat i tam, kde působí všedně.
 
 Na zváženou jsou také různé vtípky, kterým se zasměje jen Průvodce, který bude tvou přípravu používat, ale hráči se o nich nikdy nedozví. Jsou-li to drobnosti, které nezabírají místo (např. vtipné názvy některých místností), příliš to nevadí a může to i pomoct – chytlavý název si snáz zapamatuješ, včetně obsahu, co se pod ním skrývá, případně pobaví a osvěží čtenáře při čtení. Ale nic se nesmí přehánět a rozepsaný vtip, který sice pobaví při čtení, ale překáží při hře, ten … překáží při hře.
 
-Minimalizuj také vypisování informací, které na první pohled vidíš jinde. Informace, že trůn se nachází ve východním rohu místnosti, když je viditelně nakreslený na mapě je stejně zbytečné, jako informace, že provazový most, nakreslený přes 8 čtverečků sáhového battlegridu je 8 sáhů dlouhý nebo že dívka na přiloženém obrázku je zrzka.
+Minimalizuj také vypisování informací, které na první pohled vidíš jinde. Informace, že trůn se nachází ve východním rohu místnosti, když je viditelně nakreslený na mapě, je stejně zbytečné, jako informace, že provazový most nakreslený přes 8 čtverečků sáhového battlegridu je 8 sáhů dlouhý nebo že dívka na přiloženém (barevném) obrázku je zrzka.
 
 ## Přemýšlej ve (dvoj) stranách
 
