@@ -81,13 +81,13 @@ _Výšiny pokryté sněhem a ledem, jejichž vrcholy jsou ukryty v mracích._
 ![E.jpg]({{site.baseurl}}/91/E.jpg)
 
 _Hexy:_
-- E-1 - Safírové hory (Jessa Daeh) 
-- E-2 -- Trpasličí důl (Log 1=0) 
-- E-3 - Průrvy a rokle (MarkyParky) 
-- E-4 - Osada šutrunů (Ota) 
-- E-5 - Jezero vrchu Dvojzub (Jessa Daeh) 
-- E-6 - Sídlo klanu (Ecthelion) 
-- E-7 - Chrámy malých bohů (Antharon) 
+- E-1 - [Safírové hory](https://drakkar.sk/87/male-hexy-e1-safirove-hory-rubinova-udoli.html ) (Jessa Daeh) 
+- E-2 - [Trpasličí důl](https://drakkar.sk/85/male-hexy-e2-trpaslici-dul.html ) (Log 1=0) 
+- E-3 - [Průrvy a rokle](https://drakkar.sk/89/male-hexy-e3-krasove-jeskyne.html ) (MarkyParky) 
+- E-4 - [Osada šutrunů](https://drakkar.sk/87/male-hexy-e4-osada-sutrunu.html ) (Ota) 
+- E-5 - [Jezero vrchu Dvojzub](https://drakkar.sk/89/male-hexy-e5-proklete-jezero-hory-dvojzub.html ) (Jessa Daeh) 
+- E-6 - [Sídlo klanu](https://drakkar.sk/85/male-hexy-e6-sidlo-klanu.html ) (Ecthelion) 
+- E-7 - [Chrámy malých bohů](https://drakkar.sk/89/male-hexy-e7-chramy-malych-bohov.html ) (Antharon) 
 
 ### Hex F: Venkov 
 _Drobné kopce, meandrující řeka, políčka, vesničky a městečka, kde zemědělci obdělávají půdu._ 
@@ -96,13 +96,13 @@ _Drobné kopce, meandrující řeka, políčka, vesničky a městečka, kde zem�
 ![F.jpg]({{site.baseurl}}/91/F.jpg)
 
 _Hexy:_
-- F-1 - Vesnice (Log 1=0) 
-- F-2 - Přehrada (Log 1=0) 
-- F-3 - Sirotčinec (Log 1=0) 
-- F-4 - Korvinův hrad (Antharon) 
-- F-5 - Přístav (Log 1=0) 
-- F-6 - Pohraniční opevnění (Jiron) 
-- F-7 - Město Kralsburg (Log 1=0) 
+- F-1 - [Vesnice](https://drakkar.sk/85/male-hexy-f1-vesnice.html ) (Log 1=0) 
+- F-2 - [Přehrada](https://drakkar.sk/87/male-hexy-f2-prehrada.html ) (Log 1=0) 
+- F-3 - [Sirotčinec](https://drakkar.sk/85/male-hexy-f3-sirotcinec.html ) (Log 1=0) 
+- F-4 - [Korvinův hrad](https://drakkar.sk/87/male-hexy-f4-korvinov-kraj.html ) (Antharon) 
+- F-5 - [Přístav](https://drakkar.sk/85/male-hexy-f5-pristav.html ) (Log 1=0) 
+- F-6 - [Pohraniční opevnění](https://drakkar.sk/89/male-hexy-f6-pohranicni-opevneni.html ) (Jiron) 
+- F-7 - [Město Kralsburg](https://drakkar.sk/85/male-hexy-f7-mesto-kralsburg.html ) (Log 1=0) 
 
 ### Hex G: Sopka 
 _Mohutný kopec chrlící lávu, oheň a suť na všechny strany._ 
@@ -111,10 +111,10 @@ _Mohutný kopec chrlící lávu, oheň a suť na všechny strany._
 ![G.jpg]({{site.baseurl}}/91/G.jpg)
 
 _Hexy:_
-- G-1 - Serangeum, černé lázně, a krabi (kin) 
-- G-2 - Lávové pole nad jezerem (Ecthelion) 
-- G-3 - Sirná jezírka (alladjex) 
-- G-4 - Slatina (Antharon) 
-- G-5 - Lichova pevnost (Antharon) 
-- G-6 - Les spálených stromů (Sarsaparillos) 
-- G-7 - Kráter sopky (MarkyParky)
+- G-1 - [Serangeum, černé lázně, a krabi](https://drakkar.sk/80/male-hexy-g1-serangeum-cerne-lazne-a-krabi.html ) (kin) 
+- G-2 - [Lávové pole nad jezerem](https://drakkar.sk/80/male-hexy-g2-lavove-pole-nad-jezerem.html ) (Ecthelion) 
+- G-3 - [Sirná jezírka](https://drakkar.sk/80/male-hexy-g3-sirna-jezirka.html ) (alladjex) 
+- G-4 - [Slatina](https://drakkar.sk/81/male-hexy-g4-jezibaba-a-bazilisek.html ) (Antharon) 
+- G-5 - [Lichova pevnost](https://drakkar.sk/81/male-hexy-G5-lichova-pevnost.html ) (Antharon) 
+- G-6 - [Les spálených stromů](https://drakkar.sk/80/male-hexy-g6-les-spalenych-stromu.html ) (Sarsaparillos) 
+- G-7 - [Kráter sopky](https://drakkar.sk/80/male-hexy-g7-krater-sopky.html ) (MarkyParky)
