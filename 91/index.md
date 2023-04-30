@@ -1,6 +1,5 @@
 ---
-layout: article
-title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+layout: issue
+number: 91
 ---
+
