@@ -10,7 +10,7 @@ series: Malé hexy
 Jeden velehex je složen ze 7 menších hexů a celkem **49 malých hexů**, které jsou zhruba 2 km na 2 km velké. Takový malý hex je pěkná malá a mentálně dobře uchopitelná oblast. Je to třeba vesnice s pár chalupami, opevněným kostelem a tvrzí zemana, včetně kruhu o poloměru kilometr, ve kterém jsou obdělávaná pole. 
 
 {:.map}
-![Hexy.jpg]({{site.baseurl}}/91/Hexy.jpg)
+![]({{site.baseurl}}/91/Hexy.jpg)
 
 Tento kolektivní projekt začal na RPG Fóru v listopadu 2020 a poslední hex byl vytvořen na konci prosince 2022. Celkem se do něj zapojilo 15 autorů (a jedna umělá inteligence). 
 
@@ -18,7 +18,7 @@ Tento kolektivní projekt začal na RPG Fóru v listopadu 2020 a poslední hex b
 _Hustý hvozd na břehu jezera, kterým protéká řeka._ 
 
 {:.map}
-![A.jpg]({{site.baseurl}}/91/A.jpg)
+![]({{site.baseurl}}/91/A.jpg)
 
 _Hexy:_
 - A-1 - [Skalní město](https://drakkar.sk/82/male-hexy-a1-skalni-mesto.html) (korhul) 
@@ -33,7 +33,7 @@ _Hexy:_
 _Velké jezero s mokřady a hlubinami, kam oko nedohlédne._ 
 
 {:.map}
-![B.jpg]({{site.baseurl}}/91/B.jpg)
+![]({{site.baseurl}}/91/B.jpg)
 
 _Hexy:_ 
 - B-1 - [Mokřiny s vesnicí žabího národa](https://drakkar.sk/80/male-hexy-b1-mokriny-s-vesnici-zabiho-naroda.html ) (radunamlejn) 
@@ -48,7 +48,7 @@ _Hexy:_
 _Rozlehlé travnaté roviny, kudy se prohání kopytnatci a vítr zdaleka._ 
 
 {:.map}
-![C.jpg]({{site.baseurl}}/91/C.jpg)
+![]({{site.baseurl}}/91/C.jpg)
 
 _Hexy:_
 - C-1 - [Vřesoviště _Cnoic Chiúin_](https://drakkar.sk/89/male-hexy-c1-vresoviste-cnoic-chiuin.html ) (Jessa Daeh) 
@@ -63,7 +63,7 @@ _Hexy:_
 _Rozpálená a vyprahlá pustina, kde žár a písek zahubí nepřipravené._ 
 
 {:.map}
-![D.jpg]({{site.baseurl}}/91/D.jpg)
+![]({{site.baseurl}}/91/D.jpg)
 
 _Hexy:_
 - D-1 - [Vyprahlé údolí v poušti](https://drakkar.sk/82/male-hexy-d1-stolova-hora-vodopana.html ) (MarkyParky) 
@@ -78,7 +78,7 @@ _Hexy:_
 _Výšiny pokryté sněhem a ledem, jejichž vrcholy jsou ukryty v mracích._ 
 
 {:.map}
-![E.jpg]({{site.baseurl}}/91/E.jpg)
+![]({{site.baseurl}}/91/E.jpg)
 
 _Hexy:_
 - E-1 - [Safírové hory](https://drakkar.sk/87/male-hexy-e1-safirove-hory-rubinova-udoli.html ) (Jessa Daeh) 
@@ -93,7 +93,7 @@ _Hexy:_
 _Drobné kopce, meandrující řeka, políčka, vesničky a městečka, kde zemědělci obdělávají půdu._ 
 
 {:.map}
-![F.jpg]({{site.baseurl}}/91/F.jpg)
+![]({{site.baseurl}}/91/F.jpg)
 
 _Hexy:_
 - F-1 - [Vesnice](https://drakkar.sk/85/male-hexy-f1-vesnice.html ) (Log 1=0) 
@@ -108,7 +108,7 @@ _Hexy:_
 _Mohutný kopec chrlící lávu, oheň a suť na všechny strany._ 
 
 {:.map}
-![G.jpg]({{site.baseurl}}/91/G.jpg)
+![]({{site.baseurl}}/91/G.jpg)
 
 _Hexy:_
 - G-1 - [Serangeum, černé lázně, a krabi](https://drakkar.sk/80/male-hexy-g1-serangeum-cerne-lazne-a-krabi.html ) (kin) 

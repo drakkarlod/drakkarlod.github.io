@@ -88,10 +88,11 @@ body {
 }
 
 .map .imagewrapper {
-    position: initial;
+    position: relative; // for z-index
     margin: 1em 0;
     max-width: none;
     width: 808px;
+    z-index: 1; // to go above menu if needed
     @media (max-width: 940px) {
         width: initial;
     }
