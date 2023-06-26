@@ -41,6 +41,6 @@ Závěrem se dá říct, že rozšíření posunula hru ještě o úroveň výš
 
 Na závěr jsem si nechal poněkud netradiční záležitost, rychlou karetní hru SCOUT. Nejedná se o deskovku, příběh (o cirkusových představeních) je tam zcela zbytečně, ale je to zatraceně dobré. Principem je vzájemné přebíjení vykládaných karet v klasickém systému kombinace / postupka. Vtip je v tom, že karty si nemůžete v ruce během hry přeskládat, takže začínáte s pořadím, které vám bylo rozdáno. Vhodné kombinace ale můžete v ruce vytvořit vyhazováním karet, které překáží, a hlavně braním karet ze stolu, což ale oddaluje vaše šance zavřít hru a získat hezké skóre.
 
-Hra končí okamžitě, jakmile se první z hráčů zbaví karet, a pak už se počítají body za karty v ruce (minus) a karty získané přebíjením (plus). Podle taktického přístupu hráčů, a podle toho, jak jsou karty rozdány na začátku, může konec přijít rychle a nečekaně, nebo naopak až po nervydrásajícím vícekolovém finále, kdy má každý hráč v ruce jen jednu nebo dvě karty.
+Hra končí okamžitě, jakmile se první z hráčů zbaví karet, a pak už se počítají body za karty v ruce (minus) a karty získané přebíjením (plus). Podle taktického přístupu hráčů, a podle toho, jak jsou karty rozdány na začátku, může konec přijít rychle a nečekaně, nebo naopak až po nervydrásajícím vícekolovém finále, kdy má každý hráč v ruce jen jednu nebo dvě karty.
 
 Scout je zábavná a vzrušující rychlovka vhodná i do hospody nebo do vlaku. A zahraje si ho s vámi každý, kdo zvládne žolíky, tedy i vaše matka.
