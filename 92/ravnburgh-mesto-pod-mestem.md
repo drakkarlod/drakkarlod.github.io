@@ -1,7 +1,7 @@
 --- 
 layout: article 
-authors:  
-title: ' ' 
+authors: tbd
+title: tbd
 tags: 'materiály a doplňky, inspirace, ' 
 summary: ' ' 
 --- 
