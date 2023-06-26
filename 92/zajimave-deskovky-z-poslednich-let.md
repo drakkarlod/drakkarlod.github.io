@@ -2,7 +2,7 @@
 layout: article
 title: Zajímavé deskovky z posledních let
 authors: Petr "ilgir" Chval
-tags: Deskové hry
+tags: deskové hry
 published: true
 summary: >-
   V tomto čísle se s vámi podělím o zajímavé deskovky, na které jsem narazil v
@@ -12,7 +12,7 @@ summary: >-
 ---
 ## Ark Nova (2021)
 
-Velkolepá deskovka, která se svým formátem, obsáhlostí a bohatou grafikou byla předurčena k bourání žebříčků popularity. A tak se i stalo – na BoardGameGeeku obsadila jednu z předních pozic a oblibu si získala zejména u vyznavačů žánru komplexních budovatelských euroher. V Ark Nova staví každý hráč svou zoologickou zahradu. Kromě umísťování pavilonů a výběhů na plán vybírá z nepřeberné nabídky kartiček zvířat a vylepšení. Právě v pestrých možnostech karet leží těžiště zábavnosti a znovuhratelnosti této hry. Podobně jako v již legendární hře Mars: Teraformace (2016) je radost z objevování a kombinování možností karet tím, co přitahuje hráče, jejichž srdce bije pro budovatelské strategie.
+Velkolepá deskovka, která se svým formátem, obsáhlostí a bohatou grafikou byla předurčena k bourání žebříčků popularity. A tak se i stalo – na BoardGameGeeku obsadila jednu z předních pozic a oblibu si získala zejména u vyznavačů žánru komplexních budovatelských euroher. V Ark Nova staví každý hráč svou zoologickou zahradu. Kromě umísťování pavilonů a výběhů na plán vybírá z nepřeberné nabídky kartiček zvířat a vylepšení. Právě v pestrých možnostech karet leží těžiště zábavnosti a znovuhratelnosti této hry. Podobně jako v již legendární hře _Mars: Teraformace (2016)_ je radost z objevování a kombinování možností karet tím, co přitahuje hráče, jejichž srdce bije pro budovatelské strategie.
 Téma zoo a zvířat je velice atraktivní a široce přístupné, ovšem kdo by chtěl považovat Ark Nova za rodinnou hru, bude drsně vyveden z omylu. Podle mého názoru už tato deskovka dosahuje samotné hranice komplexnosti přijatelné u standardních euroher. Pro první hru si vyhraďte 3 hodiny času.
 Ark Nova nepřináší žádné nové mechaniky nebo revoluční nápad, je „pouze“ perfektně vyváženou a pečlivě vytvořenou směsí, v níž nechybí ani stále častěji akcentované téma ochrany přírody.
 
