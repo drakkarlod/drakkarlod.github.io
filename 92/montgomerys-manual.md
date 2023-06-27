@@ -1,8 +1,8 @@
----
-layout: article
+--- 
+layout: article 
 authors: Beowulf
-title: 'Montgomery's Manual'
-tags: 'doplňky, příběhy impéria'
+title: 'Montgomery's Manual' 
+tags: 'doplňky, příběhy impéria' 
 ---
 
-abc
+abcd
