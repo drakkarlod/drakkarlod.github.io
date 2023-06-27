@@ -44,3 +44,41 @@ Doly byly původně pod prázdnými plochami za městem, ale Ravnburgh brzy pře
 
 Tvrdí se, že opuštěné doly obchází nestvůry, které tu našly útočiště a zabydlely se tu. Vypráví se příběhy o dávných hlídačích æsských pohřebišť, démonech, obřích netopýrech, kteří sají lidskou krev, ohromných pavoucích, kteří obsadili některé síně a předou tam sítě, kam lapají neopatrné, zákeřných krysách, kterým vládne král krys v podzemním paláci a nestvůrných postavách s bledou kůží, které unášejí neopatrné. Kolik je na těch příbězích pravdy, nicméně návštěvníci podzemního světa se většinou snaží držet pohromadě a nezaostávat příliš za skupinou. Mnozí vypráví o zvuku kroků, které je následovaly celou cestu v podzemí, vždy se zastavily, když se skupina zastavila a následovaly je s drobným zpožděním, když vyrazili dál. 
 
+## Katakomby
+
+Většina mrtvých ze Starého města bývala pohřbena na trojici menších hřbitovů nalepených na městských hradbách, které už dávno obestavěla městská zástava a neměly se kam rozšiřovat. Nejznámější z nich je asi hřbitov Hawthorne, kam jsou pohřbíváni chudáci, kriminálníci a oběti nákaz v masových hrobech. Aby se udělalo místo pro více pohřbů, kosti déle pohřbených bývaly exhumovány a uloženy do střech křížových chodeb podél zdí, případně na půdy márnic. Ty byly ale brzy plné, kostry přetékaly a k hrůze a zděšení běžných obyvatel vypadávaly děrami ve střechách na ulici. Navíc byly tyto úložiště častým cílem zlodějů, protože tucet drobných mincí, které pohřbení dostanou na cestu do zásvětí, jsou při exhumaci shromážděny do nového měšce a uloženy do lebky. Přestože nebývají příliš cenné, najde se mnoho zloduchů, kteří jsou schopni uloupit i tyto drobné penízky.
+
+Kněží z měst se proto rozhodli začít ukládat kosti do starých opuštěných dolů, které se nacházely nejblíže středu města. Část z nich tak byla proměněna na katakomby a ohromnou kostnici, kam jsou ukládány ostatky mrtvých z Ravnburghu, především chudáků, kteří si nemohou dovolit být pohřbeni na Malsterových polích za městem. Zdi katakomb jsou vyskládány kostmi a lebkami, které jsou také vyskládány do obkladů kleneb a ornamentů. I lustry, ve kterých hoří svíce, jsou vytvořeny z lidských kostí. Katakomby jsou překvapivě rozsáhlé a existuje do nich několik vstupů, přičemž každý z nich hlídají sochy tuctu strašlivých monster, které hlídají brány Irkelly.  
+
+## Měšťanské sklepy pod Novým městem
+
+Přestože Nové město vzniklo na zelené louce a nejsou pod nimi rozsáhlé æsské trosky ani doly, časem i pod ním vyrostl rozsáhlý chodeb a sklepů v hloubce asi 6-8 metrů pod ulicemi. Stejně jak se měšťanské domy vyklánějí nad ulice, jak se snažily získat více prostoru, začaly postupně vznikat pod domy sklepy, aby sloužily k uchovávání potravin, zrání piva a vína v sudech i jako úkryt v době válek. Tyto sklepy nerespektují nijak vlastnické čáry parcel, pod zemí vzniklo často několik pater, sklepy se rozšiřovaly pod ulice a náměstí, občas i pod sousední domy, pokud ty sklepy neměly. V některých sklepech vznikly alchymistické laboratoře, kde alchymisté, lékaři, lékárníci a fyzikusové připravují své elixíry a dryáky. V dalších jsou krčmy a jiné slouží jako zázemí pro trhy a krámky na ulicích a tržištích. Výsledkem je změť podzemních prostor, které jsou odlišné a jedinečné.
+
+Původně nebyly sklepy vzájemně propojeny, časem ale některé domy byly skoupeny a propojeny, stejně jako jejich sklepy. Postupně také vznikaly zkratky a průchody a část tohoto labyrintu je tak průchozí a propojená.  
+
+## Jaké jsou novinky, cizinče?
+
+Některé z nich mohou zaslechnout...
+
+-	„Slyšeli jste už o tunelech pod mořem, které spojují Staré a Nové město? Dneska už nikdo neví, kde začínaly a ústily, ale prej je postavili Starší a používali je k náboženskejm účelům, páč pod dnešním Novým městem stávaly jejich chrámy. Prej na jejich svátky chodívaly procesí chodbama pod mořem k obřadům u západu slunce a východu hvězd. Jakže to vejm? Můj pán tydle věci študuje, von je totiž učenej. Naprosto zbytečná věc tohleto, ale něco jsem vod něj pochytil.“
+-	„Dejte mi pivo! Právě jdu z trhu… jeden z domů se tam propadl do podzemí. Viděl jsem to přímo přede mnou. V jednu chvíli je tam barák, ve druhou… puff… oblaka dýmu, dům nikde a ďoura jako do prdele. Úplně se ještě klepu. Aaah, pivo. Díky.“
+-	„KAJTE SE! Konec světa se nachýlil! KAJTE SE! Ulice tohoto města obchází v nocích upír! Krvesaj z dávného věku světla, aby vás trestal za vaše hříchy! Radní vše tají, ale obětí se již čítá na tucet! KAJTE SE!“
+
+## Zápletky
+
+-	Nicolas Honegood, bohatý kupec, našel mapu s umístěním staré æsské síně, která má být plná pokladů. Potřebuje ale ochranu, aby se v bezpečí dostal tam i zpět a je ochoten postavám dobře zaplatit za výdělek. Cesta ale může být nebezpečná, není jediný, kdo se k této mapě dostal. Existují další 2 kopie a podle toho, co se povídá ve městě, jedna skupina už do podzemí vyrazila a další se chystá... 
+-	Několik posledních nocí se s příchodem tmy vždy vynoří z podzemí obří netopýři, kteří zmateně létají ulicemi a děsí místní, kteří se zavírají v domech, zabarikádují dveře a okna a nevychází po setmění. Zmatení netopýři se srazili s několika místními, poprali se s chrliči a probourali se omylem do několika domů. Místní chtějí, aby netopýří nálety přestaly a viní z nich novou kovárnu, která leží nad starými doly a každý večer začne kovat a buchary otřásají zemí. Místní nabízí odměnu pro kohokoli, kdo situaci vyřeší…
+-	Trojice místních dětí, dva chlapci a dívka, se ztratila v podzemí, kam si chodí hrát navzdory zákazům dospělých. Večer nepřišli domů. Rodiče jednoho z nich jsou známí postav a jsou bez sebe strachy. Nikdo ze sousedů se do dolů v noci neodváží a oni prosí postavy o pomoc…
+-	Alchymisté z Wainfleetského mostu nabízí vysoké odměny za baziliščí oči a množí se zprávy od prospektorů a spatření baziliška v dolech pod městem. Vysoké riziko a vysoká odměna pro odvážné dobrodruhy…
+-	Postavy potřebují nutně informace od bratra Williama Dobrého, mnicha, který se stará o bezdomovce, kteří se uchýlili do podzemních síní pod středem Starého města. Komunita se tam ukrývá před biřici a nikdo neví, kam se přesně uchýlili. Postavy budou muset najít vstup a najít bratra Williama…
+-	Černokněžník Guarin, který byl obviňován z narušení klidu mrtvých na hřbitově, unikl biřicům a ukryl se v katakombách pod městem. Od té chvíle z východů stoupá berevný dým, který dusí obyvatele a nedá jim spát a začali se ztrácet domácí mazlíčci a žebráci. Kněží se už neodvažují jít odříkávat modlitby za mrtvé do katakomb ani ukládat tam nové kosti a spánek mrtvých je narušen. Nabízí proto vysokou odměnu pro kohokoli, kdo by se s černokněžníkem vypořádal…
+-	Skupina, která zamířila do podzemí hledat dávné æsské trosky, se nevrátila. Jeden z nich nesl dědičný meč rodu Knivetton, který se ztratil s ním. Nový dědic rodu, Thomas Knivetton, nabízí odměnu za navrácení meče a případně kostí svého bratra Jeromeho, který se vrátil. V soukromé konverzaci zmíní, že přidá bonus, pokud by se snad Jerome našel živý… aby se živý nedostal k povrchu…
+
+## Využití ve hře
+
+Město pod městem a podzemí pod ulicemi nabízí další možnosti pro vaše hraní ve městě. Nabízí nová, tajemná, jen málo prozkoumaná a potenciálně děsivá a nebezpečná místa přímo pod nohami postav bez toho, aby musely někam daleko cestovat. Podzemí představuje samostatný ekosystém, kde žijí lidé a monstra, která mohou interagovat s povrchem a případně lidé z povrchu občas zamíří do podzemí. Tyto interakce mohou rozšířit vaše herní prostředí a zápletky. 
+
+## Závěr
+Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
+
+
