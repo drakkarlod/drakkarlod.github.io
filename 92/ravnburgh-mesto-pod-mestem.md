@@ -47,6 +47,9 @@ Kdysi nad ní byl park a náměstí, ale tento prostor už dávno zastavěla hus
 
 ## Opuštěné doly pod Starým městem
 
+![ ]({{site.baseurl}}/92/003.jpg)
+
+
 Pod městem se nachází shodou okolností velká naleziště sádry, alabastru a především břidlice, ze které jsou prakticky všechny střechy ve městě (a okolních městečcích a vsích) a která je jinak vzácná takto blízko k moři. Původně se začaly tyto suroviny těžit v povrchových lomech na okrajích města, ale tyto snadno dostupné vrstvy byly brzy vytěženy. Proto se začalo těžit skrze studnové šachty, které dosáhly hlubších nalezišť a od nich se těžilo dál horizontálně tak, aby vznikla mřížka horizontálních šachet, mezi kterými nevytěžený materiál fungoval jako sloupy, které přenášely váhu shora. Některé vrstvy usazenin jsou až 14 metrů vysoké, pod zemí tak vznikly prostory připomínající lodě katedrál, ponořené v nekonečné temnotě, které nikdy nespatřily denní světlo a kde se krystaly ve zdech lesknou ve světle svící a pochodní. 
 
 Šachty, štoly a síně se kroutí, zatáčí, motají a následují staré žíly a ložiska ve složité třídimenzionální síti, která se táhne na míle a míle daleko a je složitá na pochopení a představu. Člověk se tu bez průvodce velice snadno ztratí. Povídá se, že v dolech je dost kostí lidí, kteří se sem vydali a už nikdy nenašli cestu zpět ke světlu. 
@@ -59,7 +62,13 @@ Tvrdí se, že opuštěné doly obchází nestvůry, které tu našly útočišt
 
 ## Katakomby
 
+![ ]({{site.baseurl}}/92/004.jpg)
+
+
 Většina mrtvých ze Starého města bývala pohřbena na trojici menších hřbitovů nalepených na městských hradbách, které už dávno obestavěla městská zástava a neměly se kam rozšiřovat. Nejznámější z nich je asi hřbitov Hawthorne, kam jsou pohřbíváni chudáci, kriminálníci a oběti nákaz v masových hrobech. Aby se udělalo místo pro více pohřbů, kosti déle pohřbených bývaly exhumovány a uloženy do střech křížových chodeb podél zdí, případně na půdy márnic. Ty byly ale brzy plné, kostry přetékaly a k hrůze a zděšení běžných obyvatel vypadávaly děrami ve střechách na ulici. Navíc byly tyto úložiště častým cílem zlodějů, protože tucet drobných mincí, které pohřbení dostanou na cestu do zásvětí, jsou při exhumaci shromážděny do nového měšce a uloženy do lebky. Přestože nebývají příliš cenné, najde se mnoho zloduchů, kteří jsou schopni uloupit i tyto drobné penízky.
+
+![ ]({{site.baseurl}}/92/005.jpg)
+
 
 Kněží z měst se proto rozhodli začít ukládat kosti do starých opuštěných dolů, které se nacházely nejblíže středu města. Část z nich tak byla proměněna na katakomby a ohromnou kostnici, kam jsou ukládány ostatky mrtvých z Ravnburghu, především chudáků, kteří si nemohou dovolit být pohřbeni na Malsterových polích za městem. Zdi katakomb jsou vyskládány kostmi a lebkami, které jsou také vyskládány do obkladů kleneb a ornamentů. I lustry, ve kterých hoří svíce, jsou vytvořeny z lidských kostí. Katakomby jsou překvapivě rozsáhlé a existuje do nich několik vstupů, přičemž každý z nich hlídají sochy tuctu strašlivých monster, které hlídají brány Irkelly.  
 
