@@ -74,6 +74,9 @@ Kněží z měst se proto rozhodli začít ukládat kosti do starých opuštěn�
 
 ## Měšťanské sklepy pod Novým městem
 
+![ ]({{site.baseurl}}/92/006.jpg)
+
+
 Přestože Nové město vzniklo na zelené louce a nejsou pod nimi rozsáhlé æsské trosky ani doly, časem i pod ním vyrostl rozsáhlý chodeb a sklepů v hloubce asi 6-8 metrů pod ulicemi. Stejně jak se měšťanské domy vyklánějí nad ulice, jak se snažily získat více prostoru, začaly postupně vznikat pod domy sklepy, aby sloužily k uchovávání potravin, zrání piva a vína v sudech i jako úkryt v době válek. Tyto sklepy nerespektují nijak vlastnické čáry parcel, pod zemí vzniklo často několik pater, sklepy se rozšiřovaly pod ulice a náměstí, občas i pod sousední domy, pokud ty sklepy neměly. V některých sklepech vznikly alchymistické laboratoře, kde alchymisté, lékaři, lékárníci a fyzikusové připravují své elixíry a dryáky. V dalších jsou krčmy a jiné slouží jako zázemí pro trhy a krámky na ulicích a tržištích. Výsledkem je změť podzemních prostor, které jsou odlišné a jedinečné.
 
 Původně nebyly sklepy vzájemně propojeny, časem ale některé domy byly skoupeny a propojeny, stejně jako jejich sklepy. Postupně také vznikaly zkratky a průchody a část tohoto labyrintu je tak průchozí a propojená.  
@@ -88,6 +91,9 @@ Některé z nich mohou zaslechnout...
 
 ## Zápletky
 
+![ ]({{site.baseurl}}/92/007.jpg)
+
+
 -	Nicolas Honegood, bohatý kupec, našel mapu s umístěním staré æsské síně, která má být plná pokladů. Potřebuje ale ochranu, aby se v bezpečí dostal tam i zpět a je ochoten postavám dobře zaplatit za výdělek. Cesta ale může být nebezpečná, není jediný, kdo se k této mapě dostal. Existují další 2 kopie a podle toho, co se povídá ve městě, jedna skupina už do podzemí vyrazila a další se chystá... 
 -	Několik posledních nocí se s příchodem tmy vždy vynoří z podzemí obří netopýři, kteří zmateně létají ulicemi a děsí místní, kteří se zavírají v domech, zabarikádují dveře a okna a nevychází po setmění. Zmatení netopýři se srazili s několika místními, poprali se s chrliči a probourali se omylem do několika domů. Místní chtějí, aby netopýří nálety přestaly a viní z nich novou kovárnu, která leží nad starými doly a každý večer začne kovat a buchary otřásají zemí. Místní nabízí odměnu pro kohokoli, kdo situaci vyřeší…
 -	Trojice místních dětí, dva chlapci a dívka, se ztratila v podzemí, kam si chodí hrát navzdory zákazům dospělých. Večer nepřišli domů. Rodiče jednoho z nich jsou známí postav a jsou bez sebe strachy. Nikdo ze sousedů se do dolů v noci neodváží a oni prosí postavy o pomoc…
@@ -97,6 +103,9 @@ Některé z nich mohou zaslechnout...
 -	Skupina, která zamířila do podzemí hledat dávné æsské trosky, se nevrátila. Jeden z nich nesl dědičný meč rodu Knivetton, který se ztratil s ním. Nový dědic rodu, Thomas Knivetton, nabízí odměnu za navrácení meče a případně kostí svého bratra Jeromeho, který se vrátil. V soukromé konverzaci zmíní, že přidá bonus, pokud by se snad Jerome našel živý… aby se živý nedostal k povrchu…
 
 ## Využití ve hře
+
+![ ]({{site.baseurl}}/92/008.jpg)
+
 
 Město pod městem a podzemí pod ulicemi nabízí další možnosti pro vaše hraní ve městě. Nabízí nová, tajemná, jen málo prozkoumaná a potenciálně děsivá a nebezpečná místa přímo pod nohami postav bez toho, aby musely někam daleko cestovat. Podzemí představuje samostatný ekosystém, kde žijí lidé a monstra, která mohou interagovat s povrchem a případně lidé z povrchu občas zamíří do podzemí. Tyto interakce mohou rozšířit vaše herní prostředí a zápletky. 
 
