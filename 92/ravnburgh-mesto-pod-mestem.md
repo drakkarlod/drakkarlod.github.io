@@ -10,9 +10,15 @@ summary: >-
   Ravnburgh postaven. Pod rušnými ulicemi se skrývají nástrahy v temnotách a
   dávno zapomenutá tajemství.
 ---
+![ ]({{site.baseurl}}/92/000.jpg)
+
+
 Současný Ravnburgh je postaven nad rozsáhlým podzemním světem, který se nachází pod ulicemi, domy a nohama obyvatel, kteří o jeho existenci často nemají ani tušení. Existují tu trosky starého podzemního æsského města a pevnosti, na kterém byl dnešní Ravnburgh vystavěn, stovky mil podzemních tunelů, opuštěných dolů, síně, katakomby, podzemní síně a sklepy, které vytváří jeden komplexní podzemní labyrint.
 
 ## Staré æsské trosky města
+
+![ ]({{site.baseurl}}/92/001.jpg)
+
 
 Hluboko pod Starým městem se nachází trosky dávného æsského města a pevnosti, na kterém byl dnešní Ravnburgh vystavěn. Dávná æsská sídla mívala nadzemní a podzemní části, přičemž pod zemí byly většinou obytné části domu. Z nadzemních staveb æsů prakticky nic nezůstalo, lidé je rozebrali na stavební materiál. Zbytky jejich výstavných a ornamenty zdobených budov lze sem tam zahlédnout vložené do zdí a nároží, kde slouží jako kamenné bloky. Zasypané a zapomenuté se pod ulicemi města ale ukrývají síně dávno zapomenutého lidu.
 
@@ -25,6 +31,9 @@ Většina lidí je přesvědčená o tom, že v æsských troskách straší. Vy
 Do podzemí se často vydávají skupiny dobrodruhů a nenechavců, kteří se snaží najít dávno ztracené poklady. Čas od času se některá vrátí se zlatem, překrásnými uměleckými předměty, artefakty a přes noc pohádkově zbohatne. Většina takových skupin nenajde nic, některé se ztratí beze stopy. 
 
 ## Stará cisterna
+
+![ ]({{site.baseurl}}/92/002.jpg)
+
 
 Pod tímto názvem je známá ohromná podzemní nádrž na pitnou vodu, kterou stále místní využívají a odkud berou vodu na pití a praní. Je to rozsáhlá podzemní komora v podobě velkého obdélníkového bazilikálního prostoru se třemi stovkami sloupů vyřezaných z žuly. Je velká 140 na 60 metrů a z větší části zatopená vodou. Nádrž prý dokáže pojmout přes 80 milionů litrů pitné vody, když je plně zatopená (záleží na ročním období).
 
