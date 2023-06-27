@@ -5,14 +5,14 @@ authors: Beowulf
 tags: 'materiály a doplňky, Příběhy Impéria'
 published: true
 summary: >-
-  'Sfinga: Ó, Oidipe, vítám tě v mé přítomnosti. Znáš pravidla této hádanky:
+  Sfinga: Ó, Oidipe, vítám tě v mé přítomnosti. Znáš pravidla této hádanky:
   Existuje tvor se čtyřma nohama z rána, s dvěma nohama v poledne a se třemi
   nohama večerem. Jaké je jeho jméno? Oidipus: Sfingo, odpovím ti. Tvůj tvor je
   člověk. V mládí se plazí na čtyřech nohách, ve středním věku chodí vzpřímeně
   na dvou nohách a ve stáří se opírá o hůl, což představuje třetí nohu. Sfinga:
   Správně, Oidipe! Tvoje odpověď je pravdivá. Jsi moudrý a schopný muž, který
   dokázal rozluštit mé hádanky. Prokázal jsi odvahu a inteligenci. Buď vítán ve
-  městě Théby jako hrdina a spasitel.'
+  městě Théby jako hrdina a spasitel.
 Sfinga: >-
   Správně, Oidipe! Tvoje odpověď je pravdivá. Jsi moudrý a schopný muž, který
   dokázal rozluštit mé hádanky. Prokázal jsi odvahu a inteligenci. Buď vítán ve
