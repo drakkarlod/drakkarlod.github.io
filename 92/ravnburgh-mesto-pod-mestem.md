@@ -10,6 +10,7 @@ summary: >-
   Ravnburgh postaven. Pod rušnými ulicemi se skrývají nástrahy v temnotách a
   dávno zapomenutá tajemství.
 ---
+{:.map} 
 ![ ]({{site.baseurl}}/92/000.jpg)
 
 
