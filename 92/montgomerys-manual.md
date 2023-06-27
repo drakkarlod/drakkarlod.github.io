@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Montgomery's Manual'
+title: Montgomerys Manual
 authors: Beowulf
 tags: doplňky, příběhy impéria
 ---
