@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Ravnburgh Město pod městem
+title: 'Ravnburgh: Město pod městem'
 authors: Ecthelion²
 tags: 'doplňky a materiály, ravnburgh'
 published: true
@@ -84,5 +84,3 @@ Město pod městem a podzemí pod ulicemi nabízí další možnosti pro vaše h
 
 ## Závěr
 Pokud vás zaujal svět Ravnburghu, další materiály pro něj najdete [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
-
-
