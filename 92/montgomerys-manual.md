@@ -36,8 +36,7 @@ summary: >-
 >
 > Ctěnému čtenáři přejeme mnoho úspěchů a dovolujeme si prohlásit, že jakékoliv problémy, ztráty věcí či lidí jsou zcela v odpovědnosti osob využívajících námi uváděné portály a brány, přičemž autorka, stejně jako vydavatel, se zříkají veškeré odpovědnosti.
 >
-> _Gideon Longworth_
-> _vydavatel a nakladatel_
+> _Gideon Longworth, vydavatel a nakladatel_
 
 ## Kapitola 7: Tajemná zrcadla: Přenosné brány do jiných světů
 
