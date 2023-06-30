@@ -19,9 +19,11 @@ summary: >-
 `Sfinga`: Ó, Oidipe, vítám tě v mé přítomnosti. Znáš pravidla této hádanky:
   Existuje tvor se čtyřmi nohami z rána, s dvěma nohama v poledne a se třemi
   nohami večerem. Jaké je jeho jméno?
+  
 `Oidipus`: Sfingo, odpovím ti. Tvůj tvor je člověk. V mládí se plazí na čtyřech
   nohách, ve středním věku chodí vzpřímeně na dvou nohách a ve stáří se opírá
   o hůl, jež představuje třetí nohu.
+  
 `Sfinga`: Správně, Oidipe! Tvoje odpověď je pravdivá. Jsi moudrý a schopný muž, který
   dokázal rozluštit mé hádanky. Prokázal jsi odvahu a inteligenci. Buď vítán ve
   městě Théby jako hrdina a spasitel.
