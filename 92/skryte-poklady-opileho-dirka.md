@@ -20,7 +20,6 @@ Všichni víme že hádanky v rpg mohou být frustrující, pokud se na nich hr�
 
 Posádka může polo-úspěšně projet Ďáblovým Rubášem. Přijdou sice o loď, ale zachrání si své životy a dostanou se do mytického Moře Zlodějů. Náhoda je vyplaví na pláži tohoto ostrova a teď už to bude jen na nich. Nebo mohou na ostrov narazit náhodně, s pomocí pirátské mapy, či mohou hledat Dirka na popud jeho parťáků z přístavu, kteří na něj (a jeho zásoby grogu) marně čekají.
 
-{:map}
 ![Mapa s čísly (pro GM), níž najdete mapu pro hráče]({{site.baseurl}}/92/Souostrovi_Opileho_Dirka_cisla.jpg)
 
 > **Pozor!** Mapa je kreslená samotným Dirkem, proto míry moc nesedí (prostě jsem nad tím tehdy moc nepřemýšlel… sry :) ). Berteto tak, že všechny Body Zájmu (loď, věže, apod.) jsou zvětšené, aby byly vidět detaily. A jinak vzdálenost mezi šalupou a každým břehem je cca 50m.
