@@ -101,6 +101,9 @@ Postarší muž s plnovousem z řas a šperky z mušlí, žraločích zubů, há
 
 Obří zjizvený žralok, který má na svědomí nejednoho muže či ženu přes palubu. Tělo má zjizvené, oči rudé a tlamu vyceněnou. Tuší že se tu skrývá Řasobrada, a jelikož nenávidí Mořský lid, pluje po okolí a hledá ho. Neodpluje, dokud jej nedostane. Toto je doopravdy nebezpečný protivník a začínající posádka by jej neměla být schopna porazit. Rozhodně ne přímou konfrontací, možná nějakým vážně chytrým plánem. Pokud by jej náhodou porazili, Řasobrada jim poví o **Staré Siréně Silvii**, která zná rituál, při němž je potřeba srdce starého žraloka zabijáka. Úspěšně provedený rituál dodá tomu, kdo srdce pozře, schopnost za jakékoliv situace poznat, kde je sever.
 
+![Mapa pro hráče (bez čísel)]({{site.baseurl}}/92/drunken_dirks_archipelago.jpeg)
+
+
 ## HÁDANKY
 
 ### Hádanka 1
