@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Skryté poklady Opilého Dirka
+title: 'Skryté poklady Opilého Dirka'
 authors: kin
-tags: dobrodružství, materiály a doplňky
-summary: 'Toto je krátké dobrodružství, původně psané pro `Sea of Thieves` RPG, ale pro potřeby Drakkaru jsem ho přepsal, aby to bylo systémově nezávislé. Jedná se o odlehčené pirátské dobrodružství, které se, stejně jako hra, kterou je inspirováno, nebere vážně. Bere si nějaký lore ze SoT RPG, ale neměl by být (imho) důležitý pro pochopení/odehrání. Spíš pro zajímavost/větší kontext využitelný v kampani, pokud daný svět znáte.
+tags: 'dobrodružství, materiály a doplňky'
+summary: 'Toto je krátké dobrodružství, původně psané pro `Sea of Thieves` RPG, ale pro potřeby Drakkaru jsem ho přepsal, aby to bylo systémově nezávislé. Jedná se o odlehčené pirátské dobrodružství, které se, stejně jako hra, kterou je inspirováno, nebere vážně. Bere si nějaký lore ze SoT RPG, ale neměl by být (imho) důležitý pro pochopení/odehrání. Spíš pro zajímavost/větší kontext využitelný v kampani, pokud daný svět znáte.'
 ---
 
 > „Povím Vám o poslední plavbě Opilého Dirka! Dirk byl statečný, možná až moc a možná to bylo jenom přílišným přísunem alkoholu. Plavil se po Moři Zlodějů ve své malé šalupě “Jednooká Berta”, která byla vždy plná grogu, co se do ní vešlo, aby Dirk neměl nikdy žízeň a vždy ho provázela chuť do zpěvu.
@@ -159,4 +159,3 @@ Konec schodiště v **6 / Potopené věži**, vedoucí do bahnitého dna. Na jeh
 - Koule do kanonu z černého kovu a s ohnivými runami. Je teplá na omak. Po výstřelu a dopadu vybouchne v obrovské ohnivé kouli s rádiusem cca 10m. 
 
 Zároveň, velkou odměnou pro posádku může být **Dirkova loď Berta**, pokud ji opraví a/nebo zachrání Řasobradu. Ten pro ně může zavolat ze svého podmořského rodu pomocníky, kteří jim loď pomohou opravit a odtáhnou z mělčiny zpět na moře.
-
