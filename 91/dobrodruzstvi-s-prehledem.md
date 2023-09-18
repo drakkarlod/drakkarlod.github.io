@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Dobrodružství s přehledem
-authors: MarkyParky
+authors: Filip „MarkyParky“ Dvořák
 tags: 'design, dobrodružství'
 published: true
 summary: >-
