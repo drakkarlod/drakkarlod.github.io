@@ -64,7 +64,7 @@ Z těch několika vyprávění osob, které Niamh spatřily a díky ní se dosta
 
 ### Mluvící zrcadlo v hostinci U Létajícího prasete
 
-![zrcadlo_maska.jpg]({{site.baseurl}}/92/zrcadlo_maska.jpg)
+![](zrcadlo_maska.jpg)
 
 Toto zrcadlo je tvořeno pozlaceným vyřezávaným rámem, přičemž v horní části rámu je umístěna zlatá maska ve tvaru lidského obličeje. Zrcadlo je umístěno v hostinci v londýnských docích v ulici Rope Walk. O zrcadle musíte vědět a říct obsluze, že k němu potřebujete. Pustí vás do zadní části hostince. Zde je možné často potkat nejednu zajímavou osobu (pozn. vydavatele: o tom více v naší publikaci věnující se londýnským hostincům, kterou připravujeme). Zrcadlo je velké a nepřehlédnutelné, ale všimnete si jej pravděpodobně především kvůli tomu, že maska v jeho horní části je živá (oživlá) a neustále mluví (někdy je to téměř nesnesitelné). 
 
