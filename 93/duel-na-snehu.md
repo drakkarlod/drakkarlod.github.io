@@ -10,6 +10,7 @@ Chcú ho oslobodiť z jeho pút a využiť v boji proti postupujúcim spojencom,
 
 ## Postavy
 
+{:.sticky}
 ![](duel-na-snehu-mapa.jpg)
 
 Všetci členovia komanda majú bojový nôž Fairbarn Sykes, bajonet vz. 1907, [dymový granát](https://en.wikipedia.org/wiki/No_77_grenade), tri [granáty](https://en.wikipedia.org/wiki/Mills_bomb), pištoľ [Browning FN-Inglis](https://en.wikipedia.org/wiki/Browning_Hi-Power), ruksak, lyže, zimné maskovanie, zimné oblečenie, zapaľovač, jedno na niekoľko dní, vojenskú lopatku, hygienické potreby, spacák, celtu, cepín, mačky, skoby, lano, fľašu na vodu, kompas plus špeciálne vybavenie.

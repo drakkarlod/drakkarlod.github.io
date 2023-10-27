@@ -98,6 +98,17 @@ body {
     }
 }
 
+@media (min-width: 1200px) {
+    .sticky.imageparagraph {
+        position: sticky;
+        top: 20px;
+        width: 1000px;
+    }
+    .sticky.imageparagraph img {
+        max-height: 95vh;
+    }
+}
+
 p.imageparagraph + p {
     // do not indent text if it's only preceded by image and not another text
     text-indent: 0;
