@@ -2,9 +2,8 @@
 layout: article
 title: 'Ravnburgh: Livrejový řetěz'
 authors: Ecthelion²
-tags: 'doplňky a materiály, ravnburgh'
-summary: >-
-  Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se livrejovým řetězům, které byly v renesanci a pozdně středověké společnosti velice běžné
+tags: 'materiály a doplňky, ravnburgh'
+summary: Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se livrejovým řetězům, které byly v renesanci a pozdně středověké společnosti velice běžné
 ---
 
 Je to kovový (zpravidla zlatý nebo stříbrný) řetěz, který se nosí jako odznak úřadu nebo označení věrnosti některému panovníkovi nebo některé ze soupeřících stran konfliktu. Velice oblíbené a běžné se staly během zápasu o dunfordské panství, kde jsou nošeny velkou částí rytířů a panstva. Je to způsob přihlášení se k jedné ze stran a prohlášení, za čím nositel stojí, jaké názory zastává a pro koho se vyjádřil.

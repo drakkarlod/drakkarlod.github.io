@@ -2,7 +2,7 @@
 layout: article
 title: 'Ravnburgh: Soudní souboj'
 authors: Ecthelion²
-tags: 'doplňky a materiály, ravnburgh'
+tags: 'materiály a doplňky, ravnburgh'
 summary: Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se soudním soubojům, což jsou duely a souboje přípustné v arlatských zemích při soudním řízení jako důkazní prostředek.
 ---
 
