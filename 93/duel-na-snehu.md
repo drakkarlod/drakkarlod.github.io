@@ -17,23 +17,23 @@ Všetci členovia komanda majú bojový nôž Fairbarn Sykes, bajonet vz. 1907, 
 
 Vyberte si svoje postavy. Jeden z hráčov musí byť kapitán.
 
-- Kaptein (kapitán) ROLF HAUGE, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), [mapa](UK-NWE-Norway-8b.jpg), ďalekohľad, denník.
+- Kaptein (kapitán) `Rolf Hauge`, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), [mapa](UK-NWE-Norway-8b.jpg), ďalekohľad, denník.
 
 ### ALPHA tím
 
-- Løytnant (poručík) ALF KRISTIAN SOLBU, [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
-- Korpral (desiatnik) IVAR MARIUS HAGA, pyrotechnik, 4x [Lewes bomb](https://en.wikipedia.org/wiki/Lewes_bomb), taška s pyrotechnickými nástrojmi, zápalná šnúra
-- Menig (vojak) OLA CHRISTOPHERSEN,  [Le Lisle karabína](https://en.wikipedia.org/wiki/De_Lisle_Carbine)
-- Menig (vojak) PETER EMIL HOPEN,  [Le Lisle karabína](https://en.wikipedia.org/wiki/De_Lisle_Carbine)
-- Menig (vojak) LARS HOVSTAD,  [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
+- Løytnant (poručík) `Alf Kristian Solbu`, [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
+- Korpral (desiatnik) `Ivar Marius Haga`, pyrotechnik, 4x [Lewes bomb](https://en.wikipedia.org/wiki/Lewes_bomb), taška s pyrotechnickými nástrojmi, zápalná šnúra
+- Menig (vojak) `Ola Christophersen`,  [Le Lisle karabína](https://en.wikipedia.org/wiki/De_Lisle_Carbine)
+- Menig (vojak) `Peter Emil Hopen`,  [Le Lisle karabína](https://en.wikipedia.org/wiki/De_Lisle_Carbine)
+- Menig (vojak) `Lars Hovstad`,  [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
 
 ### BRAVO tím
 
-- Fenrik (práporčík) GABRIEL SMITH, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), medik, lekárska taška, fľaša whisky, fajka.
-- Korpral (desiatnik) OLAV BJØRNDALEN, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), sekera
-- Menig (vojak) LEIF LUDVIK LARSEN,  [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
-- Menig (vojak) BERNT MYRVAG,  [2” mínomet](https://en.wikipedia.org/wiki/Two-inch_mortar), 6 granátov
-- Menig (vojak) SVERRE RØSLAND, 3 dymové granáty, 9 výbušných
+- Fenrik (práporčík) `Gabriel Smith`, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), medik, lekárska taška, fľaša whisky, fajka.
+- Korpral (desiatnik) `Olav Bjørndalen`, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), sekera
+- Menig (vojak) `Leif Ludvik Larsen`,  [odstreľovačka Lee Enfield No. 4 Mk I(T)](https://en.wikipedia.org/wiki/Lee%2525E2%252580%252593Enfield#Sniper_rifles), garota, ghillie, mapa, ďalekohľad
+- Menig (vojak) `Bernt Myrvag`,  [2” mínomet](https://en.wikipedia.org/wiki/Two-inch_mortar), 6 granátov
+- Menig (vojak) `Sverre Røsland`, 3 dymové granáty, 9 výbušných
 
 ## Misia
 
