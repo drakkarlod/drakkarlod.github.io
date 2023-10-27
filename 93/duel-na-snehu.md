@@ -108,3 +108,20 @@ Keď sa postavy  dostanú niekde do okolia Krokstrandu, v noci uvidia krvavo če
 ## Ľadovec blaamannsis
 
 V údolí na západnej strane ľadovca je staré vikingské pohrebisko s niekoľkými [hrobkami v tvare lode](https://en.wikipedia.org/wiki/Stone_ship). Kamenná flotila stráži vstup do jaskyne, v ktorej je na silnom žriedle moci spútaný obrovský snežný drak Hvíturlogi. V zadnej časti jaskyne sú telá 50 obetovaných väzňov. Malá skupina mystikov vedených majstrom Heinrichom von Schattenberg táborí pri ústí jaskyne. Sú dobre vyzbrojení, von Schattenberg vládne mágiou Zimy, Temnoty, Mysle a Ochrany.
+
+<!-- wikipedia preview -->
+<script src="https://unpkg.com/wikipedia-preview@1.8.0/dist/wikipedia-preview.production.js"></script>
+<script type="text/javascript">
+    wikipediaPreview.init({
+        popupContainer: document.querySelector('.mainframe'),
+        detectLinks: true
+    })
+</script>
+<style>
+    .wikipediapreview-body p {
+        font: inherit;
+        font-family: 'Source Sans Pro', sans-serif;
+        color: inherit;
+        text-align: left;
+    }
+</style>
