@@ -17,7 +17,7 @@ Všetci členovia komanda majú bojový nôž Fairbarn Sykes, bajonet vz. 1907, 
 
 Vyberte si svoje postavy. Jeden z hráčov musí byť kapitán.
 
-- Kaptein (kapitán) ROLF HAUGE, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), [mapa](https://www.ibiblio.org/hyperwar/UN/UK/UK-NWE-Norway/maps/UK-NWE-Norway-8b.jpg), ďalekohľad, denník.
+- Kaptein (kapitán) ROLF HAUGE, [Sterling SMG](https://en.wikipedia.org/wiki/Sterling_submachine_gun), [mapa](UK-NWE-Norway-8b.jpg), ďalekohľad, denník.
 
 ### ALPHA tím
 
