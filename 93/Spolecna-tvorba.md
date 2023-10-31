@@ -5,8 +5,10 @@ authors: Jakub „boubaque“ Maruš
 tags: 'Příběhy Impéria, Materiály a doplňky, Inspirace'
 published: false
 summary: >-
-  Článek se věnuje postupu přípravy a vedení hry Příběhů Impéria, možnosti
-  pravidel a jak si zahrát Příběhy zase trochu jinak.
+  Článek se věnuje postupu přípravy a vedení hry Příběhů Impéria takovým
+  způsobem, aby příběh mohli vytvářet všichni hráči společnými silami a vypravěč
+  si usnadnil práci už při přípravě hry. Upozorňuje na některé méně obvyklé
+  možnosti pravidel a ukazuje, jak si zahrát Příběhy zase trochu jinak.
 ---
 Je to pět let, co jsem napsal článek na téma, jak [dávat hráčům prostor](https://drakkar.sk/63/dejte-hracum-prostor.html) pro vlastní invenci a vnášení obsahu do příběhu a hry vůbec. Je to přehled postupů, jak nechat hráče rozvíjet prostředí a děj hrané hry nad rámec toho, co dokážou a ovlivní jejich postavy... aby přitom hra zůstala soudržná a spěla k uspokojivému konci.  
 
