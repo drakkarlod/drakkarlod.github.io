@@ -40,7 +40,7 @@ Dobré místo pro dobrodružný příběh (Impéria ;-) ) je takové, které má
 
 Nehráčské postavy, spojence vašich dobrodruhů, protivníky, monstra i náhodné kolemjdoucí tvořte podobně jako místa: Není důležitý jejich původ a vztahy s okolím, důležitý je dojem z nich (vzhled a chování) a jejich motivace (čeho chtějí dosáhnout).   
 
-\> Chtějí něco získat, něco zničit, něco ochránit nebo schovat, něco předat, prodat, získat informaci nebo ji poslat dál...  
+> Chtějí něco získat, něco zničit, něco ochránit nebo schovat, něco předat, prodat, získat informaci nebo ji poslat dál...  
 
 Nehledejte záměrně takové pohnutky a cíle postav, aby seděly do vašeho příběhu -- protože ten ještě netvoříte. Je možné, že ve hře se bude víc hodit, aby zraněný posel nenesl šperk, ale třeba hadrovou panenku.
 
@@ -48,7 +48,7 @@ Nehledejte záměrně takové pohnutky a cíle postav, aby seděly do vašeho p�
 
 I když já osobně to dělám málokdy, můžete si nachystat i dva tři „granáty" (bangy), tedy akční, vyhrocené situace, které rozbijí vleklou pasáž a dodají nový impulz pro hraní.   
 
-\> Postavy zničehonic přepadnou skřetí banditi! Z nebe se snese výr, vytrhne jedné z postav pouzdro s důležitým předmětěm a odletí k strašidelnému sídlu! Lady Marion se skácí k zemi a rty se jí barví do modra!  
+> Postavy zničehonic přepadnou skřetí banditi! Z nebe se snese výr, vytrhne jedné z postav pouzdro s důležitým předmětěm a odletí k strašidelnému sídlu! Lady Marion se skácí k zemi a rty se jí barví do modra!  
 
 Není důležité, proč se to děje, to nám vysvětlí další vývoj příběhu, důležité je, že se něco děje.  
 
@@ -56,11 +56,11 @@ Není důležité, proč se to děje, to nám vysvětlí další vývoj příbě
 
 Možná nejdůležitější část přípravy, a přitom nezabere moc času, je úvodní scéna, která nastaví atmosféru příběhu a problém, který je třeba řešit. Ideální jsou situace, kdy už je možné rovnou naskočit do akce, anebo kdy se hráči můžou rozhodnout pro více smysluplných variant, kde pokračovat (např. s vyšetřováním).  
 
-\> Starý Lord Dingwall žádá přátele o pomoc s vyšetřením záhadných úmrtí na jeho panství (útoky se dějí na cestě skrz blata, v márnici leží poslední oběť, starý lovec Perbix prý příšeru zahnal na útěk a podle zpráv rozbili na blatech tábor potulní skřeti).
+> Starý Lord Dingwall žádá přátele o pomoc s vyšetřením záhadných úmrtí na jeho panství (útoky se dějí na cestě skrz blata, v márnici leží poslední oběť, starý lovec Perbix prý příšeru zahnal na útěk a podle zpráv rozbili na blatech tábor potulní skřeti).
 
-\> Z ložnice slečny Beatrix se ozval její výkřik, dívka zmizela a z její postele vybujely hlohové lístky. Okno je otevřené a v živém plotu se pomalu uzavírá otvor.
+> Z ložnice slečny Beatrix se ozval její výkřik, dívka zmizela a z její postele vybujely hlohové lístky. Okno je otevřené a v živém plotu se pomalu uzavírá otvor.
 
-\> Skřítkové sedí na hřbitovní zdi a sledují pohřeb mladíka, jemuž dluží službu. Splatit ji mohou jen tak, že vypátrají, kdo z přítomných je jeho vrah -- nebo kdo je k němu přivede.  
+> Skřítkové sedí na hřbitovní zdi a sledují pohřeb mladíka, jemuž dluží službu. Splatit ji mohou jen tak, že vypátrají, kdo z přítomných je jeho vrah -- nebo kdo je k němu přivede.  
 
 Úvodní scéna má jen hráče uvést do hry a rozběhnout příběh. Vztahy nejsou jasně dané, anebo jsou jen iluzorní a plné přetvářky -- to určí až další vývoj děje. Pokud víme, kdo unesl slečnu Beatrix, byl to jen poskok někoho jiného -- možná ji unesl férijský princ, možná si její poručník dělá alibi, možná sama Beatrix naplánovala útěk do Férie, a možná je stále v domě. Ale tohle na začátku nevíme, jinak děláme ze hry vypravěčovu hádanku pro hráče.  
 
