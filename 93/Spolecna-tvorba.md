@@ -3,7 +3,7 @@ layout: article
 title: Společná tvorba příběhu v Příbězích Impéria
 authors: Jakub „boubaque“ Maruš
 tags: 'Příběhy Impéria, Materiály a doplňky, Inspirace'
-published: false
+published: true
 summary: >-
   Článek se věnuje postupu přípravy a vedení hry Příběhů Impéria takovým
   způsobem, aby příběh mohli vytvářet všichni hráči společnými silami a vypravěč
