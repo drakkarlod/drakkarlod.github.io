@@ -14,6 +14,9 @@ Víme, že ve středověku byly k dispozici všechny ingredience, které jsou v 
 
 Pro prostá jídla by nebyla k dispozici koření (skořice a muškátový oříšek), která byla drahá, ale pouze sušené byliny (můžete recept zkusit třeba s tymiánem a oreganem, které byly běžné ve vikinských receptech). Dovolili jsme si ale trochu jich přidat, protože Ravnburg je velký námořní přístav, kde by byly k dispozici a krčma U Rudého draka je navíc vyhlášená pro svou kuchyni.
 
+{:.map}
+![Zimní kroupy v misce]({{site.baseurl}}/94/zimni-kroupy.jpg)
+
 ### Ingredience (pro 2 porce)
 -	100 g slaniny _(nakrájené na kostky; ideálně sušená, ne vařená, protože má výraznější chuť a je to to, co by bylo k dispozici)_
 -	2 střední jablka _(nakrájené na kostky; nejlépe podzimní posbíraná a uskladněná v chladu na zimu)_
