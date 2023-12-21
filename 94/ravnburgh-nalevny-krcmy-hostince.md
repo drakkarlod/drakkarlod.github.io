@@ -123,4 +123,5 @@ Ve středověku a renesanci se často v kuchyních těch, kteří si to mohli do
 Samozřejmě v realitě se funkce a nabídka jednotlivých hospod prolínaly a překrývaly. V některých nálevnách bylo k dispozici jídlo a ubytování, některé hostince nabízely jen jídlo a pití. V zásadě by ale tato trojice měla fungovat a sloužit jako základní pravidlo pravé ruky pro vaše hry.
 
 &nbsp; 
+
 Pokud vás svět Ravnburghu zaujal, další materiály pro něj najdete na RPG fóru [tady](https://rpgforum.cz/forum/viewtopic.php?t=15608).
