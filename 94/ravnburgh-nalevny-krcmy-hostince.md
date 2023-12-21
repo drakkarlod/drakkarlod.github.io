@@ -9,3 +9,4 @@ summary: >-
   různým druhům hospod a pohostinských zařízení, které se ve světě Ravnburghu
   dají najít, a tomu, jak se od sebe liší a čím jsou podobné.
 ---
+Kam postavy zamíří, pokud potřebují svlažit vyprahlé hrdlo, spláchnout prach cest z krku a zaplnit břicho dobrým jídlem? Nejčastější druhy hospod, na které lze v arlatských zemích a okolí Ravnburgu narazit jsou **nálevny, krčmy a hostince**. Každé pohostinské zařízení slouží jinému účelu a nabízí jiné druhy služeb.
