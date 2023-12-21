@@ -1,8 +1,9 @@
 ---
 layout: article
 title: Název článku
-authors: Jméno autora
-tags: štítek, další štítek
+authors: 'Asheara, Ecthelion²'
+tags: 'štítek, další štítek'
+published: true
 ---
 
 ## text
