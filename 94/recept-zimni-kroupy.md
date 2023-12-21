@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Název článku
+title: 'Recept: Zimní kroupy s jablkem od Rudého draka'
 authors: 'Asheara, Ecthelion²'
-tags: 'štítek, další štítek'
+tags: 'Ravnburgh, materiály a doplňky, recept'
 published: true
+summary: Recept na zahřívající kroupy
 ---
 V krčmě U Rudého gryfa v Ravnburgu (ale zřejmě i v jiných fantasy světech a středověkých krčmách) podávají uprostřed zimy dobrou misku zimních krup k rozehřátí zmrzlých kostí poutníků a naplnění jejich hladových žaludků.
 
