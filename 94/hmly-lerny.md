@@ -118,15 +118,15 @@ Vždy, keď uspejú v hode na odolanie spevu, sa môžu rozhodnúť ísť do fin
 
 Pre potreby Aspisu má pseudohydra takéto vlastnosti:
 
-Bojaschopnosť: každá hlava reprezentuje jeden život a útok; ak stratí hlavu, stratí s ňou aj útok. Vďaka dlhým stopkám vedia hlavy vo voľnom priestranstve útočíť z ľubovoľného smeru, ak sa postavy stiahnu do nejakej budovy, obmedzia tým maximálny počet útokov na 4.
+**Bojaschopnosť**: každá hlava reprezentuje jeden život a útok; ak stratí hlavu, stratí s ňou aj útok. Vďaka dlhým stopkám vedia hlavy vo voľnom priestranstve útočíť z ľubovoľného smeru, ak sa postavy stiahnu do nejakej budovy, obmedzia tým maximálny počet útokov na 4.
 
-Regenerácia: ak jej život zoberie nemagická zbraň, hoď k6 – na 3+ sa jej vrátia až dve hlavy do počiatočného množstva. V opačnom prípade stratí život i útok.
+**Regenerácia**: ak jej život zoberie nemagická zbraň, hoď k6 – na 3+ sa jej vrátia až dve hlavy do počiatočného množstva. V opačnom prípade stratí život i útok.
 
-Útok: pseudohydra útočí zubami, jej zbrane sú teda vždy veľmi krátke, ale ich sila je vďaka veľkosti 4.
+**Útok**: pseudohydra útočí zubami, jej zbrane sú teda vždy veľmi krátke, ale ich sila je vďaka veľkosti 4.
 
-Obrana: pseudohydra má vďaka svojej veľkosti prekvapivo hrubú kožu a jej obrana je 4.
+**Obrana**: pseudohydra má vďaka svojej veľkosti prekvapivo hrubú kožu a jej obrana je 4.
 
-Spev: dospelá pseudohydra (ak mala na konci sedem hláv) dokáže ovládať zvukom všetkých ľudí v okolí troch míľ, ktorí ju počujú. Ak sa postavy vrhli do boja bez toho, aby ľuďom povedali, že si majú zapchať uši, musia sa s bojom poponáhľať. Na druhú stranu, kým pseudohydra dospeje, už v meste nebude tak veľká populácia. U nedospelej je to jednoduchšie, obyvatelia ju budú iba ignorovať. V oboch prípadoch by pomohlo nejakym spôsobom vzburcovať do bitky aj obyvateľov.
+**Spev**: dospelá pseudohydra (ak mala na konci sedem hláv) dokáže ovládať zvukom všetkých ľudí v okolí troch míľ, ktorí ju počujú. Ak sa postavy vrhli do boja bez toho, aby ľuďom povedali, že si majú zapchať uši, musia sa s bojom poponáhľať. Na druhú stranu, kým pseudohydra dospeje, už v meste nebude tak veľká populácia. U nedospelej je to jednoduchšie, obyvatelia ju budú iba ignorovať. V oboch prípadoch by pomohlo nejakym spôsobom vzburcovať do bitky aj obyvateľov.
 
 ### Prehra a víťazstvo
 
