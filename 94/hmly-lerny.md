@@ -10,6 +10,10 @@ summary: >-
   sa vraj vrátila Hydra.
 ---
 
+{:.map} 
+![V hmlách Lerny]({{site.baseurl}}/94/hmla.png)
+
+
 ## Historické pozadie
 
 Jazero Lerna je známe mýtom o Heraklovi. Ten na tomto mieste zabil Hydru, ktorú na neho poslala jeho zákerná nevlastná matka Héra. Na východnom brehu jazera ležia ruiny starého mykénskeho mesta Lerna a už takmer tisíc rokov sa pomaly potápa do bažiny. Iba dve míle odtiaľ leží malé mestečko na pokraji kolapsu.
