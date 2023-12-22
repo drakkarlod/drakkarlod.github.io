@@ -14,7 +14,7 @@ summary: >-
 
 Jazero Lerna je známe mýtom o Heraklovi. Ten na tomto mieste zabil Hydru, ktorú na neho poslala jeho zákerná nevlastná matka Héra. Na východnom brehu jazera ležia ruiny starého mykénskeho mesta Lerna a už takmer tisíc rokov sa pomaly potápa do bažiny. Iba dve míle odtiaľ leží malé mestečko na pokraji kolapsu.
 
-Prosymna, epicentrum nášho príbehu, bývalo kedysi mykénske a dnes patrí pod blízky Argos. Mestečko má v súčasnosti asi 200 obyvateľov. Veľká časť z nich ťaží íl k výrobe terakotových sošiek, škridiel a nádob. Stojí tu viacero chrámov, spolu s obchodnou infraštruktúrou. Zbytok obyvateľov sa venuje poľnohospodárstvu.
+**Prosymna**, epicentrum nášho príbehu, bývalo kedysi mykénske a dnes patrí pod blízky Argos. Mestečko má v súčasnosti asi 200 obyvateľov. Veľká časť z nich ťaží íl k výrobe terakotových sošiek, škridiel a nádob. Stojí tu viacero chrámov, spolu s obchodnou infraštruktúrou. Zbytok obyvateľov sa venuje poľnohospodárstvu.
 
 Na čele Prosymny stojí gerousia, päť starešinov, ktorí vyberajú pre Argos dane z obchodu a velia skupine desiatich ozbrojencov. Členstvo v gerousií je doživotné a nového člena volia spomedzi starcov všetci dospelí občania. Vojaci sú skôr ochrankou starešinov a hliadkou, než skutočnou jednotkou dobre vybavených a zohratých hoplitov. Ich hlavnou úlohou je v prípade útoku priviesť pomoc z neďalekého Argosu.
 
@@ -22,7 +22,7 @@ Nachádza sa tu niekoľko chrámov, hlavný je venovaný Hére Hydragene, matke 
 
 ## Čo sa tu skutočne deje?
 
-Mestečko Prosymna sa stalo domovom tvora známeho ako Pseudohydra. Tento tvor má, podobne ako Lerňanská hydra, niekoľko hláv a je to zákerný protivník, avšak v mnohých veciach sa líši. Parazituje na meste, postupne požiera obyvateľov a rastie. Populácia mesta to netuší. Malígny vplyv pseudohydry otrávil ich spomienky a svoje problémy sa snažia racionalizovať ináč.
+Mestečko Prosymna sa stalo domovom tvora známeho ako **Pseudohydra**. Tento tvor má, podobne ako Lerňanská hydra, niekoľko hláv a je to zákerný protivník, avšak v mnohých veciach sa líši. Parazituje na meste, postupne požiera obyvateľov a rastie. Populácia mesta to netuší. Malígny vplyv pseudohydry otrávil ich spomienky a svoje problémy sa snažia racionalizovať ináč.
 
 Mnoho ľudí verí, že problémy prichádzajú od jazera. Že znova povstala hydra v bažinách, že hmly sú jej prácou a že za všetko môžu kentauri. Vyvolať vojnu a pohltiť aj kentaurov by bolo pre pseudohydru nadmieru užitočné. Pseudohydra pomaly rastie a až dospeje, presunie sa do Argosu.
 
@@ -47,11 +47,11 @@ Mnoho ľudí verí, že problémy prichádzajú od jazera. Že znova povstala hy
 
 ## Pseudohydra
 
-Pseudohydra je v podstate forma sladkovodného polypu. Keď sa jej zárodok dostane do vody znečistenej ľuďmi, prichytí sa k stene a začne rásť. Prerastá prasklinami až sa jedno jej chápadlo dostane na povrch. Tu sa snaží prilákať prvú obeť, uškrtiť ju a asimilovať. V tejto fáze je najzraniteľnejšia, pretože ju ešte necháni pieseň zabudnutia.
+Pseudohydra je v podstate forma sladkovodného polypu. Keď sa jej zárodok dostane do vody znečistenej ľuďmi, prichytí sa k stene a začne rásť. Prerastá prasklinami až sa jedno jej chápadlo dostane na povrch. Tu sa snaží prilákať prvú obeť, uškrtiť ju a asimilovať. V tejto fáze je najzraniteľnejšia, pretože ju ešte necháni **pieseň zabudnutia**.
 
 Po asimilácií prvej obete z nej ostane na konci chápadla hlava, ktorá spieva pieseň. Je ju počuť na vzdialenosť troch míľ a kto ju počuje, v okamihu zabudne na existenciu pseudohydry a jej prejavy. Rovnako zabudne na všetky jej obete. Skôr či neskôr táto amnézia začne robiť v hlave obetí neplechu a začnú vystupovať otázky. Tie sa však človek pod vplyvom piesne snaží zaplniť čo najracionálnejším spôsobom.
 
-Ak máme rodinu s  dieťaťom a  pseudohydra pohltí dieťa, rodina sa snaží racionalizovať existenciu detskej izby a  hračiek. Ľahko sa zhodnú, že by veľmi chceli mať potomka a  niekedy to preháňajú. Možno si dokonca vyrobia slamenú bábku a  oblečú jej špinavé oblečenie, aby im robila radosť na  dvore.
+> Ak máme rodinu s  dieťaťom a  pseudohydra pohltí dieťa, rodina sa snaží racionalizovať existenciu detskej izby a  hračiek. Ľahko sa zhodnú, že by veľmi chceli mať potomka a  niekedy to preháňajú. Možno si dokonca vyrobia slamenú bábku a  oblečú jej špinavé oblečenie, aby im robila radosť na  dvore.
 
 Ľudia ktorí sú pod vplyvom tejto piesne si ju občas spokojne pohmkávajú a neustále ju počujú v hlave aj keď ju nedokážu spoznať. Možno to aj niekto spomenie medzi rečou.
 
