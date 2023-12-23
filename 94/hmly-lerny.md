@@ -11,7 +11,7 @@ summary: >-
 ---
 
 {:.map} 
-![V hmlách Lerny]({{site.baseurl}}/94/hmla.png)
+![V hmlách Lerny. Zdroj:: Midjourney]({{site.baseurl}}/94/hmla.png)
 
 
 ## Historické pozadie
