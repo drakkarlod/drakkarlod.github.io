@@ -32,21 +32,21 @@ Mnoho ľudí verí, že problémy prichádzajú od jazera. Že znova povstala hy
 
 ## Dramatis personae
 
--   Veľkňažka héry Penelopa a kňažky Kirké a Jolante – kňažky Héry – berú pseudohydru ako boží trest pre skazených obyvateľov dediny. Na rozdiel od iných obyvateľov si kňažky Héry nikdy nespievajú pesničku zabudnutia. Vidia neskreslenú realitu jej pôsobenia, no vnímajú pseudohydru ako služobníka Héry a nebudú jej brániť v jej raste. Samozrejme samy seba a svoj chrám neohrozia.
+-   **Veľkňažka héry Penelopa a kňažky Kirké a Jolante** – kňažky Héry – berú pseudohydru ako boží trest pre skazených obyvateľov dediny. Na rozdiel od iných obyvateľov si kňažky Héry nikdy nespievajú pesničku zabudnutia. Vidia neskreslenú realitu jej pôsobenia, no vnímajú pseudohydru ako služobníka Héry a nebudú jej brániť v jej raste. Samozrejme samy seba a svoj chrám neohrozia.
     
--   Kňaz Dia Gideon, Kňažka Atény Elektra a Kňažka Artemis Kira
+-   **Kňaz Dia Gideon, Kňažka Atény Elektra a Kňažka Artemis Kira** - Kňazi ostatných sa snažia pomôcť tušia, že niečo nie je v poriadku, no potrebujú ppomoc od postáv, aby si v hlave zrovnali veci. Každý s kňazov môže dať postavám požehnanie, ktoré im umožní jednorázovo si prehodiť záchranný hod. Zeus na výdrž, Artemis na všímavosť a Aténa na vôľu
     
--   Hostinská Hestinia
+-  ** Hostinská Hestinia** - Hostinská poprosí postavy aby poslali domov jej synov, keď ich stretnú. Neskôr v ten deň už tvrdí, že ona deti nikdy nemala.
     
--   Filozof Agastropos
+-  ** Filozof Agastropos **- filozof je zabarikádovaný vo svojom dome. Jediný viditeľný vstup je malý otvor pod oknom kadiaľ mu hostinská nosí jedlo. Je paranoidný a zdá sa, že trpí preľudmi. Vo vrecku má množstvo konšpiračných teórií, napríklad, že z východu prichádzajú Achaemnidské armády temnoty, alebo, že Sparta s Corinthom plánujú útok na Atény. Jedna z teórií je aj taká, že v meste žije tvor pod rúškom zabudnutia, ktorý v noci pojedá ľudí. Agastropos má uši upchaté voskom a treba na neho poriadne kričať.
     
--   Sochár Kyrios
+-   **Sochár Kyrios** - Kyrios je hluchonemý sochár. Taký sa narodil. Ľudia si myslia, že je mentálne slabší, no pravda je, že iba nikdy nepochopil koncept komunikácie. Nepozná písmo ani znakovú reč, nerozpráva ani nepočuje. Žije svoj jednoduchý život s rukami zababranými od ílu. Chodieva sa najesť do hostinca, občas ho možno stretnúť v chráme. Tu objavil aj svoj sochársky talent. Vyrába obetné sošky bohov, ktorí tu majú schrámy a ľudia mu za to dávajú peniaze na živobytie. Poslednou dobou je však trochu nervózny, vída v mestečku mŕtve hlavy na hubovitých stopkách. Nikto v meste im však nevenuje pozornosť. Niekedy spytuje vlastnú príčetnosť.
     
--   Vodca kentaurov Hylaios
+-   **Vodca kentaurov Hylaios** - Kentaurí náčelník už je zúfalý. Prosymna bývala dedina kam kentauri chodili za obchodom i za priateľmi. Poslednou dobou však nepočuť jediné slušné slovo. Obviňujú ich z útokov, ktoré sa nikdy nestali. Netuší prečo a keďže dedinčania na nich útočia od pohľadu problém vyriešiť nevie. Viackrát už sa snažili prísť do dediny spýtať sa čo sa deje, no vždy ich vyhnali.
     
--   Kentaurí šaman Folúsas
+-  ** Kentaurí šaman Folúsas **- Šaman je starý muž, ktorý už dobre nepočuje, vie, že v meste sa deje niečo nekalé, počuje ako si ľudia v ich osade pospevujú zvláštnu pieseň. Už viackrát stratili mladých ľudí v Prosymne a nik si už na nich ani nespomenie.
     
--   Starešinovia: Pheresios, Melosias, Onkios, Akastos, Harpalos
+-   **Starešinovia: Pheresios, Melosias, Onkios, Akastos, Harpalos** - Piati starešinovia zodpovedajú za dianie v meste. Dozerajú na ťažbu ílu, výrobu a vypaľovanie keramiky. Vítajú v meste obchodníkov a určujú pre nich obchodné podmienky, takže krátko po príchode sa u postáv niektorý z nich zastaví aby sa povypytoval na ich plány. Posťažuje sa na vysťahovalectvo, ako ľudia odchádzajú do mesta a dedina postupne vymiera.
     
 
 ## Pseudohydra
