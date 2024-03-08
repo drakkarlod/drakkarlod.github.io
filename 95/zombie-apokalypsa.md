@@ -3,7 +3,11 @@ layout: article
 title: Zombie apokalypsa
 authors: Antharon
 tags: doplňky a materiály
-summary: Tento dokument obsahuje mechaniky pomocou ktorých je možné do hry zaniest prvky zombie apokalypsy. Tieto mechaniky je možné aplikovať na rôzne settingy a prinášajú zaujímavý twist nad bežným hraním a rovnako dobre je možné ich zase vyhodiť.
+summary: >-
+  Tento dokument obsahuje mechaniky pomocou ktorých je možné do hry zaniest
+  prvky zombie apokalypsy. Tieto mechaniky je možné aplikovať na rôzne settingy
+  a prinášajú zaujímavý twist nad bežným hraním a rovnako dobre je možné ich
+  zase vyhodiť.
 ---
 
 Tieto pravidlá sa dajú použiť v rôznom rozsahu.
@@ -34,7 +38,7 @@ Na náhodné stretnutia hádž ako obvykle d6. Vo svete nemŕtvych však prichá
 
 6. **Horda** - hordy sú obrovské kongregácie zombií, ktoré sa pohybujú obvykle v mestách, ale stane sa, že keď minú všetky zdroje kvôli hladu sa začnú presúvať. Zombií je tu bezpočet a vždy ich je dosť aby sa objavili ďalšie. Jedinou možnosťou je schovať sa a utiecť. Samozrejme boj je k tomu tiež jednou cestou, ale neustále sa budú niekde na periférií objavovať noví nepriatelia.
 
-![zombie_apo.jfif]({{site.baseurl}}/95/zombie_apo.jfif)
+![zombie_apo.jpeg]({{site.baseurl}}/95/zombie_apo.jpeg)
 
 ## Nákaza
 
