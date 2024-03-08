@@ -3,14 +3,17 @@ layout: article
 title: 'Ravnburgh: Kniha odlesků'
 authors: Ecthelion²
 tags: 'ravnburgh, doplňky a materiály'
-summary: Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se Knize odlesků, modlitební knížce, kterou u sebe mnoho věřících nosí. Je běžným doplňkem domácností a vyjádřením víry jednotlivce.
+summary: >-
+  Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se
+  Knize odlesků, modlitební knížce, kterou u sebe mnoho věřících nosí. Je běžným
+  doplňkem domácností a vyjádřením víry jednotlivce.
 ---
 
 ## Kniha odlesků
 
-![boh01.jpg]({{site.baseurl}}/95/boh01.jpg)
-
 Je to modlitební kniha a&nbsp;„kniha hodinek“, určená pro věřící následující kult božstev Zrcadlové síně, která obsahuje modlitby, které jim mají získat přízeň bohů a bohyň.
+
+![boh01.jpg]({{site.baseurl}}/95/boh01.jpg)
 
 Postupně v&nbsp;severních královstvích začalo přibývat věřících, kteří chtěli napodobit kněží a mnichy v&nbsp;jejich modlitbách a stejně jako oni získat přízeň bohů za pomoci předepsaných obřadů a modliteb. Na rozdíl od nich ale nezasvětili celý svůj život modlitbám a obřadům. Začaly proto vznikat zjednodušené „knihy hodinek“, nazývané Knihy odlesků. Ty následují strukturu Breviáře střepů (hlavní liturgické knihy, která obsahuje všechny texty a modlitby potřebné k denním modlitbám řeholníků a kněžích), ale výrazně ji zjednodušují. Předepsané modlitby se nemění podle závislosti na dni v&nbsp;týdnu a měsíci jako v&nbsp;originále, jsou více či méně zkrácené a většinou se ani nesnaží uspokojit všechna božstva, ale často se jen soustředí na některé téma zbožností, která jsou nejpraktičtější.
 
