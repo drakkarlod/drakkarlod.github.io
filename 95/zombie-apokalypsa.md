@@ -84,70 +84,72 @@ Pre potreby hry môžeme definovať šesť úrovní aktivity (aby sa dali prípa
 
 ## Tipy a triky
 
-- V prípade jednotlivých zombií je dobré ich výskyt spojiť s príbehovým háčikom.
+V prípade jednotlivých zombií je dobré ich výskyt spojiť s príbehovým háčikom.
 
-> Je zombie zavesený na reťaziach v strede miestnosti?
+- Je zombie zavesený na reťaziach v strede miestnosti?
 
-> Prečo má v ústach zrolovaný papierik? Je na ňom odkaz z minulosti?
+- Prečo má v ústach zrolovaný papierik? Je na ňom odkaz z minulosti?
 
-> Leží telo na márach ovešané šperkami?
+- Leží telo na márach ovešané šperkami?
 
-> Kto by schoval zombiu do truhlice?
+- Kto by schoval zombiu do truhlice?
 
-> Má na sebe brnenie s helmou alebo má na hlave iba vedro?
+- Má na sebe brnenie s helmou alebo má na hlave iba vedro?
 
-> Vyzerá a správa sa ako starý človek? Hojdá sa na hojdacom kresle s paličkou v rukách?
+- Vyzerá a správa sa ako starý človek? Hojdá sa na hojdacom kresle s paličkou v rukách?
 
-- Stopári a svorky neútočia priamo budú skupinu potichu prenasledovať a pripravia sa na vhodnú situáciu.
+Stopári a svorky neútočia priamo budú skupinu potichu prenasledovať a pripravia sa na vhodnú situáciu.
 
-> Ako GM si pamätaj, že existujú a využi ich až pri najbližšej príležitosti. Zaútoč keď robia prieskum, vyrážajú dvere, ošetrujú zranených, keď im dohára svetlo.
+- Ako GM si pamätaj, že existujú a využi ich až pri najbližšej príležitosti. Zaútoč keď robia prieskum, vyrážajú dvere, ošetrujú zranených, keď im dohára svetlo.
 
-> Útoč z krytu a z krátkych vzdialeností, z rôznych uhlov.
+- Útoč z krytu a z krátkych vzdialeností, z rôznych uhlov.
 
-> Obkľúč ich, zaútoč v týle kým sú bojovníci zaujatí inde!
+- Obkľúč ich, zaútoč v týle kým sú bojovníci zaujatí inde!
 
-- Veľké davy zombií sú hlúpe, ale je prakticky nemožné ich zabiť.
+Veľké davy zombií sú hlúpe, ale je prakticky nemožné ich zabiť.
 
-> Je jednoduché sa im vyhnúť, je možné sa okolo nich preplížiť, ak to situácia umožní je možné im ujsť
+- Je jednoduché sa im vyhnúť, je možné sa okolo nich preplížiť, ak to situácia umožní je možné im ujsť
 
-> Zombie sú trpezlivé. Vedia, že ľudia raz musia vyliezť zo svojho úkrytu. Dobýjať sa dnu budú iba ojedinele.
+- Zombie sú trpezlivé. Vedia, že ľudia raz musia vyliezť zo svojho úkrytu. Dobýjať sa dnu budú iba ojedinele.
 
-> Ak je uprostred davu nejaký predmet alebo osoba, je extrémne ťažké ho odtiaľ dostať
+- Ak je uprostred davu nejaký predmet alebo osoba, je extrémne ťažké ho odtiaľ dostať
 
-> Akýkoľvek hluk alebo chyba spôsobí nárast aktivity u hordy zombií. Aj tí najlepší môžu zomrieť. A možno sa bude musieť niekto obetovať aby ich odlákal.
+- Akýkoľvek hluk alebo chyba spôsobí nárast aktivity u hordy zombií. Aj tí najlepší môžu zomrieť. A možno sa bude musieť niekto obetovať aby ich odlákal.
 
-> Črieda zombií predstavuje pre postavy prekážku na geografickej úrovni. Postavy ju vedia prekročiť, presmerovať alebo obísť, musia však mať plán.
+- Črieda zombií predstavuje pre postavy prekážku na geografickej úrovni. Postavy ju vedia prekročiť, presmerovať alebo obísť, musia však mať plán.
 
-> Horda zombií je tu na to aby skupinu úplne dislokovala. Ak sa horda presunie do ich oblasti, táto oblasť sa stane nedostupnou. Môže sa to stať kdekoľvek a aj bezpečná základňa môže byť v krátkom čase zalieta hordami zombií. Svet je v rozklade a prekážky sa ničia.
+- Horda zombií je tu na to aby skupinu úplne dislokovala. Ak sa horda presunie do ich oblasti, táto oblasť sa stane nedostupnou. Môže sa to stať kdekoľvek a aj bezpečná základňa môže byť v krátkom čase zalieta hordami zombií. Svet je v rozklade a prekážky sa ničia.
 
-- Zombie nesledujú žiadnu spoločnú dlhodobú stratégiu.
+Zombie nesledujú žiadnu spoločnú dlhodobú stratégiu.
 
-> V kontrolovanej situácií nie je problém zabiť zombiu pre nikoho. V riskantnej situácií môžu byť zombie problémom aj pre skúsených dobrodruhov
+- V kontrolovanej situácií nie je problém zabiť zombiu pre nikoho. V riskantnej situácií môžu byť zombie problémom aj pre skúsených dobrodruhov
 
-> Útočia aby sa kŕmili, nie aby zabíjali.
+- Útočia aby sa kŕmili, nie aby zabíjali.
 
-> Útočia na ciele, ktoré majú odhalené telo a sú blízko.
+- Útočia na ciele, ktoré majú odhalené telo a sú blízko.
 
-> Útočia hromadne. Ak sa to dá, zavalia svoj cieľ, zhodia na zem a roztrhajú na kusy.
+- Útočia hromadne. Ak sa to dá, zavalia svoj cieľ, zhodia na zem a roztrhajú na kusy.
 
-> Nemajú žiadny pud sebazáchovy, nepoznajú strach, bránia sa iba ak ich to priblíži k jedlu.
+- Nemajú žiadny pud sebazáchovy, nepoznajú strach, bránia sa iba ak ich to priblíži k jedlu.
 
-- Pasce a prekážky zombie spomalia a zabijú, žiadny múr však nie je príliš vysoký a žiadna diera príliš hlboká. Skôr či neskôr prekročia každú prekážku. Postavy musia cítiť tlak. Žiadny odpočinok, žiadne útočisko!
+Pasce a prekážky zombie spomalia a zabijú, žiadny múr však nie je príliš vysoký a žiadna diera príliš hlboká. Skôr či neskôr prekročia každú prekážku. Postavy musia cítiť tlak. Žiadny odpočinok, žiadne útočisko!
 
-- Zombie sa môžu začať objavovať v iných formách
+<p></p>
+  
+Zombie sa môžu začať objavovať v iných formách
 
-> Začala choroba napádať zvieratá?
+- Začala choroba napádať zvieratá?
 
-> Začali nakazení ľudia pred smrťou mutovať?
+- Začali nakazení ľudia pred smrťou mutovať?
 
-> Objavujú sa sentientní vládci mŕtvych, ktorí medzi sebou vedú teritoriálne vojny?
+- Objavujú sa sentientní vládci mŕtvych, ktorí medzi sebou vedú teritoriálne vojny?
 
-- Ako na zombie vplýva počasie?
+Ako na zombie vplýva počasie?
 
-> Hibernujú v zime?
+- Hibernujú v zime?
 
-> Prehrievajú sa v lete?
+- Prehrievajú sa v lete?
 
-> Vyhýbajú sa slnku?
+- Vyhýbajú sa slnku?
 
-> Bráni dážď ich zmyslom?
+- Bráni dážď ich zmyslom?
