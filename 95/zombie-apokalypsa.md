@@ -34,6 +34,8 @@ Na náhodné stretnutia hádž ako obvykle d6. Vo svete nemŕtvych však prichá
 
 6. **Horda** - hordy sú obrovské kongregácie zombií, ktoré sa pohybujú obvykle v mestách, ale stane sa, že keď minú všetky zdroje kvôli hladu sa začnú presúvať. Zombií je tu bezpočet a vždy ich je dosť aby sa objavili ďalšie. Jedinou možnosťou je schovať sa a utiecť. Samozrejme boj je k tomu tiež jednou cestou, ale neustále sa budú niekde na periférií objavovať noví nepriatelia.
 
+![zombie_apo.jfif]({{site.baseurl}}/95/zombie_apo.jfif)
+
 ## Nákaza
 
 Postava ktorá bola zranená zombiou riskuje nákazu. Nezá leží na tom, či sa jednalo o drobné kúsnutie alebo hlbokú ranu. Za každé zranenie zombiou alebo potenciálne infikovaným telom si pridaj token infekcie (alebo si zapíš hodnotu). Pri nasledujúcich hodoch si hoď tajne a výsledok povedz iba rozprávačovi.
