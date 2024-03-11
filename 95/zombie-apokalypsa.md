@@ -38,7 +38,7 @@ Na náhodné stretnutia hádž ako obvykle d6. Vo svete nemŕtvych však prichá
 
 6. **Horda** - hordy sú obrovské kongregácie zombií, ktoré sa pohybujú obvykle v mestách, ale stane sa, že keď minú všetky zdroje kvôli hladu sa začnú presúvať. Zombií je tu bezpočet a vždy ich je dosť aby sa objavili ďalšie. Jedinou možnosťou je schovať sa a utiecť. Samozrejme boj je k tomu tiež jednou cestou, ale neustále sa budú niekde na periférií objavovať noví nepriatelia.
 
-![zombie_apo.jpeg]({{site.baseurl}}/95/zombie_apo.jpeg)
+![]({{site.baseurl}}/95/zombie_apo.jpg)
 
 ## Nákaza
 

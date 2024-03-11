@@ -28,10 +28,9 @@ ADnD se rozhodly rozvíjet myšlenku, že vyhodnocování souboje by mělo v co 
 
 Přišly tedy s komplexním systémem, který rozdělil kolo na několik segmentů, přičemž jednotliví účastníci bitky přichází na řadu v různých segmentech. Iniciativa tak získala nový význam – pořadí odehrávek. To není určené pouze náhodou, ale ovlivňují ho i další podmínky (kolik segmentů budou překvapení/zaskočení nepřítelem) či délka jejich vlastní akce v segmentech. Rozbor tohoto systému je nad rámec tohoto článku, mimo jiné i proto, že se do dnešních dnů nedochoval jednoznačný výklad některých pravidel uvedených v příručce ADnD. Pro nás jsou důležité inovace, které si později odnesly a implementovaly jiné systémy:
 
--   iniciativa je spojená s konkrétní postavou,
--   v jednu chvíli jedná většinou jedna postava
--   a pořadí odehrávek či dokonce jejich četnost, je určena tím, co postava dělá ve fikci, případně v jaké se nachází situaci a jaké má schopnosti.
-    
+- iniciativa je spojená s konkrétní postavou,
+- v jednu chvíli jedná většinou jedna postava
+- a pořadí odehrávek či dokonce jejich četnost, je určena tím, co postava dělá ve fikci, případně v jaké se nachází situaci a jaké má schopnosti.
 
 ### Stranová inciativa
 
@@ -47,13 +46,12 @@ Autoři si toho byli od počátku vědomi a tak se jednotlivé verze DnD Basic p
 
 -   Jak snížit váhu toho jediného hodu, aby nerozhodoval o celém boji a
 -   Jak tento hod ovlivnit vlastnostmi postav, aby nebyl zcela náhodný
-    
 
 V jednotlivých vydáních DnD Basic vidíme jako volitelná pravidla dva hlavní přístupy – roztrhání velkého boje do několika menších či duelů, které se rozhazují zvlášť a aplikace obratnosti jako vlastnosti, která ovlivní hod na iniciativu v rámci těchto dílčích bojů.
 
 Se stále pozdějšími verzemi ale hra postupně konverguje k tomu, co se časem na dlouhou dobu stane standardem mainstreamových her – k sekvenční iniciativě. To ovšem neznamená, že tyto dva principy vymizí na trvalo. Jen ustoupí do pozadí, aby se po přelomu milénia vrátily v rámci OSR hnutí, kde se užívají dodnes.
 
-### Mainstream 90. léta: Sekvenční iniciativa
+## Mainstream 90. léta: Sekvenční iniciativa
 
 Už poslední verze DnD Basic a následně sjednocená 3. edice DnD, stejně jako velké množství konkurenčních her postupně přešly na princip, který se v různých obměnách a variacích stal standardem mainstreamových her v podstatě až do dneška. Každá postava na herním plánu má své okno, kdy provádí akce a ty se okamžitě vyhodnocují. Iniciativa v RPG se stala synonymem pro pořadí, v jakém postavy a nestvůry odehrávají své akce v herní fikci.
 
@@ -67,7 +65,7 @@ Třetí problém sekvenční iniciativy plyne z její vazby na postavy a nestvů
 
 Autoři her si to začali brzy uvědomovat a nabídli řešení nikoliv skrze iniciativu samotnou, ale skrze ekonomiku akcí. Limitováním a balancováním toho, co různé postavy v jediném kole dokážou, se tato nerovnováha postupně začala vyrovnávat a sekvenční inciativa přestala být jen prostředkem k simulaci dění na herním stole, ale stala se nástrojem, který moderuje a distribuuje spotlight mezi hráče, čehož se drží i aktuální 5. edice DnD.
 
-### Přelom tisíciletí: Konflikty a výměny
+## Přelom tisíciletí: Konflikty a výměny
 
 Zatímco hlavní proud RPG zdokonaloval princip sekvenční iniciativy, indie komunita hledala jiné cesty nejen k iniciativě samotné, ale vůbec k vyhodnocování jako takovému.
 
@@ -79,7 +77,7 @@ Dělení scén na konflikty také celkem přirozeně vyřešilo problém rozlož
 
 Tento přístup ovšem obratem položil novou otázku: Kdo bude své záměry hlásit jako první? Některé hry ji neřeší a předpokládají, že konflikty vzniknou přirozeně. Jiné ovšem právě pro účel hlášení akcí inciativu stále používají. Její význam se tak ale vrátila blíže ke svému původnímu významu z wargamingu. Pokud ji někdo má, neznamená to nutně, že provádí akce dříve, ale že určuje směřování dalších událostí.
 
-### Současnost: Iniciativu nepotřebujeme. Nebo ano?
+## Současnost: Iniciativu nepotřebujeme. Nebo ano?
 
 S tím, jak se pozornost hráčů i autorů her v indie scéně víc a víc zaměřovala na hrdiny a jejich konflikty, stále více her opouštělo herní symetrii, které se držel mainstream.
 
