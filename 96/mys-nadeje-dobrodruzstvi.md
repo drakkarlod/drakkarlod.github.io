@@ -82,10 +82,10 @@ Jednotliví `kultisté` nevypadají příliš vitálně a jsou holohlaví. Nemaj
 >
 > každý měsíc se točí v rituálním cyklu
 >
-> - 1. den – Obrození v ohni: Na vrcholku Mysu naděje (**B**) se po setmění pálí ohně a tancuje.
-> - 5.–10. den – Dny mysli: Kompletní půst, kdy se 5 dní nejí a pouze pije voda.
-> - 15. den – Den sklizne: Jediný den, kdy je povoleno sklidit vejce `Caporyxů` na vrcholku (**A**).
-> - 30. den – Dlouhá noc: Od západu slunce se celou noc pějí písně štafetovou metodou.
+> - 1\. den – Obrození v ohni: Na vrcholku Mysu naděje (**B**) se po setmění pálí ohně a tancuje.
+> - 5\.–10. den – Dny mysli: Kompletní půst, kdy se 5 dní nejí a pouze pije voda.
+> - 15\. den – Den sklizne: Jediný den, kdy je povoleno sklidit vejce `Caporyxů` na vrcholku (**A**).
+> - 30\. den – Dlouhá noc: Od západu slunce se celou noc pějí písně štafetovou metodou.
 
 ### Utopenci
 
