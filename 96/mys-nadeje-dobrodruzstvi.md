@@ -1,9 +1,12 @@
 ---
 layout: article
-title: 'Mys Naděje – dobrodružství'
+title: Mys Naděje – dobrodružství
 authors: Malabar
-tags: materiály a doplňky, Stimpack
-summary: 'Osamělá hora se stala domovem podivného kultu boha Sola. V jejich skrytých koutech se ale probouzí i něco staršího. Sci-Fi / Postapo survival v pašeráckém doupěti.'
+tags: 'materiály a doplňky, Stimpack'
+summary: >-
+  Osamělá hora se stala domovem podivného kultu boha Sola. V jejich skrytých
+  koutech se ale probouzí i něco staršího. Sci-Fi / Postapo survival v
+  pašeráckém doupěti.
 ---
 
 www.stimpack.cz
@@ -30,9 +33,8 @@ Mys Naděje, jak ji kult „Svědci konce“ nazývají, je opuštěná hora v m
 - Vlivem strachu a nesnáze se z přeživších stal pokřivený kult boha Sola – Svědci konce, který vede `Serena`.
 - V útrobách hory postupně začali bujet a sílit mutanti.
 
-**Veřejně se neví, že:** Je hora obydlená, či jakkoliv výjimečná.
-
-**Ani kult neví, že:** Jsou v hoře dosud neobjevené skrýše, je v hoře úkryt Knihovník, jsou v hloubi hory mutanti. 
+> **Veřejně se neví, že:** Je hora obydlená, či jakkoliv výjimečná.<br/>
+> **Ani kult neví, že:** Jsou v hoře dosud neobjevené skrýše, je v hoře úkryt Knihovník, jsou v hloubi hory mutanti. 
 
 *Nyni si kult myslí, že byl svět zničen a oni jsou jediní přeživší.*
 
@@ -62,38 +64,28 @@ Jednotliví `kultisté` nevypadají příliš vitálně a jsou holohlaví. Nemaj
 
 **Nákaza** – Protože `kultisté` pijou vodu nakaženou `utopenci` je u nich 15% šance za den, že se u nich plně projeví nákaza v podobě hnisavých puchýřů. Pokud to zjistí Serena, vyšle nebožáka zemřít do pouště, nebo ho vrhne do `pouštní tlamy`.
 
-**Noví příchozí** – `Sereně` aktuální stav vyhovuje a nechce nic měnit, na pravdě ji nezáleží. Podle přístupu postav je nejspíš označí jako mutanty z pustin či démony a nebo vymyslí zkoušky a testy aby prokázala, že nejsou v souladu se Solem (znalost přikázání, dlouhý půst, odevzdání majetku, nerespektování cyklu, ...).
+**Noví příchozí** – `Sereně` aktuální stav vyhovuje a nechce nic měnit, na pravdě ji nezáleží. Podle přístupu postav je nejspíš označí jako mutanty z pustin či démony a nebo vymyslí zkoušky a testy aby prokázala, že nejsou v souladu se Solem (znalost přikázání, dlouhý půst, odevzdání majetku, nerespektování cyklu, …).
 
 > ### Solova přikázání**
 >
-> (původní přikázání)<br/>
-> (*doplněná přikázání*)
+> původní přikázání, *doplněná přikázání*
 >
-> Solovo pravda je nezpochybnitelná, nikdy ji neznevážíš.
->
-> Světlonoška je požehnána Solem, cti ji ve vážnosti.
->
-> Pouze živá mysl má právo na život, zničíš uměle myslící výtvory.
->
-> Nečistí tvorové musí být zatraceni, zničíš nakažené mutanty.
->
-> Sol pomůže těm, kteří si pomohou sami. Nebudeš váhat činu.
->
-> Ve světle je čistota. Nemohoucí provedeš temnotou ku světlu.
->
-> Solovo říše je jen pro vyvolené, neboj se obětovat.
+> - Solovo pravda je nezpochybnitelná, nikdy ji neznevážíš.
+> - *Světlonoška je požehnána Solem, cti ji ve vážnosti.*
+> - Pouze živá mysl má právo na život, zničíš uměle myslící výtvory.
+> - *Nečistí tvorové musí být zatraceni, zničíš nakažené mutanty.*
+> - Sol pomůže těm, kteří si pomohou sami. Nebudeš váhat činu.
+> - Ve světle je čistota. Nemohoucí provedeš temnotou ku světlu.
+> - *Solovo říše je jen pro vyvolené, neboj se obětovat.*
 
 > ### Solův cyklus
 >
 > každý měsíc se točí v rituálním cyklu
 >
-> 1. den – Obrození v ohni: Na vrcholku Mysu naděje (**B**) se po setmění pálí ohně a tancuje.
->
-> 5.–10. den – Dny mysli: Kompletní půst, kdy se 5 dní nejí a pouze pije voda.
->
-> 15. den – Den sklizne: Jediný den, kdy je povoleno sklidit vejce `Caporyxů` na vrcholku (**A**).
->
-> 30. den – Dlouhá noc: Od západu slunce se celou noc pějí písně štafetovou metodou.
+> - 1. den – Obrození v ohni: Na vrcholku Mysu naděje (**B**) se po setmění pálí ohně a tancuje.
+> - 5.–10. den – Dny mysli: Kompletní půst, kdy se 5 dní nejí a pouze pije voda.
+> - 15. den – Den sklizne: Jediný den, kdy je povoleno sklidit vejce `Caporyxů` na vrcholku (**A**).
+> - 30. den – Dlouhá noc: Od západu slunce se celou noc pějí písně štafetovou metodou.
 
 ### Utopenci
 
@@ -179,65 +171,124 @@ V Mysu naděje je 40 `kultistů`, 16 `utopenců` a 8 `dronů`.
 
 ### Zajímavá místa
 
-Cestování po hoře mimo stezky je možné, ale extrémně náročné a nebezpečné. Jeskyně v hoře nabízí i další cesty, ty jsou ale slepé. Vyjímkou jsou menší pukliny, které využívají drony viz D15.
+{:.map}
+![](mys1.jpg)
 
-A Hnízdo - Doupě 2k6 caporyxů, které je v horské puklině v polostínu. Je dotvořeno větvemi a haraburdím z okolí. V hnízdě je i pár hodnotnějších věci (nájezdnická plátová zbroj, armádní bedna s různou municí, součástky na dron). Každý den je šance 40% že zde bude 1k4 vajec.
-B Obětiště - Kruhový plácek na horské plošině, který je orámovaný desítkami balvanů, jenž mohou sloužit jako sezení. V zemi jsou vyryty symboly slunce. Uprostřed je z kovové konstrukce udělané rituální ohniště. Na 20% zde šmejdí jeden caporyxů z A. Poblíž plácku je skrytá puklina, která vede až do D4. Velmi nepohodlně se ji dokáže protáhnout jeden člověk.
-C Havarovaný dron - Zřícený dron,, který je velmi poničený (sežvýkal ho karr). Možné extrahovat menší energočlánek, případně opravit a získat data (např. i kódy ke dveřím).
-D Vstup do skrýše - Otvor do vnitřní části hory. Přístupný je buď letecky D1B a nebo pěšmo po úzkých římsách po okraji D1A a D1C. Římsy jsou zdobeny symbolem slunce. Více viz D1 - D15 . 
-E Tlama - Hlavní přístupová cesta dál na horu. Zakořenila se zde pouštní tlama. Je ji možné obejít po obvodní římse, s rizikem pádu do tlamy. Ggeckové se blíže neodváží.
-F Jeskyně s kořeny - Kořeny pouštní tlamy sahají až sem. Je to zdroj dřevin a mízy pro kult. Pozor, i kořeny mohou drásat a trhat. Je zde zarostlý a vyschlý kultista (velký sekač, solův přívěsek).
-G Hlubinná tůně - Podzemní zdroj (nakažené) vody pro kult. Skrz tůni je možné se dostat do H jinak zde cesta končí. Průplav bez vybavení či světla velmi nebezpečný. Šance 50%, že ve vodě číhá utopenec na novou oběť.
-H Nádrž utopenců - Větší podzemní jeskyně plná vlhkosti a jezírek, silně páchnoucí po rybině, přístupná jen přes G. Pokud Světlonoš nepovstal, je zde spolu se všemi ostatními utopenci a máchá se v domovské míze. Po obětech tu je možné najít: velký energočlánek, improvizované ruční zbraně, laserovou pistol, důlní minu a přístupovou kartu A.
+Cestování po hoře mimo stezky je možné, ale extrémně náročné a nebečné. Jeskyně v hoře nabízí i další cesty, ty jsou ale slepé. Vyjímkou jsou menší pukliny, které využívají `drony` viz **D15**.
 
-Pašerácké doupě
- 
+#### **A** Hnízdo
 
-D1 Farma - Původně vletová a přistávací plošina pro překlad nákladu. Nyní kukuřičná farma kultu. V rohu je zašlý a zpola rozebraný vertibird sloužící jako bouda na siestu. Naproti vletu (D1B) a vstupním římsám (D1A, D1C) je na skalní stěně ručně tvořená freska - symbol slunce, resp. symbol Sola. Dílo je doplněno přikázáními. 
-Pod částí kukuřičné úrody je pod nánosem půdy dutá podlaha - skrytý poklop, který vede do D13. 
+Doupě 2k6 `caporyxů`, které je v horské puklině v polostínu. Je dotvořeno větvemi a haraburdím z okolí. V hnízdě je i pár hodnotnějších věci (nájezdnická plátová zbroj, armádní bedna s různou municí, součástky na `dron`). Každý den je šance 40% že zde bude 1k4 vajec.
 
-D2 Latrína - V přírodní skalní puklině je nad úzkou trhlinou, táhnoucí se desítky metrů dolů, zbudovaná improvizovaná latrína a odpadní jáma.
+#### **B** Obětiště
 
-D3 Ubikace - Větší jeskynní prostory s improvizovanými pelechy z hadrů a měkkých dřevin. Velmi málo osobních předmětů. Upomínky na svět před válkou. V D3A je kniha “Dravci z oblohy” pojednavajici mimo jiné o caporyxech a karrech. V D3B je ledabyle skrytý vchod do D9.
+Kruhový plácek na horské plošině, který je orámovaný desítkami balvanů, jenž mohou sloužit jako sezení. V zemi jsou vyryty symboly slunce. Uprostřed je z kovové konstrukce udělané rituální ohniště. Na 20% zde šmejdí jeden `caporyxů` z **A**. Poblíž plácku je skrytá puklina, která vede až do **D4**. Velmi nepohodlně se ji dokáže protáhnout jeden člověk.
 
-D4 Skrytý cryopod - Dveře do skrýše jsou zasypané menším závlem a nejsou na první pohled z průchodu vidět. Dveře jsou aktivní a na číselný kód, nebo kartu A. Uvnitř je rozbitý cryopod s nebožtíkem, na kterého se utrhnul kus skály. Pod má solární dobíjení, kterému se podaří jednou za 1k20 dni dobít na vyslání nouzového signálu, než se opět vypne. Nahoru vede úzká puklina až do B. Nebožtík je žoldák a má u sebe hi-tech taktickou bojovou kombinezu, laserovou pušku, teleskopický meč, klíče od vertibirdu a zapečetěný balíček.
+#### **C** Havarovaný dron
 
-D5 Komnaty knežky - Osobní ubikace Sereny, vytvořené v jedné z pašeráckých skrýší. Skromně vybavena a ozdobená symboly Sola. Pod postelí je úkryt s automatickou brokovnici a lahví jedu - kyanid.
+Zřícený `dron`, který je velmi poničený (sežvýkal ho `karr`). Možné extrahovat menší energočlánek, případně opravit a získat data (např. i kódy ke dveřím).
 
-D6 Oltář - Svaté místo boha Sola zbudovane ve staré skrýši. Oltar samotný je vytvořen z několika kovových části, které jsou dohromady propleteny do impozantního slunce. Ve svaté dny zde hoří louče. Na stolečku tu je holokniha se Solovo doktrínou (doplněna o Sereniny rozšíření).
+#### **D** Vstup do skrýše
 
-D7 Záložní vchod - Aktivní dveře skryté ve falešných kamenech. Jen bystré oko si jich všimne. Otevírají se pouze na kartu A a vedou dál do D14.
+Otvor do vnitřní části hory. Přístupný je buď letecky **D1B** a nebo pěšmo po úzkých římsách po okraji **D1A** a **D1C**. Římsy jsou zdobeny symbolem slunce. Více viz **D1** - **D15** .
 
-D8 Neobjevené skrýše - Kultu dosud skryté maskované vstupy. Na 50% je mechanismus dveří aktivní pod napájením. Dveře jsou maskované buď falešnými kameny, jako falešná podpěra a nebo jsou zasypány fingovaným sesuvem. Otevírají se na číselný kód. Za dveřmi je skrýš s obsahem dle T5 (1k10, nebo 2k10).
+#### **E** Tlama
 
-D9 Palírna - Prostor pro destilaci kukuřičné pálenky hlouběji v jeskyních. Je zde 10 sklenic hotového produktu. Kultisté výrobnu skrývají před Serenou. 
+Hlavní přístupová cesta dál na horu. Zakořenila se zde `pouštní tlama`. Je ji možné obejít po obvodní římse, s rizikem pádu do tlamy. `Ggeckové` se blíže neodváží.
 
-D10 Sklad jídla - Komora vytvořena ze staré skrýše. Po obvodu místnosti jsou vysoké regály, které jsou z většiny prázdné vyjma 7mi sklenic zavařené kukuřice, 8 balení sušených kukuřičných placek a misky sušených hub.
+#### **F** Jeskyně s kořeny
 
-D11 Kuchyně - Improvizovaná černá kuchyně v jeskyním záhybu. Varné kotle a plechy jsou ve skutečnosti části energoskeltu. Jako nádobí slouží staré plechovky. Kuchař zde má teatrálně velký a ostrý sekáček. Právě je navařen kotel čerstvé kukuřičné kaše.
+Kořeny `pouštní tlamy` sahají až sem. Je to zdroj dřevin a mízy pro kult. Pozor, i kořeny mohou drásat a trhat. Je zde zarostlý a vyschlý `kultista` (velký sekač, solův přívěsek).
 
-D12 Sklad - Část jeskyně, ve které se hromadí materiál k dalšímu použití. Je zde několik železných tyčí (jedna zachovalá teleskopická), uschlé větve, ostnaté kořeny pouštní tlamy, předpřipravené pochodně a několik větších kostí caporyxů.
+#### **G** Hlubinná tůně
 
-D13 Koridor A - Skrytá pasáž, která je široká natolik, aby v ní projelo malé vozidlo. Chodba má falešný konec, který je nehmotná iluze zobrazovaná holoprojektorem a tj. je možno jím projít. Před tímto falešným koncem jsou i dvě skrýše D8. Cesta vede až k širokým vratům do D15, které jsou hlídané dvěma automatickými kanóny (jeden funkční, druhý vlivem času porouchaný) a otevřít je lze jen přes kartu A. Kanony ovládá Knihovník.
+Podzemní zdroj (nakažené) vody pro kult. Skrz tůni je možné se dostat do **H** jinak zde cesta končí. Průplav bez vybavení či světla velmi nebezpečný. Šance 50%, že ve vodě číhá `utopenec` na novou oběť.
 
-D14 Koridor B - Tajný částečně tesaný průchod, který se postupně snižuje a vede ke skrytým dveřím za falešnými kameny vedoucí do D15. Dveře jsou aktivní a otevírají se pouze kartou A. Dále tu je i vstup do jedne tajné skrýše D8.
+#### **H** Nádrž utopenců
 
-D15 Knihovna - Napůl jeskynní prostor upraven předchozími pašeráky na hlavní skrýš, která nyní vypadá spíš jako velké datacentrum. Místnosti dominují velké skříně s IT technikou, kde 7 z nich jsou holodiskové svazky napojené kabely do centrální skříně - Knihovníka. Ten může komunikovat pomocí repráku a nesčetných displejů v knihovně. Součástí prostoru jsou také pody pro drony a nepříliš dobře maskovaný malý generátor. Na vybavení napříč místností jsou znaky konfederace. Ve stěnách místností jsou 3 menší pukliny vedoucí klikatou cestou ke skalním stěnám, které využívají drony k přesunu mimo horu.
+Větší podzemní jeskyně plná vlhkosti a jezírek, silně páchnoucí po rybině, přístupná jen přes **G**. Pokud `Světlonoš` nepovstal, je zde spolu se všemi ostatními `utopenci` a máchá se v domovské míze. Po obětech tu je možné najít: velký energočlánek, improvizované ruční zbraně, laserovou pistol, důlní minu a přístupovou kartu A.
 
-Zapečetěný balíček
-Schránka adresovaná Lordu z města Úl vyžadující heslo. Obsahuje informace o projektu společnosti Basilisk Corp. “Ledová záře”, který potvrzuje existenci inteligentního mimozemského života, jenž usiluje o převzetí kontroly nad Úlem. 
-Případně je možné si doplnit vlastním háčkem podle potřeb kampaňe. 
+### Pašerácké doupě
 
+![](media/image3.png){width="3.043221784776903in" height="3.785470253718285in"} ![](media/image2.png){width="3.030165135608049in" height="3.7666633858267717in"}
 
-[T5] Co ukrývá skrýš (K10)
-1: Několik beden vysoce procentního alkoholu.
-2: Trvanlivá armádní strava, plechovky, granuláty.
-3: Semena nejrůznějších plodin a GrowKit.
-4: Teraformační stan, pro tvorbu bio skleníku.
-5: Lékařský materiál. 1k4 medkitů, 2k6 stimpacků a trocha drog.
-6: Extra výbušná munice pro ruční zbraně a pušky.
-7: Enegoskelet - bojová zbroj mariňáků, chybí ale energočlánek.
-8: Sada plasmových pušek a enegočlánky.
-9: Hnízdo megabrouků. V počtu 4k4+2 si chtějí smlsnout na příchozích.
-10: Nástražná bomba. Možnost velkého zranění a i částečného závalu komplexu.
+#### **D1** Farma
 
+Původně vletová a přistávací plošina pro překlad nákladu. Nyní kukuřičná farma kultu. V rohu je zašlý a zpola rozebraný vertibird sloužící jako bouda na siestu. Naproti vletu (**D1B**) a vstupním římsám (**D1A**, **D1C**) je na skalní stěně ručně tvořená freska – symbol slunce, resp. symbol Sola. Dílo je doplněno přikázáními.
+
+Pod částí kukuřičné úrody je pod nánosem půdy dutá podlaha – skrytý poklop, který vede do **D13**.
+
+#### **D2** Latrína
+
+V přírodní skalní puklině je nad úzkou trhlinou, táhnoucí se desítky metrů dolů, zbudovaná improvizovaná latrína a odpadní jáma.
+
+#### **D3** Ubikace
+
+Větší jeskynní prostory s improvizovanými pelechy z hadrů a měkkých dřevin. Velmi málo osobních předmětů. Upomínky na svět před válkou. V **D3A** je kniha "Dravci z oblohy" pojednavajici mimo jiné o `caporyxech` a `karrech`. V **D3B** je ledabyle skrytý vchod do **D9**.
+
+#### **D4** Skrytý cryopod
+
+Dveře do skrýše jsou zasypané menším závlem a nejsou na první pohled z průchodu vidět. Dveře jsou aktivní a na číselný kód, nebo *kartu A*. Uvnitř je rozbitý cryopod s nebožtíkem, na kterého se utrhnul kus skály. Pod má solární dobíjení, kterému se podaří jednou za 1k20 dni dobít na vyslání nouzového signálu, než se opět vypne. Nahoru vede úzká puklina až do **B**. Nebožtík je žoldák a má u sebe hi-tech taktickou bojovou kombinezu, laserovou pušku, teleskopický meč, klíče od vertibirdu a *zapečetěný balíček*.
+
+#### **D5** Komnaty knežky
+
+Osobní ubikace `Sereny`, vytvořené v jedné z pašeráckých skrýší. Skromně vybavena a ozdobená symboly Sola. Pod postelí je úkryt s automatickou brokovnici a lahví jedu – kyanid.
+
+#### **D6** Oltář
+
+Svaté místo boha Sola zbudovane ve staré skrýši. Oltar samotný je vytvořen z několika kovových části, které jsou dohromady propleteny do impozantního slunce. Ve svaté dny zde hoří louče. Na stolečku tu je holokniha se Solovo doktrínou (doplněna o `Sereniny` rozšíření).
+
+#### **D7** Záložní vchod
+
+Aktivní dveře skryté ve falešných kamenech. Jen bystré oko si jich všimne. Otevírají se pouze na kartu A a vedou dál do **D14**.
+
+#### **D8** Neobjevené skrýše
+
+Kultu dosud skryté maskované vstupy. Na 50% je mechanismus dveří aktivní pod napájením. Dveře jsou maskované buď falešnými kameny, jako falešná podpěra a nebo jsou zasypány fingovaným sesuvem. Otevírají se na číselný kód. Za dveřmi je skrýš s obsahem dle *T5* (1k10, nebo 2k10).
+
+#### **D9** Palírna
+
+Prostor pro destilaci kukuřičné pálenky hlouběji v jeskyních. Je zde 10 sklenic hotového produktu. Kultisté výrobnu skrývají před `Serenou`.
+
+#### **D10** Sklad jídla
+
+Komora vytvořena ze staré skrýše. Po obvodu místnosti jsou vysoké regály, které jsou z většiny prázdné vyjma 7mi sklenic zavařené kukuřice, 8 balení sušených kukuřičných placek a misky sušených hub.
+
+#### **D11** Kuchyně
+
+Improvizovaná černá kuchyně v jeskyním záhybu. Varné kotle a plechy jsou ve skutečnosti části energoskeltu. Jako nádobí slouží staré plechovky. Kuchař zde má teatrálně velký a ostrý sekáček. Právě je navařen kotel čerstvé kukuřičné kaše.
+
+#### **D12** Sklad
+
+Část jeskyně, ve které se hromadí materiál k dalšímu použití. Je zde několik železných tyčí (jedna zachovalá teleskopická), uschlé větve, ostnaté kořeny `pouštní tlamy`, předpřipravené pochodně a několik větších kostí `caporyxů`.
+
+#### **D13** Koridor A
+
+Skrytá pasáž, která je široká natolik, aby v ní projelo malé vozidlo. Chodba má falešný konec, který je nehmotná iluze zobrazovaná holoprojektorem a tj. je možno jím projít. Před tímto falešným koncem jsou i dvě skrýše **D8**. Cesta vede až k širokým vratům do **D15**, které jsou hlídané dvěma automatickými kanóny (jeden funkční, druhý vlivem času porouchaný) a otevřít je lze jen přes kartu A. Kanony ovládá `Knihovník`.
+
+#### **D14** Koridor B
+
+Tajný částečně tesaný průchod, který se postupně snižuje a vede ke skrytým dveřím za falešnými kameny vedoucí do **D15**. Dveře jsou aktivní a otevírají se pouze kartou A. Dále tu je i vstup do jedne tajné skrýše **D8**.
+
+#### **D15** Knihovna
+
+Napůl jeskynní prostor upraven předchozími pašeráky na hlavní skrýš, která nyní vypadá spíš jako velké datacentrum. Místnosti dominují velké skříně s IT technikou, kde 7 z nich jsou holodiskové svazky napojené kabely do centrální skříně – `Knihovníka`. Ten může komunikovat pomocí repráku a nesčetných displejů v knihovně. Součástí prostoru jsou také pody pro `drony` a nepříliš dobře maskovaný malý generátor. Na vybavení napříč místností jsou znaky konfederace. Ve stěnách místností jsou 3 menší pukliny vedoucí klikatou cestou ke skalním stěnám, které využívají `drony` k přesunu mimo horu.
+
+>### Zapečetěný balíček
+>
+> Schránka adresovaná Lordu z města Úl vyžadující heslo. Obsahuje informace o projektu společnosti Basilisk Corp. „Ledová záře“, který potvrzuje existenci inteligentního mimozemského života, jenž usiluje o převzetí kontroly nad Úlem. 
+>
+> *Případně je možné si doplnit vlastním háčkem podle potřeb kampaňe.*
+
+### \[T5\] Co ukrývá skrýš (K10)
+
+1. Několik beden vysoce procentního alkoholu.
+2. Trvanlivá armádní strava, plechovky, granuláty.
+3. Semena nejrůznějších plodin a GrowKit.
+4. Teraformační stan, pro tvorbu bio skleníku.
+5. Lékařský materiál. 1k4 medkitů, 2k6 stimpacků a trocha drog.
+6. Extra výbušná munice pro ruční zbraně a pušky.
+7. Enegoskelet - bojová zbroj mariňáků, chybí ale energočlánek.
+8. Sada plasmových pušek a enegočlánky.
+9. Hnízdo `megabrouků`. V počtu 4k4+2 si chtějí smlsnout na příchozích.
+10. Nástražná bomba. Možnost velkého zranění a i částečného závalu komplexu.
