@@ -66,7 +66,7 @@ Jednotliví `kultisté` nevypadají příliš vitálně a jsou holohlaví. Nemaj
 
 **Noví příchozí** – `Sereně` aktuální stav vyhovuje a nechce nic měnit, na pravdě ji nezáleží. Podle přístupu postav je nejspíš označí jako mutanty z pustin či démony a nebo vymyslí zkoušky a testy aby prokázala, že nejsou v souladu se Solem (znalost přikázání, dlouhý půst, odevzdání majetku, nerespektování cyklu, …).
 
-> ### Solova přikázání**
+> ### Solova přikázání
 >
 > původní přikázání, *doplněná přikázání*
 >
@@ -96,9 +96,9 @@ Jednotliví `kultisté` nevypadají příliš vitálně a jsou holohlaví. Nemaj
 ### \[T3\] Typy mutantů (K4)
 
 1. *Jazykoun* – Torso s pahýli, zato s 3m vystřelovacím jazykem.
-2: *Vředáč* – Naboptnalá koule pukajících hnisavých vředů.
-3: *Slizoun* – Vlhká a smradlavá tkáň natahující se jako guma.
-4: *Bušič* – Velké, kámen drtící, pěsti, ale malé zakrnělé nohy.
+2. *Vředáč* – Naboptnalá koule pukajících hnisavých vředů.
+3. *Slizoun* – Vlhká a smradlavá tkáň natahující se jako guma.
+4. *Bušič* – Velké, kámen drtící, pěsti, ale malé zakrnělé nohy.
 
 **Cesta na světlo** – Nový přírůstek `utopenců` `Světlonoš` má 70% že ustojí nápor slunečního světa. Pokud se tak stane, může produktovat ochranný hnis pro další mutanty. Za každou pozřenou oběť vzroste šance o 1%.
 
