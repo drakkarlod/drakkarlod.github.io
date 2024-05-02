@@ -9,7 +9,7 @@ summary: >-
   pašeráckém doupěti.
 ---
 
-www.stimpack.cz
+[www.stimpack.cz](https://www.stimpack.cz)
 
 ## Před hrou
 
@@ -210,7 +210,7 @@ Větší podzemní jeskyně plná vlhkosti a jezírek, silně páchnoucí po ryb
 
 ### Pašerácké doupě
 
-![](media/image3.png){width="3.043221784776903in" height="3.785470253718285in"} ![](media/image2.png){width="3.030165135608049in" height="3.7666633858267717in"}
+![](media/image3.png){width='3.043221784776903in' height='3.785470253718285in'} ![](media/image2.png){width='3.030165135608049in' height='3.7666633858267717in'}
 
 #### **D1** Farma
 
@@ -274,7 +274,7 @@ Tajný částečně tesaný průchod, který se postupně snižuje a vede ke skr
 
 Napůl jeskynní prostor upraven předchozími pašeráky na hlavní skrýš, která nyní vypadá spíš jako velké datacentrum. Místnosti dominují velké skříně s IT technikou, kde 7 z nich jsou holodiskové svazky napojené kabely do centrální skříně – `Knihovníka`. Ten může komunikovat pomocí repráku a nesčetných displejů v knihovně. Součástí prostoru jsou také pody pro `drony` a nepříliš dobře maskovaný malý generátor. Na vybavení napříč místností jsou znaky konfederace. Ve stěnách místností jsou 3 menší pukliny vedoucí klikatou cestou ke skalním stěnám, které využívají `drony` k přesunu mimo horu.
 
->### Zapečetěný balíček
+> ### Zapečetěný balíček
 >
 > Schránka adresovaná Lordu z města Úl vyžadující heslo. Obsahuje informace o projektu společnosti Basilisk Corp. „Ledová záře“, který potvrzuje existenci inteligentního mimozemského života, jenž usiluje o převzetí kontroly nad Úlem. 
 >
