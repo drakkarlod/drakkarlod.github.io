@@ -210,7 +210,7 @@ Větší podzemní jeskyně plná vlhkosti a jezírek, silně páchnoucí po ryb
 
 ### Pašerácké doupě
 
-![](media/image3.png){width=3.043221784776903in height=3.785470253718285in} ![](media/image2.png){width=3.030165135608049in height=3.7666633858267717in}
+![](media/image3.png){width="3.043221784776903in" height="3.785470253718285in"} ![](media/image2.png){width="3.030165135608049in" height="3.7666633858267717in"}
 
 #### **D1** Farma
 
