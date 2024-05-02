@@ -190,7 +190,7 @@ Zřícený `dron`, který je velmi poničený (sežvýkal ho `karr`). Možné ex
 
 #### **D** Vstup do skrýše
 
-Otvor do vnitřní části hory. Přístupný je buď letecky **D1B** a nebo pěšmo po úzkých římsách po okraji **D1A** a **D1C**. Římsy jsou zdobeny symbolem slunce. Více viz **D1** - **D15** .
+Otvor do vnitřní části hory. Přístupný je buď letecky **D1B** a nebo pěšmo po úzkých římsách po okraji **D1A** a **D1C**. Římsy jsou zdobeny symbolem slunce. Více viz **D1**–**D15** .
 
 #### **E** Tlama
 
