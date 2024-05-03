@@ -211,7 +211,6 @@ Větší podzemní jeskyně plná vlhkosti a jezírek, silně páchnoucí po ryb
 ### Pašerácké doupě
 
 ![stimpack_mys_nadeje_hore_beta.png]({{site.baseurl}}/96/stimpack_mys_nadeje_hore_beta.png)
-![stimpack_mys_nadeje_dole_beta.png]({{site.baseurl}}/96/stimpack_mys_nadeje_dole_beta.png)
 
 #### **D1** Farma
 
@@ -230,6 +229,8 @@ Větší jeskynní prostory s improvizovanými pelechy z hadrů a měkkých dře
 #### **D4** Skrytý cryopod
 
 Dveře do skrýše jsou zasypané menším závlem a nejsou na první pohled z průchodu vidět. Dveře jsou aktivní a na číselný kód, nebo *kartu A*. Uvnitř je rozbitý cryopod s nebožtíkem, na kterého se utrhnul kus skály. Pod má solární dobíjení, kterému se podaří jednou za 1k20 dni dobít na vyslání nouzového signálu, než se opět vypne. Nahoru vede úzká puklina až do **B**. Nebožtík je žoldák a má u sebe hi-tech taktickou bojovou kombinezu, laserovou pušku, teleskopický meč, klíče od vertibirdu a *zapečetěný balíček*.
+
+![stimpack_mys_nadeje_dole_beta.png]({{site.baseurl}}/96/stimpack_mys_nadeje_dole_beta.png)
 
 #### **D5** Komnaty knežky
 
