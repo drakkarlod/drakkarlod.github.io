@@ -1,0 +1,10 @@
+---
+layout: article
+title: Úvodní haiku
+authors: redakce
+tags: úvodní haiku
+---
+
+### Deštivé ráno
+### trhá zahnědlé lístky
+### z květů broskvoní.
