@@ -7,6 +7,8 @@ summary: >-
   Ať už připravujete rozsáhlou kampaň v pustinách, nebo se chystáte na akcí nabitý oneshot, určitě máte v hlavě hlavní lokace, které postavy navštíví. Co ale dělat, když se hráči rozhodnou cestou vydat jiným směrem? V takovém případě můžete využít tento generátor.
 ---
 
+[www.stimpack.cz](https://www.stimpack.cz)
+
 # O Severních pustinách
 
 Generátor je navržen speciálně pro Severní pustiny, které jsou součástí sci-fi postapokalyptického herního settingu Stimpack. S drobnými úpravami jej však můžete snadno přizpůsobit i jiným postapo a sci-fi hrám.
