@@ -2,7 +2,7 @@
 layout: article
 title: Pustina Nek´La
 authors: Skenderax
-tags: Dobrodružství
+tags: dobrodružství
 summary: Dobrodružství na téma „Pustina“.
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: article
 title: "Recept: Krvavé kroupy na zlobří způsob"
 authors: Asheara, Ecthelion²
-tags: 'materiály a doplňky, ravnburgh'
+tags: 'doplňky a materiály, ravnburgh, recept'
 summary: Recept na vydatné zimní kroupy.
 ---
 

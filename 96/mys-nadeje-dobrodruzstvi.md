@@ -2,7 +2,7 @@
 layout: article
 title: Mys Naděje – dobrodružství
 authors: Malabar
-tags: 'materiály a doplňky, Stimpack'
+tags: doplňky a materiály, Stimpack
 summary: >-
   Osamělá hora se stala domovem podivného kultu boha Sola. V jejich skrytých
   koutech se ale probouzí i něco staršího. Sci-Fi / Postapo survival v

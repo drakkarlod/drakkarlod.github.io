@@ -2,7 +2,7 @@
 layout: article
 title: 'Ravnburgh: Nálevny, krčmy a hostince'
 authors: Ecthelion²
-tags: 'Ravnburgh, materiály a doplňky'
+tags: 'Ravnburgh, doplňky a materiály'
 published: true
 summary: >-
   Tento článek má sloužit jako pomůcka pro hraní ve světě Ravnburghu. Věnuje se

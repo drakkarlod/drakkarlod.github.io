@@ -2,7 +2,7 @@
 layout: article
 title: Generátor míst zájmu v pustinách
 authors: Malabar
-tags: 'materiály a doplňky, Stimpack'
+tags: doplňky a materiály, Stimpack
 summary: >-
   Ať už připravujete rozsáhlou kampaň v pustinách, nebo se chystáte na akcí nabitý oneshot, určitě máte v hlavě hlavní lokace, které postavy navštíví. Co ale dělat, když se hráči rozhodnou cestou vydat jiným směrem? V takovém případě můžete využít tento generátor.
 ---

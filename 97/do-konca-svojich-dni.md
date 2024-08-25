@@ -2,7 +2,7 @@
 layout: article
 title: Do konca svojich dní
 authors: Marek J. Kolcun
-tags: materiály a doplňky, dobrodružství
+tags: doplňky a materiály, dobrodružství
 summary: Jazerné mesto Skann a v dyme zahalené panstvo Jokin sú nezmieriteľné celé desaťročia. Unavený miestodržteľ Skannu, Rufus Knobmark, sa rozhodol ukončiť tento nekončiaci spor a ponúkol svoju jedinú dcéru, nádhernú Smyrnu, za ženu najmladšiemu synovi vladára z Jokinu, výmenou za mier. Do svadby ostáva 7 dní. Svadobný sprievod sa vydáva na cestu. Ale nie každý sa chystá len na svadbu.
 ---
 

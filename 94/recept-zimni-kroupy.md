@@ -2,7 +2,7 @@
 layout: article
 title: 'Recept: Zimní kroupy s jablkem od Rudého draka'
 authors: 'Asheara, Ecthelion²'
-tags: 'Ravnburgh, materiály a doplňky, recept'
+tags: 'Ravnburgh, doplňky a materiály, recept'
 published: true
 summary: Recept na zahřívající kroupy
 ---

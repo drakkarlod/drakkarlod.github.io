@@ -2,7 +2,7 @@
 layout: article
 title: Mágia Niflheimu
 authors: Crowen
-tags: materiály a doplňky
+tags: doplňky a materiály
 summary: Prastará mágia Niflheimu je mocná, násilná, krvavá a nebezpečná pre čarodeja aj jeho cieľ. Pravidlá pre mágiu v systéme Cthulhu Dark.
 ---
 

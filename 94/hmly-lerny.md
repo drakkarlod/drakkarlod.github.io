@@ -2,7 +2,7 @@
 layout: article
 title: Hmly Lerny
 authors: Antharon
-tags: materiály a doplňky
+tags: doplňky a materiály
 published: true
 summary: >-
   V mestečku Prosymna neďaleko jazera Lerna sa ľudia potýkajú s podivnými

@@ -2,7 +2,7 @@
 layout: article
 title: Náhodná setkání v severské mlze
 authors: kin
-tags: materiály a doplňky
+tags: doplňky a materiály
 summary: Zde vám přináším seznam devíti náhodných setkání pro vaše putování skrz nespoutanou divokou krajinou ze severských legend. Abyste měli něco nečekaného, když přeskakujete přes pole plochých kamenů porostlých mechem, prodíráte se skrz hluboké nekonečné lesy pokryté mořem borůvčí, překračujete kořeny prastarých stromů a proplétáte se bludištěm březových hájů, když se brodíte divokými potoky a kocháte se zuřivými vodopády, a kráčíte přes větrem ošlehané pláně s mořem vysoké trávy.
 ---
 
