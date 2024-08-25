@@ -38,6 +38,9 @@ Do stretnutia s Friskou sa každý deň, bez ohľadu na trasu, čosi stane, či 
 3. Lorin uisťuje neistú Smyrnu, že im plán vyjde.
 4. Lorin dostane správu od havrana a povie Smyrne, že písmo v správe je podozrivé.
 
+{:.sticky}
+![](do-konca-1.png)
+
 ### Mesto Skann (1) a Jokin (12)
 
 Staré mesto postavené pri jazere. Prekvitá vďaka obchodu na jazere s inými mestami. Jokin zasa vďačí za svoj rast ťažbe dreva a vývozu do kráľovstva.
