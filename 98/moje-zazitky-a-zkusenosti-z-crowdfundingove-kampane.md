@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Moje zážitky a zkušenosti z Crowdfundingové kampaně
+title: Moje zážitky a zkušenosti z crowdfundingové kampaně
 authors: kin
 tags: tvorba
 summary: Aloha, moje jméno je Julius, přezdívka “kin” a občas píšu anglické rpg doplňky (a sem tam i české :D ) pod pseudonymem “Krakenhund Studios”. Většinou tvořím pro rpg Pirate Borg a Mothership (a občasně i další systémy) a tentokrát se budeme bavit o mojí zkušenosti právě pro zmíněný Mothership.
@@ -47,10 +47,10 @@ Ale tahle příprava předem je hodně individuální, rozhodně nemusíte tohle
 
 Kolik toho chcete mít hotového před začátkem kamapně? Záleží to hodně na:
 
--   Jak jste odolní vůči stresu.
--   Jakou máte hladinu tolerance proti rizikům.
--   Jaké máte zkušenosti se psaním rpg a vydáváním projektů (a crowdfundingem).
--   Jak dobří jste v dotahování věcí do konce (tohle je extra důležité zamyšlení).
+- Jak jste odolní vůči stresu.
+- Jakou máte hladinu tolerance proti rizikům.
+- Jaké máte zkušenosti se psaním rpg a vydáváním projektů (a crowdfundingem).
+- Jak dobří jste v dotahování věcí do konce (tohle je extra důležité zamyšlení).
 
 Ti, co mají za sebou více kampaní mi řekli:
 
@@ -91,7 +91,7 @@ Vytvořte si **Teaser page**. Měla by mít nějakou “eye-catching” grafiku,
 
 **Zkuste nějaké interview,** ať už formou blogpostu či youtube videa s jinými tvůrci, zkuste se nacpat k někomu jinému, musíte být vidět a ukázat lidem, proč by je měl zajímat Váš produkt.
 
-Pokud spouštíte kampaň v době, kdy jede někdo jiný svou a cítíte že máte něco společného (může to být typ produktu, téma či se jenom znáte/je Vám ten druhý produkt sympatický) zkuste si s ním domluvit **Cross-kolaboraci**. Tzn. nabídnete svým a jejich backerům něco za to, že podpoří oba projekty. Může to být digitální věc, může to být fyzická věc, to je jedno, ale zase, zvýší to Vaši viditelnost a vytvoříte si kontakt s někým jiným z branže, s nějakým dalším kreativcem. Více o tom pěkně napsáno zde: [https://help.backerkit.com/article/837-backerkit-cross-collab-campaign-projects](https://help.backerkit.com/article/837-backerkit-cross-collab-campaign-projects)
+Pokud spouštíte kampaň v době, kdy jede někdo jiný svou a cítíte že máte něco společného (může to být typ produktu, téma či se jenom znáte/je Vám ten druhý produkt sympatický) zkuste si s ním domluvit **Cross-kolaboraci**. Tzn. nabídnete svým a jejich backerům něco za to, že podpoří oba projekty. Může to být digitální věc, může to být fyzická věc, to je jedno, ale zase, zvýší to Vaši viditelnost a vytvoříte si kontakt s někým jiným z branže, s nějakým dalším kreativcem. Více o tom pěkně napsáno zde: [BackerKit Cross-Collab Campaign](https://help.backerkit.com/article/837-backerkit-cross-collab-campaign-projects).
 
 Navíc je docela osvěžující s někým na něčem spolupracovat a jiní lidé mají jiné dovednosti než Vy a můžete si zároveň pomoci, něco se od sebe naučit.
 
@@ -99,7 +99,7 @@ Já během mé kampaně pomohl pár lidem s artem na nášivky a jeden z nich mi
 
 ### Kickstarter (KS) nebo Backerkit (BK)?
 
-KS má mnohem větší dosah a publikum. Což je obojí výhoda i lehká nevýhoda (dosáhnete přirozeně na víc lidí, ale můžete se ztratit v záplavě jiných podobných produktů - občas během větších crowdfundingových kampaní - tady si trochu protiřečím s jednou z předchozích rad: svezte se na bandwagonu velké akce, jako třeba ZIneQuest, je to super, ale zároveň, pokud tam bude 100+ podobných věcí,m, můžete se v té záplavě utopit, proto je EXTRA důležité mít vostrej art a první dojem). 
+KS má mnohem větší dosah a publikum. Což je obojí výhoda i lehká nevýhoda (dosáhnete přirozeně na víc lidí, ale můžete se ztratit v záplavě jiných podobných produktů - občas během větších crowdfundingových kampaní - tady si trochu protiřečím s jednou z předchozích rad: svezte se na bandwagonu velké akce, jako třeba ZIneQuest, je to super, ale zároveň, pokud tam bude 100+ podobných věcí,m, můžete se v té záplavě utopit, proto je __extra důležité__ mít vostrej art a první dojem). 
 
 Zároveň KS je tak velký, že Váš projekt ho vlastně vůbec nezajímá a tak s nějakou podporou od nich ani nemůžete počítat. BK je mnohem menší než KS, takže si Vás na začátku všimne méně lidí, ale za to tam budete víc vidět (aktuálně na něm běží většinou kolem 20 projektů najednou) a zároveň se Vám bude jejich podpora rozhodně více věnovat. Odpoví Vám na emaily s dotazy, mají víc článků s radami atd.
 
@@ -224,7 +224,7 @@ A malá finanční rada, započtěte cenu Stretch Goalů do nákladů.
 
 Uf, tohle bude těžký. Zároveň jsem svou kampaň sice skončil, ale nedodal, tak nedokážu z vlastní zkušenosti říct kolik a čeho a za kolik. Ale opřeme se o názory veteránů a rady, které jsem nasbíral.
 
-### Kolik by Váš produkt mělů stát
+### Kolik by Váš produkt měl stát
 
 Zkuste si zhruba spočítat náklady na jeho vytisknutí a vynásobte je minimálně 5x. někteří dokonce doporučují vynásobit to 10x. V tom jsou ale započteny i všechny bonusy a Stretch Goaly.
 
@@ -249,7 +249,7 @@ Plus, nezapomeňte že každá platforma si něco od Vás vezme za zprostředkov
 
 ### Další cenový rozbor od jiného tvůrce
 
-Vyrábím přibližně 20-ti stránkový booklet:
+Vyrábím přibližně 20stránkový booklet:
 
 - **Náklad 500 kusů**: ~900 USD.
 - **Nášivky jako odměna**: ~600 USD.
@@ -273,7 +273,7 @@ Tak jo, máme za sebou přípravu, plánování a máme vytvořenou naší strá
 
 **Konečně přišel ten čas a naše kampaň jede.** Tady dochází na lámání chleba a největší emoce pro Vás, jako pro tvůrce. Jdeme rovnou na rady, doporučení a na věci, na které byste neměli zapomenout.
 
-**Kdy spustit kampaň?** Nejlepší je dle průzkumů **úterý či středa**. Nejlepší čas 6PM UTC nebo 2PM UTC. Z toho důvodu že pondělky jdou lidi do práce, začíná týden, nemají tolik času koukat na internety. Úterý a Středa jsou takové línější dny, kdy jsou ale stále aktivní a mají čas brouzdat po netu. Čtvrtek a Pátek se začínají soustředit na víkend, plánovat co budou dělat a už jen tak předstírají že pracují.
+**Kdy spustit kampaň?** Nejlepší je dle průzkumů **úterý či středa**. Nejlepší čas 18:00 UTC nebo 14:00 UTC. Z toho důvodu že pondělky jdou lidi do práce, začíná týden, nemají tolik času koukat na internety. Úterý a Středa jsou takové línější dny, kdy jsou ale stále aktivní a mají čas brouzdat po netu. Čtvrtek a Pátek se začínají soustředit na víkend, plánovat co budou dělat a už jen tak předstírají že pracují.
 
 ### Prvních 48 hodin je nejdůležitější na kampani!
 
@@ -297,9 +297,9 @@ A nebo si přečtěte ohlédnutí za kampaní od jiných tvůrců, tady máte je
 
 ### Spamování Update emailů?
 
-Nebojte se psát updaty. Jako ne každý den, to je asi příliš, ale rozhodně se nebojte že budete někoho spamovat. Ti, které spam email naštve, těch je minimum. Rozhodně Vám to získá víc lidí než ztratí. _Určitě udělejte Update při spuštění, po prvním dni, před koncem Early bird odměny. Pak třeba jednou týdně a zase den/dva před koncem kampaně a po konci jako poděkování._
+Nebojte se psát updaty. Jako ne každý den, to je asi příliš, ale rozhodně se nebojte že budete někoho spamovat. Ti, které spam email naštve, těch je minimum. Rozhodně Vám to získá víc lidí než ztratí. Určitě udělejte update při spuštění, po prvním dni, před koncem Early bird odměny. Pak třeba jednou týdně a zase den/dva před koncem kampaně a po konci jako poděkování.
 
-Nechcete je naštvat, ale zároveň nechcete aby na Vaší kampaň během jejího průběhu zapomněli.
+Nechcete je naštvat, ale zároveň nechcete aby na Vaši kampaň během jejího průběhu zapomněli.
 
 Z 5000 lidí se ozve tak 5 že je štvou spam emaily (_a to jsme jich během MoshMo posílali třeba 20 najednou - za každou kampań a Backerkit přidal ještě svoje_). A těch pár haterů? Je tam tlačítko “Refund backer”. Lepší ho poslat do šípku, než s ním ztrácet nervy. Na to nikdo nemá čas a náladu.
 
@@ -320,7 +320,7 @@ Navíc, poslední týdny před kampaní jste do toho dávali vše, připravovali
 
 ### Zrušení backeři a nezaplacené odměny (Cancelattions)
 
-Další depresivní věc:  lidi budou rušit svoje podpory vašeho projektu a budou lidi, co po skončení kampaně nezaplatí a vycouvají z toho. **Na to je zase jedna rada: neřešte to.**
+Další depresivní věc:  lidi budou rušit svoje podpory vašeho projektu a budou lidi, co po skončení kampaně nezaplatí a vycouvají z toho. **Na to je zase jedna rada: Neřešte to.**
 
 Vůbec během kampaně nekoukejte na to, kolik lidí cancelnulo svojí podporu. Nemá to smysl. Nic tím nezměníte.
 
