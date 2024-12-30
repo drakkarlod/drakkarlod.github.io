@@ -3,7 +3,7 @@ layout: article
 title: Moje zážitky a zkušenosti z crowdfundingové kampaně
 authors: kin
 tags: tvorba
-summary: Aloha, moje jméno je Julius, přezdívka “kin” a občas píšu anglické rpg doplňky (a sem tam i české :D ) pod pseudonymem “Krakenhund Studios”. Většinou tvořím pro rpg Pirate Borg a Mothership (a občasně i další systémy) a tentokrát se budeme bavit o mojí zkušenosti právě pro zmíněný Mothership.
+summary: Aloha, moje jméno je Julius, přezdívka “kin” a občas píšu anglické rpg doplňky (a sem tam i české :D) pod pseudonymem “Krakenhund Studios”. Většinou tvořím pro rpg Pirate Borg a Mothership (a občasně i další systémy) a tentokrát se budeme bavit o mojí zkušenosti právě pro zmíněný Mothership.
 ---
 
 Měl jsem to štěstí připojit se totiž k akci nazvané “Mothership Month 2024” organizovanou na discordu Mothership RPG přímo Seanem McCoye, jedním ze zakladatelů Tuesday Knight Games a tvůrcem onoho rpg.
@@ -338,7 +338,7 @@ Ok, jedna chvíle kdybyste se měli zamyslet. Když Vám během kampaně číslo
 
 …ale napište nějaký email, zkuste nové marketingové triky, udělejte nový reddit/discord thread. Hlavně neházejte flintu do žita.
 
-## 6. Fulfillment a Shipping
+## 7. Fulfillment a Shipping
 
 Ok, k tomuhle budu mít málo co říct protože jsem si na to najal partnera. **A to z několika důvodů:**
 
