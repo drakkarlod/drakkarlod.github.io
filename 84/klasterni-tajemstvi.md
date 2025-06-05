@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Klášterní tajemství
-authors: Log 0=1
+authors: Log 1=0
 tags: 'povídka, literatura'
 published: true
 summary: >-
