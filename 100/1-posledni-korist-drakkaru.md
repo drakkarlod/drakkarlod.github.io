@@ -1,12 +1,10 @@
 ---
 layout: article
 title: Poslední kořist Drakkaru
-authors: Redakce, Jakub „boubaque“ Maruš, Ecthelion²
+authors: 'Redakce, Jakub „boubaque“ Maruš, Ecthelion²'
 tags: úvodník
-summary:
+summary: null
 ---
-
-<!-- <perex> (doplnit?) -->
 
 Časopis Drakkar vyrazil na svou finální plavbu a se stým číslem přinesl poslední várku článků ze světa RPG, fantastiky, deskových her a historie.
 
