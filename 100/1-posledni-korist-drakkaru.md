@@ -46,4 +46,6 @@ Byli bychom ochotní Drakkar někomu předat? Ovšemže! Ale chtěli bychom ho p
 
 Je zřejmé, že Drakkar už svou úlohu splnil, a po osmnácti letech je logické, že je zájem o jiné formy komunikace o RPG. Drakkar ale nezmizí v propadlišti dějin, ale zůstane na stránkách [Drakkar.sk](http://drakkar.sk) navždy. Nebo aspoň dokud bude někdo platit doménu. A i potom zůstane na Way Back Machine.
 
+Každopádně chceme poděkovat všem, kteří se na Drakkaru podíleli, ať už podpořili jednu, nebo desítky jeho výprav. Každý článek, každý komentář před vydáním čísla i po něm, každý řádek kódu na webových stránkách, každý nápad na vylepšení časopisu přispěl k těm neskutečným osmnácti letům – za každý tento střípek jsme vděční! Ve vodách RPG se určitě ještě potkáme, jen už to nebude s dračí hlavou na přídi.
+
 Ahoj!
