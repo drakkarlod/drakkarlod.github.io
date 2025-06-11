@@ -8,7 +8,7 @@ summary: null
 
 Časopis Drakkar vyrazil na svou finální plavbu a se stým číslem přinesl poslední várku článků ze světa RPG, fantastiky, deskových her a historie.
 
-Rozhodnutí ukončit vydávání pro nás nebylo snadné, ale když jsme jako redakce tuto možnost u příležitosti přípravy stého čísla nadhodili v komunitě, nikdo nám ji nevymlouval. A to bylo znamení, že Drakkar už neplní to, co si jeho zakladatelé předsevzali. A že je čas skončit – chtělo by se říct „v nejlepším“, a i když tomu by asi jen těžko někdo uvěřil, jsme přesvědčení, že alespoň z obsahového hlediska nekončí Drakkar zdaleka v úpadku. Samozřejmě nic z toho, přinesl z výprav ve vodách RPG a fantastiky stáhnout z internetu a tím ho definitivně pohřbít nehodláme.
+Rozhodnutí ukončit vydávání pro nás nebylo snadné, ale když jsme jako redakce tuto možnost u příležitosti přípravy stého čísla nadhodili v komunitě, nikdo nám ji nevymlouval. A to bylo znamení, že Drakkar už neplní to, co si jeho zakladatelé předsevzali. A že je čas skončit – chtělo by se říct „v nejlepším“, a i když tomu by asi jen těžko někdo uvěřil, jsme přesvědčení, že alespoň z obsahového hlediska nekončí Drakkar zdaleka v úpadku. Samozřejmě nic z toho, co ze svých výprav ve vodách RPG a fantastiky přinesl, stáhnout z internetu a tím ho definitivně pohřbít nehodláme.
 
 ## Drakkar v průběhu času
 
