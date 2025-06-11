@@ -43,7 +43,7 @@ Albert se přesunul k obrazovce.
 
 “Takže o nás nejspíš neví, jinak by zamířili víc na sever. Když si pospíšíme, dostihneme je nepřipravené.”
 
-  
+<div>&nbsp;</div>
 
 Ernest si nikdy nemyslel, že je dobrý materiál na bojovníka. Ano, mé metr devadesát a víc než skvělou fyzickou kondici, a jako bonus pohlednou tvář, krátké blonďaté vlasy a modré oči, jako z náborového plakátu. Ale nikdy v sobě necítil tu chuť připojit se, zapadnout do řetězce velení. No, tak skončil jako Nespoutaný bojovník. A Margareta, velitelka skupiny, a jediný opravdový voják, kterého v ní měli, ho dokonce pověřila vedením ve své nepřítomnosti. A vzhledem k tomu, že vždy kontrolovala trasu před nimi, to bylo poměrně často. Vyšel na hřeben, po kterém stoupali a ohlédl se. Viděl svou skupinu, ale zahlédl i jiný, mnohem méně žádoucí pohyb.
 
@@ -57,19 +57,19 @@ Rychle popadl Elsu, která stála vedle něj a strhl ji s sebou za hřeben. Osta
 
 “Držte se v jistějších pozicích, žádné hrdinství. Pošleme za vámi letadýlka.”
 
-  
+<div>&nbsp;</div>
 
 Ernest si uvědomil, že to dost zvoral. Sice tu u sebe držel svou přítelkyni, roztomilou pihovatou zrzku se zelenýma očima a postavou jako přesýpací hodiny, ale neměl tušení, kde je Gertruda s paměťovou kartou. A o tu by mělo jít především. Opatrně zvedl hlavu a rozhlédl se. S úlevou zalehl. Drobná dívka s černými kudrnatými vlasy do půl krku seděla, opřená o velký strom, ani ne dva metry od něj. A zahlédl ještě něco. Atletickou postavu s dlouhými hnědými vlasy svázanými do ohonu, jak šplhá na blízkou skálu. Margareta se vrátila ke své skupině.
 
-  
+<div>&nbsp;</div>
 
 Paul a Otto vypustili pět dronů. Pět malých mrtících helikoptér s kulovým zaměřovačem na spodní straně. Drony se pohybovaly mezi větvemi s nečekanou mrštností a měnily směr a výšku zdánlivě náhodně, aby znemožnily palbu na svou pozici. Ale každý jejich pohyb kulová hlavice okamžitě vyrovnala, takže hlavně vždy mířily přímo tam, kam měly. Technici v relativním bezpečí mačkali tlačítka a vybírali cíle. Nespoutaní bojovníci vyskakovali z krytů, které jim přestávaly dávat ochranu, ale bez výsledku. Kulky nebeských nepřátel si je nacházely. Drony čistily úbočí. Poslední z Nespoutaných bojovníků, který zbyl na této straně hřebenu, roztočil útočnou pušku nad hlavou a střílel jako divý. Několik jeho kulek víceméně náhodou zasáhly jeden z dronů, a ten se zřítil na zem. Další dva ale bez újmy poslaly dávku střel do šíleného střelce.
 
-  
+<div>&nbsp;</div>
 
 Kousek od toho pekla, skrytá za stromem, vytáhla Gertruda zařízení ze starého smartphonu, ke kterému někdo přidělal pomocí pájky a drátů několik antén. Zapnula ho a i když její srdce bilo jako o závod a prudký dech jí plnil nos i ústa vlhkým vzduchem, její oči pečlivě sledovaly změť barevných čar na obrazovce. Volnou rukou otevřela kebelu, kterou měla na rameni, a po hmatu našla tlačítka něčeho, co kdysi možná bylo autorádiem. Slyšela poslední zoufalé výkřiky svých spolubojovníků, potila se po celém těle, ale nějak se při tom dokázala soustředit na pohyby tlačítek a čar. Až konečně usoudila, že je vše správně a stiskla největší tlačítko.
 
-  
+<div>&nbsp;</div>
 
 Otto si strhl sluchátka z uší. Obrazy na všech jejich maličkých monitorech se rozsypaly. Jeden z dronů naboural do stromu, ostatní Paul tvrdým příkazem zastavil v jakémkoliv pohybu.
 
@@ -85,7 +85,7 @@ Uslyšeli výstřel. Ne slavu, jen jeden jediný výstřel, odněkud z dálky. J
 
 “Do prdele,” vyštěkl Maxmilián, “oni tu mají i snajpra!”
 
-  
+<div>&nbsp;</div>
 
 “Chlapi, jakou šanci si dáváte na to, že znovu ovládnete drony?”
 
@@ -105,7 +105,7 @@ Technici začali vysouvat zařízení na teleskopické tyči, které ale praktic
 
 Max rychle rozdělil oddíl, půlka začala pálit na snajprovu pozci, a zatímco se kryl za pevný kámen, druhá polovina se přesunula do krytů výše po svahu. Z těch začala zasypávat skálu střelami. A první půlka stoupala nahoru.
 
-  
+<div>&nbsp;</div>
 
 “Takhle se sem za chvíli dostanou,” řval Ernest, “musíme něco udělat. Gertrudo!”
 
@@ -119,7 +119,7 @@ Rukou naznačil chytání. Dívka pochopila. Vytáhla paměťový disk, kvůli k
 
 Pak vytáhl tašku granátů. Jeden odjistil a hodil tam, kde se ozývala střelba. Odjistil druhý, rychle se rozhlédl a hodil ho mezi druhou část útočníků. Pak se rozběhl z úkrytu. Vytahoval další granáty, a házel je po nepřátelích. Věděl, že ho brzy dostanou. Ale v prvních chvílích je výbuchy a vzduch plný střepin rozptýlí. Může házet víc a víc. A fungovalo to. Ti kokem něj nebyli na granáty zvyklí. Neuměli se pořádně skrývat, když dopadaly moc blízko. Tlakové vlny je srážely na zem a střepiny se jim zasekávaly to těla. Nezvládali při tom ani pořádně zamířit běžícího muže. Až na jednoho. Skutečného vojáka zoceleného bojem. Maxmilián se vyhnul všem výbuchům a teď bez problémů zamířil na Ernesta a poslal na něj salvu. Granátový běžec se zastavil a svalil na zem.
 
-  
+<div>&nbsp;</div>
 
 Albert se snažil křičet nějaké pokyny, ale v hluku výbuchů vysílačky nikdo neposlouchal. Na svém přehledu viděl, že se z jeho jednotky stává řada zhaslých svic. Když ten šílenec konečně zdechnul, na svahu měl už jen jednoho muže, jehož životní funkce dávaly naději, že je stále bojeschopný.
 
@@ -143,17 +143,17 @@ Jeden z dronů nějak dostal mezi šumem příkaz, který ho nasměroval ke stř
 
 “Jo, to zvládnu,” potvrdil Albert. Vzal zbraň a odplíži se tak vysoko, jak seo dvážil, krytý nízkými křovinami. Odtud začal pálit salvy proti ostřelovačově skále. Po chvíli se překulil stranou, znovu nabil a další salva. A znovu. A znovu.
 
-  
+<div>&nbsp;</div>
 
 Mezitím Paul vzal detektor signálu a pistoli. Odmítl Ottovu nabídku, že to udělá on, a rozběhl se po svahu. Neběžel přímo, ale jen přebíhal z úkrytu do úkrytu a při tom kontroloval detektor signálu. Nemohl provádět řádnou triangulaci, ale přesto zvládal držet směr, a kousek od hřebenu si byl jistý, za kterým stromem rušička je. Rozhodl se to risknout. Rozběhl se ke stromu s odjištěnou pistolí a uviděl dívku. V jedné ruce držela rušičku a v druhé pistoli. Nemohl váhat. Vystřelil první. A střílel dál. Ona opětovala. Cítil bolest, ale střílel dál, dokud se mu nezatemělo před očima.
 
-  
+<div>&nbsp;</div>
 
 Gertruda si s úlevou všimla, že není zraněná, ale okamžitě si s novou hrůzou uvědomila, že voják nemířil na ni. V pouzdře na rušičku zelo několik děr a přístroj samozřejmě nefungoval.
 
 “Ne, ne, ne,” zasténala.
 
-  
+<div>&nbsp;</div>
 
 Albert se odplížil zpět k Ottovi.
 
@@ -167,7 +167,7 @@ Původně ho směřoval ke skále, ale pak stroj málem trefila střela odjinud.
 
 Ani nedokončil otázku. Otto se svalil na ovladače. V střelbě dronu zanikl ten výstřel, který mu vpálil tu ránu do čela. Albert zaklel. Sám proti ostřelovači. A cíl ejich mise nejspíš běží někam do háje.
 
-  
+<div>&nbsp;</div>
 
 Vyměnil si zbraň za jinou a odplížil se mlázím ke svahu. Střílel a projektily dopadaly na zem, kde nedělaly žádné škody. Rychle se stáhl, když uslyšel výstřel a měl pocit, že vnímal i kulku, jak letí podél jeho ucha. Ale to si možná jen namlouval. Znovu přezbrojil na útočnou pušku a stiskl tlačítko na jednom dálkovém ovladači. Z projektilů, kterými zasypal svah, se začal valit dým. Chráněn touto clonou, běžel, co to šlo nahorů do svahu. Na hřebeni uviděl odstřelovače, vůči jeho nové pozici ho nechránila skála, tak do něj vypálil dávku. Do ní. Uvědomil si, že to je žena. A o chvíli později jaká.
 
@@ -175,7 +175,7 @@ Vyměnil si zbraň za jinou a odplížil se mlázím ke svahu. Střílel a proje
 
 Prohledal odstřelovačku a dívku s rušičkou. Cítil se nepříjemně, když rukama vjížděl do kapes a po těle mrtvých žen, ale musel si být jistý, že ani jedna u sebe nemá paměťový disk. A neměla. Mohl prohledat i muže, ležící po celém svahu, ale to vyhodnotil jako ztrátu času. Max měl pravdu, někomu se podařilo utéct z bitvy. A nebyl to zbabělý dezertér, ale posel směřující k dokončení mise. Otto říkal, před tím vším, že skupina míří na severozápad. Tak snad tam skutečně směřovala. Rozběhl tím směrem.
 
-  
+<div>&nbsp;</div>
 
 Na pařezu u lesní cesty seděla dívka a odpočívala. Krásná zrzka jako z nějaké pohlednice, poklidně oddechovala. Albertovi nedlalo nejmenší problém se k ní přiblížit, povalit ji a zakleknout. Bez větších skrupulí jí začal kroutit ruku.
 
@@ -200,7 +200,7 @@ Albert se podíval na lesní cestu. Viděl na ní čerstvé stopy motocyklu.
 Tomu prohlášení zůstala věrná, i když Albert dál koutil její ruku. Když ucítil, že mu pod rukama praskla kost, rezignovaně sevření trochu povolil. Náhle ucítil bolest v lýtku. Odvalil se z dívky, aby zjistil zdroj bolesti. Nějak se jí podařilo levačkou dosáhnout na ostrý bodec, a vrazit mu ho do nohy. Zatímco si prohlížel ránu, převrátila se na záda, levačkou vytáhla pistoli velmi malé ráže ze špatně viditelného úkrytu a vypálila mu nekolik ran do hrudi. Byl rád, že ne do hlavy, tyhle výstřely totiž snadno zachytila vesta. Vyrazil jí zbraň z ruky, popald jí pod krkem a cuknutím zlomil vaz. Pak zhluboka vydechl. To zabíjení na něj zase začínalo doléhat, ale měl povinnosti. Vzal vysílačku, aby kontaktoval vyšší velení, ale zjistil, že je rozbitá. Ta holka ho možná ani nechtěla zabít, jen mu zničit vysílačku. Ale v jistém smyslu to vyšlo na stejno. Než se takhle dobelhá zpět k místu boje, kde si vezme vysílačku některého ze spolubojovníků, motorka už bude dávno pryč a data z disku už možná rozkopírovaná všude možně. Měli jeden úkol a selhali.
 
   
-  
+<div>&nbsp;</div>
 
 ## Andre!
 
@@ -220,7 +220,7 @@ Hermann se otočil a odcházel, spíše do nevěstince, než do postele, a stál
 
 “Vím o jednom pěkném irském pubu o uličku vedle,” navrhl Maxmilián, “tam spláchneme pachuť z toho blbce.”
 
-  
+<div>&nbsp;</div>
 
 Vešli do pubu a okamžitě si všimli ženy, která se na baru dostala do poloviny Guinessu. I k poměrně kvalitním a zdobeným džínám a bílé halence si svázala vlasy do ohonu, a kdo jí znal, poznal ji i zezadu.
 
@@ -262,7 +262,7 @@ Maxmilián dloubl loktem do Margarety.
 
 Přikývla. Zaplatili druhému barmanovi, velmi rychle se rozloučili, což Albert skoro nezaznamenal, jak se utápěl v hnědých očích, a vytratili se.
 
-  
+<div>&nbsp;</div>
 
 Gertruda seděla u stolu ve fast foodu a vychutnávala si vanilkový milkshake.
 
@@ -330,7 +330,7 @@ Zvedla dlaň s nataženými prsty a mezerou mezi prostředníčkem a prsteníčk
 
 To rozjelo diskusi, která se táhla ještě velmi dlouho.
 
-  
+<div>&nbsp;</div>
 
 Maxmilián a Margareta se procházeli po pasáži, vzpomínali na staré časy, spolubojovníky, co zůstali ve starých působištích, blízké, od kterých je služba odvála. Na těch pár nostalgických vzpomínek.
 
@@ -366,7 +366,7 @@ Otto se podíval na frontu u příslušné konzole.
 
 Překvapilo ho to, ale souhlasil a následoval ji.
 
-  
+<div>&nbsp;</div>
 
 Ernest a Elsa došli až přímo doprostřed komplexu.
 
@@ -378,7 +378,7 @@ Ano, působilo to neuvěřitelně, ale zábavní centrum mělo tři patra a sute
 
 Usmál se na ni. Vešli dovnitř a vzali si od dívky za pultem klíče od jednoho z pokojů.
 
-  
+<div>&nbsp;</div>
 
 Ottovi se trochu motala hlava. I když už vyšli z diskotéky, pořád viděl dívku, jak se před ním svíjí jako nádherný had, a on jen stěží drží krok, čemuž se ona jen usmívá. Teď ho vedla pasáží a smála se na něj. Nevěděl, co říci, co dělat. Náhle se zastavila před výlohou knihkupectví. Poprvé od doby, co se potkali, znejistěla.
 
@@ -402,7 +402,7 @@ Ukázala mu příručku programování v jednom sofistikovaném obskurním jazyc
 
 Posadili se na lavičku a on jí začal vykládat o knize, a co se z ní jde naučit. Postupně se diskuse zobecnila, protože oba byli v tomhle dostatečně na úrovni.
 
-  
+<div>&nbsp;</div>
 
 Margareta a Maxmilián vyšli z kina.
 
@@ -420,15 +420,15 @@ Přátelsky ho udeřila pěstí do ramene.
 
 “Mohli.”
 
-  
+<div>&nbsp;</div>
 
 Paul strávil s Gertrudou skoro celou noc. Probrali nejen oblíbené filmy, knihy a seriály, ale i životy za starých časů a teď, kdo jim chybí, koho nového tu poznali, a co vlastně dělali na tom posledním All-in conu, prostě všechno. Snědli společnou krabici nugetek, kterou Gertruda objednala a trvala na tom, že ji zaplatí. On se zase rozdělil o sušenky, pak koupil druhé a taky se rozdělil. Zeptala se, jestli má plány na zítřek. Přiznal se, že už si domluvil herní sezení s kamarádem a tou slečnou co obsluhuje. A Gertruda se jí šla sama opatrně zeptat, jestli má ještě místo. Měla. Když se s Gertrůdou loučili, dali si pusu na dobrou noc. Ani si nebyl jistý, kdo to inicioval. A bylo mu to úplně jedno.
 
-  
+<div>&nbsp;</div>
 
 Otto procházel pasáží jako v mrákotách. Skoro si nebyl jistý, jestli se mu ta podivná slečna nezdála. Ale zároveň cítil polibky, kterými se rozloučila. Poslouchal, jak mu buší srdce. Vybavoval si tolik detailů z jejich společného večera. A náhle si uvědomil, že se jí nezeptal na jméno, a ona jeho taky ne. Tady určitě existovalo mnoho způsobů, jak někoho najít. V nejhorším mohl zkusit vyvolat ztracenou osobu. Kdyby měl alespoň něco. Jméno. Neměl nic. Netušil, jak zařídit, aby jí ještě někdy potkal. Stala se nedostupnou kako poklady Atlantidy, ztracená v moři včerejšků.
 
-  
+<div>&nbsp;</div>
 
 “Vážně už musím jít?” zeptal se Albert, zatímco ho Luisa vyváděla z baru.
 
@@ -454,7 +454,7 @@ Zatímco se líbali u dveří baru, všiml si jich procházející opilec.
 
 To vojáka i přes jeho opilost vylekalo natolik, že se vytratil.
 
-  
+<div>&nbsp;</div>
 
 Generál Wuodan Borsson, velitel armády a majitel zábavního centra Vargóf se protáhl ve své kanceláři.
 
@@ -471,7 +471,7 @@ Generál Wuodan Borsson, velitel armády a majitel zábavního centra Vargóf se
 “Dva slouží v armádě, a poslední u Nespoutaných bojovníků.”
 
 “No, těm našim bychom ty metály předat mohli, a pro ten poslední ať se zastaví naše rivalka,” zasmál se generál.
-  
+<div>&nbsp;</div>
 
 ## Tredje!
 
@@ -479,11 +479,11 @@ Skupina Nespoutaných bojovníků pozorovala základnu s velkým raketometem na 
 
 “Dobře přátelé, podél plotu jsou pravidelně rozmístěny malá kulometná hnízda, plot sám je pod proudem. Je zde rota vojáků a drony. Celá hlavní základna je řízena výkonným počítačem, který ovládá jak hlavní raketomet, tak menší zařízení protiraketové obrany, které ho chrání. Nic silného, ale proti rpgčkům to bohužel stačí. Jinými slovy, s tím, co máme tady je prakticky nemožné to prorazit silou. Jediné, co můžeme dělat, je vyrazit z lesa, trochu je dráždit střelbou, pak se stáhnout za stromy, a doufat, že to, co jsme tu nalíčili, jim zabrání nás efektivně následovat. Zní to šíleně a nesmyslně… a přesně to teď uděláme,” prohlásila Margareta, “povede vás Ernest. Já se mezitím pokusím dát tomu všemu smysl.”
 
-  
+<div>&nbsp;</div>
 
 Albert se díval do zelené hradby lesa. Věděl, že tam Nespoutaní bojovníci jsou, a rozhodně se o něco pokusí. Tenhle úsek fronty nebyl vlastně nějak zvlášť důležitý nebo kritický, takže neměl přidělenou zvláštní ochranu a zálohy, úpravy zabezpečení, které začaly být implementovány po úniku plánů sem ještě nedorazily a ještě chvíli nedorazí. Jediné posílení představovala jeho jednotka. Přesto nešlo říci, že prolomením obrany zde nemohou Nespoutaní bojovníci nic získat. Naopak. Jen to nebylo až tak moc. Což z tohoto úseku udělalo místo s výhodným poměrem výher a rizik. Oni přijdou. A on je bude se svými muži čekat.
 
-  
+<div>&nbsp;</div>
 
 Otto dostal tu nejbezpečnější práci jakou mohl. Seděl vedle původního operátora raketometu a zálohoval ho.
 
@@ -493,7 +493,7 @@ Otto dostal tu nejbezpečnější práci jakou mohl. Seděl vedle původního op
 
 “Tahle věc má svůj vlastní unikátní operační systém, a není připojena vůbec k ničemu, nemá vstupní porty, nic. Jediný způsob, jak jí dávat jakékoliv příkazy, je přes tyhle tlačítka. Ty pys měl zamknout, když od toho vstáváš a nemáš zálohu, tímdle tlačítkem. Pak ho tímhle odemkneš ale musíš použít heslo a senzor otisků prstů. A samotné odblokování chvíli trvá a upozorní velitele. Heslo a schválený otisk máš ty, já a tvůj parťák technik, co je teď u dronů. Navíc, aby se o to kdokoiv pokoušel, musí se dostat přes místní zdi, pancéřované dveře na kód, který taky nezná kde kdo, a naše kámoše venku. Jako, nechci se tvářit, žese nemůže něco posrat. Vždycky může. Ale jsem celkem klidný.”
 
-  
+<div>&nbsp;</div>
 
 Z lesa vyběhlo několik Nespoutaných bojovníků, a pokropili kulometná hnízda u brány palbou z útočných pušek. Kulometčíci nestihli zareagovat, a nepřátelé zmizeli v houštinách dříve, než mohli opětovat palbu. Stejně to udělali, ale bez výsledku. Pak, z mnoha úkrytů za stromy a terénem, přišla další dávka. Další palba naslepo do houští. A další kolečko. Jeden z mužů v jednom z hnízd během výměn zasténal a svalil se k zemi. Jeho spolubojovník se ho pokusil ošetřit, ale nemohl mu už pomoci.
 
@@ -501,39 +501,39 @@ Z lesa vyběhlo několik Nespoutaných bojovníků, a pokropili kulometná hníz
 
 “Já vím,” odpověděl Albert nespokojeně do vysílačky, “přestaťe na chvíli střílet, pošleme tam letadýlka.”
 
-  
+<div>&nbsp;</div>
 
 Tohle dění vnímala Margareta jen napůl. Posunula se od brány tak daleko, až ji skoro neviděla, vylezla na strom, připoutala se k větvím co to šlo, zabodla do kmene nůž, aby získala co nejpevnější oporu pro zbraň a zamířila na muže v zadní části nejbližšího kulometného hnízda. Vypálila a výstřel zanikl v hluku, který doléhal od brány až sem. Kulometčík si ani neuvědomil, co se jeho parťákovi stalo, než Margareta stačila přebít a poslat druhou kulku i do jeho hlavy.
 
 “Můžeš,” zavolala ne jedinou spolubojovnici, kterou vzala na tuto misi. Gertruda seběhla k plotu, obula si boty s gumovou podrážkou, z tašky vytáhla tlusté gumové rukavice, a pustila se do práce ne plotu. Propojila svorkami a dlouhým izolovaným kabelem dva segmetny plotu nalevo a napravo od toho, který chtěla použít. Domácí bruskou přeřízla vodiče vedoucí k zvolenému segmentu, a pak do něj pomocí velkých štípacích kleští začala stříhat otvor. Když Margareta slezla ze stromu a připojila se k ní, už ho měla dost velký, aby se jím protáhly. A to bylo dobře, protože boje u brány se nějak uklidnily.
 
-  
+<div>&nbsp;</div>
 
 Sedm dronů zamířilo do lesa. Pohybovaly se rychle a chaoticky, aby je bylo obtížné zaměřit, ale při pohybu lesem se vyhýbali větvím, díky svým senzorům. Ale pak se jednomu zachytila vrtulka do struny, natažené mezi větvemi, ztratil rovnováhu a zřítil se na zem, krátce následovaný druhým. Paul rychle slétl k zemi a nechal je chaoticky pohybovat jen ve vodorovné rovině. To ho ale nezachránilo před strunami, které visely z větví až k zemi. Když ztratil první dron, tak pokračoval, protože těch strun nemohlo být tolik. Ale protože létání při zemi snížilo i jejich efektivitu, přesto tak přišel o další, než vůbec našli nějaké nepřátele. Znovu je zvedl a přešel na pomalé manuálně ovládané létání. V tu chvíli začali Nespoutaní bojovníci pálit ze svých úkrytů. Paulovi se podařilo zachránit jeden dron a dokonce zasáhnout jednoho z bojovníků, ale to nebyl dobrý výsledek mise.
 
 “Pane, myslím, že posílat tam letadýlka nemá moc smysl.”
 
-  
+<div>&nbsp;</div>
 
 Útoky na bránu se obnovily, odvetná palba také, byť neúčinná. Ale Herrman se jí neúčastnil. Stál na stráži u pancéřových dveří a v duchu se rozčiloval. Ostatní chlapi, tedy až na ty dva u zídky před ním, stáli vpředu a jistili obrannou linii. Bojovali jako vojáci. On tu jen stál a nemohl se pořádně hnout z místa. To přece nebyl úkol pro něj. Byl dobrý voják a měl na víc, než tohle. Napadlo ho, že se mu velitel mstí za to, že nazval jeho manželku kurvou. Ale to byl přece omyl! Třeba kdyby se omluvil… Nedokončil tu myšlenku, protože do mozku mu místo ní zajela kulka.
 
-  
+<div>&nbsp;</div>
 
 Margareta se usmála. Výstřel v hluku bitvy zanikl, a že se jejich parťák vzadu sesul k zemi, si dva strážci vpředu u zídky nevšimli. Takže nejdřív toho, dál od brány. Trefila ho snadno. Ale toho už si druhý strážný všiml. Zastřelila i toho, ale stačil něco říct do vysílačky. Rychle mávla na Gertrudu. Času neměly nazbyt. Technička seběhla k zídce, přelezla ji, což nebylo dostatečně stylové, ale naštěstí dostatečně rychlé, a pak pokračovala k pancéřovým dveřím.
 
-  
+<div>&nbsp;</div>
 
 Albert se podíval na ztichlou vysílačku, a pak na obrazovku, kde viděl životní funkce svých mužů. Všichni tři strážní vzadu byli pryč. Sprostě zaklel, a vybral skupinu mužů, aby situaci opatrně prověřila. A také mu došlo, že se nemůže nechat svázat tady u brány. Musí vyčistit ten les. Kývl na Maxmiliána. Ten rychle rozdělil jednotku na dvě části a vyrazil. Polovina zahájila krycí palbu, aby udržela Nespoutané bojovníky v úkrytech, druhá se přiblížila k lesu. Když byli tak blízko, že by překáželi krycí palbě, zalehli a zahájili svoji, aby se druhá polovina mohla připojit. Pak vyrazili ztečí, ale zastavila je řada pastí, která čekala na posledních pár metrech. Lovecká železa a zakopávací struny, to vše často vylepšené granáty.
 
 “Zalehnout,” zavelel Maxmilián. Pohybovat se vpřed bylo kontraproduktivní, vrátit se bude taky nebezpečné. Tak leželi a snažili se nedat příležitost nepříteli se ukázat a spustit na ně palbu.
 
-  
+<div>&nbsp;</div>
 
 Skupině vyslané dozadu se nevedlo o nic lépe. První voják, který vyčel zpoza rohu, byl okamžitě zastřelen, i když se snažil krýt. Druhý se dostal do druhého krytu, a pak ho zasáhla kulka, když chtěl zhodnotit situaci.
 
 “Pane, špatné zprávy. Je to odstřelovač.”
 
-  
+<div>&nbsp;</div>
 
 “Paule, máš ještě nejaké letadýlko?”
 
@@ -543,11 +543,11 @@ Skupině vyslané dozadu se nevedlo o nic lépe. První voják, který vyčel zp
 
 “Zařídím.”
 
-  
+<div>&nbsp;</div>
 
 Gertruda dorazila ke dveřím. Samozřejmě zamčeným. Malým šroubováčkem napůl odšroubovala, napůl vypáčila kryt kódového zařízení. Rychle si prohlédla jeho útroby. dvanáct kablíků vedlo od tlačítek na základní desku, a z té zase dva k magnetickému zámku. Vytáhla malé štípačky a zařízení vzniklé nejspíš spojením smartphonu a paralyzéru. Přestřihla dva drátky a přiložila jejich konce k eletrodám svého zařízení. Stiskla tlačítko a do drátků šel malý výboj. Dveře se s cvaknutím otevřely. Okamžitě vrazila dovnitř s tasenou pistolí. Vystřelila, a zasáhla muže u ovladače do týla. Druhý vedle něj rychle sáhl po zbrani, ale Gertruda ho dvakrát střelila do hrudi, a on se zhroutil na zem. Rychle za sebou zavřela dveře a zkontrolovala panel. Ani jeden z mužů ho nestačil zamknout. Šlo to lépe, než doufali. Posadila se k pultu a začala připravovat skript.
 
-  
+<div>&nbsp;</div>
 
 Margareta ještě několikrát vystřelila na muže, pokoušející se dostat za roh. Dávali si pozor. Jen ji provokovali a vázali ji na sebe. Věděla to, ale nevadilo jí to. Ona chtěla hrát o čas, a pokud tohle šaškování znamená, že se nikdo od nich nedostane ke dveřím od velína, ona je jedině pro. Náhle se jí přes tvář mihl stín. Zvedla oči, a uviděla divoce poletující dron.
 
@@ -555,7 +555,7 @@ Margareta ještě několikrát vystřelila na muže, pokoušející se dostat za
 
 Zvedla se a rozběhla se mezi stromy. Nepomohla si. Dron spustil palbu a ona se svalila na zem po dvou metrech.
 
-  
+<div>&nbsp;</div>
 
 “Snajpr vyřízen,” hlásil Paul.
 
@@ -581,7 +581,7 @@ Paul zaklel a rozběhl se za vojáky. Dron nechal viset, tam kde byl. Prodral se
 
 “Rozumím,” potvrdil Albert
 
-  
+<div>&nbsp;</div>
 
 Maxmilián začal koordinovat ústup z oblasti mimo základnu, když obdržel nové rozkazy.
 
@@ -591,7 +591,7 @@ Maxmilián začal koordinovat ústup z oblasti mimo základnu, když obdržel no
 
 Změnil rozkazy. Znovu pokropili les palbou a připravili se na cílenou palbu na cokoliv podezřelého.
 
-  
+<div>&nbsp;</div>
 
 Nespoutaní bojovníci zůstali v úkrytech. Většina rámcově znala plán, který velitelka Margareta měla. Dostat se dovnitř, vypálit dvojici raket do dvou směrů, a třetí použít ke zničení základny. A to se teď zaseklo. Raketomet vypálil první dvě, ale třetí zůstala zasknutá v poloze nabíjení. Všimli si i toho, že se zastavily pohyby protivzdušné obrany. Stačil by jeden dobrý zásah do správného místa, a tušili i čím a kam. Ale právě v tom jim vojáci bránili. Elsa se podívala na bojovníka, který se krčil před ní. Měl přesně tu správnou zbraň, ale nevypadal, že ji hodlá použít.
 
@@ -599,17 +599,17 @@ Nespoutaní bojovníci zůstali v úkrytech. Většina rámcově znala plán, kt
 
 Muž poslechl. Elsa se s ní proplížila k hustému křoví. Rychle se postavila, s okem na zaměřovači, vysunula zbraň, zamířila, stiskla spoušť. Byla to rychlá akce, a stejně ji nestihla dokončit, než začaly křoví i její tělo trhat kulky z útočných pušek. Ale dokončila ji, navzdory bolesti, a raketa opustila hlaveň. Elsa už dávno neměla správný úhel, protože kvůli zásahům ztratila rovnováhu. Ale její samonaváděcí mechanismus si pamatoval polohu při zaměřován a korigoval její dráhu, dokud nedoletěla k hlavními raketometu. Silnější zbraň se pod záshem rozpadla a jedna ze střel spadla zpět do zásobníku raket, kde vybuchla.
 
-  
+<div>&nbsp;</div>
 
 Paul slyšel první explozi, když zadával poslení písmeno hesla, a věděl moc dobře, co to znamená.
 
 “Ale kurva,” řekl jen , než ho výbuch celého muničního skladu vyhodil do povětří. I budovu, počítač zraněné vojáky, všechno.
 
-  
+<div>&nbsp;</div>
 
 Alberta tlaková vlna shodila na zem. Byl otřesený, ale nic se mu nezlomilo, a otřes mozku snad taky neměl. Snad. Ale jeho základna vyletěla do vzduchu. Opatrně se ohlédl na tu spoušť. Tohle rozhodně nešlo podle plánu. Ne jejich.
 
-  
+<div>&nbsp;</div>
 
 “Hele, Erneste, šéfe, tvý holky je mi líto,” mumlal muž, který doprovázel Ernesta k pick-upu, ukrytému vl lese. Na keroserii měl pseudopancíř z lepenky, cementu a plechu. Z podobného materiálu byla konstrukce na korbě, které chránila otočný kulomet.
 
@@ -617,14 +617,14 @@ Alberta tlaková vlna shodila na zem. Byl otřesený, ale nic se mu nezlomilo, a
 
 Nespoutaný bojovník sedl za volant a rozjeli se. Projeli k silnici, vyjeli z lesa, a Ernest pokropil ležící vojáky kulometnou palbou. Pokoušeli se ji opětovat, ale provizorní pancíř zatím fungoval. A po chvíli nebyl, kdo by pálil. Odolávali i palbě ze dvou kulometů od brány, ale tam už si nebyli tak jistí. Bojovník za volantem dupl na plyn a prorazil bránu. Ernestem to hodilo a udeřil se do hlavy. Necítil se dobře, a tekla mu krev. Ale zvládl otočit kulomet a pokropit obě hnízda. Už nezvládl sledovat vojáka, který se přiblížil k pick-upu a hodil mu pod nohy ruční granát. Auto vybuchlo.
 
-  
+<div>&nbsp;</div>
 
 “Veliteli, tady poručík Müler. Základna je zničená, z jednotky jsem zbyl sám. Jak mám postupovat?”
 
 “Ustupte. Sousední základny byly zničeny našimi vlastními střelami, a směřuje k vám silný oddíl Nespoutaných bojovníků s těžkou výbavou.”
 
 Albert poslechl. Opustil prázdnou základnu a běžel lesem, dokud si nebyl dost jistý jím, že není pronásledován. Pak vystoupal na blízký kopec. Odsud viděl několik konvojů Nespoutaných bojovníků, jak projíždí pásem území, kde nestála žádná adekvátní obrana, protože žádný těžký raketomet sem nedostřelil. Viděl několik bojových letounů, které přiletěly ke konvojům a zkoušely je zničit střelami. Ale Na konvojích měli zřejmě výbavu, jak palbu opětovat, protože jeden ze strojů explodoval a jeho trosky se zřítily do lesů. Ostatní se radši vrátily. Následované druhou letkou, která už ale nemířila na konvoje. Ničila vlastní vybavení armády, které se nepodařilo evakuovat, aby omezila množství kořistních kusů. I tak jich nejspíš Nespoutaní bojovníci získají dost, hangáry a garáže byly odolné proti náletům. Proti pozemnímu útoku už tolik ne, zejména pokud vojáci ustoupili. Což zjevně učinili. Obranná linie se zhroutila.
-  
+<div>&nbsp;</div>
 
 ## Fjerde!
 
@@ -670,7 +670,7 @@ Otto zavrtěl hlavou.
 
 “Tak pojďte dovnitř,” zavolala na ně Anna.
 
-  
+<div>&nbsp;</div>
 
 Max a Margareta se trochu nejistě procházeli po dvoře.
 
@@ -698,7 +698,7 @@ Podívala se na něj jako na blázna, ale pak se rozesmála.
 
 “Tak jo,” vzala medvěda za jednu plyšovou tlapu a Max vzal druhou.
 
-  
+<div>&nbsp;</div>
 
 Ernest a Elsa seděli u stolku a pozorovali taneční parket a pódium. Na tom zpíval chlápek s obrovským čírem a tři ženské, každá s více barvami ve vlasech, než na oblečení. Docela dost lidí na parketu vypadalo velmi podobně.
 
@@ -706,7 +706,7 @@ Ernest a Elsa seděli u stolku a pozorovali taneční parket a pódium. Na tom z
 
 Odpověděl stejně hlasitě a za chvíli dostali dva panáky a jednu cigaretu marihuany. Elsa se k němu přitiskla. Bylo jen otázkou času, kdy je představení přestane bavit a přesunou se do jedné z mnoha chtiček v areálu.
 
-  
+<div>&nbsp;</div>
 
 Anna pozorovala ostatní zpoza zástěny. Podávali si knihy a tužky, vyplňovali karty a disklutovali pravidla. Když se zdálo, že už všichni dopsali, s úsměvem řekla:
 
@@ -730,7 +730,7 @@ Anna pozorovala ostatní zpoza zástěny. Podávali si knihy a tužky, vyplňova
 
 “Zajímavé. Naše kontrastní frontlajna. Mám to. Tak teď se můžete představit ingame.”
 
-  
+<div>&nbsp;</div>
 
 Maxmilián a Margareta se posadili ke stolku před pódiem, na kterém žena oblečená a nalíčená tak, aby vypadala jako muž, uváděla “Dnešní divokou show.”
 
@@ -750,7 +750,7 @@ Zasmál se a chytil ji za ruku.
 
 “Souhlasím.”
 
-  
+<div>&nbsp;</div>
 
 V boudě byla, krom předsíně a něčeho, co pro nedostatek lepších termínů nazveme koupelnou, jen jedna místnost, z níž většinu zabírala velká rozvrzaná postel a také malý noční stolek, na který Albert postavil skleničky na červené víno, a nalil do nich levný sekt. Luisa si prohlížela obrázek kočky, který visel nad postelí.
 
@@ -762,7 +762,7 @@ V boudě byla, krom předsíně a něčeho, co pro nedostatek lepších termín�
 
 “Mě jsi chyběla hlavně ty,” řekl Albert s měkkým pohledem v očích. Jeho žena si začala rozepínat halenku.
 
-  
+<div>&nbsp;</div>
 
 Anna zamkla chatu a dohonila ostatní. Johan ji chytil kolem pasu a políbil na tvář.
 
@@ -798,7 +798,7 @@ Margareta odpověděla předpisovým zasalutováním, ale šklebila se u něj. G
 
 Margareta se opile rozesmála.
 
-  
+<div>&nbsp;</div>
 
 “V tomhle komunitním centru se máme všichni bavit a cítit příjemně,” Mardöl Njördsdottir, předsedkyně Folkvandru a velitelka Nespoutaných bojovníků, zuřila a tváře jí hořely, “a to nejen obyvatelé a hosté, ale i personál. A to asi těžko půjde, když někdo nerespektuje jejich hranice a jejich ne.”
 
@@ -819,13 +819,13 @@ Hermann sklopil hlavu a odešel.
 “Materiálu na vojáky je už dlouho málo, to víš, a sama na tom nejsi lépe,” pokrčil generál rameny, “taky se mi ten chlap hnusí ale vybírat si moc nemůžeme. Ostatně jsme to nedělali, ani když byly nábory vyšší. Koneckonců, jde nám o velkou věc.”
 
 “Máš pravdu,” připustila velitelka, “ale ach jo.”
-  
+<div>&nbsp;</div>
 
 ## Femte!
 
 Několik skupin Nespoutaných bojovníků se sjíždělo k vysílači.Po prolomení fronty získali více vybavení a vozidel díky rabování skladů, takže Margaretina skupina jela několika auty. V tom nejlepším a nejlépe střeženém jela ona, Ernest, jako její zástupce, Gertruda, jako jejich technička, a Elsa jako šoférka. Obecný dojem byl, že to prosadil Ernest, aby jí měl blíž. Ve skutečnosti ji vybrala Margareta, když zjistila, že než se stala Nespoutanou bojovnicí, bývala osobní šoférka.
 
-  
+<div>&nbsp;</div>
 
 Elsa zaparkovala před budovou vysílač a zvědavě si ji prohlížela.
 
@@ -841,7 +841,7 @@ Elsa zaparkovala před budovou vysílač a zvědavě si ji prohlížela.
 
 “Protože s tím dokážeme udělat něco lepšího,” zazubila se Gertruda.
 
-  
+<div>&nbsp;</div>
 
 Gertruda vešla do velína, kde se k ní otočila žena středního věku.
 
@@ -913,7 +913,7 @@ Frida rychle nahlédla do sdílené složky.
 
 Pak se vrátily k práci.
 
-  
+<div>&nbsp;</div>
 
 Ernest chystal ukořistěný minomet s časovanou municí, směřující za hradbu podomácku pancéřovaných vozidel. Pousta Nespoutaných bojovníků kolem dělala totéž, protože jim bylo jasné, že armáda nebude chtít nechat svůj vysílač v jejich rukou dlouho. Ernesta ale mnohem víc zaujal bojovník, který sám nosil bedny těžší munice do místnosti ve spodní části vysílače.
 
@@ -933,7 +933,7 @@ Karl se na Ernesta podíval.
 
 Pak se vrátil ke svému úkolu.
 
-  
+<div>&nbsp;</div>
 
 Zábradlí ochozu pokryly desky z cementu plechu a překližky. Nespoutaní bojovníci zaujali pozice, kde se za nimi kryli, ale zároveň mohli střílet z útočných a odstřelovacích pušek. Margareta a Elsa skončily vedle sebe.
 
@@ -955,7 +955,7 @@ Podobně situaci viděli i vojáci. Tři jednotky se dostaly na padácích asi t
 
 Paul vyslal dva drony, obletěl s nimi vysílač a zaútočil z druhé strany. Prakticky okamžitě byl vypálen granát, který vybuchl ve vzduchu. Tlaková vlna a střepiny drony zničila.
 
-  
+<div>&nbsp;</div>
 
 Důstojníci diskutovali ještě dlouho, než se jim začali ozývat z velitelství. Kybernetické útoky dosud nevídané účinnosti začaly být opravdu obtížné.
 
@@ -979,19 +979,19 @@ Udělali to tak a nejstarší důstojník vyhrál. Zapnul vysílačku a přednes
 
 V tu chvíli ho do hlavy zasáhla kulka a on padl mrtev k zemi.
 
-  
+<div>&nbsp;</div>
 
 Vojáci zasypávali terén kouřovými bombami. Dávali si pozor, ale přesto se Nespoutaným snajprům podařilo jednoho nebo dva dostat. A pak všechny ty bomby najednou odpálili. Počkali, až se prostor naplní dýmem, a pak se rozběhli vpřed. Slyšeli divokou palbu proti nim, sténání spolubojovníků, kteří měli smůlu a byli zasaženi. Narazili do pancéřovaných aut, přelelzli je a pálili do minometčíků, zatímco je samotné trhala na kusypalba z horního ochozu.
 
-  
+<div>&nbsp;</div>
 
 Paul to všechno sledoval pomocí dronů, a sám z nich pálil. Na minometříky, kteří nemohli sestřelovat jeho stroje. Na střelce na ochozu. Oblétal vysílač a kropil Nespoutané bojovníky za všech stran. Ale ti se přesto stále přesouvali naproti útoku, aby mohli vracet úder lidským útočníkům. A občas se podařilo vypálit z minometu, a zničit nějaký dron.
 
-  
+<div>&nbsp;</div>
 
 Vlastně se cítil divně, když palba utichla. Pořád kroužil dronem a hledal známky nepřítele. Ale nenacházel. Dým se pomalu rozplynul a on viděl i svýma očima místo toho největšího masakru. Jeho dron zůstal jako symbolický poslední přeživší nad věží obklopenou mrtvolami.
 
-  
+<div>&nbsp;</div>
 
 “Co budeme dělat teď?” zeptal se Alberta druhý důstojník.
 
@@ -1005,7 +1005,7 @@ Vlastně se cítil divně, když palba utichla. Pořád kroužil dronem a hledal
 
 “Kámen nůžky papír?” navrhl Albert, druhý důstojník vyhrál a chopil se vedení techniků.
 
-  
+<div>&nbsp;</div>
 
 Ingrid poháněla své digitální bojovnice.
 
@@ -1021,7 +1021,7 @@ Ingrid poháněla své digitální bojovnice.
 
 “Výborně.”
 
-  
+<div>&nbsp;</div>
 
 Voják, který prohlížel zbytek budovy, vylomil dveře do přízemí. Uviděl muže, který zakřičel:
 
@@ -1029,12 +1029,12 @@ Voják, který prohlížel zbytek budovy, vylomil dveře do přízemí. Uviděl 
 
 “A do píče.”
 
-  
+<div>&nbsp;</div>
 
 Albert zrovna hlásil velitelství převzetí kontroly nad vysílačem, když zmíněné zařízení i s přidruženou stavbou explodovalo. Albert se instinktivně vrhl na zem, a když se přehnala tlaková vlna, podíval se na velkou anténu, jak padá na zem. Ani nemělo cenu kontrolovat přeživší nebo funkční techniku. Nic takového tam nemohlo být.
 
 “Do hajzlu, to je tak nefér!”
-  
+<div>&nbsp;</div>
 
 ## Sjette!
 
@@ -1097,7 +1097,7 @@ Paul okamžitě pochopil, proč na to nepřestanou myslet. Vstal a galantně se 
 
 Nabídl jí rámě a ona ho přijala. Odešli z fast foodu, zatímco se na sebe culili.
 
-  
+<div>&nbsp;</div>
 
 Otto je pozoroval zpoza rohu.
 
@@ -1125,7 +1125,7 @@ Převyprávěl jí to, a ona se tomu začala smát.
 
 “Půjdeme.”
 
-  
+<div>&nbsp;</div>
 
 Albert vešel do irského pubu a zamával na Luisu. Zamávala zpátky a otočila se na svou vedoucí.
 
@@ -1141,7 +1141,7 @@ Albert vešel do irského pubu a zamával na Luisu. Zamávala zpátky a otočila
 
 “Jsi zlatíčko,” usmála se na něj a za chůze jedla improvizovaný oběd.
 
-  
+<div>&nbsp;</div>
 
 Margareta a Maxmilián se potkali před Hotelem lásky.
 
@@ -1155,7 +1155,7 @@ Margareta a Maxmilián se potkali před Hotelem lásky.
 
 Vešli dovnitř, vzali si klíč od recepční a zapadli do pokoje.
 
-  
+<div>&nbsp;</div>
 
 Luisa zapínala Albertovi košili, zatímco jí hladil po vlasech.
 
@@ -1169,7 +1169,7 @@ V tu chvíli se rozdrnčel alarm.
 
 “Buď opatrný,” volala za ním Luisa, ale nepokoušela se ho zastavit. Vzala si bojovníka, a věděla, že přijme každé nebezpečí, pokud to bude třeba.
 
-  
+<div>&nbsp;</div>
 
 Ze všech místností vybíhali muži, a Albert ani moc nevěnoval pozornost tomu, že většinu z nich zná. Nebo tomu, že žen vyvíhalo zhruba stejně. Či skutečnosti, že byli často méně oblečení než on. Zajímal ho zdroj problému. A brzy ho uviděl, a taky se ukázal nečekaně povědomý. Herrman se natahoval přes recepci, recepční na něj mířila pepřovým sprejem a on držel v ruce kus její halenky.
 
@@ -1203,13 +1203,13 @@ Hermann se místo odpovědi ohnal po Albertovi pěstí. Snadno mu uhnul, chytil 
 
 “To stačí. Kde je ta ostraha, už by tu měla být.”
 
-  
+<div>&nbsp;</div>
 
 Generál Woudan Borsson se podíval na dva papíry před sebou.
 
 “Sexuální napadení recepční. To je jedna věc. Počítej s tím, že teď pěkných pár dnů strávíš místo na oslavách v nápravném programu. Minimálně tři turnusy. Podívej se, já si pamatuji doby, kdy se tohle řešilo o dost míň. Ale nikdy to nebylo úplně v pohodě, to si nemysli. Nic, co někomu ublíží, není v pohodě. Protože to rozeštvává lidi. Takže takové chování nelze trpět. A netrpělo se ani tenkrát. Teď už je to nepředstavitelné. A ty sis toho nevšiml? Vysvětlí ti to důrazně, nemysli si. Ale já potřebuju primárě skvělé bojovníky. A tak mě víc zaujal ten druhý dokument. Napadení velícího důstojníka. Sice mimo službu, ale… co to má znamenat? Tvůj velitel se tě teď chce zbavit, a pár členů jednotky ho podpořilo. Převelím tě od příštího turnusu. A budu sledovat tvůj výkon v poli. Jestli to nebude někam k uklízečům nebo něčemu podobnému. Teď odchod.”
 
-  
+<div>&nbsp;</div>
 
 “Jste na něj mírnější, než by byli lidé,” řekl generálovi jeho pobočník Hugin.
 
@@ -1261,7 +1261,7 @@ Jeho pobočník se ukázal do třiceti sekund.
 
 “Zburcuj chlapy a pokus se dát dohromady seznam toho, co funguje. Pak podej hlášení. Budu v kanceláři číslo 3.”
 
-  
+<div>&nbsp;</div>
 
 Velitel a oba jeho technici se přesunuli do kanceláře číslo 3. U dveří stál Herrman, který jim zasalutoval, ale ostatní se mu neobtěžovali odpovědět. Velitel sedl k počítači a zapnul ho. Sotva naběhl operační systém, na obrazovce se objevily dvě ženy v poloze 69.
 
@@ -1337,13 +1337,13 @@ Pak se ale sebral.
 
 “Zkusíme něco najít.”
 
-  
+<div>&nbsp;</div>
 
 Max jel na motorce klidnou krajinou. Ale ten klid ho netěšil o nic víc, než přímá palba. Poznal ten klid, který panuje, když někdo sbírá síly, aby udeřil, prudčeli a sileněji, než se od něj čekalo. Klid před bouří. Přiblížil se k velitelství, a zastavil ho jeden z mužů generálovy osobní gardy. Sloužili déle, než by si Maxmilián vůbec uměl představit, a k nejlepším z nejlepších nepatřili jen proto, že se museli za svou kariéru několikrát přeučovat na jiné zbraně. Max se představil a legitimoval jako člen své jednotky a zmínil se o důvodu, proč dorazil. O chvíli později se ukázal velitel osobní gardy.
 
 “Skutečně jsme se ocitli pod útokem čtyř bojových vrtulníků. A stálo nás mnoho padlých, než jsme je odrazili. Teď se usadlili na louce za kopcem,” velitel gardy vytáhl mapu a ukázal místo, “a lížou si rány. Do pár hodin se ale nejspíš vrátí. Chceme je zaskočit, a přepadnout je. Pokud zvládnete dorazit, posily se budou hodit.”
 
-  
+<div>&nbsp;</div>
 
 Maxmilián se vrátil na základnu.
 
@@ -1355,11 +1355,11 @@ Maxmilián mu to vysvětlil.
 
 “Dobře, shromáždím mužstvo a přesuneme se tam. Ty tu počkej, až technici dodělají ty raketomety, a pak je přivezete. Předpokládám, že se budou hodit.”
 
-  
+<div>&nbsp;</div>
 
 Albert přesunul svou jednotku do pozic. Trvalo to dlouho, protože takové vzdálenosti obvykle překonávali motorizovanými transportéry. Ale byli to železní muži, kteří se nezastavili kvůli troše námahy, a dorazili k louce obklopené nepříliš hustým lesem. V tom se už ukrývala velitelova osobní garda. Albertova jednotka se zařadila vedle nich a pozorovali Nespoutané bojovníky, jak poklidně svačí a jinak relaxují u čtyř velkých bojových vrtulníků. Jejich pozornost se rozptýlila natolik, že si jich dosud nevšimli. Ale přesto se pohybovali poblíž strojů a zjevně počítali s tím, že budou muset rychle nastartovat své stroje a začít boj. Opatrnost byla na místě.
 
-  
+<div>&nbsp;</div>
 
 Albert se odplížil na schůzku s velitelem gardy.
 
@@ -1367,18 +1367,18 @@ Albert se odplížil na schůzku s velitelem gardy.
 
 “Velmi vítané a žádoucí,” pochvaloval si velitel gardy, “souhlasím s vaší taktikou Mülere.”
 
-  
+<div>&nbsp;</div>
 
 Hermann o tomto rozhodnutí neslyšel. Ale nesouhlasil by. On tu byl aby bojoval. A ne aby čekal. Po tom malém kiksu s počítačem bude mít ve složce takové reference, že ho pošlou někam do logistiky čistit hajzly. A to se nesmí stát. On je bojovník. Musí si dobýt ostruhy, zapsat zásluhy, které těch pár škraloupů přebijí. A musí si je dobýt teď, protože moc příležitostí už možná mít nebude. Popadl svou zbraň, zvedl se a zakřičel:  
 “Na ně chlapi!”
 
 Pak se s bojovým rykem rozběhl proti Nespoutaným bojovníkům. Spustil palbu do zaskočených bojovníků a než se dostatečně vzpamatovali, doběhl do poloviny trasy k nejbližšímu vrtulníku. Pak se du palby pustili i ostatní, takže nebyl jediný terč, a dařilo se mu uhýbat a opětovat palbu. Dokud se nedostal k vrtulníku. Chytil se vstupu a zabral. Bojovník na druhé straně se zlomek vteřiny přetahoval, pakpovolil a vystrčil ruku s pistolí. Hermann prudce přirazil dveře, pak je otevřel a muže zastřelil. Skočil do vrtulníku a salvou pobil všechny přítomné. Zavřel za sebou dveře, a z pozice střelce těžkého kulometu pozoroval, co se děje.
 
-  
+<div>&nbsp;</div>
 
 Jeho spolubojovníci zřejmě úspěšně zničili posádku druhého vrtulníku, ale zbytek se dostal do strojů a vzlétl. Teď, chráněni před střelami z ručních zbraní, z výšky, nedosažitelní pro kohokoliv, kosili členy obou útočících jednotek. Střely cupovaly maso najednou prakticky bezbranných vojáků a ti se rychle vraceli pod ochrannou střechu stromů. Vrtulníky pomalu letěly za nimi a násobili už způsobené ztráty. Hermann počkal, až se oba objeví v palebném poli těžkého kulometu a pak do nich začal střílet. Jeden zničil dříve, než si Nespoutaní bojovníci uvědomili, co se děje. Druhý už to stihl pochopit, ale i když Nespoutaní poškodili stroj, ve kterém se Hermann skrýval, jemu štěstí přálo a podařilo se mu nepřátelský vrtulník sestřelit. Připadal si jako hrdina.
 
-  
+<div>&nbsp;</div>
 
 Max, Paul a Otto se plížili lesem, každý nesl jeden degradovaný ruční raketomet. Ale když dorazili k cíli, našli dva vrtulníky jako hořící trosky a ve zbylých dvou seděli vojáci. Tedy, pár z nich. Většina ležela na trávě vedle všech Nespoutaných bojovníků. Max s techniky rychle našli Alberta. Hádal se s velitelem osobní gardy a Hermannem.
 
@@ -1412,7 +1412,7 @@ Velitel gardy přikývl, kývl k vrtulníkům a rotory se začaly pomalu otáče
 
 “K zemi!” vykřikl Paul a vrhl se do trávy. Protože některé rozkazy mají vyšší váhu než hodnost toho, kdo je dává, poslechl nejen Otto, ale i Max, Albert a dokonce i velitel gardy. A pak vrtulníky explodovaly. Tlaková vlna zasáhla stále strojícího Hermanna takovou silou, že ho srazil na blízký strom. Pahýl větve se mu zabodl do hyždí a pronikl tělem skrz.
 
-  
+<div>&nbsp;</div>
 
 Otto rychle popadl lékárničku a začal se věnovat Hermannovi. Velitel gardy se obrátil na Paula.
 
@@ -1454,7 +1454,7 @@ Albert odmítl, vytáhl pistoli a Hermanna střelil mezi oči.
 
 “Pojďte, musíme na ústředí. Snad tam nenajdeme ten pátý vrtulník.”
 
-  
+<div>&nbsp;</div>
 
 Vrtulník se vznášel nad ústředím armády.
 
@@ -1468,7 +1468,7 @@ Elsa zaujala s vrtulníkem vhodnou polohu a Ernest použil těžký kulomet k zn
 
 “Myslím, že už je správná chvíle, “ pokynula Margareta Ernestovi, a ten si začal nasazovat padák. Elsa vystoupala nad střechu, aby mohl pohodlně seskočit, a brzy zůstaly ve vrtulníku jen tři ženy. Zamířily s ním nad příjezdovou cestu a hlídaly, jestli se neobjeví nějaký vetřelec, nebo se někdo nepokusí uniknout.
 
-  
+<div>&nbsp;</div>
 
 Velitel generálovy osobní gardy řídil pickup, Maxmilián seděl vedle něj a Albert v zadní řadě mezi svými techniky.
 
@@ -1498,15 +1498,15 @@ Albert odpočítal chvíli, kdy oba vyskočili zpoza auta, každý na jiné stra
 
 Poslední muž z jeho jednotky ležel bezvládně na nepoužitém raketometu. A jako by špatných správ nebylo málo, všiml si jedné věci na střeše velitelství. Padáku. Znovu zaklel, vyhodil těla z pickupu a rychle se přesunul na velitelství.
 
-  
+<div>&nbsp;</div>
 
 Ernest dopadl na střechu. Sundal si padák a rozhlédl se. Na střeše leželo několik mrtvých vojáků. Rychle je prohledal a našel několik nouzových klíčů. Zkusil s nimi otevřít dveře na vnitřní schodiště, ale fungovaly jen na to vnější. To mu bylo k ničemu. Tak vytáhl brusku a přeřízl západku, panty i pojistky u dveří. Chvíli poslouchal, jestli je vše v pořádku a pak dveře vyhodil. Tak aby nebyl hned na ráně až budou pryč. Ale za nimi nebyl žádný strážce připaravený ho zastřelit. Tak vešel na schodiště a opatrně scházel dolů. Dveře šly otevřít jen z druhé strany, ale s tím počítali. V této situaci se generál pravděpodobně připravil na evakuaci, takže evakuační schodiště povede přesně tam, kde potřebuje jít. Sešel až na úplné dno. A znovu zkusil ukradené klíče. Tentokrát fungovaly. Ocitl se na parkovišti a měl štěstí. Jeho pohyb kryly zaparkovaná vozidla. Plížil se k automobilu, který stál přímo na výjezdové cestě. Uvnitř seděl generál, dva jeho asistenti, Hugin a Munin, se rozhlíželi kolem, a jeho nejvěrnější bouchači, Geri a Freki, byli připravení eliminovat každou hrozbu pro svého pána. Tuhle ochranu se nehodilo podcenit. Musí počkat, až je něco alespoň trochu rozptýlí.
 
-  
+<div>&nbsp;</div>
 
 Albert otevřel bránu klíčem, který vzal padlému veliteli gardy a vduchu si blahopřál k tomu nápadu. Přeběhl dvůr, na kterém leželo několik mrtvých mužů a otevřel hlavní dveře. Přemýšlel, kam jít teď. Jestli někdo přežil, tak je buď s generálem, nebo stejně zmatený jako on. Generál buďto provedl evakuaci, a pak je tu zbytečně, ale pořád tím lépe, nebo čeká někde na trase. Nejspíše v garáži. Tam půjde jako první.
 
-  
+<div>&nbsp;</div>
 
 “Myslím, že ten vrtulník už byl zneškodněn,” prohlásil Munin.
 
@@ -1514,7 +1514,7 @@ Asi máš pravdu,” potvrdil Hugin, “měli bychom tedy rychle odjet.”
 
 V tu chvíli k nim cosi dopadlo. Než si uvědomili, že je to granát, vybuchl a odhodil generálovo auto stranou proti zdi. Ernest se s pistolí vrhl k místu výbuchu. Generál vylézal z vraku. Bez ochrany svého vozu i svých čtyř nejvěrnějších pobočníků, ale nezraněn a s věrnou zbraní v ruce. Ernest nesměl váhat. Zatímco se generál rozhlížel svým jedním okem, Ernest namířil zbraň k výstřelu.
 
-  
+<div>&nbsp;</div>
 
 Albert uslyšel výbuch. Zrychlil a vytáhl pistoli. Jednou rukou odemkl zámek a napůl vykopnul dveře do garáže. Uviděl Nespoutaného bojovníka s pistolí v ruce. Bez váhání ho střelil do hlavy. Pak se rozhlédl a uviděl generála Borssona, jak leží na betonu s několika střelnými ranami. Rozběhl se k němu a ještě za běhu vyndával lékárničku. Klekl si k raněnému generálovi a začal první pomoc.
 
@@ -1524,7 +1524,7 @@ Albert uslyšel výbuch. Zrychlil a vytáhl pistoli. Jednou rukou odemkl zámek 
 
 “To nevadí, dal jsi do toho všechno…” zašeptal Wudan Borsson, “užij si gala…”
 
-  
+<div>&nbsp;</div>
 
 ## Åttende!
 
@@ -1612,7 +1612,7 @@ Freya ho napůl vystrčila od pultíku.
 
 “No, ale dnes je jiný program,” vstoupil mezi ně Bragi, “dnes bude slavnost. Sály Valhally vás očekávají, máme tam mnoho hudby a doprovodného programu, i bankety, které se prohýbají lahůdkami. Takže stačí najít ty, se kterými chcete protančit noc, a pak to udělat! Takže jen do toho!”
 
-  
+<div>&nbsp;</div>
 
 Oficiální program skončil. Vojáci se trochu uvolnili.
 
@@ -1624,7 +1624,7 @@ Oficiální program skončil. Vojáci se trochu uvolnili.
 
 “To se opravdu omlouváme. Jako odškodnění vám můžeme poskytnout naše ostré lokty cestou na koberec.”
 
-  
+<div>&nbsp;</div>
 
 Albert se tomu zasmál, ale Johan a Anna se ukázali jako nečekaně kompetentní pomocníci v prodírání se davem, a doprovodili je až na místo srazu s Maxem a Margaret. I když v tom hrálo roli především to, že na ně na stejném místě čekali Paul s Ottem a jejich dívky.
 
@@ -1650,6 +1650,6 @@ Všichni si podali ruce a řekli si svá jména.
 
 “Ale nejspíš se pořád potlouká někde tady, doufám, že ho nepotkáme.”
 
-  
+<div>&nbsp;</div>
 
-Hermann na slavnosti skutečně byl. Zastrašený tresty se snažil nedělat povyk. Chtěl si jen najít partnerku, se kterou by strávil dnešní večer. A nakonec ji našel. Byla světlá a čistá, štíhlá a voňavá, tak jí zatáhl do kouta na celou noc. Jmenovala se
+Hermann na slavnosti skutečně byl. Zastrašený tresty se snažil nedělat povyk. Chtěl si jen najít partnerku, se kterou by strávil dnešní večer. A nakonec ji našel. Byla světlá a čistá, štíhlá a voňavá, tak jí zatáhl do kouta na celou noc. Jmenovala se Vallure.
